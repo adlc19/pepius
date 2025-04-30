@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Indie Flower', cursive;
+  background: #fdfaf4 url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+  color: #333;
+  font-size: 18px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff7e8;
+  border-bottom: 2px dashed #f0c987;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+.btn {
+  background-color: #ff6f61;
+  color: white;
+  padding: 8px 14px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.btn:hover {
+  background-color: #e85749;
+}
+
+main {
+  flex: 1;
+  padding: 40px 20px;
+}
+
+.content-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fffaf1;
+  border: 2px dashed #f0c987;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  font-size: 2.2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin: 20px 0 10px;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+ul {
+  margin: 10px 0 20px 20px;
+  padding-left: 20px;
+}
+
+li {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 8px;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #fff0d5;
+  border-top: 2px dashed #f0c987;
+  font-size: 1rem;
+}
+
+footer a {
+  color: #ff6f61;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  header {
+    padding: 15px;
+  }
+
+  nav {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .logo {
+    font-size: 1.8rem;
+  }
+
+  .btn {
+    font-size: 0.95rem;
+    padding: 7px 12px;
+  }
+
+  main {
+    padding: 20px 10px;
+  }
+
+  .content-wrapper {
+    padding: 20px;
+    margin: 0 10px;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p, li {
+    font-size: 1rem;
+  }
+}

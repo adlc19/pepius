@@ -1,0 +1,252 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Indie Flower', cursive;
+    background: #fdfaf4 url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+    color: #333;
+    font-size: 18px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff7e8;
+    border-bottom: 2px dashed #f0c987;
+  }
+  
+  h1 {
+    font-size: 2.2rem;
+    margin: 0;
+  }
+  
+  #datePicker {
+    margin-top: 10px;
+    padding: 8px 14px;
+    font-family: inherit;
+    border-radius: 6px;
+    border: 1px dashed #f0c987;
+    background-color: #fffaf1;
+    font-size: 1rem;
+  }
+  
+  main {
+    flex: 1;
+  }
+  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px 20px;
+  }
+  
+  .product {
+    width: 260px;
+    background-color: white;
+    border: 2px dashed #f0c987;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 500px; /* augmenté légèrement */
+  }
+  
+  .product img {
+    width: 100%;
+    height: 160px;
+    object-fit: contain;
+    margin-bottom: 15px;
+  }
+  
+  .title {
+    font-size: 1.05rem;
+    margin: 10px 0;
+    flex-grow: 1;
+  }
+  
+  .price {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .old {
+    text-decoration: line-through;
+    color: gray;
+    margin-right: 5px;
+  }
+  
+  .discount {
+    color: red;
+    font-weight: bold;
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+  }
+  
+  .btn {
+    background-color: #ff6f61;
+    color: white;
+    padding: 10px 14px;
+    text-decoration: none;
+    border-radius: 6px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: auto; /* pousse le bouton tout en bas */
+  }
+  
+  .btn:hover {
+    background-color: #e85749;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #fff0d5;
+    border-top: 2px dashed #f0c987;
+    font-size: 1rem;
+  }
+
+  #yesterdayBtn {
+    margin-top: 10px;
+    padding: 8px 14px;
+    font-family: inherit;
+    border-radius: 6px;
+    border: 1px dashed #f0c987;
+    background-color: #fffaf1;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  #yesterdayBtn:hover {
+    background-color: #ffe3b9;
+  }
+  
+
+  .tiktok-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    }
+
+    .tiktok-iframe {
+      width: 100%;
+      max-width: 600px; /* Réduit la taille maximale */
+      height: 350px; /* Réduit la hauteur */
+      border: none;
+      margin-bottom: 50px;
+      border-radius: 8px;
+    }
+
+  
+  @media (max-width: 768px) {
+    .products {
+      flex-direction: column;
+      align-items: center;
+      padding: 20px 10px;
+    }
+  
+    .product {
+      width: 90%;
+      height: auto;
+      padding: 15px;
+    }
+  
+    .product img {
+      height: 150px;
+      margin-bottom: 10px;
+    }
+  
+    .title {
+      font-size: 1rem;
+    }
+  
+    .price {
+      font-size: 1.1rem;
+    }
+  
+    .discount {
+      font-size: 1rem;
+    }
+  
+    .btn {
+      font-size: 0.95rem;
+      padding: 9px 12px;
+    }
+  
+    h1 {
+      font-size: 1.8rem;
+    }
+  
+    .date {
+      font-size: 1rem;
+    }
+  }
+  
+  .intro {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fffaf1;
+    border: 2px dashed #f0c987;
+    border-radius: 12px;
+    text-align: center;
+  }
+  
+  .intro h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .intro p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .intro {
+      margin: 20px 10px;
+      padding: 15px;
+    }
+  
+    .intro h2 {
+      font-size: 1.5rem;
+    }
+  
+    .intro p {
+      font-size: 1rem;
+    }
+  }
+
+  .tips {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fffaf1;
+    border: 2px dashed #f0c987;
+    border-radius: 12px;
+    text-align: center;
+  }
+  
+  .tips h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .tips p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }

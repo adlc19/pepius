@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Découvrez les meilleurs bons plans et réductions du jour sur Pepius. Profitez des offres exceptionnelles sur vos produits préférés!" />
+  <meta name="keywords" content="bons plans, offres, réductions, Amazon, deals" />
+  <meta name="author" content="Pepius">
+  <title>Pepius - Les Deals du Jour</title>
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5066098328501261" crossorigin="anonymous"></script> -->
+  <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12'><text x='0' y='10' font-size='10'>🐀</text></svg>" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css" />
+</head>  
+<body>
+  <header>
+    <h1>Pepius - Les Deals du Jour - <span id="date"></span></h1>
+    <input type="date" id="datePicker" />
+    <button id="yesterdayBtn">Voir les deals d’hier</button>
+  </header>
+
+  <section class="intro">
+    <h2>Bienvenue sur Pepius - Vos Bons Plans au Quotidien</h2>
+    <p>Chez Pepius, nous sélectionnons chaque jour les meilleures offres et réductions disponibles sur Amazon et d'autres plateformes. Que vous cherchiez des gadgets high-tech, des vêtements tendance ou des articles pour la maison, notre équipe vous propose des deals imbattables pour économiser tout en achetant malin. Consultez nos offres du jour, explorez les promotions passées et découvrez comment maximiser vos économies !</p>
+    <p>Utilisez notre outil de sélection de date pour revoir les deals d’hier ou planifier vos achats. Restez connecté pour ne manquer aucune opportunité !</p>
+  </section>
+
+  <main id="products" class="products"></main>
+
+  <section class="tips">
+    <h2>Nos conseils pour économiser</h2>
+    <p>Pour maximiser vos économies, vérifiez toujours les avis des clients avant d’acheter et comparez les prix sur plusieurs plateformes. Inscrivez-vous aux newsletters des grandes boutiques pour recevoir des offres exclusives !</p>
+  </section>
+
+  <div class="tiktok-section">
+    <iframe class="tiktok-iframe" src="https://www.tiktok.com/embed/@cedric_lrm" title="TikTok Account"></iframe>
+  </div>
+  
+  <footer>
+    <p>© Pepius - Les bons plans du jour | <a href="politique.html">Politique de confidentialité</a></p>
+  </footer>
+
+  <script>
+    async function fetchDeals() {
+      const response = await fetch('deals.json');
+      const data = await response.json();
+
+      const datePicker = document.getElementById('datePicker');
+      const today = new Date().toISOString().split('T')[0];
+      datePicker.value = today;
+
+      function formatDateFr(date) {
+        const mois = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin",
+                      "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
+        const d = new Date(date);
+        return `${d.getDate()} ${mois[d.getMonth()]} ${d.getFullYear()}`;
+      }
+
+      function renderDeals(date) {
+        const container = document.getElementById('products');
+        const titleDate = document.getElementById('date');
+        container.innerHTML = '';
+        titleDate.textContent = formatDateFr(date);
+
+        if (!data[date]) {
+          container.innerHTML = `
+            <div style="text-align:center; max-width: 600px; margin: 0 auto;">
+              <p>Aucun deal trouvé pour le ${formatDateFr(date)}.</p>
+              <p>Pas d'inquiétude ! Consultez les offres d'hier ou explorez nos conseils pour économiser sur vos achats en ligne.</p>
+              <button id="showYesterdayDeals" class="btn">Voir les deals d'hier</button>
+            </div>`;
+          // Attacher l'événement au bouton après l'insertion
+          const yesterdayButton = document.getElementById('showYesterdayDeals');
+          yesterdayButton.addEventListener('click', () => {
+            const yesterday = new Date();
+            yesterday.setDate(yesterday.getDate() - 1);
+            const yesterdaysDate = yesterday.toISOString().split('T')[0];
+            datePicker.value = yesterdaysDate;
+            renderDeals(yesterdaysDate);
+          });
+          return;
+        }
+
+        data[date].forEach(deal => {
+          const div = document.createElement('div');
+          div.className = 'product';
+          div.innerHTML = `
+            <img src="${deal.image}" alt="${deal.title}">
+            <div class="info">
+              <p class="title">${deal.title}</p>
+              <p class="price"><span class="old">€${deal.old_price.toFixed(2)}</span> → €${deal.new_price.toFixed(2)}</p>
+              <p class="discount">-${deal.discount}%</p>
+              <a href="${deal.link}" class="btn" target="_blank">Voir l'offre Amazon</a>
+            </div>`;
+          container.appendChild(div);
+        });
+      }
+
+      datePicker.addEventListener('change', () => {
+        renderDeals(datePicker.value);
+      });
+
+      renderDeals(today);
+
+      const yesterdayBtn = document.getElementById('yesterdayBtn');
+      yesterdayBtn.addEventListener('click', () => {
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        const yesterdaysDate = yesterday.toISOString().split('T')[0];
+
+        datePicker.value = yesterdaysDate;
+        renderDeals(yesterdaysDate);
+      });
+    }
+    fetchDeals();
+  </script>
+</body>
+</html>
