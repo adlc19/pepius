@@ -14,30 +14,47 @@
 </head>  
 <body>
   <header>
-    <h1>Pepius - Les Deals du Jour - <span id="date"></span></h1>
-    <input type="date" id="datePicker" />
-    <button id="yesterdayBtn">Voir les deals d’hier</button>
+    <nav>
+      <a href="index.html" class="logo">Pepius</a>
+      <div class="nav-links">
+        <a href="politique.html" class="btn">Politique de confidentialité</a>
+        <a href="about.html" class="btn">À propos</a>
+      </div>
+    </nav>
   </header>
 
   <section class="intro">
     <h2>Bienvenue sur Pepius - Vos Bons Plans au Quotidien</h2>
-    <p>Chez Pepius, nous sélectionnons chaque jour les meilleures offres et réductions disponibles sur Amazon et d'autres plateformes. Que vous cherchiez des gadgets high-tech, des vêtements tendance ou des articles pour la maison, notre équipe vous propose des deals imbattables pour économiser tout en achetant malin. Consultez nos offres du jour, explorez les promotions passées et découvrez comment maximiser vos économies !</p>
-    <p>Utilisez notre outil de sélection de date pour revoir les deals d’hier ou planifier vos achats. Restez connecté pour ne manquer aucune opportunité !</p>
+    <p>Chez Pepius, nous sélectionnons chaque jour les meilleures offres et réductions disponibles sur Amazon et d'autres plateformes. Que vous cherchiez des gadgets high-tech, des vêtements tendance ou des articles pour la maison, notre équipe vous propose des deals imbattables pour économiser tout en achetant malin.</p>
+    <p>Nous participons au programme d’affiliation Amazon, ce qui signifie que nous pouvons recevoir une commission sur les achats effectués via nos liens, sans coût supplémentaire pour vous.</p>
   </section>
 
-  <main id="products" class="products"></main>
+  <main>
+    <section class="date-selector">
+      <h2>Deals du Jour - <span id="date"></span></h2>
+      <input type="date" id="datePicker" />
+      <button id="yesterdayBtn">Voir les deals d’hier</button>
+    </section>
+    <div id="products" class="products"></div>
+  </main>
 
   <section class="tips">
     <h2>Nos conseils pour économiser</h2>
-    <p>Pour maximiser vos économies, vérifiez toujours les avis des clients avant d’acheter et comparez les prix sur plusieurs plateformes. Inscrivez-vous aux newsletters des grandes boutiques pour recevoir des offres exclusives !</p>
+    <h3>1. Comment repérer une bonne affaire</h3>
+    <p>Pour dénicher les meilleures offres, vérifiez les avis des clients et comparez les prix sur plusieurs plateformes. Les deals avec des réductions de plus de 30% sont souvent des opportunités à ne pas manquer, mais assurez-vous que le produit correspond à vos besoins.</p>
+    <h3>2. Pourquoi acheter sur Amazon</h3>
+    <p>Amazon offre des livraisons rapides, des retours faciles et des garanties sur de nombreux produits. En tant que partenaire affilié, Pepius sélectionne des offres vérifiées pour garantir votre satisfaction.</p>
+    <h3>3. Astuces pour maximiser vos économies</h3>
+    <p>Inscrivez-vous aux newsletters des boutiques en ligne, utilisez des extensions de navigateur pour suivre les prix, et profitez des événements comme le Black Friday pour des réductions encore plus importantes.</p>
   </section>
 
-  <div class="tiktok-section">
-    <iframe class="tiktok-iframe" src="https://www.tiktok.com/embed/@cedric_lrm" title="TikTok Account"></iframe>
+  <div id="cookie-banner" style="display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #fffaf1; padding: 15px; text-align: center; border-top: 2px dashed #f0c987;">
+    <p>Nous utilisons des cookies pour améliorer votre expérience et diffuser des publicités pertinentes. <a href="politique.html">En savoir plus</a>.</p>
+    <button id="accept-cookies" class="btn">Accepter</button>
   </div>
-  
+
   <footer>
-    <p>© Pepius - Les bons plans du jour | <a href="politique.html">Politique de confidentialité</a></p>
+    <p>© 2025 Pepius | <a href="politique.html">Politique de confidentialité</a> | <a href="about.html">À propos</a></p>
   </footer>
 
   <script>
@@ -65,19 +82,20 @@
         if (!data[date]) {
           container.innerHTML = `
             <div style="text-align:center; max-width: 600px; margin: 0 auto;">
-              <p>Aucun deal trouvé pour le ${formatDateFr(date)}.</p>
-              <p>Pas d'inquiétude ! Consultez les offres d'hier ou explorez nos conseils pour économiser sur vos achats en ligne.</p>
+              <p>Aucun deal supplémentaire trouvé pour le ${formatDateFr(date)}.</p>
+              <p>Consultez nos deals en vedette ci-dessus ou explorez les offres d'hier.</p>
               <button id="showYesterdayDeals" class="btn">Voir les deals d'hier</button>
             </div>`;
-          // Attacher l'événement au bouton après l'insertion
           const yesterdayButton = document.getElementById('showYesterdayDeals');
-          yesterdayButton.addEventListener('click', () => {
-            const yesterday = new Date();
-            yesterday.setDate(yesterday.getDate() - 1);
-            const yesterdaysDate = yesterday.toISOString().split('T')[0];
-            datePicker.value = yesterdaysDate;
-            renderDeals(yesterdaysDate);
-          });
+          if (yesterdayButton) {
+            yesterdayButton.addEventListener('click', () => {
+              const yesterday = new Date();
+              yesterday.setDate(yesterday.getDate() - 1);
+              const yesterdaysDate = yesterday.toISOString().split('T')[0];
+              datePicker.value = yesterdaysDate;
+              renderDeals(yesterdaysDate);
+            });
+          }
           return;
         }
 
@@ -88,6 +106,7 @@
             <img src="${deal.image}" alt="${deal.title}">
             <div class="info">
               <p class="title">${deal.title}</p>
+              <p class="description">${deal.description || 'Une offre exceptionnelle à ne pas manquer !'}</p>
               <p class="price"><span class="old">€${deal.old_price.toFixed(2)}</span> → €${deal.new_price.toFixed(2)}</p>
               <p class="discount">-${deal.discount}%</p>
               <a href="${deal.link}" class="btn" target="_blank">Voir l'offre Amazon</a>
@@ -107,9 +126,17 @@
         const yesterday = new Date();
         yesterday.setDate(yesterday.getDate() - 1);
         const yesterdaysDate = yesterday.toISOString().split('T')[0];
-
         datePicker.value = yesterdaysDate;
         renderDeals(yesterdaysDate);
+      });
+
+      // Gestion de la bannière de cookies
+      if (!localStorage.getItem('cookiesAccepted')) {
+        document.getElementById('cookie-banner').style.display = 'block';
+      }
+      document.getElementById('accept-cookies').addEventListener('click', () => {
+        localStorage.setItem('cookiesAccepted', 'true');
+        document.getElementById('cookie-banner').style.display = 'none';
       });
     }
     fetchDeals();

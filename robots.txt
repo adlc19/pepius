@@ -1,0 +1,6 @@
+User-agent: *
+  Disallow: /*?date=
+  Allow: /
+  Allow: /index.html
+  Allow: /politique.html
+  Allow: /about.html

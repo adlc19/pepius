@@ -21,13 +21,63 @@
     border-bottom: 2px dashed #f0c987;
   }
   
-  h1 {
-    font-size: 2.2rem;
-    margin: 0;
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .btn {
+    background-color: #ff6f61;
+    color: white;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #e85749;
+  }
+  
+  main {
+    flex: 1;
+    padding: 40px 20px;
+  }
+  
+  .date-selector {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #fffaf1;
+    border: 2px dashed #f0c987;
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto 20px;
+  }
+  
+  .date-selector h2 {
+    font-size: 2rem;
+    margin: 0 0 10px;
   }
   
   #datePicker {
-    margin-top: 10px;
     padding: 8px 14px;
     font-family: inherit;
     border-radius: 6px;
@@ -36,8 +86,19 @@
     font-size: 1rem;
   }
   
-  main {
-    flex: 1;
+  #yesterdayBtn {
+    margin-left: 10px;
+    padding: 8px 14px;
+    font-family: inherit;
+    border-radius: 6px;
+    border: 1px dashed #f0c987;
+    background-color: #fffaf1;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  #yesterdayBtn:hover {
+    background-color: #ffe3b9;
   }
   
   .products {
@@ -45,7 +106,7 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 30px;
-    padding: 40px 20px;
+    padding: 20px;
   }
   
   .product {
@@ -59,7 +120,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 500px; /* augmenté légèrement */
+    height: 520px;
   }
   
   .product img {
@@ -72,6 +133,12 @@
   .title {
     font-size: 1.05rem;
     margin: 10px 0;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #555;
+    margin: 5px 0;
     flex-grow: 1;
   }
   
@@ -93,20 +160,30 @@
     font-size: 1.1rem;
   }
   
-  .btn {
-    background-color: #ff6f61;
-    color: white;
-    padding: 10px 14px;
-    text-decoration: none;
-    border-radius: 6px;
-    display: inline-block;
-    font-weight: bold;
-    font-size: 1rem;
-    margin-top: auto; /* pousse le bouton tout en bas */
+  .intro, .tips, .featured-deals {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fffaf1;
+    border: 2px dashed #f0c987;
+    border-radius: 12px;
+    text-align: center;
   }
   
-  .btn:hover {
-    background-color: #e85749;
+  .intro h2, .tips h2, .featured-deals h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+  }
+  
+  .tips h3 {
+    font-size: 1.4rem;
+    margin: 15px 0 10px;
+  }
+  
+  .intro p, .tips p, .featured-deals p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
   }
   
   footer {
@@ -116,42 +193,44 @@
     border-top: 2px dashed #f0c987;
     font-size: 1rem;
   }
-
-  #yesterdayBtn {
-    margin-top: 10px;
-    padding: 8px 14px;
-    font-family: inherit;
-    border-radius: 6px;
-    border: 1px dashed #f0c987;
-    background-color: #fffaf1;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: background-color 0.2s ease;
+  
+  footer a {
+    color: #ff6f61;
+    text-decoration: none;
   }
   
-  #yesterdayBtn:hover {
-    background-color: #ffe3b9;
+  footer a:hover {
+    text-decoration: underline;
   }
-  
-
-  .tiktok-section {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-    }
-
-    .tiktok-iframe {
-      width: 100%;
-      max-width: 600px; /* Réduit la taille maximale */
-      height: 350px; /* Réduit la hauteur */
-      border: none;
-      margin-bottom: 50px;
-      border-radius: 8px;
-    }
-
   
   @media (max-width: 768px) {
+    header {
+      padding: 15px;
+    }
+  
+    nav {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    .nav-links {
+      flex-direction: column;
+      gap: 5px;
+    }
+  
+    .logo {
+      font-size: 1.8rem;
+    }
+  
+    .btn {
+      font-size: 0.95rem;
+      padding: 7px 12px;
+    }
+  
+    main {
+      padding: 20px 10px;
+    }
+  
     .products {
       flex-direction: column;
       align-items: center;
@@ -173,6 +252,10 @@
       font-size: 1rem;
     }
   
+    .description {
+      font-size: 0.95rem;
+    }
+  
     .price {
       font-size: 1.1rem;
     }
@@ -181,72 +264,116 @@
       font-size: 1rem;
     }
   
-    .btn {
-      font-size: 0.95rem;
-      padding: 9px 12px;
-    }
-  
-    h1 {
-      font-size: 1.8rem;
-    }
-  
-    .date {
-      font-size: 1rem;
-    }
-  }
-  
-  .intro {
-    max-width: 800px;
-    margin: 30px auto;
-    padding: 20px;
-    background-color: #fffaf1;
-    border: 2px dashed #f0c987;
-    border-radius: 12px;
-    text-align: center;
-  }
-  
-  .intro h2 {
-    font-size: 1.8rem;
-    margin-bottom: 15px;
-  }
-  
-  .intro p {
-    font-size: 1.1rem;
-    line-height: 1.6;
-    margin-bottom: 10px;
-  }
-  
-  @media (max-width: 768px) {
-    .intro {
+    .intro, .tips, .featured-deals, .date-selector {
       margin: 20px 10px;
       padding: 15px;
     }
   
-    .intro h2 {
+    .intro h2, .tips h2, .featured-deals h2, .date-selector h2 {
       font-size: 1.5rem;
     }
   
-    .intro p {
+    .tips h3 {
+      font-size: 1.2rem;
+    }
+  
+    .intro p, .tips p, .featured-deals p {
       font-size: 1rem;
+    }
+  
+    #datePicker, #yesterdayBtn {
+      font-size: 0.95rem;
+      padding: 7px 12px;
     }
   }
 
-  .tips {
-    max-width: 800px;
-    margin: 30px auto;
-    padding: 20px;
+  .products {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
+    gap: 20px; /* Space between cards */
+    max-width: 1200px; /* Limit the width on larger screens */
+    margin: 0 auto; /* Center the grid */
+  }
+  
+  .product {
     background-color: #fffaf1;
     border: 2px dashed #f0c987;
     border-radius: 12px;
-    text-align: center;
+    padding: 15px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Ensure button stays at the bottom */
+    height: 100%; /* Make all cards the same height */
+  }
+
+  .product img {
+    width: 100%;
+    height: 200px; /* Fixed height for images */
+    object-fit: contain; /* Ensure the image scales properly without cropping */
+    margin-bottom: 10px;
+  }
+
+  .product .info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1; /* Allow the info section to take up available space */
+    gap: 8px; /* Space between elements */
   }
   
-  .tips h2 {
-    font-size: 1.8rem;
-    margin-bottom: 15px;
+  .product .title {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Limit to 3 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis; /* Add ellipsis for truncated text */
   }
   
-  .tips p {
+  .product .price {
     font-size: 1.1rem;
-    line-height: 1.6;
+    margin: 0;
+  }
+  
+  .product .price .old {
+    text-decoration: line-through;
+    color: #999;
+    margin-right: 5px;
+  }
+  
+  .product .discount {
+    font-size: 0.9rem;
+    color: #ff6f61;
+    margin: 0;
+  }
+  
+  .product .btn {
+    margin-top: auto; /* Push the button to the bottom */
+    align-self: center; /* Center the button */
+  }
+
+  @media (max-width: 768px) {
+    .products {
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Smaller cards on mobile */
+      gap: 15px;
+    }
+  
+    .product img {
+      height: 150px; /* Smaller image height on mobile */
+    }
+  
+    .product .title {
+      font-size: 0.9rem;
+      -webkit-line-clamp: 2; /* Limit to 2 lines on mobile */
+    }
+  
+    .product .price {
+      font-size: 1rem;
+    }
+  
+    .product .discount {
+      font-size: 0.85rem;
+    }
   }
