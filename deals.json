@@ -1,716 +1,716 @@
-  {
-    "2025-04-15": [
-      {
-        "title": "Logitech MX Master 3S - Souris Performante Sans Fil",
-        "old_price": 83.73,
-        "new_price": 73.99,
-        "discount": 12,
-        "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SX425_.jpg",
-        "link": "https://amzn.to/3RjkILq"
-      },
-      {
-        "title": "BaByliss Brosse soufflante multistyles AS121E",
-        "old_price": 49.9,
-        "new_price": 29.9,
-        "discount": 40,
-        "image": "https://m.media-amazon.com/images/I/61nWr4+XgEL._AC_SX425_.jpg",
-        "link": "https://amzn.to/4j7M6Ip"
-      },
-      {
-        "title": "Lefant Aspirateur Robot M210P",
-        "old_price": 359,
-        "new_price": 89.99,
-        "discount": 75,
-        "image": "https://m.media-amazon.com/images/I/61LuC16bPOL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4ly6nbJ"
-      }
-    ],
-    "2025-04-16": [
-      {
-        "title": "Amazon Basics - Sac Isotherme Doux",
-        "old_price": 24.42,
-        "new_price": 12.78,
-        "discount": 48,
-        "image": "https://m.media-amazon.com/images/I/A13r4MxuYvL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3RSrtnA"
-      },
-      {
-        "title": "KOPNHAGN Chaussettes de Sport (Lot de 12)",
-        "old_price": 17.99,
-        "new_price": 7.29,
-        "discount": 59,
-        "image": "https://m.media-amazon.com/images/I/81k6HwdVxaL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4inEBMu"
-      },
-      {
-        "title": "Cellfast Tuyau d'Arrosage 20m",
-        "old_price": 15.47,
-        "new_price": 10.08,
-        "discount": 35,
-        "image": "https://m.media-amazon.com/images/I/81V5YrO4hZL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4jEgtGy"
-      },
-      {
-        "title": "Pack The Last of Us 1 et 2 sur PS5",
-        "old_price": 129.98,
-        "new_price": 68.98,
-        "discount": 43,
-        "image": "https://m.media-amazon.com/images/I/61HKXdPTXAL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4jEVWSe"
-      },
-      {
-        "title": "Montre Citizen Tsuyosa automatique",
-        "old_price": 299,
-        "new_price": 199.95,
-        "discount": 33,
-        "image": "https://m.media-amazon.com/images/I/61r1I+vQyOL._AC_SX522_.jpg",
-        "link": "https://amzn.to/4jEgtGy"
-      },
-      {
-        "title": "Rétroviseur vélo Zefal Dooback 2",
-        "old_price": 15.47,
-        "new_price": 10.08,
-        "discount": 35,
-        "image": "https://m.media-amazon.com/images/I/81V5YrO4hZL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4lxQFxl"
-      },
-      {
-        "title": "TopSpin 2K25 sur PS5",
-        "old_price": 39.99,
-        "new_price": 18.99,
-        "discount": 53,
-        "image": "https://m.media-amazon.com/images/I/81cGYRTzvcL._AC_SX385_.jpg",
-        "link": "https://amzn.to/4czVZML"
-      },
-      {
-        "title": "Mur d’escalade Zvonema pour chats",
-        "old_price": 92.9,
-        "new_price": 53.05,
-        "discount": 43,
-        "image": "https://m.media-amazon.com/images/I/61PEWvYNqzL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3GdpyHH"
-      },
-      {
-        "title": "Chaussures Adidas VS Pace 2.0",
-        "old_price": 55,
-        "new_price": 39.06,
-        "discount": 29,
-        "image": "https://m.media-amazon.com/images/I/61izDj0N8yL._AC_SY695_.jpg",
-        "link": "https://amzn.to/4lyay7n"
-      }
-    ],
-    "2025-04-17": [
-      {
-        "title": "Apple MacBook Pro, 14 pouces, processeur M4, 512 Go, 16 Go de RAM",
-        "old_price": 1899,
-        "new_price": 1709,
-        "discount": 10,
-        "image": "https://m.media-amazon.com/images/I/618r76w5dGL._AC_SX679_.jpg",
-        "link": "https://amzn.to/42BOWP6"
-      },
-      {
-        "title": "Caméra de surveillance extérieure, connectée en WiFi et alimentée par panneau solaire",
-        "old_price": 54.99,
-        "new_price": 37.9,
-        "discount": 31,
-        "image": "https://m.media-amazon.com/images/I/61zl5i34byL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4lvDhdf"
-      },
-      {
-        "title": "Manette sans fil PDP Zelda, modèle Link lumineux pour Nintendo Switch",
-        "old_price": 59.99,
-        "new_price": 35.83,
-        "discount": 40,
-        "image": "https://m.media-amazon.com/images/I/61otBziN2qL._AC_SX522_.jpg",
-        "link": "https://amzn.to/4lwRvdE"
-      },
-      {
-        "title": "TV OLED LG 48 pouces, modèle 2024",
-        "old_price": 1030.04,
-        "new_price": 854,
-        "discount": 17,
-        "image": "https://m.media-amazon.com/images/I/61Cw3RlhVtL._AC_SX425_.jpg",
-        "link": "https://amzn.to/4lBxeUs"
-      }
-    ],
-    "2025-04-18": [
-      {
-        "title": "Stray sur PS5",
-        "old_price": 29.99,
-        "new_price": 22.99,
-        "discount": 23,
-        "image": "https://m.media-amazon.com/images/I/717w5ZCykZL._AC_SX425_.jpg",
-        "link": "https://amzn.to/445zgWJ"
-      },
-      {
-        "title": "Spray huile cuisine 2 en 1",
-        "old_price": 8.99,
-        "new_price": 6.99,
-        "discount": 22,
-        "image": "https://m.media-amazon.com/images/I/71dqy2wRf-L._AC_SX679_.jpg",
-        "link": "https://amzn.to/3EfBatn"
-      },
-      {
-        "title": "Onduleur 1500VA APC",
-        "old_price": 419.99,
-        "new_price": 265.98,
-        "discount": 37,
-        "image": "https://m.media-amazon.com/images/I/71ZTpv0vHAL._AC_SY679_.jpg",
-        "link": "https://amzn.to/3EfBcS1"
-      },
-      {
-        "title": "Alimentation PC Asus 1000W",
-        "old_price": 189.9,
-        "new_price": 124.01,
-        "discount": 35,
-        "image": "https://m.media-amazon.com/images/I/71xR3Be4QyL._AC_SX425_.jpg",
-        "link": "https://amzn.to/44vmLDO"
-      }
-    ],
-    "2025-04-19": [
-      {
-        "title": "Vinyle Louise Attaque LP",
-        "old_price": 14.99,
-        "new_price": 9.99,
-        "discount": 33,
-        "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SX425_.jpg",
-        "link": "https://amzn.to/441XWzk"
-      },
-      {
-        "title": "Plancha Tefal XL 6 à 8 personnes, plaque anti-adhésive, 2000W",
-        "old_price": 59.99,
-        "new_price": 44.99,
-        "discount": 25,
-        "image": "https://m.media-amazon.com/images/I/71vZOSVMFmL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4jzaouM"
-      },
-      {
-        "title": "Casquette New Era New York",
-        "old_price": 16.99,
-        "new_price": 26,
-        "discount": 35,
-        "image": "https://m.media-amazon.com/images/I/71vfgNJBtoL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4jF2dx4"
-      },
-      {
-        "title": "Moulin à Poivre Manuel Peugeot Bistro 10cm",
-        "old_price": 26.9,
-        "new_price": 12.5,
-        "discount": 54,
-        "image": "https://m.media-amazon.com/images/I/61mZUiX3UUL._AC_SY879_.jpg",
-        "link": "https://amzn.to/3YzPuUg"
-      },
-      {
-        "title": "Final Fantasy 7 Rebirth sur PS5",
-        "old_price": 76.77,
-        "new_price": 39.99,
-        "discount": 48,
-        "image": "https://m.media-amazon.com/images/I/715QZr8vh7L._AC_SX679_.jpg",
-        "link": "https://amzn.to/3GgaxFc"
-      },
-      {
-        "title": "Lot 4 Thermomètres Hygromètres Intérieur Ruizhi",
-        "old_price": 10.65,
-        "new_price": 6.99,
-        "discount": 34,
-        "image": "https://m.media-amazon.com/images/I/61BhuVXiihL._SX522_.jpg",
-        "link": "https://amzn.to/3GfTZgx"
-      },
-      {
-        "title": "Set de 2 Couteaux D'Office Victorinox Swiss Classic",
-        "old_price": 12,
-        "new_price": 7.99,
-        "discount": 33,
-        "image": "https://m.media-amazon.com/images/I/51CTRCcGcUL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3GiSXQQ"
-      },
-      {
-        "title": "Bouilloire électrique Russell Hobbs Réglage numérique 1.7L",
-        "old_price": 43.99,
-        "new_price": 29.43,
-        "discount": 33,
-        "image": "https://m.media-amazon.com/images/I/41TvcODMbUL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3RnH0vF"
-      },
-      {
-        "title": "Servante d'atelier Scheppach TW1000 avec set d'outils, Verrouillable et Mobile, 7 tiroirs",
-        "old_price": 539.99,
-        "new_price": 376.48,
-        "discount": 30,
-        "image": "https://m.media-amazon.com/images/I/81vfPL35guL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3Y6kFXd"
-      },
-      {
-        "title": "Ori The Collection sur Nintendo Switch",
-        "old_price": 49.99,
-        "new_price": 34.99,
-        "discount": 30,
-        "image": "https://m.media-amazon.com/images/I/71kviKH3YDL._AC_SY500_.jpg",
-        "link": "https://amzn.to/4jILSri"
-      }
-    ],
-    "2025-04-20": [
-      {
-        "title": "(Lot de 2) Gourdes Sport 750ml",
-        "old_price": 7.9,
-        "new_price": 3.99,
-        "discount": 49,
-        "image": "https://m.media-amazon.com/images/I/31330Dnl3IL._AC_.jpg",
-        "link": "https://amzn.to/4jjOv33"
-      },
-      {
-        "title": "Bidon à carburant en métal Arnold 6011-X1–2000 - 5 L, Noir",
-        "old_price": 33.35,
-        "new_price": 25.99,
-        "discount": 22,
-        "image": "https://m.media-amazon.com/images/I/814LySeOpAL._AC_SY879_.jpg",
-        "link": "https://amzn.to/44xwVUo"
-      },
-      {
-        "title": "Ventilateur Extracteur d'Air",
-        "old_price": 30.99,
-        "new_price": 15.5,
-        "discount": 50,
-        "image": "https://m.media-amazon.com/images/I/51pe8u-qSBL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4lFSsAC"
-      },
-      {
-        "title": "Lot de 2 Torchons Microfibre Brabantia - Gris Foncé, 30 x 30 x 0,5 cm",
-        "old_price": 2.5,
-        "new_price": 1.99,
-        "discount": 20,
-        "image": "https://m.media-amazon.com/images/I/71Xr+AWF7zL._AC_SX679_.jpg",
-        "link": "https://amzn.to/42JcVfe"
-      },
-      {
-        "title": "Lot de 16 Brossettes compatible Oral B (Via Coupon - Vendeur Tiers)",
-        "old_price": 10.93,
-        "new_price": 5.49,
-        "discount": 50,
-        "image": "https://m.media-amazon.com/images/I/71rHJPCcegL._AC_SX679_PIbundle-16,TopRight,0,0_SH20_.jpg",
-        "link": "https://amzn.to/44l78z1"
-      },
-      {
-        "title": "Indiana Jones et le Cercle Ancien sur PS5",
-        "old_price": 79.99,
-        "new_price": 61.99,
-        "discount": 23,
-        "image": "https://m.media-amazon.com/images/I/81OoSvbbkIL._AC_SX522_.jpg",
-        "link": "https://amzn.to/42DeDOZ"
-      },
-      {
-        "title": "Lords of The Fallen - Standard sur PS5",
-        "old_price": 29.98,
-        "new_price": 19.99,
-        "discount": 29,
-        "image": "https://m.media-amazon.com/images/I/81+9CSh0GSL._AC_SX425_.jpg",
-        "link": "https://amzn.to/3GhYF5D"
-      },
-      {
-        "title": "Moulins à Poivre et Sel manuels avec broyeur en céramique",
-        "old_price": 59.99,
-        "new_price": 24.99,
-        "discount": 58,
-        "image": "https://m.media-amazon.com/images/I/41OvV2K5U+L._AC_SX679_.jpg",
-        "link": "https://amzn.to/4lEm4y5"
-      },
-      {
-        "title": "Jeu de Société Heroquest Système de jeu (Via Coupon)",
-        "old_price": 93.16,
-        "new_price": 75.33,
-        "discount": 19,
-        "image": "https://m.media-amazon.com/images/I/81lxgVXas8L._AC_SX425_.jpg",
-        "link": "https://amzn.to/44ydScF"
-      },
-      {
-        "title": "Lot de 3 Prises connectées WiFi Meross 16A (Type E)",
-        "old_price": 34.99,
-        "new_price": 28.25,
-        "discount": 19,
-        "image": "https://m.media-amazon.com/images/I/519Bq5qNtmL._SX522_.jpg",
-        "link": "https://amzn.to/42GzUaP"
-      }
-    ],
-    "2025-04-23": [
-      {
-        "title": "Lot de 3 Etagères Murales Pipishell (Via Coupon RKRSLBPE - Vendeur Tiers)",
-        "old_price": 29.99,
-        "new_price": 15.95,
-        "discount": 47,
-        "image": "https://c.media-amazon.com/images/I/71QiSCFCwQL._AC_SX679_.jpg",
-        "link": "https://amzn.to/44C8khe"
-      },
-      {
-        "title": "Boîtier PC Moyen-Tour ATX Antec Bois C8",
-        "old_price": 129.95,
-        "new_price": 93.03,
-        "discount": 28,
-        "image": "https://c.media-amazon.com/images/I/81rTn1-7y9L._AC_SX425_.jpg",
-        "link": "https://amzn.to/42rTvwz"
-      },
-      {
-        "title": "Veste Jack & Jones Bomber Rush - Tailles S ou M",
-        "old_price": 49.99,
-        "new_price": 28.26,
-        "discount": 43,
-        "image": "https://c.media-amazon.com/images/I/71lG3lHHYHL._AC_SY741_.jpg",
-        "link": "https://amzn.to/4jR33ah"
-      },
-      {
-        "title": "50 feuilles Papier Toilette humide Fessnett (via Prévoyez et Économisez)",
-        "old_price": 1.39,
-        "new_price": 1.16,
-        "discount": 17,
-        "image": "https://c.media-amazon.com/images/I/710tWbs8k3L._AC_SX425_.jpg",
-        "link": "https://amzn.to/3Rz7iLr"
-      },
-      {
-        "title": "Sac à Dos Pique-Nique Livoo 4 Personnes SE970C avec compartiment isotherme",
-        "old_price": 43.49,
-        "new_price": 37.76,
-        "discount": 13,
-        "image": "https://c.media-amazon.com/images/I/6133PG3Nn1L._AC_SX679_.jpg",
-        "link": "https://amzn.to/3GkXja9"
-      },
-      {
-        "title": "Carte Mère Asus ROG Strix B760-I Gaming WiFi",
-        "old_price": 244.9,
-        "new_price": 166.59,
-        "discount": 32,
-        "image": "https://c.media-amazon.com/images/I/81-knZ9JyzL._AC_SX425_.jpg",
-        "link": "https://amzn.to/3S72blG"
-      },
-      {
-        "title": "Tondeuse à barbe Philips Série 3000, avec Technologie Lift & Trim, modèle BT3206/14",
-        "old_price": 32.99,
-        "new_price": 16.99,
-        "discount": 48,
-        "image": "https://c.media-amazon.com/images/I/71fh+miD0ML._AC_SY606_.jpg",
-        "link": "https://amzn.to/42JDFMs"
-      },
-      {
-        "title": "Apple iPad 10,9'' Wi-FI 256 Go - Rose 10ème génération",
-        "old_price": 459,
-        "new_price": 389,
-        "discount": 15,
-        "image": "https://c.media-amazon.com/images/I/61dM9J9fNAL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4ixvdpD"
-      }
-    ],
-    "2025-04-26": [
-      {
-        "title": "Ecouteurs sans fil Samsung Galaxy Buds 3 Pro, Chargeur Secteur Inclus (Via Coupon de 40€)",
-        "old_price": 215.91,
-        "new_price": 118.42,
-        "discount": 45,
-        "image": "https://c.media-amazon.com/images/I/41kw-LjcCrL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3RAjStY"
-      },
-      {
-        "title": "Cheminée d'allumage Weber - 32cm",
-        "old_price": 29.99,
-        "new_price": 20.99,
-        "discount": 30,
-        "image": "https://c.media-amazon.com/images/I/81bJ-tFxD+L._AC_SX679_.jpg",
-        "link": "https://amzn.to/4m0275g"
-      },
-      {
-        "title": "Lot de 6 Déodorants Bille L'Oréal Men Expert (Via Abonnement Prévoyez & Economisez et Coupon)",
-        "old_price": 25.73,
-        "new_price": 13.94,
-        "discount": 46,
-        "image": "https://c.media-amazon.com/images/I/61fP8OkB4rL._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg",
-        "link": "https://amzn.to/4ivNPWQ"
-      },
-      {
-        "title": "Lot de 2 Éponges de Nettoyage Weber",
-        "old_price": 9.98,
-        "new_price": 3.99,
-        "discount": 60,
-        "image": "https://c.media-amazon.com/images/I/61UCgh9DI1L._AC_SX679_.jpg",
-        "link": "https://amzn.to/3Ye4W8z"
-      },
-      {
-        "title": "Clé USB 3.2 Intenso Twist Line Type-C, 2 en 1, 70 mo/s - 64 Go",
-        "old_price": 6.9,
-        "new_price": 5.49,
-        "discount": 20,
-        "image": "https://c.media-amazon.com/images/I/714PYpH0cWL._AC_SX425_.jpg",
-        "link": "https://amzn.to/3EK5BYz"
-      },
-      {
-        "title": "Gran Turismo 7 sur PS5 (Version PS4 à 24,99€)",
-        "old_price": 56.89,
-        "new_price": 29.99,
-        "discount": 47,
-        "image": "https://c.media-amazon.com/images/I/71VbsUbBkEL._AC_SX385_.jpg",
-        "link": "https://amzn.to/4jpbucL"
-      },
-      {
-        "title": "Ecran PC 27'' AOC 27G4XE - 180Hz, 1 ms, FHD 16:9",
-        "old_price": 149,
-        "new_price": 109,
-        "discount": 27,
-        "image": "https://c.media-amazon.com/images/I/71+CR4oUUOL._AC_SX425_.jpg",
-        "link": "https://amzn.to/3GqHZsA"
-      },
-      {
-        "title": "Crêpière électrique Tefal PY559312, 1000 W, Surface antiadhésive",
-        "old_price": 69.99,
-        "new_price": 38,
-        "discount": 46,
-        "image": "https://c.media-amazon.com/images/I/61TsNEvvkmL._AC_SX679_.jpg",
-        "link": "https://amzn.to/4cQdRDh"
-      },
-      {
-        "title": "T-shirt enfant Levi's Batwing",
-        "old_price": 15,
-        "new_price": 8,
-        "discount": 47,
-        "image": "https://c.media-amazon.com/images/I/712R1-QkgUL._AC_SX679_.jpg",
-        "link": "https://amzn.to/44CKl1y"
-      },
-      {
-        "title": "Cadre de lit double en métal Vasagle - 160 x 200 cm - Noir (Via Coupon)",
-        "old_price": 99.99,
-        "new_price": 67.99,
-        "discount": 32,
-        "image": "https://c.media-amazon.com/images/I/81fuBI4WUfL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3YdbnZr"
-      },
-      {
-        "title": "Camera WiFi Exterieure sans fil - 2K Batterie Panneau Solaire (via coupon - vendeur tiers)",
-        "old_price": 56.99,
-        "new_price": 37.99,
-        "discount": 30,
-        "image": "https://c.media-amazon.com/images/I/51yppn+2uTL._AC_SX679_.jpg",
-        "link": "https://amzn.to/3S4Pckx"
-      },
-      {
-        "title": "SSD interne M.2. NVMe Fanxiang S660 - 4 To jusqu'à 5000 Mo/s (vendeur tiers)",
-        "old_price": 209.99,
-        "new_price": 199.49,
-        "discount": 5,
-        "image": "https://c.media-amazon.com/images/I/51uJ2CBdIBL._AC_SX425_.jpg",
-        "link": "https://amzn.to/44CKphO"
-      }
-    ],
-    "2025-05-01": [
-      {
-        "title": "Scheppach Ponceuse Mur & Plafond DS920X | 710W | Plateau de ponçage Ø225mm | LED | tête inclinable jusqu'à 90°| Télescopique | 4m de Tuyau d'Aspiration, Kit d'adaptateurs & 6 disques abrasifs inclus",
-        "old_price": 139.99,
-        "new_price": 26.99,
-        "discount": 81,
-        "image": "https://m.media-amazon.com/images/I/61UHh3NnJuL._AC_SX425_.jpg",
-        "link": "https://www.amazon.fr/dp/B09QKZM28B?tag=pepius-21"
-      },
-      {
-        "title": "Luminarc Arcoroc Quadro Frigo Pichet avec un couvercle 110cl, 1 Pichet, Blanc",
-        "old_price": 13.5,
-        "new_price": 5.15,
-        "discount": 62,
-        "image": "https://m.media-amazon.com/images/I/71QNE71u1BL._AC_SY679_.jpg",
-        "link": "https://www.amazon.fr/dp/B0009P5LQ4?tag=pepius-21"
-      },
-      {
-        "title": "Calor Ixeo+ Défroisseur tout-en-un, Planche Smart Board intégrée 3 positions, Fer vapeur, Défroisseur, Technologie Twin Boiler, Pression de la pompe 5 bars, Ultra-léger QT1510C0",
-        "old_price": 299.99,
-        "new_price": 114.57,
-        "discount": 62,
-        "image": "https://m.media-amazon.com/images/I/61TFbQLPAkL._AC_SX425_.jpg",
-        "link": "https://www.amazon.fr/dp/B08XXQ5NFW?tag=pepius-21"
-      },
-      {
-        "title": "LG TV OLED 2024 | OLED48B4 | 48'' (121 cm) | OLED| Processeur α8 AI 4K |Dolby Vision & Atmos | Alexa",
-        "old_price": 1714.84,
-        "new_price": 699,
-        "discount": 59,
-        "image": "https://m.media-amazon.com/images/I/71JMt7G69BL._AC_SX450_.jpg",
-        "link": "https://www.amazon.fr/dp/B0DHF1NWRY?tag=pepius-21"
-      },
-      {
-        "title": "ICY BOX Carte PCI Express, M.2 NVMe SSD vers adaptateur PCIe 4.0, Refroidisseur, éclairage LED, M-Key, 2230, 2242, 2260, 2280, Noir, IB-PCI214M2-HSL",
-        "old_price": 19.99,
-        "new_price": 11.81,
-        "discount": 41,
-        "image": "https://m.media-amazon.com/images/I/612Rh8XSgvL._AC_SY355_.jpg",
-        "link": "https://www.amazon.fr/dp/B07HL878P2?tag=pepius-21"
-      },
-      {
-        "title": "Garmin HRM-Pro Plus Heart rate monitor",
-        "old_price": 129.99,
-        "new_price": 79.9,
-        "discount": 39,
-        "image": "https://m.media-amazon.com/images/I/71hFQypOCGL._AC_SY355_.jpg",
-        "link": "https://www.amazon.fr/dp/B0B3PNFK9H?tag=pepius-21"
-      },
-      {
-        "title": "Nothing Ear ecouteurs Bluetooth sans Fil avec Intégration de ChatGPT, Son Haute résolution 24 Bits, Réduction Active de Bruit Intelligente, Égaliseur avancé et Jusqu’à 40,5 Heures d’écoute - Blanc",
-        "old_price": 149,
-        "new_price": 93.9,
-        "discount": 37,
-        "image": "https://m.media-amazon.com/images/I/61zbdfSf6BL._AC_SX569_.jpg",
-        "link": "https://www.amazon.fr/dp/B0CXPSBKVR?tag=pepius-21"
-      },
-      {
-        "title": "Logitech MX Master 3S - Souris Performante Sans Fil avec Défilement Ultra-Rapide, Ergonomique, DPI 8K, Suivi sur Verre, Clics Silencieux, USB-C, Bluetooth, Windows, Linux, Chrome - Gris clair",
-        "old_price": 129.99,
-        "new_price": 84.39,
-        "discount": 35,
-        "image": "https://m.media-amazon.com/images/I/61gMG5Fh2AL._AC_SX425_.jpg",
-        "link": "https://www.amazon.fr/dp/B07W4DGFSM?tag=pepius-21"
-      },
-      {
-        "title": "Eaton Onduleur Ellipse ECO 650 USB FR - Off-line UPS - EL650USBFR - Puissance 650VA (4 prises FR, Parasurtenseur, Batterie) - UPS avec Interface USB (câble inclus) - Noir",
-        "old_price": 145.9,
-        "new_price": 95.25,
-        "discount": 35,
-        "image": "https://m.media-amazon.com/images/I/61gCa07fQIL._AC_SY679_.jpg",
-        "link": "https://www.amazon.fr/dp/B0052QV9MK?tag=pepius-21"
-      },
-      {
-        "title": "SKIP - Lessive liquide en capsules Sensitive 3 en 1 - 78 lavages - bébé & peaux sensibles - testée dermatologiquement (lot promo de 3x26)",
-        "old_price": 31.1,
-        "new_price": 20.53,
-        "discount": 34,
-        "image": "https://m.media-amazon.com/images/I/61k9W1JXQIL._AC_SY450_PIbundle-3,TopRight,0,0_SH20_.jpg",
-        "link": "https://www.amazon.fr/dp/B0BRL7MQWW?tag=pepius-21"
-      },
-      {
-        "title": "Blue Microphones Yeti, Micro USB pour Enregistrer, Streaming, Gaming, Podcast, Micro PC & Mac, Micro Gaming condensateur, Micro PC & Mac avec Effets Blue VO!CE, Support ajustable, Plug and Play-Bleu",
-        "old_price": 139,
-        "new_price": 94.99,
-        "discount": 32,
-        "image": "https://m.media-amazon.com/images/I/61HWZsE5YNL._AC_SY450_.jpg",
-        "link": "https://www.amazon.fr/dp/B01LY6Z2M6?tag=pepius-21"
-      },
-      {
-        "title": "Google Pixel 9 Pro – Smartphone Android débloqué avec Gemini, Triple Appareil Photo arrière, 24 Heures d'autonomie et écran Super Actua 6,3 Pouces – Vert Sauge, 128GB",
-        "old_price": 1099,
-        "new_price": 768,
-        "discount": 30,
-        "image": "https://m.media-amazon.com/images/I/51-iYJbqh1L._AC_SX569_.jpg",
-        "link": "https://www.amazon.fr/dp/B0D7V2VBBJ?tag=pepius-21"
-      },
-      {
-        "title": "Coffret Outil multifonction Bosch - PMF 220 CE (Livré avec 1 lame segment Bois & Métal, 1 lame plongeante Curved Tec, 1 plateau de ponçage, 6 abrasifs, 1 butée de profondeur, 1 clé Allen)",
-        "old_price": 108.14,
-        "new_price": 79.9,
-        "discount": 26,
-        "image": "https://m.media-amazon.com/images/I/616EQxxzTJL._AC_SX425_.jpg",
-        "link": "https://www.amazon.fr/dp/B01D080ILY?tag=pepius-21"
-      },
-      {
-        "title": "Bosch Professional 12V System perceuse-visseuse sans-fil GSR 12V-15 (sans batterie ni chargeur, dans boîte carton)",
-        "old_price": 102,
-        "new_price": 76.9,
-        "discount": 25,
-        "image": "https://m.media-amazon.com/images/I/518hJBtOM2L._AC_SX425_.jpg",
-        "link": "https://www.amazon.fr/dp/B003VEILMG?tag=pepius-21"
-      },
-      {
-        "title": "LEGO Fortnite Banane pelée - Kit de Construction pour Adulte - Inclut Lanceur de Peinture et pioche pelure - Figurine Collector pour Fans de Jeux vidéo - Décoration intérieure, Maison ou Bureau 77072",
-        "old_price": 99.99,
-        "new_price": 74.99,
-        "discount": 25,
-        "image": "https://m.media-amazon.com/images/I/81Q5dXJf2EL._AC_SY355_.jpg",
-        "link": "https://www.amazon.fr/dp/B0DHSCQ4SQ?tag=pepius-21"
-      },
-      {
-        "title": "Eaton Onduleur Parafoudre 3S 700 FR - Off-line UPS - Alimentation Sans Interruption - Puissance 700VA (8 prises FR, Silencieux, 2 ports de charge USB Type-A) - Interface USB - Noir&Blanc",
-        "old_price": 126.9,
-        "new_price": 94.95,
-        "discount": 25,
-        "image": "https://m.media-amazon.com/images/I/71xFrKYCE1L._AC_SX450_.jpg",
-        "link": "https://www.amazon.fr/dp/B082TGFYFH?tag=pepius-21"
-      },
-      {
-        "title": "Eaton Onduleur Ellipse ECO 650 FR sans USB– Off-Line UPS – EL650FR – Puissance 650VA (4 prises FR, Parasurtenseur, Batterie, Protection Téléphone / Fax / Modem / Réseau 10/100 RJ45) - Noir",
-        "old_price": 124.9,
-        "new_price": 94.95,
-        "discount": 24,
-        "image": "https://m.media-amazon.com/images/I/61gCa07fQIL._AC_SY679_.jpg",
-        "link": "https://www.amazon.fr/dp/B0052JCHGE?tag=pepius-21"
-      },
-      {
-        "title": "Casio Montre Quartz Homme 45.40mm avec Cadran Noir analogique/numérique et Bracelet en Plastic/Resin Strap Noir GA-2100-1A1ER",
-        "old_price": 99.9,
-        "new_price": 76,
-        "discount": 24,
-        "image": "https://m.media-amazon.com/images/I/61g6yHKxg0L._AC_SX522_.jpg",
-        "link": "https://www.amazon.fr/dp/B07WGJ1JNW?tag=pepius-21"
-      },
-      {
-        "title": "MSI SPATIUM M461 PCIe 4.0 NVMe M.2 2TB - Disque SSD Interne 2 to, PCIe 4.0 NVMe M.2, Lecture 5000 MB/s & Écriture 4200 MB/s, 3D NAND, Sécurité des Données Intégrée, Center, 450 TBW, Garantie 5 Ans",
-        "old_price": 159.9,
-        "new_price": 123.9,
-        "discount": 23,
-        "image": "https://m.media-amazon.com/images/I/71H07m+44GL._AC_SY355_.jpg",
-        "link": "https://www.amazon.fr/dp/B0BTPH7YZM?tag=pepius-21"
-      },
-      {
-        "title": "AMAZFIT Bip 6 Smartwatch 46mm, Batterie 14 Jours, AMOLED 1,97\", GPS avec Cartes, IA, Appels Bluetooth, Suivi Santé et Sommeil, 140+ Modes Sportifs, Étanchéité 5ATM, Noir",
-        "old_price": 99.9,
-        "new_price": 79.9,
-        "discount": 20,
-        "image": "https://m.media-amazon.com/images/I/61wJFwhRaYL._AC_SX466_.jpg",
-        "link": "https://www.amazon.fr/dp/B0DYP9R6YT?tag=pepius-21"
-      },
-      {
-        "title": "Asus TUF Gaming 850W 80 Plus Gold Modular",
-        "old_price": 149.9,
-        "new_price": 119.9,
-        "discount": 20,
-        "image": "https://m.media-amazon.com/images/I/71vHJrdANDL._AC_SY355_.jpg",
-        "link": "https://www.amazon.fr/dp/B0BK541686?tag=pepius-21"
-      },
-      {
-        "title": "Corsair EX100U 1 to Disque de Stockage Portable - Ultrarapide avec n’Importe Quel PC/Mac/Console, Connexion Gen2 x2, avec Ses Câbles USB Type-C et USB Type-A Inclus - Noir",
-        "old_price": 111.88,
-        "new_price": 92.99,
-        "discount": 17,
-        "image": "https://m.media-amazon.com/images/I/51D9G3a3xhL._AC_SY450_.jpg",
-        "link": "https://www.amazon.fr/dp/B0BGJ2HWZX?tag=pepius-21"
-      },
-      {
-        "title": "Somfy 1870595 - Tahoma Switch | Commande Intelligente pour centraliser et connecter Votre logement | Compatible IO, RTS & Zigbee 3.0 | Contrôle à la Voix avec l'Assistant Google, Amazon Alexa HomeKit",
-        "old_price": 199,
-        "new_price": 164.42,
-        "discount": 17,
-        "image": "https://m.media-amazon.com/images/I/51J1u8-QAyL._AC_SY450_.jpg",
-        "link": "https://www.amazon.fr/dp/B08SM557DH?tag=pepius-21"
-      },
-      {
-        "title": "MSI MAG A750GL PCIE5 Alimentation, 750W, 80 Plus Gold, Entièrement modulaire, ATX 3.0, Support GPU PCIe 5.0, Ventilateur FDB 120mm, Full-Bridge LLC, câbles Plats Noirs - Garantie 7 Ans",
-        "old_price": 119.99,
-        "new_price": 100.66,
-        "discount": 16,
-        "image": "https://m.media-amazon.com/images/I/71ZdU1FdcOL._AC_SY450_.jpg",
-        "link": "https://www.amazon.fr/dp/B0C3M86HCB?tag=pepius-21"
-      },
-      {
-        "title": "RYOBI - Scie circulaire 18 Volts ONE+, - diamètre 150 mm + lame - R18CSP-0",
-        "old_price": 99.99,
-        "new_price": 85,
-        "discount": 15,
-        "image": "https://m.media-amazon.com/images/I/81TsheRZrZL._AC_SX425_.jpg",
-        "link": "https://www.amazon.fr/dp/B01N5OH8FT?tag=pepius-21"
-      },
-      {
-        "title": "JBL Flip 6 – Enceinte Bluetooth portable et étanche à l'eau et à la poussière - Haut-parleur haute fréquence pour des basses profondes - 12 heures d'autonomie - Camouflage",
-        "old_price": 149.99,
-        "new_price": 129.95,
-        "discount": 13,
-        "image": "https://m.media-amazon.com/images/I/71RoVFKO66L._AC_SY450_.jpg",
-        "link": "https://www.amazon.fr/dp/B09NCDDM7T?tag=pepius-21"
-      },
-      {
-        "title": "Bose Enceinte Bluetooth SoundLink Micro : Petite Enceinte Portable Ã‰Tanche avec Microphone, Blanc",
-        "old_price": 99.95,
-        "new_price": 89.95,
-        "discount": 10,
-        "image": "https://m.media-amazon.com/images/I/61EbrH+T8QL._AC_SY450_.jpg",
-        "link": "https://www.amazon.fr/dp/B09R8LRZZQ?tag=pepius-21"
-      }
-    ]
-  }
+{
+  "2025-04-15": [
+    {
+      "title": "Logitech MX Master 3S - Souris Performante Sans Fil",
+      "old_price": 83.73,
+      "new_price": 73.99,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SX425_.jpg",
+      "link": "https://amzn.to/3RjkILq"
+    },
+    {
+      "title": "BaByliss Brosse soufflante multistyles AS121E",
+      "old_price": 49.9,
+      "new_price": 29.9,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/61nWr4+XgEL._AC_SX425_.jpg",
+      "link": "https://amzn.to/4j7M6Ip"
+    },
+    {
+      "title": "Lefant Aspirateur Robot M210P",
+      "old_price": 359,
+      "new_price": 89.99,
+      "discount": 75,
+      "image": "https://m.media-amazon.com/images/I/61LuC16bPOL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4ly6nbJ"
+    }
+  ],
+  "2025-04-16": [
+    {
+      "title": "Amazon Basics - Sac Isotherme Doux",
+      "old_price": 24.42,
+      "new_price": 12.78,
+      "discount": 48,
+      "image": "https://m.media-amazon.com/images/I/A13r4MxuYvL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3RSrtnA"
+    },
+    {
+      "title": "KOPNHAGN Chaussettes de Sport (Lot de 12)",
+      "old_price": 17.99,
+      "new_price": 7.29,
+      "discount": 59,
+      "image": "https://m.media-amazon.com/images/I/81k6HwdVxaL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4inEBMu"
+    },
+    {
+      "title": "Cellfast Tuyau d'Arrosage 20m",
+      "old_price": 15.47,
+      "new_price": 10.08,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/81V5YrO4hZL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4jEgtGy"
+    },
+    {
+      "title": "Pack The Last of Us 1 et 2 sur PS5",
+      "old_price": 129.98,
+      "new_price": 68.98,
+      "discount": 43,
+      "image": "https://m.media-amazon.com/images/I/61HKXdPTXAL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4jEVWSe"
+    },
+    {
+      "title": "Montre Citizen Tsuyosa automatique",
+      "old_price": 299,
+      "new_price": 199.95,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/61r1I+vQyOL._AC_SX522_.jpg",
+      "link": "https://amzn.to/4jEgtGy"
+    },
+    {
+      "title": "Rétroviseur vélo Zefal Dooback 2",
+      "old_price": 15.47,
+      "new_price": 10.08,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/81V5YrO4hZL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4lxQFxl"
+    },
+    {
+      "title": "TopSpin 2K25 sur PS5",
+      "old_price": 39.99,
+      "new_price": 18.99,
+      "discount": 53,
+      "image": "https://m.media-amazon.com/images/I/81cGYRTzvcL._AC_SX385_.jpg",
+      "link": "https://amzn.to/4czVZML"
+    },
+    {
+      "title": "Mur d’escalade Zvonema pour chats",
+      "old_price": 92.9,
+      "new_price": 53.05,
+      "discount": 43,
+      "image": "https://m.media-amazon.com/images/I/61PEWvYNqzL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3GdpyHH"
+    },
+    {
+      "title": "Chaussures Adidas VS Pace 2.0",
+      "old_price": 55,
+      "new_price": 39.06,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/61izDj0N8yL._AC_SY695_.jpg",
+      "link": "https://amzn.to/4lyay7n"
+    }
+  ],
+  "2025-04-17": [
+    {
+      "title": "Apple MacBook Pro, 14 pouces, processeur M4, 512 Go, 16 Go de RAM",
+      "old_price": 1899,
+      "new_price": 1709,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/618r76w5dGL._AC_SX679_.jpg",
+      "link": "https://amzn.to/42BOWP6"
+    },
+    {
+      "title": "Caméra de surveillance extérieure, connectée en WiFi et alimentée par panneau solaire",
+      "old_price": 54.99,
+      "new_price": 37.9,
+      "discount": 31,
+      "image": "https://m.media-amazon.com/images/I/61zl5i34byL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4lvDhdf"
+    },
+    {
+      "title": "Manette sans fil PDP Zelda, modèle Link lumineux pour Nintendo Switch",
+      "old_price": 59.99,
+      "new_price": 35.83,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/61otBziN2qL._AC_SX522_.jpg",
+      "link": "https://amzn.to/4lwRvdE"
+    },
+    {
+      "title": "TV OLED LG 48 pouces, modèle 2024",
+      "old_price": 1030.04,
+      "new_price": 854,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/61Cw3RlhVtL._AC_SX425_.jpg",
+      "link": "https://amzn.to/4lBxeUs"
+    }
+  ],
+  "2025-04-18": [
+    {
+      "title": "Stray sur PS5",
+      "old_price": 29.99,
+      "new_price": 22.99,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/717w5ZCykZL._AC_SX425_.jpg",
+      "link": "https://amzn.to/445zgWJ"
+    },
+    {
+      "title": "Spray huile cuisine 2 en 1",
+      "old_price": 8.99,
+      "new_price": 6.99,
+      "discount": 22,
+      "image": "https://m.media-amazon.com/images/I/71dqy2wRf-L._AC_SX679_.jpg",
+      "link": "https://amzn.to/3EfBatn"
+    },
+    {
+      "title": "Onduleur 1500VA APC",
+      "old_price": 419.99,
+      "new_price": 265.98,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/71ZTpv0vHAL._AC_SY679_.jpg",
+      "link": "https://amzn.to/3EfBcS1"
+    },
+    {
+      "title": "Alimentation PC Asus 1000W",
+      "old_price": 189.9,
+      "new_price": 124.01,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/71xR3Be4QyL._AC_SX425_.jpg",
+      "link": "https://amzn.to/44vmLDO"
+    }
+  ],
+  "2025-04-19": [
+    {
+      "title": "Vinyle Louise Attaque LP",
+      "old_price": 14.99,
+      "new_price": 9.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SX425_.jpg",
+      "link": "https://amzn.to/441XWzk"
+    },
+    {
+      "title": "Plancha Tefal XL 6 à 8 personnes, plaque anti-adhésive, 2000W",
+      "old_price": 59.99,
+      "new_price": 44.99,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/71vZOSVMFmL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4jzaouM"
+    },
+    {
+      "title": "Casquette New Era New York",
+      "old_price": 16.99,
+      "new_price": 26,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/71vfgNJBtoL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4jF2dx4"
+    },
+    {
+      "title": "Moulin à Poivre Manuel Peugeot Bistro 10cm",
+      "old_price": 26.9,
+      "new_price": 12.5,
+      "discount": 54,
+      "image": "https://m.media-amazon.com/images/I/61mZUiX3UUL._AC_SY879_.jpg",
+      "link": "https://amzn.to/3YzPuUg"
+    },
+    {
+      "title": "Final Fantasy 7 Rebirth sur PS5",
+      "old_price": 76.77,
+      "new_price": 39.99,
+      "discount": 48,
+      "image": "https://m.media-amazon.com/images/I/715QZr8vh7L._AC_SX679_.jpg",
+      "link": "https://amzn.to/3GgaxFc"
+    },
+    {
+      "title": "Lot 4 Thermomètres Hygromètres Intérieur Ruizhi",
+      "old_price": 10.65,
+      "new_price": 6.99,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/61BhuVXiihL._SX522_.jpg",
+      "link": "https://amzn.to/3GfTZgx"
+    },
+    {
+      "title": "Set de 2 Couteaux D'Office Victorinox Swiss Classic",
+      "old_price": 12,
+      "new_price": 7.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/51CTRCcGcUL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3GiSXQQ"
+    },
+    {
+      "title": "Bouilloire électrique Russell Hobbs Réglage numérique 1.7L",
+      "old_price": 43.99,
+      "new_price": 29.43,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/41TvcODMbUL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3RnH0vF"
+    },
+    {
+      "title": "Servante d'atelier Scheppach TW1000 avec set d'outils, Verrouillable et Mobile, 7 tiroirs",
+      "old_price": 539.99,
+      "new_price": 376.48,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/81vfPL35guL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3Y6kFXd"
+    },
+    {
+      "title": "Ori The Collection sur Nintendo Switch",
+      "old_price": 49.99,
+      "new_price": 34.99,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/71kviKH3YDL._AC_SY500_.jpg",
+      "link": "https://amzn.to/4jILSri"
+    }
+  ],
+  "2025-04-20": [
+    {
+      "title": "(Lot de 2) Gourdes Sport 750ml",
+      "old_price": 7.9,
+      "new_price": 3.99,
+      "discount": 49,
+      "image": "https://m.media-amazon.com/images/I/31330Dnl3IL._AC_.jpg",
+      "link": "https://amzn.to/4jjOv33"
+    },
+    {
+      "title": "Bidon à carburant en métal Arnold 6011-X1–2000 - 5 L, Noir",
+      "old_price": 33.35,
+      "new_price": 25.99,
+      "discount": 22,
+      "image": "https://m.media-amazon.com/images/I/814LySeOpAL._AC_SY879_.jpg",
+      "link": "https://amzn.to/44xwVUo"
+    },
+    {
+      "title": "Ventilateur Extracteur d'Air",
+      "old_price": 30.99,
+      "new_price": 15.5,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/51pe8u-qSBL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4lFSsAC"
+    },
+    {
+      "title": "Lot de 2 Torchons Microfibre Brabantia - Gris Foncé, 30 x 30 x 0,5 cm",
+      "old_price": 2.5,
+      "new_price": 1.99,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/71Xr+AWF7zL._AC_SX679_.jpg",
+      "link": "https://amzn.to/42JcVfe"
+    },
+    {
+      "title": "Lot de 16 Brossettes compatible Oral B (Via Coupon - Vendeur Tiers)",
+      "old_price": 10.93,
+      "new_price": 5.49,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/71rHJPCcegL._AC_SX679_PIbundle-16,TopRight,0,0_SH20_.jpg",
+      "link": "https://amzn.to/44l78z1"
+    },
+    {
+      "title": "Indiana Jones et le Cercle Ancien sur PS5",
+      "old_price": 79.99,
+      "new_price": 61.99,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/81OoSvbbkIL._AC_SX522_.jpg",
+      "link": "https://amzn.to/42DeDOZ"
+    },
+    {
+      "title": "Lords of The Fallen - Standard sur PS5",
+      "old_price": 29.98,
+      "new_price": 19.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/81+9CSh0GSL._AC_SX425_.jpg",
+      "link": "https://amzn.to/3GhYF5D"
+    },
+    {
+      "title": "Moulins à Poivre et Sel manuels avec broyeur en céramique",
+      "old_price": 59.99,
+      "new_price": 24.99,
+      "discount": 58,
+      "image": "https://m.media-amazon.com/images/I/41OvV2K5U+L._AC_SX679_.jpg",
+      "link": "https://amzn.to/4lEm4y5"
+    },
+    {
+      "title": "Jeu de Société Heroquest Système de jeu (Via Coupon)",
+      "old_price": 93.16,
+      "new_price": 75.33,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/81lxgVXas8L._AC_SX425_.jpg",
+      "link": "https://amzn.to/44ydScF"
+    },
+    {
+      "title": "Lot de 3 Prises connectées WiFi Meross 16A (Type E)",
+      "old_price": 34.99,
+      "new_price": 28.25,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/519Bq5qNtmL._SX522_.jpg",
+      "link": "https://amzn.to/42GzUaP"
+    }
+  ],
+  "2025-04-23": [
+    {
+      "title": "Lot de 3 Etagères Murales Pipishell (Via Coupon RKRSLBPE - Vendeur Tiers)",
+      "old_price": 29.99,
+      "new_price": 15.95,
+      "discount": 47,
+      "image": "https://c.media-amazon.com/images/I/71QiSCFCwQL._AC_SX679_.jpg",
+      "link": "https://amzn.to/44C8khe"
+    },
+    {
+      "title": "Boîtier PC Moyen-Tour ATX Antec Bois C8",
+      "old_price": 129.95,
+      "new_price": 93.03,
+      "discount": 28,
+      "image": "https://c.media-amazon.com/images/I/81rTn1-7y9L._AC_SX425_.jpg",
+      "link": "https://amzn.to/42rTvwz"
+    },
+    {
+      "title": "Veste Jack & Jones Bomber Rush - Tailles S ou M",
+      "old_price": 49.99,
+      "new_price": 28.26,
+      "discount": 43,
+      "image": "https://c.media-amazon.com/images/I/71lG3lHHYHL._AC_SY741_.jpg",
+      "link": "https://amzn.to/4jR33ah"
+    },
+    {
+      "title": "50 feuilles Papier Toilette humide Fessnett (via Prévoyez et Économisez)",
+      "old_price": 1.39,
+      "new_price": 1.16,
+      "discount": 17,
+      "image": "https://c.media-amazon.com/images/I/710tWbs8k3L._AC_SX425_.jpg",
+      "link": "https://amzn.to/3Rz7iLr"
+    },
+    {
+      "title": "Sac à Dos Pique-Nique Livoo 4 Personnes SE970C avec compartiment isotherme",
+      "old_price": 43.49,
+      "new_price": 37.76,
+      "discount": 13,
+      "image": "https://c.media-amazon.com/images/I/6133PG3Nn1L._AC_SX679_.jpg",
+      "link": "https://amzn.to/3GkXja9"
+    },
+    {
+      "title": "Carte Mère Asus ROG Strix B760-I Gaming WiFi",
+      "old_price": 244.9,
+      "new_price": 166.59,
+      "discount": 32,
+      "image": "https://c.media-amazon.com/images/I/81-knZ9JyzL._AC_SX425_.jpg",
+      "link": "https://amzn.to/3S72blG"
+    },
+    {
+      "title": "Tondeuse à barbe Philips Série 3000, avec Technologie Lift & Trim, modèle BT3206/14",
+      "old_price": 32.99,
+      "new_price": 16.99,
+      "discount": 48,
+      "image": "https://c.media-amazon.com/images/I/71fh+miD0ML._AC_SY606_.jpg",
+      "link": "https://amzn.to/42JDFMs"
+    },
+    {
+      "title": "Apple iPad 10,9'' Wi-FI 256 Go - Rose 10ème génération",
+      "old_price": 459,
+      "new_price": 389,
+      "discount": 15,
+      "image": "https://c.media-amazon.com/images/I/61dM9J9fNAL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4ixvdpD"
+    }
+  ],
+  "2025-04-26": [
+    {
+      "title": "Ecouteurs sans fil Samsung Galaxy Buds 3 Pro, Chargeur Secteur Inclus (Via Coupon de 40€)",
+      "old_price": 215.91,
+      "new_price": 118.42,
+      "discount": 45,
+      "image": "https://c.media-amazon.com/images/I/41kw-LjcCrL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3RAjStY"
+    },
+    {
+      "title": "Cheminée d'allumage Weber - 32cm",
+      "old_price": 29.99,
+      "new_price": 20.99,
+      "discount": 30,
+      "image": "https://c.media-amazon.com/images/I/81bJ-tFxD+L._AC_SX679_.jpg",
+      "link": "https://amzn.to/4m0275g"
+    },
+    {
+      "title": "Lot de 6 Déodorants Bille L'Oréal Men Expert (Via Abonnement Prévoyez & Economisez et Coupon)",
+      "old_price": 25.73,
+      "new_price": 13.94,
+      "discount": 46,
+      "image": "https://c.media-amazon.com/images/I/61fP8OkB4rL._AC_SX679_PIbundle-6,TopRight,0,0_SH20_.jpg",
+      "link": "https://amzn.to/4ivNPWQ"
+    },
+    {
+      "title": "Lot de 2 Éponges de Nettoyage Weber",
+      "old_price": 9.98,
+      "new_price": 3.99,
+      "discount": 60,
+      "image": "https://c.media-amazon.com/images/I/61UCgh9DI1L._AC_SX679_.jpg",
+      "link": "https://amzn.to/3Ye4W8z"
+    },
+    {
+      "title": "Clé USB 3.2 Intenso Twist Line Type-C, 2 en 1, 70 mo/s - 64 Go",
+      "old_price": 6.9,
+      "new_price": 5.49,
+      "discount": 20,
+      "image": "https://c.media-amazon.com/images/I/714PYpH0cWL._AC_SX425_.jpg",
+      "link": "https://amzn.to/3EK5BYz"
+    },
+    {
+      "title": "Gran Turismo 7 sur PS5 (Version PS4 à 24,99€)",
+      "old_price": 56.89,
+      "new_price": 29.99,
+      "discount": 47,
+      "image": "https://c.media-amazon.com/images/I/71VbsUbBkEL._AC_SX385_.jpg",
+      "link": "https://amzn.to/4jpbucL"
+    },
+    {
+      "title": "Ecran PC 27'' AOC 27G4XE - 180Hz, 1 ms, FHD 16:9",
+      "old_price": 149,
+      "new_price": 109,
+      "discount": 27,
+      "image": "https://c.media-amazon.com/images/I/71+CR4oUUOL._AC_SX425_.jpg",
+      "link": "https://amzn.to/3GqHZsA"
+    },
+    {
+      "title": "Crêpière électrique Tefal PY559312, 1000 W, Surface antiadhésive",
+      "old_price": 69.99,
+      "new_price": 38,
+      "discount": 46,
+      "image": "https://c.media-amazon.com/images/I/61TsNEvvkmL._AC_SX679_.jpg",
+      "link": "https://amzn.to/4cQdRDh"
+    },
+    {
+      "title": "T-shirt enfant Levi's Batwing",
+      "old_price": 15,
+      "new_price": 8,
+      "discount": 47,
+      "image": "https://c.media-amazon.com/images/I/712R1-QkgUL._AC_SX679_.jpg",
+      "link": "https://amzn.to/44CKl1y"
+    },
+    {
+      "title": "Cadre de lit double en métal Vasagle - 160 x 200 cm - Noir (Via Coupon)",
+      "old_price": 99.99,
+      "new_price": 67.99,
+      "discount": 32,
+      "image": "https://c.media-amazon.com/images/I/81fuBI4WUfL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3YdbnZr"
+    },
+    {
+      "title": "Camera WiFi Exterieure sans fil - 2K Batterie Panneau Solaire (via coupon - vendeur tiers)",
+      "old_price": 56.99,
+      "new_price": 37.99,
+      "discount": 30,
+      "image": "https://c.media-amazon.com/images/I/51yppn+2uTL._AC_SX679_.jpg",
+      "link": "https://amzn.to/3S4Pckx"
+    },
+    {
+      "title": "SSD interne M.2. NVMe Fanxiang S660 - 4 To jusqu'à 5000 Mo/s (vendeur tiers)",
+      "old_price": 209.99,
+      "new_price": 199.49,
+      "discount": 5,
+      "image": "https://c.media-amazon.com/images/I/51uJ2CBdIBL._AC_SX425_.jpg",
+      "link": "https://amzn.to/44CKphO"
+    }
+  ],
+  "2025-05-01": [
+    {
+      "title": "Scheppach Ponceuse Mur & Plafond DS920X | 710W | Plateau de ponçage Ø225mm | LED | tête inclinable jusqu'à 90°| Télescopique | 4m de Tuyau d'Aspiration, Kit d'adaptateurs & 6 disques abrasifs inclus",
+      "old_price": 139.99,
+      "new_price": 26.99,
+      "discount": 81,
+      "image": "https://m.media-amazon.com/images/I/61UHh3NnJuL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B09QKZM28B?tag=pepius-21"
+    },
+    {
+      "title": "Luminarc Arcoroc Quadro Frigo Pichet avec un couvercle 110cl, 1 Pichet, Blanc",
+      "old_price": 13.5,
+      "new_price": 5.15,
+      "discount": 62,
+      "image": "https://m.media-amazon.com/images/I/71QNE71u1BL._AC_SY679_.jpg",
+      "link": "https://www.amazon.fr/dp/B0009P5LQ4?tag=pepius-21"
+    },
+    {
+      "title": "Calor Ixeo+ Défroisseur tout-en-un, Planche Smart Board intégrée 3 positions, Fer vapeur, Défroisseur, Technologie Twin Boiler, Pression de la pompe 5 bars, Ultra-léger QT1510C0",
+      "old_price": 299.99,
+      "new_price": 114.57,
+      "discount": 62,
+      "image": "https://m.media-amazon.com/images/I/61TFbQLPAkL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B08XXQ5NFW?tag=pepius-21"
+    },
+    {
+      "title": "LG TV OLED 2024 | OLED48B4 | 48'' (121 cm) | OLED| Processeur α8 AI 4K |Dolby Vision & Atmos | Alexa",
+      "old_price": 1714.84,
+      "new_price": 699,
+      "discount": 59,
+      "image": "https://m.media-amazon.com/images/I/71JMt7G69BL._AC_SX450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DHF1NWRY?tag=pepius-21"
+    },
+    {
+      "title": "ICY BOX Carte PCI Express, M.2 NVMe SSD vers adaptateur PCIe 4.0, Refroidisseur, éclairage LED, M-Key, 2230, 2242, 2260, 2280, Noir, IB-PCI214M2-HSL",
+      "old_price": 19.99,
+      "new_price": 11.81,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/612Rh8XSgvL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B07HL878P2?tag=pepius-21"
+    },
+    {
+      "title": "Garmin HRM-Pro Plus Heart rate monitor",
+      "old_price": 129.99,
+      "new_price": 79.9,
+      "discount": 39,
+      "image": "https://m.media-amazon.com/images/I/71hFQypOCGL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B3PNFK9H?tag=pepius-21"
+    },
+    {
+      "title": "Nothing Ear ecouteurs Bluetooth sans Fil avec Intégration de ChatGPT, Son Haute résolution 24 Bits, Réduction Active de Bruit Intelligente, Égaliseur avancé et Jusqu’à 40,5 Heures d’écoute - Blanc",
+      "old_price": 149,
+      "new_price": 93.9,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/61zbdfSf6BL._AC_SX569_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXPSBKVR?tag=pepius-21"
+    },
+    {
+      "title": "Logitech MX Master 3S - Souris Performante Sans Fil avec Défilement Ultra-Rapide, Ergonomique, DPI 8K, Suivi sur Verre, Clics Silencieux, USB-C, Bluetooth, Windows, Linux, Chrome - Gris clair",
+      "old_price": 129.99,
+      "new_price": 84.39,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/61gMG5Fh2AL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B07W4DGFSM?tag=pepius-21"
+    },
+    {
+      "title": "Eaton Onduleur Ellipse ECO 650 USB FR - Off-line UPS - EL650USBFR - Puissance 650VA (4 prises FR, Parasurtenseur, Batterie) - UPS avec Interface USB (câble inclus) - Noir",
+      "old_price": 145.9,
+      "new_price": 95.25,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/61gCa07fQIL._AC_SY679_.jpg",
+      "link": "https://www.amazon.fr/dp/B0052QV9MK?tag=pepius-21"
+    },
+    {
+      "title": "SKIP - Lessive liquide en capsules Sensitive 3 en 1 - 78 lavages - bébé & peaux sensibles - testée dermatologiquement (lot promo de 3x26)",
+      "old_price": 31.1,
+      "new_price": 20.53,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/61k9W1JXQIL._AC_SY450_PIbundle-3,TopRight,0,0_SH20_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BRL7MQWW?tag=pepius-21"
+    },
+    {
+      "title": "Blue Microphones Yeti, Micro USB pour Enregistrer, Streaming, Gaming, Podcast, Micro PC & Mac, Micro Gaming condensateur, Micro PC & Mac avec Effets Blue VO!CE, Support ajustable, Plug and Play-Bleu",
+      "old_price": 139,
+      "new_price": 94.99,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/61HWZsE5YNL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B01LY6Z2M6?tag=pepius-21"
+    },
+    {
+      "title": "Google Pixel 9 Pro – Smartphone Android débloqué avec Gemini, Triple Appareil Photo arrière, 24 Heures d'autonomie et écran Super Actua 6,3 Pouces – Vert Sauge, 128GB",
+      "old_price": 1099,
+      "new_price": 768,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/51-iYJbqh1L._AC_SX569_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7V2VBBJ?tag=pepius-21"
+    },
+    {
+      "title": "Coffret Outil multifonction Bosch - PMF 220 CE (Livré avec 1 lame segment Bois & Métal, 1 lame plongeante Curved Tec, 1 plateau de ponçage, 6 abrasifs, 1 butée de profondeur, 1 clé Allen)",
+      "old_price": 108.14,
+      "new_price": 79.9,
+      "discount": 26,
+      "image": "https://m.media-amazon.com/images/I/616EQxxzTJL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B01D080ILY?tag=pepius-21"
+    },
+    {
+      "title": "Bosch Professional 12V System perceuse-visseuse sans-fil GSR 12V-15 (sans batterie ni chargeur, dans boîte carton)",
+      "old_price": 102,
+      "new_price": 76.9,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/518hJBtOM2L._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B003VEILMG?tag=pepius-21"
+    },
+    {
+      "title": "LEGO Fortnite Banane pelée - Kit de Construction pour Adulte - Inclut Lanceur de Peinture et pioche pelure - Figurine Collector pour Fans de Jeux vidéo - Décoration intérieure, Maison ou Bureau 77072",
+      "old_price": 99.99,
+      "new_price": 74.99,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/81Q5dXJf2EL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DHSCQ4SQ?tag=pepius-21"
+    },
+    {
+      "title": "Eaton Onduleur Parafoudre 3S 700 FR - Off-line UPS - Alimentation Sans Interruption - Puissance 700VA (8 prises FR, Silencieux, 2 ports de charge USB Type-A) - Interface USB - Noir&Blanc",
+      "old_price": 126.9,
+      "new_price": 94.95,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/71xFrKYCE1L._AC_SX450_.jpg",
+      "link": "https://www.amazon.fr/dp/B082TGFYFH?tag=pepius-21"
+    },
+    {
+      "title": "Eaton Onduleur Ellipse ECO 650 FR sans USB– Off-Line UPS – EL650FR – Puissance 650VA (4 prises FR, Parasurtenseur, Batterie, Protection Téléphone / Fax / Modem / Réseau 10/100 RJ45) - Noir",
+      "old_price": 124.9,
+      "new_price": 94.95,
+      "discount": 24,
+      "image": "https://m.media-amazon.com/images/I/61gCa07fQIL._AC_SY679_.jpg",
+      "link": "https://www.amazon.fr/dp/B0052JCHGE?tag=pepius-21"
+    },
+    {
+      "title": "Casio Montre Quartz Homme 45.40mm avec Cadran Noir analogique/numérique et Bracelet en Plastic/Resin Strap Noir GA-2100-1A1ER",
+      "old_price": 99.9,
+      "new_price": 76,
+      "discount": 24,
+      "image": "https://m.media-amazon.com/images/I/61g6yHKxg0L._AC_SX522_.jpg",
+      "link": "https://www.amazon.fr/dp/B07WGJ1JNW?tag=pepius-21"
+    },
+    {
+      "title": "MSI SPATIUM M461 PCIe 4.0 NVMe M.2 2TB - Disque SSD Interne 2 to, PCIe 4.0 NVMe M.2, Lecture 5000 MB/s & Écriture 4200 MB/s, 3D NAND, Sécurité des Données Intégrée, Center, 450 TBW, Garantie 5 Ans",
+      "old_price": 159.9,
+      "new_price": 123.9,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/71H07m+44GL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BTPH7YZM?tag=pepius-21"
+    },
+    {
+      "title": "AMAZFIT Bip 6 Smartwatch 46mm, Batterie 14 Jours, AMOLED 1,97\", GPS avec Cartes, IA, Appels Bluetooth, Suivi Santé et Sommeil, 140+ Modes Sportifs, Étanchéité 5ATM, Noir",
+      "old_price": 99.9,
+      "new_price": 79.9,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/61wJFwhRaYL._AC_SX466_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DYP9R6YT?tag=pepius-21"
+    },
+    {
+      "title": "Asus TUF Gaming 850W 80 Plus Gold Modular",
+      "old_price": 149.9,
+      "new_price": 119.9,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/71vHJrdANDL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BK541686?tag=pepius-21"
+    },
+    {
+      "title": "Corsair EX100U 1 to Disque de Stockage Portable - Ultrarapide avec n’Importe Quel PC/Mac/Console, Connexion Gen2 x2, avec Ses Câbles USB Type-C et USB Type-A Inclus - Noir",
+      "old_price": 111.88,
+      "new_price": 92.99,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/51D9G3a3xhL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BGJ2HWZX?tag=pepius-21"
+    },
+    {
+      "title": "Somfy 1870595 - Tahoma Switch | Commande Intelligente pour centraliser et connecter Votre logement | Compatible IO, RTS & Zigbee 3.0 | Contrôle à la Voix avec l'Assistant Google, Amazon Alexa HomeKit",
+      "old_price": 199,
+      "new_price": 164.42,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/51J1u8-QAyL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B08SM557DH?tag=pepius-21"
+    },
+    {
+      "title": "MSI MAG A750GL PCIE5 Alimentation, 750W, 80 Plus Gold, Entièrement modulaire, ATX 3.0, Support GPU PCIe 5.0, Ventilateur FDB 120mm, Full-Bridge LLC, câbles Plats Noirs - Garantie 7 Ans",
+      "old_price": 119.99,
+      "new_price": 100.66,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/71ZdU1FdcOL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C3M86HCB?tag=pepius-21"
+    },
+    {
+      "title": "RYOBI - Scie circulaire 18 Volts ONE+, - diamètre 150 mm + lame - R18CSP-0",
+      "old_price": 99.99,
+      "new_price": 85,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/81TsheRZrZL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B01N5OH8FT?tag=pepius-21"
+    },
+    {
+      "title": "JBL Flip 6 – Enceinte Bluetooth portable et étanche à l'eau et à la poussière - Haut-parleur haute fréquence pour des basses profondes - 12 heures d'autonomie - Camouflage",
+      "old_price": 149.99,
+      "new_price": 129.95,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/71RoVFKO66L._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B09NCDDM7T?tag=pepius-21"
+    },
+    {
+      "title": "Bose Enceinte Bluetooth SoundLink Micro : Petite Enceinte Portable Ã‰Tanche avec Microphone, Blanc",
+      "old_price": 99.95,
+      "new_price": 89.95,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/61EbrH+T8QL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B09R8LRZZQ?tag=pepius-21"
+    }
+  ]
+}
