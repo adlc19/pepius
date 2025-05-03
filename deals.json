@@ -909,14 +909,6 @@
       "link": "https://www.amazon.fr/dp/B08XQYXPLC?tag=pepius-21"
     },
     {
-      "title": "UGREEN 6 en 1 Multiprise avec Interrupteur 3680W 2 Prises Chargeur USB C 20W 3 Ports USB A Compatible avec iPhone 16 Plus Pro Max 15 14 iPad MacBook Pro Air Galaxy S25 S24 A15 Long Câble 1.5M",
-      "old_price": 27.99,
-      "new_price": 19.99,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/51+h7G0gCRL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D8W372GW?tag=pepius-21"
-    },
-    {
       "title": "eufy Camera Surveillance WiFi exterieure sans Fil Solaire SoloCam S220, résolution 2K, Compatibile avec Alexa, Wi-FI 2,4 GHz, sans Frais Mensuels",
       "old_price": 79.99,
       "new_price": 59.99,
@@ -933,6 +925,14 @@
       "link": "https://www.amazon.fr/dp/B0001IW7TI?tag=pepius-21"
     },
     {
+      "title": "Edifice Mixte Analogique-Numérique Quartz Montre avec Bracelet en Acier Inoxydable",
+      "old_price": 99,
+      "new_price": 76,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/61ndAVmuSFL._AC_SX522_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BM69RFJM?tag=pepius-21"
+    },
+    {
       "title": "Meuleuse compacte 18V LXT 76 mm (Produit seul) - MAKITA DMC300Z",
       "old_price": 155.89,
       "new_price": 124.5,
@@ -941,20 +941,20 @@
       "link": "https://www.amazon.fr/dp/B0CGRQPDRC?tag=pepius-21"
     },
     {
-      "title": "LEGO Super Mario World Mario et Yoshi - Set Collector Nintendo - Loisir Créatif pour Adultes Passionnés de Jeux Vidéo - Cadeau Homme et Femme Original pour Fans Nintendo 71438",
-      "old_price": 129.99,
-      "new_price": 106.99,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/81+eqMHK1TL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWH43WP4?tag=pepius-21"
-    },
-    {
       "title": "Sun Pastilles Lave-Vaisselle Classic, 160 tablettes, Efficace même pendant les cycles courts et à basse température, Produit fabriqué en France",
       "old_price": 12.95,
       "new_price": 10.62,
       "discount": 18,
       "image": "https://m.media-amazon.com/images/I/715PgGqOuFL._AC_SX466_.jpg",
       "link": "https://www.amazon.fr/dp/B0BYNVQ21N?tag=pepius-21"
+    },
+    {
+      "title": "LEGO Super Mario World Mario et Yoshi - Set Collector Nintendo - Loisir Créatif pour Adultes Passionnés de Jeux Vidéo - Cadeau Homme et Femme Original pour Fans Nintendo 71438",
+      "old_price": 129.99,
+      "new_price": 106.99,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/81+eqMHK1TL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CWH43WP4?tag=pepius-21"
     },
     {
       "title": "Ariete Pizza Four 918, Pizza 4 Minute, 5 Niveaux de Cuisson, Plaque Réfractaire pour Le Réchauffage, Lames en Bois Incluses, Température Maximale de 400°C, 1200W, Blanc",
