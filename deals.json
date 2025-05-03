@@ -917,20 +917,20 @@
       "link": "https://www.amazon.fr/dp/B0BZ4G7S3H?tag=pepius-21"
     },
     {
-      "title": "Stanley 0 69 253 Jeu de 10 clés mâles 1,5 à 10 mm",
-      "old_price": 11.9,
-      "new_price": 9.16,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/71UZxc+4KHL._AC_SY741_.jpg",
-      "link": "https://www.amazon.fr/dp/B0001IW7TI?tag=pepius-21"
-    },
-    {
       "title": "Edifice Mixte Analogique-Numérique Quartz Montre avec Bracelet en Acier Inoxydable",
       "old_price": 99,
       "new_price": 76,
       "discount": 23,
       "image": "https://m.media-amazon.com/images/I/61ndAVmuSFL._AC_SX522_.jpg",
       "link": "https://www.amazon.fr/dp/B0BM69RFJM?tag=pepius-21"
+    },
+    {
+      "title": "Stanley 0 69 253 Jeu de 10 clés mâles 1,5 à 10 mm",
+      "old_price": 11.9,
+      "new_price": 9.16,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/71UZxc+4KHL._AC_SY741_.jpg",
+      "link": "https://www.amazon.fr/dp/B0001IW7TI?tag=pepius-21"
     },
     {
       "title": "Meuleuse compacte 18V LXT 76 mm (Produit seul) - MAKITA DMC300Z",
@@ -957,36 +957,20 @@
       "link": "https://www.amazon.fr/dp/B0CWH43WP4?tag=pepius-21"
     },
     {
-      "title": "Ariete Pizza Four 918, Pizza 4 Minute, 5 Niveaux de Cuisson, Plaque Réfractaire pour Le Réchauffage, Lames en Bois Incluses, Température Maximale de 400°C, 1200W, Blanc",
-      "old_price": 110,
-      "new_price": 89.99,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/51rQ2eU5FZL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B09SZKQYYF?tag=pepius-21"
-    },
-    {
-      "title": "Eaton Onduleur Parafoudre 3S 550 FR - Off-line UPS - Alimentation Sans Interruption - Puissance 550VA (6 prises FR, Parasurtenseur, Silencieux) - Interface USB (câble inclus) - Noir&Blanc",
-      "old_price": 108.9,
-      "new_price": 89.95,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/71fHvqTt9lL._AC_SX450_.jpg",
-      "link": "https://www.amazon.fr/dp/B082TGVTMG?tag=pepius-21"
-    },
-    {
-      "title": "CORSAIR RM850e (2025) Alimentation ATX Entièrement Modulaire à Faible Bruit avec Câble 12V-2x6 – Compatible ATX 3.1 et PCIe 5.1, Efficacité Cybenetics Gold, Condensateurs Résistants à 105°C – Blanc",
-      "old_price": 149.9,
-      "new_price": 124.89,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/61hQEdnIrmL._AC_SX450_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3DSJWBG?tag=pepius-21"
-    },
-    {
       "title": "THE NORTH FACE NF00CF9C4GZ BOREALIS CLASSIC Sports backpack Homme TNF Black-Asphalt Grey- Taille OS",
       "old_price": 125,
       "new_price": 105,
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/71sanmbq3NL._AC_SY445_.jpg",
       "link": "https://www.amazon.fr/dp/B0D7HFJ1BF?tag=pepius-21"
+    },
+    {
+      "title": "AMD Ryzen 7 7800X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 8 Cœurs/16 Threads, 120W TDP, Socket AM5, Cache 104 Mo, Jusqu'à 5,0 GHz Fréquence Boost, sans Ventilateur)",
+      "old_price": 466,
+      "new_price": 410,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/51HqC0rU9HL._AC_SX450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BTZB7F88?tag=pepius-21"
     }
   ]
 }
