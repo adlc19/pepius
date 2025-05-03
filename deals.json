@@ -845,52 +845,68 @@
   ],
   "2025-05-03": [
     {
-      "title": "Logitech G502 HERO Souris Gamer Filaire Haute Performance, Capteur Gaming HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, PC/Mac - Noire : Logitech",
-      "old_price": 89.99,
-      "new_price": 44.89,
+      "title": "KitchenAid Batteur de bord flexible 5KFE5T (accessoire optionnel pour KitchenAid Batteurs sur socle), Blanc",
+      "old_price": 59,
+      "new_price": 20.58,
+      "discount": 65,
+      "image": "https://m.media-amazon.com/images/I/61UdfSJLPDL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B004YND1ZA?tag=pepius-21"
+    },
+    {
+      "title": "STAR WARS OUTLAWS PS5",
+      "old_price": 79.99,
+      "new_price": 29.89,
+      "discount": 63,
+      "image": "https://m.media-amazon.com/images/I/81tfQZp7J6L._AC_SX466_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D86Z3KQ5?tag=pepius-21"
+    },
+    {
+      "title": "Star Wars Outlaws - Limited Edition (Exclusivité Amazon ) - [PlayStation 5]",
+      "old_price": 79.99,
+      "new_price": 31.5,
+      "discount": 61,
+      "image": "https://m.media-amazon.com/images/I/819mhPeNZVL._AC_SX466_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CZXWZY4L?tag=pepius-21"
+    },
+    {
+      "title": "INIU 65W Chargeur USB C,GaN Ⅱ Tech 2-Port USB C-USB A Chargeur Rapide avec, Compact Gain de Place, pour MacBook iPad Pro/Air, iPhone 15 14 13 Pro Max, Galaxy S23 ect.",
+      "old_price": 29.99,
+      "new_price": 14.99,
       "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B07GS6ZB7T?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/71khleK9TVL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CB1GFV8J?tag=pepius-21"
     },
     {
-      "title": "Wirquin 39235003 Grille universelle de remplacement pour bonde d'évier D85, chromé",
-      "old_price": 7.99,
-      "new_price": 4.01,
+      "title": "Léon [4K Ultra HD + Blu-Ray-Version Longue]",
+      "old_price": 29.85,
+      "new_price": 14.99,
       "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/716E2RegUvL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B00ECXRTAU?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/71Mm0EAD1KL._AC_SY445_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCGMHYJ1?tag=pepius-21"
     },
     {
-      "title": "Rowenta X-Pert 7.60 Aspirateur Balai sans fil, Ultra Léger, Puissant 140W, Polyvalent, Autonomie 45min, Efficace tous Types de Sols, RH6A31WO, Violet",
-      "old_price": 199.99,
-      "new_price": 116.16,
-      "discount": 42,
-      "image": "https://m.media-amazon.com/images/I/71oTluV0-NL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D2J1BNY2?tag=pepius-21"
+      "title": "Crucial T500 SSD 4To PCIe Gen4 NVMe M.2 SSD Interne Gaming, jusqu’à 7000 Mo/s, TLC NAND, Compatible avec Ordinateur Portable et de Bureau, Disque Dur SSD, Microsoft DirectStorage - CT4000T500SSD3",
+      "old_price": 444.99,
+      "new_price": 277.75,
+      "discount": 38,
+      "image": "https://m.media-amazon.com/images/I/51ebi2G10TL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DBBG7CG7?tag=pepius-21"
     },
     {
-      "title": "Lenovo Tab M9 - Tablette Tactile 9'' HD (MediaTek Helio G80, 8Coeurs, 4Go de RAM, 64Go eMMC, Android 12, WiFi+Bluetooth) Étui Transparent + Film de Protection + Alimentation - Gris",
-      "old_price": 149.9,
-      "new_price": 99.9,
+      "title": "Tefal Classic 2 Cuiseur à riz, 5 L, 1,5 kg de riz, Automatique, Maintien au chaud, Sans surveillance, Cuve antiadhésive, Nettoyage facile, Panier vapeur, Noir RK103811",
+      "old_price": 53.84,
+      "new_price": 36,
       "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/61DavMpybfL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D3F1CN5T?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/51xVbgZrzLL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B00UICED5I?tag=pepius-21"
     },
     {
-      "title": "Tefal Couteau de cuisine Santoku 16,5 cm, Multiusages, Aiguiseur intégré, Technologie exclusive de verrouillage, Acier inoxydable allemand, Affûtage optimal, Etui innovant, Ever Sharp K2579024",
-      "old_price": 24.99,
-      "new_price": 16.99,
+      "title": "LEGO 10295 Icons Porsche 911 Voiture de Collection Jeu de Construction Adultes, Modèle 2en1 Turbo Targa à Collectionner",
+      "old_price": 229.99,
+      "new_price": 155.99,
       "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/61jYQRzPYAL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B09WB3724P?tag=pepius-21"
-    },
-    {
-      "title": "Nothing Phone (2a) 12+256GB - Telephone portable avec Nothing OS 2.5 - Blanc Cassé",
-      "old_price": 399,
-      "new_price": 279.9,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/519KVc-h8xL._AC_SX679_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CQ88L871?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/81MXX1cLC1L._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B08XQYXPLC?tag=pepius-21"
     },
     {
       "title": "UGREEN 6 en 1 Multiprise avec Interrupteur 3680W 2 Prises Chargeur USB C 20W 3 Ports USB A Compatible avec iPhone 16 Plus Pro Max 15 14 iPad MacBook Pro Air Galaxy S25 S24 A15 Long Câble 1.5M",
@@ -901,28 +917,20 @@
       "link": "https://www.amazon.fr/dp/B0D8W372GW?tag=pepius-21"
     },
     {
-      "title": "Citizen Automatic Watch NY0145-86E",
-      "old_price": 389,
-      "new_price": 279,
-      "discount": 28,
-      "image": "https://m.media-amazon.com/images/I/61lyFKmoxOL._AC_SY500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09GKYCR5N?tag=pepius-21"
-    },
-    {
-      "title": "Logitech G G502 X PLUS LIGHTSPEED Souris Gaming RVB Sans Fil - Souris optique boutons hybrides LIGHTFORCE, LIGHTSYNC RVB, Capteur gaming HERO 25K, Compatible avec PC - macOS/Windows - Noir",
-      "old_price": 169,
-      "new_price": 124.89,
-      "discount": 26,
-      "image": "https://m.media-amazon.com/images/I/61sLuO6LiAL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B07W7MJ46M?tag=pepius-21"
-    },
-    {
-      "title": "Pédale de distorsion classique DS-1 BOSS | Des sons à l'attaque acérée pour les rythmiques lourdes et les solos perçants | Un bouton TONE proposant de nombreuses options sonores",
-      "old_price": 102.14,
-      "new_price": 77,
+      "title": "eufy Camera Surveillance WiFi exterieure sans Fil Solaire SoloCam S220, résolution 2K, Compatibile avec Alexa, Wi-FI 2,4 GHz, sans Frais Mensuels",
+      "old_price": 79.99,
+      "new_price": 59.99,
       "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/6159VGqhLFL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0002KYY14?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/515ghdL4kpL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BZ4G7S3H?tag=pepius-21"
+    },
+    {
+      "title": "Stanley 0 69 253 Jeu de 10 clés mâles 1,5 à 10 mm",
+      "old_price": 11.9,
+      "new_price": 9.16,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/71UZxc+4KHL._AC_SY741_.jpg",
+      "link": "https://www.amazon.fr/dp/B0001IW7TI?tag=pepius-21"
     },
     {
       "title": "Stray PS5",
@@ -933,28 +941,20 @@
       "link": "https://www.amazon.fr/dp/B0B6XJFJ2V?tag=pepius-21"
     },
     {
-      "title": "Eaton Onduleur Parafoudre 3S 550 FR - Off-line UPS - Alimentation Sans Interruption - Puissance 550VA (6 prises FR, Parasurtenseur, Silencieux) - Interface USB (câble inclus) - Noir&Blanc",
-      "old_price": 108.9,
-      "new_price": 84.59,
-      "discount": 22,
-      "image": "https://m.media-amazon.com/images/I/71fHvqTt9lL._AC_SX450_.jpg",
-      "link": "https://www.amazon.fr/dp/B082TGVTMG?tag=pepius-21"
+      "title": "LEGO Super Mario World Mario et Yoshi - Set Collector Nintendo - Loisir Créatif pour Adultes Passionnés de Jeux Vidéo - Cadeau Homme et Femme Original pour Fans Nintendo 71438",
+      "old_price": 129.99,
+      "new_price": 106.99,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/81+eqMHK1TL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CWH43WP4?tag=pepius-21"
     },
     {
-      "title": "Unigloves Unicare Gants d'examen en nitrile - Polyvalents, sans poudre, gants jetables de qualité médicale - Boîte de 100 gants, bleu, taille XL (GS0035)",
-      "old_price": 7.29,
-      "new_price": 5.95,
+      "title": "Sun Pastilles Lave-Vaisselle Classic, 160 tablettes, Efficace même pendant les cycles courts et à basse température, Produit fabriqué en France",
+      "old_price": 12.95,
+      "new_price": 10.62,
       "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/61Ozu-zbK3L._SX342_.jpg",
-      "link": "https://www.amazon.fr/dp/B009H0KADQ?tag=pepius-21"
-    },
-    {
-      "title": "DREAME A1 Pro Tondeuse robotisée Intelligente, Tondeuse à Gazon robotisée sans Fil périmétrique, 2000 m², Contrôle Via App, OmniSense,Gestion intuitive des Zones, Évitement Intelligent des Obstacles",
-      "old_price": 1599,
-      "new_price": 1304,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/71wAZAxRpKL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DR35G7P3?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/715PgGqOuFL._AC_SX466_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYNVQ21N?tag=pepius-21"
     },
     {
       "title": "Ariete Pizza Four 918, Pizza 4 Minute, 5 Niveaux de Cuisson, Plaque Réfractaire pour Le Réchauffage, Lames en Bois Incluses, Température Maximale de 400°C, 1200W, Blanc",
@@ -965,12 +965,12 @@
       "link": "https://www.amazon.fr/dp/B09SZKQYYF?tag=pepius-21"
     },
     {
-      "title": "DREAME R20 Aspirateur Balai sans Fil puissante de 190AW, Autonomie 90min, Détection de saleté, Affichage LED, Lumières Bleues,Design Anti-emmêlement, Nettoyage de Maison,Poils et Tapis",
-      "old_price": 299,
-      "new_price": 248.99,
+      "title": "Eaton Onduleur Parafoudre 3S 550 FR - Off-line UPS - Alimentation Sans Interruption - Puissance 550VA (6 prises FR, Parasurtenseur, Silencieux) - Interface USB (câble inclus) - Noir&Blanc",
+      "old_price": 108.9,
+      "new_price": 89.95,
       "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/61oavcwlnlL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C5MDCNLZ?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/71fHvqTt9lL._AC_SX450_.jpg",
+      "link": "https://www.amazon.fr/dp/B082TGVTMG?tag=pepius-21"
     },
     {
       "title": "CORSAIR RM850e (2025) Alimentation ATX Entièrement Modulaire à Faible Bruit avec Câble 12V-2x6 – Compatible ATX 3.1 et PCIe 5.1, Efficacité Cybenetics Gold, Condensateurs Résistants à 105°C – Blanc",
@@ -981,36 +981,12 @@
       "link": "https://www.amazon.fr/dp/B0F3DSJWBG?tag=pepius-21"
     },
     {
-      "title": "Stanley SXWTD-FT585 2-en-1 Diable et Chariot Pliable - Diable Demenagement max. 70KG - Diable Pliant max. 137KG - Chariot de Transport Pliable - avec Roues Solides - Plastique/Acier",
-      "old_price": 94,
-      "new_price": 81.99,
-      "discount": 13,
-      "image": "https://m.media-amazon.com/images/I/61k3B-9645L._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B07R6SQZVP?tag=pepius-21"
-    },
-    {
-      "title": "Ryobi - Affleureuse à bois 18V - 30 000 tr/min - pince 6 mm - course berceau 38 mm - Livrée avec 1 pince de 6 mm, 1 méche de coupe, clé, guide - RTR18-0",
-      "old_price": 129.99,
-      "new_price": 114.72,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/71zA5th-StL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BHL455WJ?tag=pepius-21"
-    },
-    {
-      "title": "Rubson Frameto Stop-Rouille (bidon de 500 ml) – Traitement anti-rouille pour intérieur et extérieur – Convertisseur de rouille à effet immédiat, peut être peint",
-      "old_price": 15.9,
-      "new_price": 13.99,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/61ZU45mtu6L._AC_SY741_.jpg",
-      "link": "https://www.amazon.fr/dp/B0092MEQI4?tag=pepius-21"
-    },
-    {
-      "title": "Bosch WQG233D0FR - Série 6 - Sèche linge pompe à chaleur - 8kg - 112 L - Design AntiVibration - Blanc",
-      "old_price": 589.99,
-      "new_price": 516.99,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/71g2BdYGSdL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B09MJ8669M?tag=pepius-21"
+      "title": "THE NORTH FACE NF00CF9C4GZ BOREALIS CLASSIC Sports backpack Homme TNF Black-Asphalt Grey- Taille OS",
+      "old_price": 125,
+      "new_price": 105,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/71sanmbq3NL._AC_SY445_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HFJ1BF?tag=pepius-21"
     }
   ]
 }
