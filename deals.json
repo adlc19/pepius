@@ -941,14 +941,6 @@
       "link": "https://www.amazon.fr/dp/B082TGVTMG?tag=pepius-21"
     },
     {
-      "title": "BULLDOG Gel Douche Original",
-      "old_price": 4.85,
-      "new_price": 3.81,
-      "discount": 21,
-      "image": "https://m.media-amazon.com/images/I/617wdpOMAzL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
-    },
-    {
       "title": "Unigloves Unicare Gants d'examen en nitrile - Polyvalents, sans poudre, gants jetables de qualité médicale - Boîte de 100 gants, bleu, taille XL (GS0035)",
       "old_price": 7.29,
       "new_price": 5.95,
@@ -997,14 +989,6 @@
       "link": "https://www.amazon.fr/dp/B07R6SQZVP?tag=pepius-21"
     },
     {
-      "title": "Bosch WQG233D0FR - Série 6 - Sèche linge pompe à chaleur - 8kg - 112 L - Design AntiVibration - Blanc",
-      "old_price": 589.99,
-      "new_price": 516.99,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/71g2BdYGSdL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B09MJ8669M?tag=pepius-21"
-    },
-    {
       "title": "Ryobi - Affleureuse à bois 18V - 30 000 tr/min - pince 6 mm - course berceau 38 mm - Livrée avec 1 pince de 6 mm, 1 méche de coupe, clé, guide - RTR18-0",
       "old_price": 129.99,
       "new_price": 114.72,
@@ -1019,6 +1003,14 @@
       "discount": 12,
       "image": "https://m.media-amazon.com/images/I/61ZU45mtu6L._AC_SY741_.jpg",
       "link": "https://www.amazon.fr/dp/B0092MEQI4?tag=pepius-21"
+    },
+    {
+      "title": "Bosch WQG233D0FR - Série 6 - Sèche linge pompe à chaleur - 8kg - 112 L - Design AntiVibration - Blanc",
+      "old_price": 589.99,
+      "new_price": 516.99,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/71g2BdYGSdL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B09MJ8669M?tag=pepius-21"
     }
   ]
 }
