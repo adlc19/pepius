@@ -983,28 +983,12 @@
       "link": "https://www.amazon.fr/dp/B0C814DZ9D?tag=pepius-21"
     },
     {
-      "title": "Léon [4K Ultra HD + Blu-Ray-Version Longue]",
-      "old_price": 29.85,
-      "new_price": 14.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/71Mm0EAD1KL._AC_SY445_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCGMHYJ1?tag=pepius-21"
-    },
-    {
       "title": "MSI PRO MP161 E2 Moniteur Portable 15.6\" Full HD - Dalle IPS 1920x1080, 60Hz, Pratique (PC, Ordinateur Portable, Mobile), Haut-Parleurs, Cadre & Stand Améliorés - Mini-HDMI 2.0b, 2 x USB Type-C",
       "old_price": 179.99,
       "new_price": 98.99,
       "discount": 45,
       "image": "https://m.media-amazon.com/images/I/71-Z3SpqWuL._AC_SY450_.jpg",
       "link": "https://www.amazon.fr/dp/B0CPT96N3N?tag=pepius-21"
-    },
-    {
-      "title": "ASelected Corde à sauter réglable pour l'exercice et brûler les graisses – Câble métallique revêtu de PVC – Poignée en mousse à mémoire de forme – Rouge",
-      "old_price": 10.49,
-      "new_price": 5.99,
-      "discount": 43,
-      "image": "https://m.media-amazon.com/images/I/61JEqRn8AaL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C38XWJ5C?tag=pepius-21"
     },
     {
       "title": "ARNOLD 6011-X1-2002 Bidon Métallique, Noir, 20 L",
@@ -1069,6 +1053,14 @@
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/51BxNNStkyL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0B2WY7TTH?tag=pepius-21"
+    },
+    {
+      "title": "Fujifilm instax Mini Appareil Photo instantané 12, Exposition Automatique avec Objectif Selfie intégré, Vert Menthe",
+      "old_price": 89.99,
+      "new_price": 79.37,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/51NT2gBjpQL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BV6JGPTG?tag=pepius-21"
     },
     {
       "title": "FACOM Jeu de 4 Pinces - Pince Multiprise à Verrouillage, Pince Coupante Diagonale, Pince à Becs 1/2 Ronds et Pince Universelle - Haute Performance avec Poignée Confortable CPE.A4",
