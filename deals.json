@@ -845,14 +845,6 @@
   ],
   "2025-05-03": [
     {
-      "title": "ASelected Corde à sauter réglable pour l'exercice et brûler les graisses – Câble métallique revêtu de PVC – Poignée en mousse à mémoire de forme – Rouge",
-      "old_price": 29.95,
-      "new_price": 5.99,
-      "discount": 80,
-      "image": "https://m.media-amazon.com/images/I/61JEqRn8AaL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C38XWJ5C?tag=pepius-21"
-    },
-    {
       "title": "KitchenAid Batteur de bord flexible 5KFE5T (accessoire optionnel pour KitchenAid Batteurs sur socle), Blanc",
       "old_price": 59,
       "new_price": 20.58,
@@ -869,22 +861,6 @@
       "link": "https://www.amazon.fr/dp/B0D86Z3KQ5?tag=pepius-21"
     },
     {
-      "title": "Star Wars Outlaws - Limited Edition (Exclusivité Amazon ) - [PlayStation 5]",
-      "old_price": 79.99,
-      "new_price": 31.5,
-      "discount": 61,
-      "image": "https://m.media-amazon.com/images/I/819mhPeNZVL._AC_SX466_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZXWZY4L?tag=pepius-21"
-    },
-    {
-      "title": "INIU 65W Chargeur USB C,GaN Ⅱ Tech 2-Port USB C-USB A Chargeur Rapide avec, Compact Gain de Place, pour MacBook iPad Pro/Air, iPhone 15 14 13 Pro Max, Galaxy S23 ect.",
-      "old_price": 29.99,
-      "new_price": 14.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/71khleK9TVL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CB1GFV8J?tag=pepius-21"
-    },
-    {
       "title": "Léon [4K Ultra HD + Blu-Ray-Version Longue]",
       "old_price": 29.85,
       "new_price": 14.99,
@@ -893,28 +869,44 @@
       "link": "https://www.amazon.fr/dp/B0DCGMHYJ1?tag=pepius-21"
     },
     {
+      "title": "Amazon.fr : Castrol MAGNATEC 5W-30 A5, 5L",
+      "old_price": 65.34,
+      "new_price": 32.83,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/81y72X4ObSL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C814DZ9D?tag=pepius-21"
+    },
+    {
+      "title": "FACOM 006026 Décalaminage Moteur Intégral Essence, décrassant moteur-CURATIF-1L",
+      "old_price": 39.9,
+      "new_price": 19.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/71Nr8wH0+2L._AC_SY606_.jpg",
+      "link": "https://www.amazon.fr/dp/B08FLSJYR1?tag=pepius-21"
+    },
+    {
+      "title": "FACOM 006025 Décalaminage Moteur Intégral Diesel, décrassant moteur-CURATIF-1L",
+      "old_price": 39.9,
+      "new_price": 19.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/71M+lyit8gL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B08486T5Y2?tag=pepius-21"
+    },
+    {
       "title": "Crucial T500 SSD 4To PCIe Gen4 NVMe M.2 SSD Interne Gaming, jusqu’à 7000 Mo/s, TLC NAND, Compatible avec Ordinateur Portable et de Bureau, Disque Dur SSD, Microsoft DirectStorage - CT4000T500SSD3",
       "old_price": 444.99,
-      "new_price": 277.69,
+      "new_price": 277.63,
       "discount": 38,
       "image": "https://m.media-amazon.com/images/I/51ebi2G10TL._AC_SY355_.jpg",
       "link": "https://www.amazon.fr/dp/B0DBBG7CG7?tag=pepius-21"
     },
     {
-      "title": "Tefal Classic 2 Cuiseur à riz, 5 L, 1,5 kg de riz, Automatique, Maintien au chaud, Sans surveillance, Cuve antiadhésive, Nettoyage facile, Panier vapeur, Noir RK103811",
-      "old_price": 53.84,
-      "new_price": 36,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/51xVbgZrzLL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B00UICED5I?tag=pepius-21"
-    },
-    {
-      "title": "LEGO 10295 Icons Porsche 911 Voiture de Collection Jeu de Construction Adultes, Modèle 2en1 Turbo Targa à Collectionner",
-      "old_price": 229.99,
-      "new_price": 155.99,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/81MXX1cLC1L._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B08XQYXPLC?tag=pepius-21"
+      "title": "Makita DGA504Z - Mini-meuleuse à batterie 18V lithium-ion 125 mm BL seule machine sans chargeur ni batterie 60 x 450 mm,Noir",
+      "old_price": 179.37,
+      "new_price": 129.58,
+      "discount": 28,
+      "image": "https://m.media-amazon.com/images/I/51umwHo7blL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B00S6OMGY0?tag=pepius-21"
     },
     {
       "title": "eufy Camera Surveillance WiFi exterieure sans Fil Solaire SoloCam S220, résolution 2K, Compatibile avec Alexa, Wi-FI 2,4 GHz, sans Frais Mensuels",
@@ -933,52 +925,44 @@
       "link": "https://www.amazon.fr/dp/B0BM69RFJM?tag=pepius-21"
     },
     {
-      "title": "Stanley 0 69 253 Jeu de 10 clés mâles 1,5 à 10 mm",
-      "old_price": 11.9,
-      "new_price": 9.16,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/71UZxc+4KHL._AC_SY741_.jpg",
-      "link": "https://www.amazon.fr/dp/B0001IW7TI?tag=pepius-21"
+      "title": "The Hobbit Trilogy: Steelbook Collection [Theatrical and Extended Edition] [4K Ultra HD] [2012] [Blu-ray] [Region Free]: DVD et Blu-ray",
+      "old_price": 147.68,
+      "new_price": 119.2,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/81TzzNoicZL._AC_SX385_.jpg",
+      "link": "https://www.amazon.fr/dp/B08KJ9L8DV?tag=pepius-21"
     },
     {
-      "title": "Sun Pastilles Lave-Vaisselle Classic, 160 tablettes, Efficace même pendant les cycles courts et à basse température, Produit fabriqué en France",
-      "old_price": 12.95,
-      "new_price": 10.62,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/715PgGqOuFL._AC_SX466_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYNVQ21N?tag=pepius-21"
+      "title": "Sauter - SPI4360X - Plaque Induction - Table de Cuisson - Couleur Inox - 3 Foyers - 7200W - Dimensions Encastrement : 56x49cm - Grand Foyer 28 cm et 14 Positions Cuissons - Fabriqué en France",
+      "old_price": 326.77,
+      "new_price": 279.99,
+      "discount": 14,
+      "image": "https://m.media-amazon.com/images/I/51CRBQiHzfL._AC_SX342_.jpg",
+      "link": "https://www.amazon.fr/dp/B010OTZZBA?tag=pepius-21"
     },
     {
-      "title": "LEGO Super Mario World Mario et Yoshi - Set Collector Nintendo - Loisir Créatif pour Adultes Passionnés de Jeux Vidéo - Cadeau Homme et Femme Original pour Fans Nintendo 71438",
-      "old_price": 129.99,
-      "new_price": 106.99,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/81+eqMHK1TL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWH43WP4?tag=pepius-21"
+      "title": "Garmin Forerunner 255, Music - Montre GPS Multisports connectée de Running – Noire – Boitier 46 mm",
+      "old_price": 399.99,
+      "new_price": 349,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/51BxNNStkyL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B2WY7TTH?tag=pepius-21"
     },
     {
-      "title": "THE NORTH FACE NF00CF9C4GZ BOREALIS CLASSIC Sports backpack Homme TNF Black-Asphalt Grey- Taille OS",
-      "old_price": 125,
-      "new_price": 105,
-      "discount": 16,
-      "image": "https://m.media-amazon.com/images/I/71sanmbq3NL._AC_SY445_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D7HFJ1BF?tag=pepius-21"
+      "title": "FACOM Jeu de 4 Pinces - Pince Multiprise à Verrouillage, Pince Coupante Diagonale, Pince à Becs 1/2 Ronds et Pince Universelle - Haute Performance avec Poignée Confortable CPE.A4",
+      "old_price": 129.47,
+      "new_price": 114.9,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/71bT7BEJAYL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B07C67212C?tag=pepius-21"
     },
     {
-      "title": "Meuleuse compacte 18V LXT 76 mm (Produit seul) - MAKITA DMC300Z",
-      "old_price": 155.89,
-      "new_price": 131.96,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/61DbeGKW-tL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CGRQPDRC?tag=pepius-21"
-    },
-    {
-      "title": "AMD Ryzen 7 7800X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 8 Cœurs/16 Threads, 120W TDP, Socket AM5, Cache 104 Mo, Jusqu'à 5,0 GHz Fréquence Boost, sans Ventilateur)",
-      "old_price": 466,
-      "new_price": 410,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/51HqC0rU9HL._AC_SX450_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BTZB7F88?tag=pepius-21"
+      "title": "Xiaomi Redmi Watch 5 Active - Écran LCD 2,0\", 18 Jours d'Autonomie, Appels Bluetooth, Étanche 5ATM, Suivi Santé (Cardiaque, SPO₂, Sommeil), Garantie 2 Ans (Noir)",
+      "old_price": 39.99,
+      "new_price": 35.99,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/61sTOZCxuUL._AC_SY879_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DFZPR9Z4?tag=pepius-21"
     }
   ]
 }
