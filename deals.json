@@ -845,28 +845,12 @@
   ],
   "2025-05-03": [
     {
-      "title": "STAR WARS OUTLAWS PS5",
-      "old_price": 79.99,
-      "new_price": 29.89,
-      "discount": 63,
-      "image": "https://m.media-amazon.com/images/I/81tfQZp7J6L._AC_SX466_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D86Z3KQ5?tag=pepius-21"
-    },
-    {
-      "title": "FACOM 006026 Décalaminage Moteur Intégral Essence, décrassant moteur-CURATIF-1L",
-      "old_price": 39.9,
-      "new_price": 19.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/71Nr8wH0+2L._AC_SY606_.jpg",
-      "link": "https://www.amazon.fr/dp/B08FLSJYR1?tag=pepius-21"
-    },
-    {
-      "title": "FACOM 006025 Décalaminage Moteur Intégral Diesel, décrassant moteur-CURATIF-1L",
-      "old_price": 39.9,
-      "new_price": 19.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/71M+lyit8gL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B08486T5Y2?tag=pepius-21"
+      "title": "Logitech Desk Mat - Studio Series, Large Tapis de Bureau Multifonctionnel et Etendu, Protection Bureau avec Base Anti-Dérapage, Design Durable et Imperméable - Gris",
+      "old_price": 21.99,
+      "new_price": 9.99,
+      "discount": 55,
+      "image": "https://m.media-amazon.com/images/I/510xGGdgocL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B07W5JK3Z2?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : Castrol MAGNATEC 5W-30 A5, 5L",
@@ -875,6 +859,14 @@
       "discount": 50,
       "image": "https://m.media-amazon.com/images/I/81y72X4ObSL._AC_SY450_.jpg",
       "link": "https://www.amazon.fr/dp/B0C814DZ9D?tag=pepius-21"
+    },
+    {
+      "title": "FACOM 006026 Décalaminage Moteur Intégral Essence, décrassant moteur-CURATIF-1L",
+      "old_price": 39.9,
+      "new_price": 19.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/71Nr8wH0+2L._AC_SY606_.jpg",
+      "link": "https://www.amazon.fr/dp/B08FLSJYR1?tag=pepius-21"
     },
     {
       "title": "Léon [4K Ultra HD + Blu-Ray-Version Longue]",
