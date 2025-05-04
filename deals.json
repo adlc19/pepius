@@ -845,6 +845,14 @@
   ],
   "2025-05-03": [
     {
+      "title": "ASelected Corde à sauter réglable pour l'exercice et brûler les graisses – Câble métallique revêtu de PVC – Poignée en mousse à mémoire de forme – Rouge",
+      "old_price": 29.95,
+      "new_price": 5.99,
+      "discount": 80,
+      "image": "https://m.media-amazon.com/images/I/61JEqRn8AaL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C38XWJ5C?tag=pepius-21"
+    },
+    {
       "title": "KitchenAid Batteur de bord flexible 5KFE5T (accessoire optionnel pour KitchenAid Batteurs sur socle), Blanc",
       "old_price": 59,
       "new_price": 20.58,
@@ -933,14 +941,6 @@
       "link": "https://www.amazon.fr/dp/B0001IW7TI?tag=pepius-21"
     },
     {
-      "title": "Meuleuse compacte 18V LXT 76 mm (Produit seul) - MAKITA DMC300Z",
-      "old_price": 155.89,
-      "new_price": 124.5,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/61DbeGKW-tL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CGRQPDRC?tag=pepius-21"
-    },
-    {
       "title": "Sun Pastilles Lave-Vaisselle Classic, 160 tablettes, Efficace même pendant les cycles courts et à basse température, Produit fabriqué en France",
       "old_price": 12.95,
       "new_price": 10.62,
@@ -963,6 +963,14 @@
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/71sanmbq3NL._AC_SY445_.jpg",
       "link": "https://www.amazon.fr/dp/B0D7HFJ1BF?tag=pepius-21"
+    },
+    {
+      "title": "Meuleuse compacte 18V LXT 76 mm (Produit seul) - MAKITA DMC300Z",
+      "old_price": 155.89,
+      "new_price": 131.96,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/61DbeGKW-tL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CGRQPDRC?tag=pepius-21"
     },
     {
       "title": "AMD Ryzen 7 7800X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 8 Cœurs/16 Threads, 120W TDP, Socket AM5, Cache 104 Mo, Jusqu'à 5,0 GHz Fréquence Boost, sans Ventilateur)",
