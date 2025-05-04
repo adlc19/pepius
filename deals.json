@@ -845,36 +845,12 @@
   ],
   "2025-05-03": [
     {
-      "title": "KitchenAid Batteur de bord flexible 5KFE5T (accessoire optionnel pour KitchenAid Batteurs sur socle), Blanc",
-      "old_price": 59,
-      "new_price": 20.58,
-      "discount": 65,
-      "image": "https://m.media-amazon.com/images/I/61UdfSJLPDL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B004YND1ZA?tag=pepius-21"
-    },
-    {
       "title": "STAR WARS OUTLAWS PS5",
       "old_price": 79.99,
       "new_price": 29.89,
       "discount": 63,
       "image": "https://m.media-amazon.com/images/I/81tfQZp7J6L._AC_SX466_.jpg",
       "link": "https://www.amazon.fr/dp/B0D86Z3KQ5?tag=pepius-21"
-    },
-    {
-      "title": "Léon [4K Ultra HD + Blu-Ray-Version Longue]",
-      "old_price": 29.85,
-      "new_price": 14.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/71Mm0EAD1KL._AC_SY445_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCGMHYJ1?tag=pepius-21"
-    },
-    {
-      "title": "Amazon.fr : Castrol MAGNATEC 5W-30 A5, 5L",
-      "old_price": 65.34,
-      "new_price": 32.83,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/81y72X4ObSL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C814DZ9D?tag=pepius-21"
     },
     {
       "title": "FACOM 006026 Décalaminage Moteur Intégral Essence, décrassant moteur-CURATIF-1L",
@@ -893,12 +869,20 @@
       "link": "https://www.amazon.fr/dp/B08486T5Y2?tag=pepius-21"
     },
     {
-      "title": "Crucial T500 SSD 4To PCIe Gen4 NVMe M.2 SSD Interne Gaming, jusqu’à 7000 Mo/s, TLC NAND, Compatible avec Ordinateur Portable et de Bureau, Disque Dur SSD, Microsoft DirectStorage - CT4000T500SSD3",
-      "old_price": 444.99,
-      "new_price": 277.63,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/51ebi2G10TL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DBBG7CG7?tag=pepius-21"
+      "title": "Amazon.fr : Castrol MAGNATEC 5W-30 A5, 5L",
+      "old_price": 65.34,
+      "new_price": 32.83,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/81y72X4ObSL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C814DZ9D?tag=pepius-21"
+    },
+    {
+      "title": "Léon [4K Ultra HD + Blu-Ray-Version Longue]",
+      "old_price": 29.85,
+      "new_price": 14.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/71Mm0EAD1KL._AC_SY445_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCGMHYJ1?tag=pepius-21"
     },
     {
       "title": "Makita DGA504Z - Mini-meuleuse à batterie 18V lithium-ion 125 mm BL seule machine sans chargeur ni batterie 60 x 450 mm,Noir",
