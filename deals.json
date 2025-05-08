@@ -1089,6 +1089,14 @@
   ],
   "2025-05-08": [
     {
+      "title": "Adidas - Gel Douche - Power Booster - 250 ML",
+      "old_price": 37.35,
+      "new_price": 1.47,
+      "discount": 96,
+      "image": "https://m.media-amazon.com/images/I/71y3aov7RGL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BNNPZX4N?tag=pepius-21"
+    },
+    {
       "title": "Clauss 18856 Outil de peintre 14-en-1 anti-adhérent au titane avec tournevis plat et cruciforme",
       "old_price": 19.78,
       "new_price": 8.79,
@@ -1111,14 +1119,6 @@
       "discount": 50,
       "image": "https://m.media-amazon.com/images/I/71KnJj9BPWL._AC_SY450_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJ9TMZT3?tag=pepius-21"
-    },
-    {
-      "title": "Spigen Aqua Shield Lot de 2 Sacs Etanches Impermeables Certifiée IPX8",
-      "old_price": 20.99,
-      "new_price": 11,
-      "discount": 48,
-      "image": "https://m.media-amazon.com/images/I/71GvSnWufqL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B09Y8Y8RTD?tag=pepius-21"
     },
     {
       "title": "D-Link DGS-105 Switch 5 Ports Gigabit Metallique 10/100/1000mbps - Idéal Partage de Connexion et Mise en Réseau Small/Home Office",
@@ -1191,6 +1191,14 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/51ecD4M2bLL._AC_SY355_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7DQJQL?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : Favoto Housse de Moto Couverture XL Imperméable à la Poussière, au Soleil, à la Pluie, au Vent, à la Neige avec Bandes Réfléchissantes Noir 220x102x122cm",
+      "old_price": 18.89,
+      "new_price": 15.11,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/614jIiiA5kL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B1PRQVGW?tag=pepius-21"
     },
     {
       "title": "ASUS RT-BE92U - Routeur Wi-FI 7 Extensible - Tri-Bande BE9700, 320MHz & 4096-QAM, MLO, AI WAN Detection, AiMesh, Abonnement Gratuit à la sécurité réseau,VPNs",
