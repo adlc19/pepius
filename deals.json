@@ -1089,14 +1089,6 @@
   ],
   "2025-05-08": [
     {
-      "title": "NGOKPYD N10 Mini Torche LED Puissante Rechargeable USB C avec Rouge Bleue Flash Light, Lampe de Poche 900 Lumens, Multifonctionnelle Lampe Porte-Clés, Keychain Light pour Camping, Randonnée Cadeaux",
-      "old_price": 15.99,
-      "new_price": 5.99,
-      "discount": 63,
-      "image": "https://m.media-amazon.com/images/I/717-HqnREUL._AC_SX342_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CFPZ73LZ?tag=pepius-21"
-    },
-    {
       "title": "Clauss 18856 Outil de peintre 14-en-1 anti-adhérent au titane avec tournevis plat et cruciforme",
       "old_price": 19.78,
       "new_price": 8.79,
@@ -1185,6 +1177,14 @@
       "link": "https://www.amazon.fr/dp/B07YDVNLLB?tag=pepius-21"
     },
     {
+      "title": "SanDisk Extreme PRO 512 Go microSDXC, Carte micro sd + adaptateur SD (Pour smartphone, caméra d'action ou droner, jusqu'à 200 Mo/s) RescuePRO Deluxe UHS-I, Class 10, U3",
+      "old_price": 59,
+      "new_price": 44.88,
+      "discount": 24,
+      "image": "https://m.media-amazon.com/images/I/51ecD4M2bLL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B09X7DQJQL?tag=pepius-21"
+    },
+    {
       "title": "Seagate IronWolf 6To, Disque dur interne NAS HDD, CMR 3.5 Pouces, SATA 6Goit/s 7200 tr/min, 256 Mo de mémoire cache, pour NAS RAID, Ouverture Facile, Services Rescue (ST6000VNZ06)",
       "old_price": 184.99,
       "new_price": 145.99,
@@ -1201,12 +1201,20 @@
       "link": "https://www.amazon.fr/dp/B0DCW24G67?tag=pepius-21"
     },
     {
-      "title": "Samsung SSD Interne 9100 Pro, NVMe 2.0 PCIe 5.0x4, Capacité 2To, Vitesse de Lecture jusqu'à 14 800 Mo/s, Les Performances de la Gen5 sur PC et PS5, MZ-VAP2T0BW",
-      "old_price": 229.99,
-      "new_price": 198.99,
-      "discount": 13,
-      "image": "https://m.media-amazon.com/images/I/71CjB6QizAL._AC_SX450_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DWFLPMM5?tag=pepius-21"
+      "title": "ASUS RT-BE92U - Routeur Wi-FI 7 Extensible - Tri-Bande BE9700, 320MHz & 4096-QAM, MLO, AI WAN Detection, AiMesh, Abonnement Gratuit à la sécurité réseau,VPNs",
+      "old_price": 250.88,
+      "new_price": 209.99,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/61WJ7bgUJrL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B09T9BMKR3?tag=pepius-21"
+    },
+    {
+      "title": "NGOKPYD N10 Mini Torche Cadeau Fete des Peres LED Puissante Rechargeable USB C avec Rouge Bleue Flash Light, Lampe de Poche 900 Lumens, Multifonctionnelle Lampe Porte-Clés(Noir)",
+      "old_price": 19.99,
+      "new_price": 16.99,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/71ePEiazzZL._AC_SX342_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CFPZ73LZ?tag=pepius-21"
     },
     {
       "title": "Amazon Basics Lot de 24 piles rechargeables AAA NiMH haute capacité, 850 mAh, rechargeables jusqu'à 500 fois, préchargées",
