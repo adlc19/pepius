@@ -1089,14 +1089,6 @@
   ],
   "2025-05-08": [
     {
-      "title": "NGOKPYD N10 Mini Torche LED Puissante Rechargeable USB C avec Rouge Bleue Flash Light, Lampe de Poche 900 Lumens, Multifonctionnelle Lampe Porte-Clés, Keychain Light pour Camping, Randonnée Cadeaux",
-      "old_price": 15.99,
-      "new_price": 5.99,
-      "discount": 63,
-      "image": "https://m.media-amazon.com/images/I/717-HqnREUL._AC_SX342_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CFPZ73LZ?tag=pepius-21"
-    },
-    {
       "title": "Clauss 18856 Outil de peintre 14-en-1 anti-adhérent au titane avec tournevis plat et cruciforme",
       "old_price": 19.78,
       "new_price": 8.79,
@@ -1199,6 +1191,14 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/51ecD4M2bLL._AC_SY355_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7DQJQL?tag=pepius-21"
+    },
+    {
+      "title": "NGOKPYD N10 Mini Torche LED Puissante Rechargeable USB C avec Rouge Bleue Flash Light, Lampe de Poche 900 Lumens, Multifonctionnelle Lampe Porte-Clés, Keychain Light pour Camping, Randonnée Cadeaux",
+      "old_price": 19.99,
+      "new_price": 15.99,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/717-HqnREUL._AC_SX342_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CFPZ73LZ?tag=pepius-21"
     },
     {
       "title": "HP OMEN 16-wf0000sf 16.1\" 2560 x 1440 Pixels Intel Core i7-13700HX 32Go 1000Go SSD NVIDIA GeForce RTX 4080 Windows 11 Home",
