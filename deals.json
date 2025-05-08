@@ -1145,6 +1145,14 @@
       "link": "https://www.amazon.fr/dp/B0054PSH2E?tag=pepius-21"
     },
     {
+      "title": "GVS Masque Elipse SPR501 avec filtres P3, M/L",
+      "old_price": 35.1,
+      "new_price": 22.42,
+      "discount": 36,
+      "image": "https://m.media-amazon.com/images/I/71ezvtBltfL._SX342_.jpg",
+      "link": "https://www.amazon.fr/dp/B013EBHHH0?tag=pepius-21"
+    },
+    {
       "title": "Amazfit GTR 3 Pro, 46mm, Montre Connectée Homme avec Alexa, AMOLED, SpO2,150+ Modes Sportifs, GPS, Appels Bluetooth, Stockage de Musique, Autonomie de 12 Jours, Version Française(Braun)",
       "old_price": 149.9,
       "new_price": 99.9,
@@ -1159,14 +1167,6 @@
       "discount": 31,
       "image": "https://m.media-amazon.com/images/I/81+OXmK2DhL._AC_SY450_.jpg",
       "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
-    },
-    {
-      "title": "Weber Cheminée d'allumage, Rapidfire Starter - Grand (32cm de hauteur), allume-feu compact avec deux poignées, barbecues à charbon Ø 47cm et +, aide à l'allumage pour charbon et briquettes - (7416)",
-      "old_price": 29.99,
-      "new_price": 20.99,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/717-gK-LVpL._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B000WEOQV8?tag=pepius-21"
     },
     {
       "title": "Casio Montre Unisexe MQ-24-7BLL",
@@ -1193,28 +1193,20 @@
       "link": "https://www.amazon.fr/dp/B09X7DQJQL?tag=pepius-21"
     },
     {
-      "title": "NGOKPYD N10 Mini Torche LED Puissante Rechargeable USB C avec Rouge Bleue Flash Light, Lampe de Poche 900 Lumens, Multifonctionnelle Lampe Porte-Clés, Keychain Light pour Camping, Randonnée Cadeaux",
-      "old_price": 19.99,
-      "new_price": 15.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/717-HqnREUL._AC_SX342_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CFPZ73LZ?tag=pepius-21"
-    },
-    {
-      "title": "HP OMEN 16-wf0000sf 16.1\" 2560 x 1440 Pixels Intel Core i7-13700HX 32Go 1000Go SSD NVIDIA GeForce RTX 4080 Windows 11 Home",
-      "old_price": 2999,
-      "new_price": 2399,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/71hHf8Q+zIL._AC_SX355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCW24G67?tag=pepius-21"
-    },
-    {
       "title": "ASUS RT-BE92U - Routeur Wi-FI 7 Extensible - Tri-Bande BE9700, 320MHz & 4096-QAM, MLO, AI WAN Detection, AiMesh, Abonnement Gratuit à la sécurité réseau,VPNs",
       "old_price": 250.88,
       "new_price": 209.99,
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/61WJ7bgUJrL._AC_SY450_.jpg",
       "link": "https://www.amazon.fr/dp/B09T9BMKR3?tag=pepius-21"
+    },
+    {
+      "title": "NGOKPYD N10 Mini Torche Cadeau Fete des Peres LED Puissante Rechargeable USB C avec Rouge Bleue Flash Light, Lampe de Poche 900 Lumens, Multifonctionnelle Lampe Porte-Clés(Noir)",
+      "old_price": 19.99,
+      "new_price": 16.99,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/71ePEiazzZL._AC_SX342_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CFPZ73LZ?tag=pepius-21"
     },
     {
       "title": "Amazon Basics Lot de 24 piles rechargeables AAA NiMH haute capacité, 850 mAh, rechargeables jusqu'à 500 fois, préchargées",
