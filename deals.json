@@ -1211,12 +1211,12 @@
   ],
   "2025-05-09": [
     {
-      "title": "NIVEA MEN Déodorant Bille Black & White Invisible (6 x 50ml), déodorant homme anti-traces blanches et jaunes, anti-transpirant anti odeur & humidité, protection efficace 72 h, sans alcool",
-      "old_price": 55.63,
-      "new_price": 16.69,
-      "discount": 70,
-      "image": "https://m.media-amazon.com/images/I/71bZI8mGPJL._AC_SY355_PIbundle-6,TopRight,0,0_SH20_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYMN92DD?tag=pepius-21"
+      "title": "Spigen Sac étanche Aqua Shield Sac à Dos 30L - Noir",
+      "old_price": 38.99,
+      "new_price": 19,
+      "discount": 51,
+      "image": "https://m.media-amazon.com/images/I/71tXgPeu79L._AC_SX342_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CT471FTQ?tag=pepius-21"
     },
     {
       "title": "INTIMY - 7 Préservatifs classic - Préservatifs Lubrifiés Avec Réservoir - Surface Lisse - Latex de Qualité Supérieure",
@@ -1259,20 +1259,20 @@
       "link": "https://www.amazon.fr/dp/B0C7GJXWQZ?tag=pepius-21"
     },
     {
+      "title": "Asmodee - Sea, Salt & Paper - Jeu de Société Captivant pour Enfants dès 8 Ans - Jeu de Cartes - pour Les Amateurs de Jeux Stratégiques - Partie de 30 Min - 2 à 4 Joueurs - Version Française - Bombyx",
+      "old_price": 12.5,
+      "new_price": 7.99,
+      "discount": 36,
+      "image": "https://m.media-amazon.com/images/I/61TLkaoFjPL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJ32SXGH?tag=pepius-21"
+    },
+    {
       "title": "LIMBALAY Chaise de Bureau Ergonomique Blanche avec Support Lombaire, Appui-tête et Accoudoirs Réglables, Fauteuil Bureau en Maille Respirante, Chaise d'ordinateur",
       "old_price": 109.99,
       "new_price": 69.99,
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/71piaWWan-L._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0DM97LXDV?tag=pepius-21"
-    },
-    {
-      "title": "Asus Zenbook 14 UM3406HA-QD048W OLED 14 WUXGA PC Portable (AMD Ryzen 7 8840HS 5.1Ghz, 16 Go RAM DDR5X, 512 Go SSD, AMD Radeon Graphics, Windows 11 Home) - Clavier AZERTY - Noir",
-      "old_price": 1299.99,
-      "new_price": 869.99,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/71CADXfowNL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DD4DQ7L1?tag=pepius-21"
     },
     {
       "title": "MANIX Pure Gel : Lubrifiant Intime (200mL) à Base d'Eau / Compatible avec les Préservatifs / Idéal pour les Rapports Vaginaux et Anaux",
@@ -1297,6 +1297,14 @@
       "discount": 22,
       "image": "https://m.media-amazon.com/images/I/711yYhjAZEL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0CRTNQW24?tag=pepius-21"
+    },
+    {
+      "title": "Brothers In Arms: Dire Straits",
+      "old_price": 8.77,
+      "new_price": 6.99,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/61pwgMVzDLL._SX355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0000242CG?tag=pepius-21"
     },
     {
       "title": "Samsung Téléviseur TQ65QN85D 65\" (65 Pouces) Neo QLED 4K Smart TV 2024",
