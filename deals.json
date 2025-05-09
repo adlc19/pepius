@@ -1231,7 +1231,7 @@
       "old_price": 19.99,
       "new_price": 9.99,
       "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/71pdt+Nq2BL._AC_SY300_SX300_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71pdt+Nq2BL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0BYS5SPQP?tag=pepius-21"
     },
     {
@@ -1241,14 +1241,6 @@
       "discount": 44,
       "image": "https://m.media-amazon.com/images/I/61QLmqZ1b3L._SX342_.jpg",
       "link": "https://www.amazon.fr/dp/B00LUGLSB8?tag=pepius-21"
-    },
-    {
-      "title": "Panasonic TX-55MZ700E, 55 Pouces 4K Smart 2023 TV Ultra HD OLED, High Dynamic Range (HDR), Dolby Atmos & Dolby Vision, Android TV, Google Assistant, Chromecast, Socle 2 Pieds, Noir",
-      "old_price": 1407.04,
-      "new_price": 799,
-      "discount": 43,
-      "image": "https://m.media-amazon.com/images/I/71KG2bWqN+L._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CB92VQV3?tag=pepius-21"
     },
     {
       "title": "ViewSonic VX2780J-2K Moniteur de Jeu QHD IPS Plat 1 ms MPRT 170 Hz 27 Pouces sans Cadre, 2 Ports HDMI, DisplayPort, Freesync Premium, HDR10, Support réglable en Hauteur",
@@ -1265,14 +1257,6 @@
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/71piaWWan-L._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0DM97LXDV?tag=pepius-21"
-    },
-    {
-      "title": "GVS Masque Elipse SPR501 avec filtres P3, M/L",
-      "old_price": 35.1,
-      "new_price": 22.42,
-      "discount": 36,
-      "image": "https://m.media-amazon.com/images/I/71ezvtBltfL._SX342_.jpg",
-      "link": "https://www.amazon.fr/dp/B013EBHHH0?tag=pepius-21"
     },
     {
       "title": "Asus Zenbook 14 UM3406HA-QD048W OLED 14 WUXGA PC Portable (AMD Ryzen 7 8840HS 5.1Ghz, 16 Go RAM DDR5X, 512 Go SSD, AMD Radeon Graphics, Windows 11 Home) - Clavier AZERTY - Noir",
