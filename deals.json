@@ -1251,14 +1251,6 @@
       "link": "https://www.amazon.fr/dp/B0BYS5SPQP?tag=pepius-21"
     },
     {
-      "title": "Coffret 12 Forets et 5 Outils Burinage SDS-PLUS MAKITA - D-42444",
-      "old_price": 51.19,
-      "new_price": 28.63,
-      "discount": 44,
-      "image": "https://m.media-amazon.com/images/I/61QLmqZ1b3L._SX342_.jpg",
-      "link": "https://www.amazon.fr/dp/B00LUGLSB8?tag=pepius-21"
-    },
-    {
       "title": "Asmodee - Sea, Salt & Paper - Jeu de Société Captivant pour Enfants dès 8 Ans - Jeu de Cartes - pour Les Amateurs de Jeux Stratégiques - Partie de 30 Min - 2 à 4 Joueurs - Version Française - Bombyx",
       "old_price": 12.5,
       "new_price": 7.99,
@@ -1281,6 +1273,14 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/61H+bt5mu+L._AC_SY355_.jpg",
       "link": "https://www.amazon.fr/dp/B07XDD2QMB?tag=pepius-21"
+    },
+    {
+      "title": "Naturé Moi - Shampooing Nourrissant - Soin Cheveux Secs et Abîmés - Shampooing Sans Sulfate - Nourrit et Répare - Abricot et Huile de Sésame Bio - 95% d'Origine Naturelle - 250 ml - Fabriqué en France",
+      "old_price": 2.55,
+      "new_price": 1.84,
+      "discount": 28,
+      "image": "https://m.media-amazon.com/images/I/71POXAx-4VL._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0756D4Y21?tag=pepius-21"
     },
     {
       "title": "Amazon Basics Coffret tournevis de précision et embouts, 51 pièces , Noir, Rouge, Argenté",
@@ -1323,12 +1323,12 @@
       "link": "https://www.amazon.fr/dp/B0CH1JW2CW?tag=pepius-21"
     },
     {
-      "title": "Seagate Game Drive pour PS4/PS5 5To, Disque Dur Externe, 2.5 Pouces, USB 3.0, sous Licence Officielle, éclairage LED Bleu, INCL. 2 semaines Playstation+ (STLV5000202)",
-      "old_price": 185.26,
-      "new_price": 156.99,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/61QAwRdMkZL._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CQD377LS?tag=pepius-21"
+      "title": "Tefal Ice Force Set de 4 couteaux de cuisine, Lame acier inoxydable allemand, Garantie 10 ans, Coupe et tranchant haute performance K2324S74",
+      "old_price": 34.99,
+      "new_price": 29.99,
+      "discount": 14,
+      "image": "https://m.media-amazon.com/images/I/513DU5ubmLL._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B08C3LG77S?tag=pepius-21"
     },
     {
       "title": "MERACH Rameur Silencieux avec Rail Rallongé de 130CM, Magnétique Puissant à 16 Niveaux et Capacité de Charge de 160KG",
