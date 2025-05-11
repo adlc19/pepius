@@ -1352,12 +1352,28 @@
       "link": "https://www.amazon.fr/dp/B07JKB2H59?tag=pepius-21"
     },
     {
+      "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
+      "old_price": 21.99,
+      "new_price": 9.99,
+      "discount": 55,
+      "image": "https://m.media-amazon.com/images/I/51WpAn-YF8L._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B07RL6YQCK?tag=pepius-21"
+    },
+    {
       "title": "Forte Winner Armoire 170, Portes Coulissantes, Style Moderne, Chêne Sable, 170x190.5x61cm",
       "old_price": 325,
       "new_price": 157.25,
       "discount": 52,
       "image": "https://m.media-amazon.com/images/I/71RhCGGghHL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQ2MXCCV?tag=pepius-21"
+    },
+    {
+      "title": "Spigen Aqua Shield Lot de 2 Sacs Etanches Impermeables Certifiée IPX8",
+      "old_price": 20.99,
+      "new_price": 10,
+      "discount": 52,
+      "image": "https://m.media-amazon.com/images/I/71GvSnWufqL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B09Y8Y8RTD?tag=pepius-21"
     },
     {
       "title": "Tefal Faitout 24 cm, Induction, Acier inoxydable 18/10, Garantie 10 ans, Couvercle filtrant en verre, Base 3 couches, Duetto A7054663",
@@ -1454,14 +1470,6 @@
       "discount": 43,
       "image": "https://m.media-amazon.com/images/I/51dmSU-H3VL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B017XAFXOC?tag=pepius-21"
-    },
-    {
-      "title": "Spigen Aqua Shield Lot de 2 Sacs Etanches Impermeables Certifiée IPX8",
-      "old_price": 20.99,
-      "new_price": 12,
-      "discount": 43,
-      "image": "https://m.media-amazon.com/images/I/71GvSnWufqL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B09Y8Y8RTD?tag=pepius-21"
     },
     {
       "title": "ViewSonic VX2780J-2K Moniteur de Jeu QHD IPS Plat 1 ms MPRT 170 Hz 27 Pouces sans Cadre, 2 Ports HDMI, DisplayPort, Freesync Premium, HDR10, Support réglable en Hauteur",
@@ -1682,7 +1690,7 @@
     {
       "title": "DS124 Boîtier NAS pour 1 DD 3.5p/2.5p 1.7GHz QuadCore 1Go LAN 1GbE USB3.2",
       "old_price": 178.8,
-      "new_price": 147.99,
+      "new_price": 148.92,
       "discount": 17,
       "image": "https://m.media-amazon.com/images/I/51ujHKPMUGL._AC_SY450_.jpg",
       "link": "https://www.amazon.fr/dp/B0CBZ11HVD?tag=pepius-21"
