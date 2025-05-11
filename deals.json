@@ -1336,14 +1336,6 @@
   ],
   "2025-05-11": [
     {
-      "title": "NIVEA MEN Déodorant Bille Black & White Invisible (6 x 50ml), déodorant homme anti-traces blanches et jaunes, anti-transpirant anti odeur & humidité, protection efficace 72 h, sans alcool",
-      "old_price": 43,
-      "new_price": 12.9,
-      "discount": 70,
-      "image": "https://m.media-amazon.com/images/I/71bZI8mGPJL._AC_SY355_PIbundle-6,TopRight,0,0_SH20_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYMN92DD?tag=pepius-21"
-    },
-    {
       "title": "LEGO Star Wars Le Chasseur Jedi d’Obi-Wan Kenobi : Jeu de Construction Star Wars avec Minifigurine Taun We, Figurine Droïde, Sabre Laser, Cadeau Enfants, Filles et Garçons dès 7 Ans 75333",
       "old_price": 44.99,
       "new_price": 16.38,
@@ -1400,6 +1392,14 @@
       "link": "https://www.amazon.fr/dp/B08YSL9HMJ?tag=pepius-21"
     },
     {
+      "title": "Spigen Coque Magnétique pour iPhone 15 Pro [Protection Premium] Enzo Aramid MagFit - Noir Mat",
+      "old_price": 39.99,
+      "new_price": 19.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/61a3PavtQSL._AC_SY450_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CBD145GW?tag=pepius-21"
+    },
+    {
       "title": "ORICO Hub USB C 5 en 1 Station d'accueil avec 4K HDMI, PD 60W, 5 Gbps USB A 3.0, 2 Ports USB A 2.0, Type C Multiport Docking Station pour MacBook Air Pro M2 M1 iPad Surface Dell HP (15cm)",
       "old_price": 19.99,
       "new_price": 9.99,
@@ -1433,9 +1433,9 @@
     },
     {
       "title": "Phomemo D30 Mini Étiqueteuse Bluetooth,Imprimante Etiquette Autocollante,Etiqueteuse Imprimante Portable Thermique pour Maison,imprimante d'étiquettes sans Fil pour iOS et Android,Violet",
-      "old_price": 24.99,
+      "old_price": 24.69,
       "new_price": 12.99,
-      "discount": 48,
+      "discount": 47,
       "image": "https://m.media-amazon.com/images/I/61FSf2qcb5L._AC_SY355_.jpg",
       "link": "https://www.amazon.fr/dp/B0BWDKF639?tag=pepius-21"
     },
@@ -1480,12 +1480,12 @@
       "link": "https://www.amazon.fr/dp/B07P7QWQMW?tag=pepius-21"
     },
     {
-      "title": "HP OMEN 16-wf0000sf 16.1\" 2560 x 1440 Pixels Intel Core i7-13700HX 32Go 1000Go SSD NVIDIA GeForce RTX 4080 Windows 11 Home",
-      "old_price": 2999,
-      "new_price": 1805.58,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/71hHf8Q+zIL._AC_SX355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCW24G67?tag=pepius-21"
+      "title": "Asmodee - 7 Wonders : Duel - UNbox Now - Jeu de Société pour Adultes et Enfants dès 10 Ans - Version du Jeu de Stratégie et de Plateau pour 2 Joueurs - 20 Min - Version Française - Repos Production",
+      "old_price": 28,
+      "new_price": 17.64,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/81YwMWy3ttS._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B014DMSTXK?tag=pepius-21"
     },
     {
       "title": "Tasse Super Mario Boîte Cadeau Céramique",
@@ -1494,14 +1494,6 @@
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/71MgsxRbg0L._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B085QN64XP?tag=pepius-21"
-    },
-    {
-      "title": "Casio Montre Unisexe MQ-24-7BLL",
-      "old_price": 29.99,
-      "new_price": 19,
-      "discount": 37,
-      "image": "https://m.media-amazon.com/images/I/51CLe+D6l2L._AC_SX522_.jpg",
-      "link": "https://www.amazon.fr/dp/B08GY6WVS2?tag=pepius-21"
     },
     {
       "title": "Asmodee - Sea, Salt & Paper - Jeu de Société Captivant pour Enfants dès 8 Ans - Jeu de Cartes - pour Les Amateurs de Jeux Stratégiques - Partie de 30 Min - 2 à 4 Joueurs - Version Française - Bombyx",
@@ -1734,14 +1726,6 @@
       "discount": 14,
       "image": "https://m.media-amazon.com/images/I/513DU5ubmLL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B08C3LG77S?tag=pepius-21"
-    },
-    {
-      "title": "Venom Plastique Rack pour manette Xbox (Xbox Series X) Noir",
-      "old_price": 16.59,
-      "new_price": 14.28,
-      "discount": 14,
-      "image": "https://m.media-amazon.com/images/I/61LNeW1KZVL._AC_SX522_.jpg",
-      "link": "https://www.amazon.fr/dp/B08Z576GW7?tag=pepius-21"
     },
     {
       "title": "SanDisk 1To Ultra microSDXC, carte micro sd + adaptateur SD, UHS-I, jusqu'à 150 Mo/s, micro SD carte pour votre smartphone et Tablet, avec des performances applicatives A1, Class 10 U1, Full HD Video",
