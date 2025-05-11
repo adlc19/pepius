@@ -1336,6 +1336,14 @@
   ],
   "2025-05-11": [
     {
+      "title": "Tasse Super Mario Boîte Cadeau Céramique",
+      "old_price": 18.99,
+      "new_price": 7.5,
+      "discount": 61,
+      "image": "https://m.media-amazon.com/images/I/71MgsxRbg0L._AC_SX425_.jpg",
+      "link": "https://www.amazon.fr/dp/B085QN64XP?tag=pepius-21"
+    },
+    {
       "title": "Mattel Games UNO Flip, Nouvelle Version Délirante Recto Verso, Jeu De Cartes pour Enfants Et Adultes, Jeu De Société pour Soirée en Famille, 2 À 10 Joueurs, Jouet pour Enfant de 7 Ans et Plus, GDR44",
       "old_price": 10.99,
       "new_price": 4.84,
@@ -1424,20 +1432,20 @@
       "link": "https://www.amazon.fr/dp/B0DJ9TMZT3?tag=pepius-21"
     },
     {
-      "title": "Phomemo D30 Mini Étiqueteuse Bluetooth,Imprimante Etiquette Autocollante,Etiqueteuse Imprimante Portable Thermique pour Maison,imprimante d'étiquettes sans Fil pour iOS et Android,Violet",
-      "old_price": 24.69,
-      "new_price": 12.99,
-      "discount": 47,
-      "image": "https://m.media-amazon.com/images/I/61FSf2qcb5L._AC_SY355_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BWDKF639?tag=pepius-21"
-    },
-    {
       "title": "Stanley 9045717STN Ensemble d'Outils Pneumatiques Compresseur - Incl. Pistolet à air, accessoires, Gonfleur Pneus Voiture et tuyau spiralé 5M - Max. 20 Barres : Stanley",
       "old_price": 24.99,
       "new_price": 14.21,
       "discount": 43,
       "image": "https://m.media-amazon.com/images/I/61uYyq7oagL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B00ISYHQ4S?tag=pepius-21"
+    },
+    {
+      "title": "Phomemo D30 Mini Étiqueteuse Bluetooth,Imprimante Etiquette Autocollante,Etiqueteuse Imprimante Portable Thermique pour Maison,imprimante d'étiquettes sans Fil pour iOS et Android,Violet",
+      "old_price": 22.99,
+      "new_price": 12.99,
+      "discount": 43,
+      "image": "https://m.media-amazon.com/images/I/61FSf2qcb5L._AC_SY355_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BWDKF639?tag=pepius-21"
     },
     {
       "title": "Karcher Lance D'ARROSAGE 13.1 x 3.6 x 3.6 cm 2.645–264.0",
@@ -1472,12 +1480,12 @@
       "link": "https://www.amazon.fr/dp/B014DMSTXK?tag=pepius-21"
     },
     {
-      "title": "Tasse Super Mario Boîte Cadeau Céramique",
-      "old_price": 11.99,
-      "new_price": 7.5,
+      "title": "Casio Montre Unisexe MQ-24-7BLL",
+      "old_price": 29.99,
+      "new_price": 19,
       "discount": 37,
-      "image": "https://m.media-amazon.com/images/I/71MgsxRbg0L._AC_SX425_.jpg",
-      "link": "https://www.amazon.fr/dp/B085QN64XP?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/51CLe+D6l2L._AC_SX522_.jpg",
+      "link": "https://www.amazon.fr/dp/B08GY6WVS2?tag=pepius-21"
     },
     {
       "title": "Asmodee - Sea, Salt & Paper - Jeu de Société Captivant pour Enfants dès 8 Ans - Jeu de Cartes - pour Les Amateurs de Jeux Stratégiques - Partie de 30 Min - 2 à 4 Joueurs - Version Française - Bombyx",
@@ -1625,7 +1633,7 @@
     },
     {
       "title": "Samsung Téléviseur TQ65QN85D 65\" (65 Pouces) Neo QLED 4K Smart TV 2024",
-      "old_price": 910.93,
+      "old_price": 907.05,
       "new_price": 736.92,
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71t+BrC2WvL._AC_SY355_.jpg",
@@ -1742,14 +1750,6 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/817GwFs0IHL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B0C2Q52CJY?tag=pepius-21"
-    },
-    {
-      "title": "Seagate BarraCuda 8To, Disque dur interne HDD, 3.5 pouces, SATA 6 Goit/s, 5 400 tr/min, 256 Mo de mémoire cache, pour PC de bureau, Ouverture facile, Services Rescue (ST8000DMZ04)",
-      "old_price": 167.99,
-      "new_price": 154.99,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/718Lm4R8qhL._AC_SY450_.jpg",
-      "link": "https://www.amazon.fr/dp/B07H289S7C?tag=pepius-21"
     },
     {
       "title": "OnePlus Nord 4 5G - Smartphone débloqué avec Double Appareil Photo 50 MP & OIS, 16 Go de RAM + 512 Go de Stockage - Oasis Green",
