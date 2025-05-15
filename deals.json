@@ -2109,6 +2109,14 @@
       "link": "https://www.amazon.fr/dp/B0BJL6K32S?tag=pepius-21"
     },
     {
+      "title": "Oregon - Gants de Sécurité en Cuir pour Tronçonneuse, Protection de la Main Gauche, Taille L (91305L)",
+      "old_price": 23.99,
+      "new_price": 15.66,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/5106CwuglgS._SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B002XNYVYI?tag=pepius-21"
+    },
+    {
       "title": "Tefal Batterie de cuisine 13 pièces Poêles + Faitouts + Casserole pâtes + Couvercles + 5 ustensiles, Induction, Acier inoxydable 18/10 haute qualité, Garantie 10 ans, Opti'Space G721SD74",
       "old_price": 154.53,
       "new_price": 99.99,
@@ -2159,8 +2167,8 @@
     {
       "title": "Arcade1Up TIME CRISIS Arcade Game",
       "old_price": 799.99,
-      "new_price": 570.66,
-      "discount": 29,
+      "new_price": 575.99,
+      "discount": 28,
       "image": "https://m.media-amazon.com/images/I/81mlBaVS6sL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJ7X1799?tag=pepius-21"
     },
@@ -2421,9 +2429,17 @@
       "link": "https://www.amazon.fr/dp/B0F2M8T1HG?tag=pepius-21"
     },
     {
+      "title": "adidas Entrada 22 Sweat Hoodie Hooded Sweat Homme (Lot de 1)",
+      "old_price": null,
+      "new_price": 20.8,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81aQUcy5oML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09H6WZFV4?tag=pepius-21"
+    },
+    {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 119.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
