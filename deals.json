@@ -2421,14 +2421,6 @@
       "link": "https://www.amazon.fr/dp/B097MQS598?tag=pepius-21"
     },
     {
-      "title": "Masque respiratoire, masque de protection pour la poussière de sécurité, protection du visage, masque à gaz avec filtre, pour peinture, poussière et formaldéhyde, ponçage, polissage, pulvérisation et",
-      "old_price": 25.79,
-      "new_price": 24.58,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/619tTLQaKUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F2M8T1HG?tag=pepius-21"
-    },
-    {
       "title": "adidas Entrada 22 Sweat Hoodie Hooded Sweat Homme (Lot de 1)",
       "old_price": null,
       "new_price": 20.8,
@@ -2511,7 +2503,7 @@
     {
       "title": "Sony, PlayStation, Pack Console PS5 Slim Édition Numérique, avec 1 Manette Sans Fil DualSense + Jeu Astro Bot (code de téléchargement) - Édition limitée",
       "old_price": null,
-      "new_price": 429,
+      "new_price": 21.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71uIgjs7abL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DXL5TWWR?tag=pepius-21"
@@ -2603,6 +2595,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818wM3t+kXL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B078HD9TB7?tag=pepius-21"
+    },
+    {
+      "title": "Masque respiratoire, masque de protection pour la poussière de sécurité, protection du visage, masque à gaz avec filtre, pour peinture, poussière et formaldéhyde, ponçage, polissage, pulvérisation et",
+      "old_price": null,
+      "new_price": 24.58,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/619tTLQaKUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F2M8T1HG?tag=pepius-21"
     },
     {
       "title": "Samsung Ecran PC Odyssey G50D 27’’ 180Hz, 1ms, Dalle Fast IPS, Résolution QHD:2560x1440, Contraste 1000:1, AMD FreeSync, Auto Source Switch +, HDR400, Pied ajustable, DisplayPort, HDMI, LS27DG502EUXEN",
