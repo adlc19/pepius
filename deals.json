@@ -2647,14 +2647,6 @@
       "link": "https://www.amazon.fr/dp/B0D1K22V8X?tag=pepius-21"
     },
     {
-      "title": "Amazon Basics Kettlebell en fonte 20 kg, noir",
-      "old_price": 67.7,
-      "new_price": 36.96,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/81-Q252hNGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B076QDZ71T?tag=pepius-21"
-    },
-    {
       "title": "Brüder Mannesmann Werkzeuge M53250-B Set de Tarauds et Filières 32 Pièces, Import Allemagne",
       "old_price": 30.99,
       "new_price": 17.89,
@@ -2703,14 +2695,6 @@
       "link": "https://www.amazon.fr/dp/B0BS3SR986?tag=pepius-21"
     },
     {
-      "title": "Elden Ring Shadow Of The Erdtree - Édition Collector (Ps5)",
-      "old_price": 249.99,
-      "new_price": 154.57,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/81fmvlsC7zL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CW3JT6HK?tag=pepius-21"
-    },
-    {
       "title": "KOORUI Écran PC Gaming 27 Pouces, 170Hz, 2K QHD (2560x1440p), IPS, 1ms, HDR 400, 2xHDMI(144Hz ou 170Hz), DisplayPort(170Hz), Adpitive Sync, 100% sRGB, Hauteur Réglable, Grand Angle de Vue 178°",
       "old_price": 269.99,
       "new_price": 169.99,
@@ -2727,12 +2711,28 @@
       "link": "https://www.amazon.fr/dp/B0111AIZ68?tag=pepius-21"
     },
     {
+      "title": "Amazon Basics Kettlebell en fonte 20 kg, noir",
+      "old_price": 57.67,
+      "new_price": 36.96,
+      "discount": 36,
+      "image": "https://m.media-amazon.com/images/I/81-Q252hNGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B076QDZ71T?tag=pepius-21"
+    },
+    {
       "title": "Oregon - Gants de Sécurité en Cuir pour Tronçonneuse, Protection de la Main Gauche, Taille L (91305L)",
       "old_price": 23.99,
       "new_price": 15.66,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/5106CwuglgS._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B002XNYVYI?tag=pepius-21"
+    },
+    {
+      "title": "Corsair Vengeance SODIMM 32Go (2x16Go) DDR4 3200MHz C22 Mémoire pour Ordinateur Portable/Notebook - Noir",
+      "old_price": 81.85,
+      "new_price": 54.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/71USnvbnjIL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08GSTF5NJ?tag=pepius-21"
     },
     {
       "title": "ARCOS Ensemble de Couteaux d'Office en Acier Inoxydable – 3 Pièces, Idéal pour Éplucher Fruits et Légumes – Poignée Ergonomique en Polypropylène. Couleur Orange, Jaune et Bleu. Série Nova",
@@ -3097,7 +3097,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -3189,14 +3189,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71fUJOiOpBL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CNCH9YQS?tag=pepius-21"
-    },
-    {
-      "title": "ORICO Portable SSD 512 GB with 2 in 1 USB C Cable, External Solid State Drives, Up to 460MB/s, Status Indicator, Reliable Storage for USB-C Smartphone, Tablet, PC - B5PLUS",
-      "old_price": null,
-      "new_price": 59.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71LyhfAr0JL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DHGH1VKQ?tag=pepius-21"
     }
   ]
 }
