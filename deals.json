@@ -2807,14 +2807,6 @@
       "link": "https://www.amazon.fr/dp/B00FYRVFEE?tag=pepius-21"
     },
     {
-      "title": "Arcade1Up TIME CRISIS Arcade Game",
-      "old_price": 799.99,
-      "new_price": 583.99,
-      "discount": 27,
-      "image": "https://m.media-amazon.com/images/I/81mlBaVS6sL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CJ7X1799?tag=pepius-21"
-    },
-    {
       "title": "Philips Hue White E27 lampadaire 4x1055lm, dimmable, lumière blanc chaud, contrôlable via l'application, compatible avec Amazon Alexa (Echo, Echo Dot).",
       "old_price": 47.03,
       "new_price": 34.99,
@@ -2933,6 +2925,14 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/718DRz0NpfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DPMTL3HZ?tag=pepius-21"
+    },
+    {
+      "title": "Arcade1Up TIME CRISIS Arcade Game",
+      "old_price": 799.99,
+      "new_price": 655.99,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/81mlBaVS6sL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJ7X1799?tag=pepius-21"
     },
     {
       "title": "Elgato Stream Deck Mini : contrôlez Zoom, Teams, PowerPoint, MS Office et plus, boostez votre productivité grâce à l'intégration aux applis du quotidien, configurez des raccourcis, compatible Mac/PC",
@@ -3055,7 +3055,7 @@
       "link": "https://www.amazon.fr/dp/B0CG6SBZ4Q?tag=pepius-21"
     },
     {
-      "title": "LISEN 4 en 1 Rétractable Chargeur Voiture USB C 69W [Câble Magique & Rebond Instantané] Idee Cadeau Homme Papa Maman, Convertisseur de Tension, Voyage Camping Car Accessoires pour iPhone 16 Pro Max",
+      "title": "LISEN 4 en 1 Rétractable Chargeur Voiture USB C 69W [Câble Magique & Rebond Instantané] Idee Cadeau Homme Papa Maman, Chargeur Allume Cigare, Voyage Camping Car Accessoires pour iPhone 16 Pro Max 15",
       "old_price": 17.99,
       "new_price": 17.09,
       "discount": 5,
@@ -3097,7 +3097,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -3197,22 +3197,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LyhfAr0JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHGH1VKQ?tag=pepius-21"
-    },
-    {
-      "title": "Victorinox Swiss Classic Set de Couteaux à Tomates et de Table, Couteaux de cuisine, 6 Pièces, Bord Dentelé, Acier Inoxydable, Coloré",
-      "old_price": null,
-      "new_price": 4,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/716rVfleoRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07PFV862G?tag=pepius-21"
-    },
-    {
-      "title": "D-Link DGS-108GL Non-géré Gigabit Ethernet (10/100/1000) Noir",
-      "old_price": null,
-      "new_price": 30.67,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41g9nkZz0IL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B08W3RYNSR?tag=pepius-21"
     }
   ]
 }
