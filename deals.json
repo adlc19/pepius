@@ -2615,14 +2615,6 @@
       "link": "https://www.amazon.fr/dp/B00B6VDHL6?tag=pepius-21"
     },
     {
-      "title": "Amazon.fr : Holts HAFR0006B Liquide de Refroidissement Voiture et Antigel VW-Audi-Seat-Skoda G12, G12+, G12++, G13, G12 Evo Protection Longue durée de 10 Ans 480,000km jusqu'à -30°C, Rose, 5L",
-      "old_price": 19.95,
-      "new_price": 7.99,
-      "discount": 60,
-      "image": "https://m.media-amazon.com/images/I/71aVcdp7rHL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CKFDFXSK?tag=pepius-21"
-    },
-    {
       "title": "Oregon 91P - Lot de 3 Chaînes de Tronçonneuse pour Guide-Chaîne de 18\" (45 cm), 62 Maillons d'Entraînement, Faible Rebond, Compatibles avec Husqvarna, McCulloch, Mac Allister et autres",
       "old_price": 35.62,
       "new_price": 17.1,
@@ -2781,6 +2773,14 @@
       "discount": 31,
       "image": "https://m.media-amazon.com/images/I/51C6w6dQrFL._AC_SL1417_.jpg",
       "link": "https://www.amazon.fr/dp/B0DYDST5QW?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : Holts HAFR0006B Liquide de Refroidissement Voiture et Antigel VW-Audi-Seat-Skoda G12, G12+, G12++, G13, G12 Evo Protection Longue durée de 10 Ans 480,000km jusqu'à -30°C, Rose, 5L",
+      "old_price": 19.95,
+      "new_price": 13.99,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/71aVcdp7rHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CKFDFXSK?tag=pepius-21"
     },
     {
       "title": "durgol swiss espresso – Détartrant spécial anti-calcaire pour tous types de machines à café – Enlève le calcaire efficacement – Version française – 2 x 125 ml",
@@ -3097,7 +3097,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
