@@ -3217,14 +3217,6 @@
       "link": "https://www.amazon.fr/dp/B0968L57QB?tag=pepius-21"
     },
     {
-      "title": "ORICO USB C Station d'accueil, 6 en 1 Hub USB C avec Ethernet 1 G, HDMI 4K 30Hz, PD 100 W, 3 Ports USB A 5Gbps, Adaptateur USB C vers USB 3.0 Compatible avec MacBook Pro Air XPS Lenovo HP",
-      "old_price": 27.98,
-      "new_price": 15.19,
-      "discount": 46,
-      "image": "https://m.media-amazon.com/images/I/71w2CIPW2ZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D1K22V8X?tag=pepius-21"
-    },
-    {
       "title": "Finish Ultimate Infinity Shine Pastilles Lave-Vaisselle Citron, Imbattable contre les taches tenaces, 160 capsules",
       "old_price": 35.99,
       "new_price": 21.37,
@@ -3311,14 +3303,6 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/71AzfKuVPKL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000LFRTNA?tag=pepius-21"
-    },
-    {
-      "title": "Poteau extérieur Philips MyGarden Creek noir (nécessite 1 ampoule E27 de 60 watts)",
-      "old_price": 55.89,
-      "new_price": 37.99,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/61OkP6KXsYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00BG5C786?tag=pepius-21"
     },
     {
       "title": "FACOM 440.JP10PB FAC30967 JUEGO 10 LLAVES MIXTAS SOPORTE",
@@ -3545,17 +3529,9 @@
       "link": "https://www.amazon.fr/dp/B09TBH8T1S?tag=pepius-21"
     },
     {
-      "title": "Apple iPad 10,9 Pouces (Wi-FI, 64 Go) - Argent (10e génération)",
-      "old_price": 346,
-      "new_price": 299,
-      "discount": 14,
-      "image": "https://m.media-amazon.com/images/I/61P-EGHcylL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DK3Z8FTG?tag=pepius-21"
-    },
-    {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 167.55,
+      "new_price": 167.9,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -3567,6 +3543,14 @@
       "discount": 12,
       "image": "https://m.media-amazon.com/images/I/61QG0B8rmNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08FC21CFB?tag=pepius-21"
+    },
+    {
+      "title": "Imageur Thermique, Caméra Thermique -20℃~550℃, 2.4-inch 25 Hz TFT LCD Infrared Thermal Imager, 240 x 240 Résolution TISR, 96 x 96 Résolution IR, 50°FOV Thermal Imaging, 8h Battery Thermal Imager",
+      "old_price": 199.99,
+      "new_price": 179.99,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/71LlG9Qv8FL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DTH9RD9R?tag=pepius-21"
     },
     {
       "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
@@ -3633,6 +3617,14 @@
       "link": "https://www.amazon.fr/dp/B0B1H22S8V?tag=pepius-21"
     },
     {
+      "title": "Qui Sème Le Vent Récolte Le Tempo: Mc Solaar, Mc Solaar",
+      "old_price": null,
+      "new_price": 33.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71PgKobf4DL._SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
+    },
+    {
       "title": "Bisofice S1 Mini Imprimante Photo Portable, Imprimante de Poche sans Fil BT, Imprimante sans Encre Compatible avec Android et iOS, Mini Thermique Imprimante pour Notes, Images, Photos, Journal, Vert",
       "old_price": null,
       "new_price": 39.99,
@@ -3666,7 +3658,7 @@
     },
     {
       "title": "Feandrea Arbre à Chat Hauteur 143 cm, Tour de Jeux pour Chats, avec 4 Poteaux à Griffer, 2 Plateformes, 1 Niche, 1 Hamac, 2 Pompons, en Tissu Peluche, Multi-Niveaux, Gris Clair PCT161W01",
-      "old_price": 49.99,
+      "old_price": null,
       "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71rmdPmFpuL._AC_SL1500_.jpg",
