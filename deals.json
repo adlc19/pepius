@@ -3249,14 +3249,6 @@
       "link": "https://www.amazon.fr/dp/B0CCPM5FCH?tag=pepius-21"
     },
     {
-      "title": "Spontex Microfibre Collection | Microfibres Multi-usages | 16 Chiffons de Nettoyage en Microfibre",
-      "old_price": 11.8,
-      "new_price": 6.98,
-      "discount": 41,
-      "image": "https://m.media-amazon.com/images/I/91wrjTM5y-L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CCJVV4JC?tag=pepius-21"
-    },
-    {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
       "old_price": 29.99,
       "new_price": 18.77,
@@ -3555,7 +3547,7 @@
     {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 167.57,
+      "new_price": 167.56,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -3567,14 +3559,6 @@
       "discount": 12,
       "image": "https://m.media-amazon.com/images/I/61QG0B8rmNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08FC21CFB?tag=pepius-21"
-    },
-    {
-      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
-      "old_price": 20.45,
-      "new_price": 18.4,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
     },
     {
       "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
@@ -3639,6 +3623,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61LQzT-rUKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B1H22S8V?tag=pepius-21"
+    },
+    {
+      "title": "Bisofice S1 Mini Imprimante Photo Portable, Imprimante de Poche sans Fil BT, Imprimante sans Encre Compatible avec Android et iOS, Mini Thermique Imprimante pour Notes, Images, Photos, Journal, Vert",
+      "old_price": null,
+      "new_price": 39.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ZqDqkcJsL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DBH6HGM1?tag=pepius-21"
     },
     {
       "title": "LEGO Botanicals Les Fleurs de Prunier - Plante Artificielle à Offrir pour la Fête des Mères - Set de Construction pour Adulte - Décoration Intérieure - Activité Relaxante pour Femme ou Homme 10369",
