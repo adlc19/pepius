@@ -3393,14 +3393,6 @@
       "link": "https://www.amazon.fr/dp/B005F5I200?tag=pepius-21"
     },
     {
-      "title": "Amazon.fr : Amazon Basics Lot de 2 coupe-ceintures et marteaux brise vitre d'urgence",
-      "old_price": 13.29,
-      "new_price": 9.97,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/81wWdaTkjrL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B073JCMTW2?tag=pepius-21"
-    },
-    {
       "title": "Corsair RM850e (2023) Alimentation Entièrement Modulaire et Silencieuse - Compatible ATX 3.0 et PCIe 5.0 - Condensateurs à 105°C - Efficacité 80 PLUS Gold - Support de Veille Moderne - Noir",
       "old_price": 143.9,
       "new_price": 109.9,
@@ -3513,14 +3505,6 @@
       "link": "https://www.amazon.fr/dp/B073ZRS74L?tag=pepius-21"
     },
     {
-      "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
-      "old_price": 192.99,
-      "new_price": 162.86,
-      "discount": 16,
-      "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
-    },
-    {
       "title": "GRIFEMA Support Ordinateur Portable Ergonomique Rotatif 360 GB1050 - Support PC Portable Réglable en Hauteur, Pliable, Ventilé, Compatible MacBook Air/Pro, Dell, et Laptops 11-17 Pouces - Noir",
       "old_price": 19.99,
       "new_price": 16.78,
@@ -3577,12 +3561,28 @@
       "link": "https://www.amazon.fr/dp/B0DK3Z8FTG?tag=pepius-21"
     },
     {
+      "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
+      "old_price": 192.99,
+      "new_price": 167.26,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
+    },
+    {
       "title": "Filtration sur robinet Philips AWP3754/10 ULTRAFILTRATION, capacité de filtration de 1200 L",
       "old_price": 29.29,
       "new_price": 25.64,
       "discount": 12,
       "image": "https://m.media-amazon.com/images/I/61QG0B8rmNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08FC21CFB?tag=pepius-21"
+    },
+    {
+      "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
+      "old_price": 69.99,
+      "new_price": 63.99,
+      "discount": 9,
+      "image": "https://m.media-amazon.com/images/I/81i20HNPHNL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DHSDWG2R?tag=pepius-21"
     },
     {
       "title": "Master Serie: Dalida, Dalida",
@@ -3739,7 +3739,7 @@
     {
       "title": "Sony, PlayStation, Pack Console PS5 Slim Édition Numérique, avec 1 Manette Sans Fil DualSense + Jeu Astro Bot (code de téléchargement) - Édition limitée",
       "old_price": null,
-      "new_price": 21.99,
+      "new_price": 399.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71uIgjs7abL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DXL5TWWR?tag=pepius-21"
