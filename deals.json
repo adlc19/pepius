@@ -3755,14 +3755,6 @@
   ],
   "2025-05-18": [
     {
-      "title": "Bestway Fauteuil Gonflable 112 x 112 x 66 cm Assortis",
-      "old_price": 33.24,
-      "new_price": 16.09,
-      "discount": 52,
-      "image": "https://m.media-amazon.com/images/I/71egZUGjQ9L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07TWVVRLF?tag=pepius-21"
-    },
-    {
       "title": "Oregon 91P - Lot de 3 Chaînes de Tronçonneuse pour Guide-Chaîne de 18\" (45 cm), 62 Maillons d'Entraînement, Faible Rebond, Compatibles avec Husqvarna, McCulloch, Mac Allister et autres",
       "old_price": 35.62,
       "new_price": 17.1,
@@ -3801,14 +3793,6 @@
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
-    },
-    {
-      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
-      "old_price": 30.98,
-      "new_price": 18.4,
-      "discount": 41,
-      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
     },
     {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
@@ -4131,6 +4115,14 @@
       "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
     },
     {
+      "title": "Bestway Fauteuil Gonflable 112 x 112 x 66 cm Assortis",
+      "old_price": 17.95,
+      "new_price": 16.09,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/71egZUGjQ9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07TWVVRLF?tag=pepius-21"
+    },
+    {
       "title": "Arcade1Up TIME CRISIS Arcade Game",
       "old_price": 799.99,
       "new_price": 727.99,
@@ -4189,7 +4181,7 @@
     {
       "title": "Levi's Classic Chaussettes (Lot de 6) Mixte",
       "old_price": null,
-      "new_price": 12,
+      "new_price": 22,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91ogttoipIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BRQ65GYQ?tag=pepius-21"
@@ -4301,7 +4293,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
