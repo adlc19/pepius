@@ -3803,6 +3803,14 @@
       "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
     },
     {
+      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
+      "old_price": 30.98,
+      "new_price": 18.4,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
+    },
+    {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
       "old_price": 29.99,
       "new_price": 18.77,
@@ -4091,17 +4099,9 @@
       "link": "https://www.amazon.fr/dp/B07J4TKPPT?tag=pepius-21"
     },
     {
-      "title": "Shelly Plus 1 - Module interrupteur connecté Wi-Fi 16A, Contacts secs, Lumières & Ouvre-porte de garage sans fil, App iOS Android, Compatible Alexa Google Home - Lot de 2",
-      "old_price": 29.99,
-      "new_price": 25.92,
-      "discount": 14,
-      "image": "https://m.media-amazon.com/images/I/81NJSYqCafL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09TBH8T1S?tag=pepius-21"
-    },
-    {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 167.77,
+      "new_price": 167.76,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -4171,14 +4171,6 @@
       "link": "https://www.amazon.fr/dp/B088B9PKGY?tag=pepius-21"
     },
     {
-      "title": "Philips Series 9000 - Tondeuse 13-en-un + OneBlade, kit tondeuse intégral, tonte précise, contours nets, rasage pratique, 27 hauteurs de coupe (de 0,2 à 20 mm) (modèle MG9530/15) DP",
-      "old_price": 69.99,
-      "new_price": 65.99,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/718y1cEpuyL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CG6SBZ4Q?tag=pepius-21"
-    },
-    {
       "title": "BIOGENTS Lot de 2 Pièges A Moustiques Anti Pontes Extérieurs - Anti Moustiques & Moustiques Tigres - Limite La Reproduction du Moustique & Moustique Tigre - sans Electricité BG-GAT2",
       "old_price": 49.17,
       "new_price": 46.69,
@@ -4197,7 +4189,7 @@
     {
       "title": "Levi's Classic Chaussettes (Lot de 6) Mixte",
       "old_price": null,
-      "new_price": 22,
+      "new_price": 12,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91ogttoipIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BRQ65GYQ?tag=pepius-21"
@@ -4309,7 +4301,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 79.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
