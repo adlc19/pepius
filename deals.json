@@ -3907,14 +3907,6 @@
       "link": "https://www.amazon.fr/dp/B00FYRVFEE?tag=pepius-21"
     },
     {
-      "title": "ORICO SSD Industriel M.2 NVMe 2To, Jusqu'à 7450 Mo/s, PCIe 4.0 SSD M2 avec TLC 3D NAND et Dissipateur Thermique Innovant, pour Edge Computing, PC Industriel, Ordinateur Portable et PS5 - IG740PRO",
-      "old_price": 159.99,
-      "new_price": 119.99,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/61F9Pl6d3qL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DP643GFH?tag=pepius-21"
-    },
-    {
       "title": "Corsair RM850e (2023) Alimentation Entièrement Modulaire et Silencieuse - Compatible ATX 3.0 et PCIe 5.0 - Condensateurs à 105°C - Efficacité 80 PLUS Gold - Support de Veille Moderne - Noir",
       "old_price": 143.9,
       "new_price": 109.9,
@@ -4171,6 +4163,22 @@
       "link": "https://www.amazon.fr/dp/B0DTJXX2RV?tag=pepius-21"
     },
     {
+      "title": "Onyx - Lave Glace Été Démoustiqueur - Nettoyant pour Pare-Brise - Dégraissant - Fabrication Française - 5L (Lot de 4)",
+      "old_price": null,
+      "new_price": 12.4,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61I8IgV7FiL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZNFHB9J?tag=pepius-21"
+    },
+    {
+      "title": "fanxiang S630 1To SSD M.2 2230, NVME M2 PCIe Gen4x4, Jusqu'à 5000Mo/s, pour Rog Ally, Steam Deck, Microsoft Surface Pro, Mini PC, Ultrabook - Disque Dur SSD Interne",
+      "old_price": null,
+      "new_price": 99.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61RF6zES6rL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZX42SD7?tag=pepius-21"
+    },
+    {
       "title": "Tommy Hilfiger Polo 1985 Coton Stretch Homme",
       "old_price": null,
       "new_price": 32.99,
@@ -4317,7 +4325,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
