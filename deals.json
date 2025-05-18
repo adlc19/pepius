@@ -3795,6 +3795,14 @@
       "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
     },
     {
+      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
+      "old_price": 30.98,
+      "new_price": 18.4,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
+    },
+    {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
       "old_price": 29.99,
       "new_price": 18.77,
@@ -4085,7 +4093,7 @@
     {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 167.76,
+      "new_price": 167.9,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -4113,14 +4121,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/817k4zDR4rL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
-    },
-    {
-      "title": "Bestway Fauteuil Gonflable 112 x 112 x 66 cm Assortis",
-      "old_price": 17.95,
-      "new_price": 16.09,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71egZUGjQ9L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07TWVVRLF?tag=pepius-21"
     },
     {
       "title": "Arcade1Up TIME CRISIS Arcade Game",
@@ -4161,6 +4161,14 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/5105ziNIPqL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B088B9PKGY?tag=pepius-21"
+    },
+    {
+      "title": "realme Montre S2 Silver UE",
+      "old_price": 33.17,
+      "new_price": 31.49,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/51a5I3mGsnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCBYQ5ZX?tag=pepius-21"
     },
     {
       "title": "BIOGENTS Lot de 2 Pièges A Moustiques Anti Pontes Extérieurs - Anti Moustiques & Moustiques Tigres - Limite La Reproduction du Moustique & Moustique Tigre - sans Electricité BG-GAT2",
@@ -4225,6 +4233,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81qYo7rLkgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00CALQB1E?tag=pepius-21"
+    },
+    {
+      "title": "Bestway Fauteuil Gonflable 112 x 112 x 66 cm Assortis",
+      "old_price": null,
+      "new_price": 33.38,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71egZUGjQ9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07TWVVRLF?tag=pepius-21"
     },
     {
       "title": "CMF Phone 2 Pro 128GB – Smartphone 5G avec Appareil Photo 50MP et Zoom 20x, écran AMOLED FHD+ 6,77\" à 120Hz, Batterie 5000mAh et Nothing OS 3.2 – Blanc",
