@@ -3795,14 +3795,6 @@
       "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
     },
     {
-      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
-      "old_price": 30.98,
-      "new_price": 18.4,
-      "discount": 41,
-      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
-    },
-    {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
       "old_price": 29.99,
       "new_price": 18.77,
@@ -3833,6 +3825,14 @@
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/5106CwuglgS._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B002XNYVYI?tag=pepius-21"
+    },
+    {
+      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
+      "old_price": 30.98,
+      "new_price": 20.45,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
     },
     {
       "title": "Corsair Vengeance SODIMM 32Go (2x16Go) DDR4 3200MHz C22 Mémoire pour Ordinateur Portable/Notebook - Noir",
@@ -4309,7 +4309,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 79.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
