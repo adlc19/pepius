@@ -3755,6 +3755,14 @@
   ],
   "2025-05-18": [
     {
+      "title": "SONGMICS HOME Porte Manteau Mural, Portant à Vêtements en Forme de Branche, avec 7 Crochets, des Butées Rondes, pour Chapeaux, Sacs, Noir d'Encre RCR035B01",
+      "old_price": 19.99,
+      "new_price": 5.99,
+      "discount": 70,
+      "image": "https://m.media-amazon.com/images/I/61RbnL4EAWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
+    },
+    {
       "title": "Oregon 91P - Lot de 3 Chaînes de Tronçonneuse pour Guide-Chaîne de 18\" (45 cm), 62 Maillons d'Entraînement, Faible Rebond, Compatibles avec Husqvarna, McCulloch, Mac Allister et autres",
       "old_price": 35.62,
       "new_price": 17.1,
@@ -3793,6 +3801,14 @@
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
+    },
+    {
+      "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Technologie Anti-terne, Citron, (5x25) 125 Capsules, Nettoyage Optimal, Redonne De L’Éclat Et Prévient Le Calcaire",
+      "old_price": 33.5,
+      "new_price": 19.9,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/81Akp6d-4CL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCPM5FCH?tag=pepius-21"
     },
     {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
@@ -3987,14 +4003,6 @@
       "link": "https://www.amazon.fr/dp/B0D9Q5CG5J?tag=pepius-21"
     },
     {
-      "title": "SIKA - Hydrofuge imperméabilisant façade et mur - Sikagard 221 Protecteur Façade - Améliore la résistance aux salissures - Multisupports - Application facile - Prêt à l'emploi - Pour 12 à 50m2 - 5L",
-      "old_price": 35,
-      "new_price": 27.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/61IRmKUV+SL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B01D1P3W28?tag=pepius-21"
-    },
-    {
       "title": "Bosch Professional 12V System scie circulaire sans-fil GKS 12V-26 (Ø de lame : 85 mm, avec 2 batteries 3,0 Ah et chargeur, dans L-BOXX 136)",
       "old_price": 233.99,
       "new_price": 189.99,
@@ -4155,14 +4163,6 @@
       "link": "https://www.amazon.fr/dp/B0CGKWRLCJ?tag=pepius-21"
     },
     {
-      "title": "Meross Prise Connectée WiFi, Prise Intelligente avec Commande Vocale, Contrôle à Distance et Fonction de Temps, Fonctionne avec Alexa, Apple HomeKit et Google Home",
-      "old_price": 9.94,
-      "new_price": 9.39,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/5105ziNIPqL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B088B9PKGY?tag=pepius-21"
-    },
-    {
       "title": "realme Montre S2 Silver UE",
       "old_price": 33.17,
       "new_price": 31.49,
@@ -4189,7 +4189,7 @@
     {
       "title": "Levi's Classic Chaussettes (Lot de 6) Mixte",
       "old_price": null,
-      "new_price": 12,
+      "new_price": 22,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91ogttoipIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BRQ65GYQ?tag=pepius-21"
@@ -4309,7 +4309,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
