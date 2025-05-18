@@ -3763,14 +3763,6 @@
       "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
     },
     {
-      "title": "Oregon 91P - Lot de 3 Chaînes de Tronçonneuse pour Guide-Chaîne de 18\" (45 cm), 62 Maillons d'Entraînement, Faible Rebond, Compatibles avec Husqvarna, McCulloch, Mac Allister et autres",
-      "old_price": 35.62,
-      "new_price": 17.1,
-      "discount": 52,
-      "image": "https://m.media-amazon.com/images/I/51aiB3ZDzdL._AC_SL1002_.jpg",
-      "link": "https://www.amazon.fr/dp/B08H8SRV7P?tag=pepius-21"
-    },
-    {
       "title": "BillyBath Bloc Porte Securite Bebe 6 Pièces, Bloque Tiroir Placards Loquets et Frigo Securite Placard Enfant Protection Bebe Maison",
       "old_price": 12.34,
       "new_price": 6.47,
@@ -3801,6 +3793,14 @@
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
+    },
+    {
+      "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Technologie Anti-terne, Citron, (5x25) 125 Capsules, Nettoyage Optimal, Redonne De L’Éclat Et Prévient Le Calcaire",
+      "old_price": 33.5,
+      "new_price": 19.9,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/81Akp6d-4CL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCPM5FCH?tag=pepius-21"
     },
     {
       "title": "Xiaomi Smart Band 9 Active - Bracelet Connecté avec Écran AMOLED, Suivi d'Activité et de Santé, Résistant à l'eau 5 ATM, Autonomie Longue Durée - Noir",
@@ -4085,7 +4085,7 @@
     {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 167.9,
+      "new_price": 168.07,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -4113,14 +4113,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/817k4zDR4rL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
-    },
-    {
-      "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
-      "old_price": 20.45,
-      "new_price": 18.4,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71Lq1xBVKDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
     },
     {
       "title": "Arcade1Up TIME CRISIS Arcade Game",
@@ -4177,6 +4169,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61TYeT2DCYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTJXX2RV?tag=pepius-21"
+    },
+    {
+      "title": "Louise Attaque: Louise Attaque, Louise Attaque",
+      "old_price": null,
+      "new_price": 9.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SL1400_.jpg",
+      "link": "https://www.amazon.fr/dp/B00008LORO?tag=pepius-21"
     },
     {
       "title": "Levi's Classic Chaussettes (Lot de 6) Mixte",
@@ -4321,14 +4321,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51irtXxCicL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00WM6L23Y?tag=pepius-21"
-    },
-    {
-      "title": "HUGOOME 200mm Extracteur d'air, Ventilateur d'extraction 500m³/h 30W, Ventilateur mural réversible dans Deux Sens, pour salle de bain Cuisine grenier fenêtre Garage 8 pouce (Pas de prise)",
-      "old_price": null,
-      "new_price": 47.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61mpv+F4-rS._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08LYK1FJS?tag=pepius-21"
     }
   ]
 }
