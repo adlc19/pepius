@@ -3971,14 +3971,6 @@
       "link": "https://www.amazon.fr/dp/B0DHSDBVKV?tag=pepius-21"
     },
     {
-      "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
-      "old_price": 26.99,
-      "new_price": 21.49,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/51oWuwvbiWL._AC_SL1244_.jpg",
-      "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
-    },
-    {
       "title": "SIKA - Mastic acrylique haute performance - SikaSeal-184 Maçonnerie blanc - Réparation de fissures - Joints d’étanchéité - Extérieur et intérieur - 300 ml",
       "old_price": 5.49,
       "new_price": 4.39,
@@ -4025,6 +4017,14 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71pe5WPP7HL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B082VV7SCV?tag=pepius-21"
+    },
+    {
+      "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
+      "old_price": 26.99,
+      "new_price": 21.99,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/51oWuwvbiWL._AC_SL1244_.jpg",
+      "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
     },
     {
       "title": "WORX Landroid Plus WR169E Robot Tondeuse Connecté e t Intelligent, 250 m² Surf.Max 300 m², Installation Facile, Configurable, Pente 35%, détecteur de Pluie, Coupe près des Bordures, Tonte Rapide",
@@ -4109,7 +4109,7 @@
     {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 167.9,
+      "new_price": 167.77,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -4137,14 +4137,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/817k4zDR4rL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
-    },
-    {
-      "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
-      "old_price": 69.99,
-      "new_price": 63.99,
-      "discount": 9,
-      "image": "https://m.media-amazon.com/images/I/81i20HNPHNL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DHSDWG2R?tag=pepius-21"
     },
     {
       "title": "Arcade1Up TIME CRISIS Arcade Game",
@@ -4219,6 +4211,14 @@
       "link": "https://www.amazon.fr/dp/B0B1H22S8V?tag=pepius-21"
     },
     {
+      "title": "Levi's Classic Chaussettes (Lot de 6) Mixte",
+      "old_price": null,
+      "new_price": 12,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/91ogttoipIL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BRQ65GYQ?tag=pepius-21"
+    },
+    {
       "title": "fanxiang 2To SSD Externe Magnétique, Jusqu'à 2050Mo/s, USB 3.2 Gen2 USB-C, SSD Portable avec RGB LEDs, 4K ProRes HDR, Disque Dur Mémoire Externe pour iPhone15/16, Android/PC/Mac-PS2200",
       "old_price": null,
       "new_price": 169.99,
@@ -4265,6 +4265,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81+I4ZJFiKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F2T757V4?tag=pepius-21"
+    },
+    {
+      "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
+      "old_price": null,
+      "new_price": 63.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81i20HNPHNL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DHSDWG2R?tag=pepius-21"
     },
     {
       "title": "LAFUMA MOBILIER - Fauteuil Relax Zéro Gravité RT 2 - Chaise Longue Pliante Terrasse et Jardin - Toile Batyline® Résistante - Transat Multiposition, Tout Confort, Fabriqué en France - Marron CHATAIGNE",
@@ -4317,7 +4325,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
