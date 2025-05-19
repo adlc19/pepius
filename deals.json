@@ -4509,7 +4509,7 @@
       "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
     },
     {
-      "title": "LEGO Technic F1 Ferrari SF-24 - Cadeau pour Fête des Pères - Maquette de Voiture de Course Collector à Echelle 1/8 - Moteur V6, Boîte de Vitesses, DRS & Volant - Cadeau pour Adulte & Adolescent 42207",
+      "title": "LEGO Technic F1 Ferrari SF-24 - Maquette de Voiture de Course Collector à échelle 1/8 - Inclut Moteur V6, boîte de Vitesses, DRS et Volant - Idée Cadeau pour Adulte et Adolescent 42207",
       "old_price": 229.99,
       "new_price": 179.99,
       "discount": 22,
@@ -4653,7 +4653,7 @@
       "link": "https://www.amazon.fr/dp/B0CC9S938T?tag=pepius-21"
     },
     {
-      "title": "LEGO Speed Champions Voiture F1 McLaren Team MCL38 - Cadeau pour Papa - Set de Construction de Véhicule de Course - Minifigurine Collector de Pilote de Formule 1 - Maquette pour Garçon 10 Ans 77251",
+      "title": "LEGO Speed Champions Voiture F1 McLaren Team MCL38 - Jeu de Construction avec véhicule de Course - Minifigurine Collector de Pilote de Formule 1 - Maquette pour garçons et Filles dès 10 Ans 77251",
       "old_price": 26.99,
       "new_price": 22.84,
       "discount": 15,
@@ -4679,7 +4679,7 @@
     {
       "title": "Gardena Enrouleur de tuyau Mural RollUp M/L (blanc)– Longueur 25m –Ø13mm– Garantie 5 ans– Dévidoir pivotant à 180°– Kit complet avec lance, raccord, tuyau Gardena et support mural inclus(18622-20)",
       "old_price": 192.99,
-      "new_price": 165.69,
+      "new_price": 165.03,
       "discount": 14,
       "image": "https://m.media-amazon.com/images/I/714D2i+rDKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08KGRT6DP?tag=pepius-21"
@@ -4717,6 +4717,14 @@
       "link": "https://www.amazon.fr/dp/B09PYP9L4T?tag=pepius-21"
     },
     {
+      "title": "Thermalright TL-C12C-S X5 Ventilateur de processeur Noir 1550 tr/min Vitesse de rotation 120 mm Ventilateur PWM pour boîtier et refroidissement liquide et processeur(5 pièces)",
+      "old_price": 24.9,
+      "new_price": 22.59,
+      "discount": 9,
+      "image": "https://m.media-amazon.com/images/I/61vPktW6mvL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D9NB1YYX?tag=pepius-21"
+    },
+    {
       "title": "Philips Evnia 49M2C8900LA - Moniteur Gaming incurvé DQHD OLED 49 Pouces, 144 Hertz, 0,03 ms GtG, HDR400, Ambiglow (5120x1440, HDMI 2.1, DisplayPort 1.4, USB-C, Hub USB) Blanc",
       "old_price": 899,
       "new_price": 829,
@@ -4725,20 +4733,20 @@
       "link": "https://www.amazon.fr/dp/B0DH58FW9F?tag=pepius-21"
     },
     {
-      "title": "Tonnelle pliante 3 x 3 cm, imperméable, tissu Oxford 420D, protection UV 50+, avec sac de sable, sac de rangement, pour jardin, fête, mariage, bleu",
-      "old_price": 81.99,
-      "new_price": 76.99,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/617bxB85mAL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DP2L6C83?tag=pepius-21"
-    },
-    {
       "title": "Meross Prise Connectée Matter (Type E), Prise WiFi avec Matter Simple Setup(MSS), Prise Compatible avec Apple Home, Alexa et Google Home, Prise Mesure de Production du Panneau Solaire Photovoltaïque",
       "old_price": 8.99,
       "new_price": 8.49,
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/61Xb+Yx4+tL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CGKWRLCJ?tag=pepius-21"
+    },
+    {
+      "title": "Zendure Solarflow Hyper 2000 avec AB2000S 1920Wh, Centrale Électrique de Balcon avec Entrée Solaire 1800W, Hub Intégré(Unité de Contrôle Intelligente) Micro Onduleur, Charge AC Bidirectionnelle 1200W",
+      "old_price": 911.05,
+      "new_price": 865.5,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/618BPcVgkoL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCVTFY87?tag=pepius-21"
     },
     {
       "title": "De Buyer 5020.28 'La Lyonnaise' Poêle ronde Coupe Lyonnaise Queue Feuillard - Ep. 1,2 mm - Ø 28 cm",
@@ -4755,6 +4763,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61rNQOngNUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09CYX3MVV?tag=pepius-21"
+    },
+    {
+      "title": "Tonnelle pliante 3 x 3 cm, imperméable, tissu Oxford 420D, protection UV 50+, avec sac de sable, sac de rangement, pour jardin, fête, mariage, bleu",
+      "old_price": null,
+      "new_price": 79.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/617bxB85mAL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DP2L6C83?tag=pepius-21"
     },
     {
       "title": "Les Simpsons- Peluche Parlante Homer - Licence Oficielle - 30 Cm - 20 Phrases - Peluche Douce - Activation Ficelle - Tête Sculpté - Collectionnez Les Tous ! - Piles incluses - Jouet Enfant 6 Ans +",
@@ -4907,14 +4923,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71ROIm2faXL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B00803ZBCQ?tag=pepius-21"
-    },
-    {
-      "title": "adidas Entrada 22 Sweat Hoodie Hooded Sweat Homme (Lot de 1)",
-      "old_price": null,
-      "new_price": 20.8,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81aQUcy5oML._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09H6WZFV4?tag=pepius-21"
     }
   ]
 }
