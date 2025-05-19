@@ -4341,6 +4341,14 @@
   ],
   "2025-05-19": [
     {
+      "title": "ORICO Hub USB C 5 en 1 Station d'accueil avec 4K HDMI, PD 60W, 5 Gbps USB A 3.0, 2 Ports USB A 2.0, Type C Multiport Docking Station pour MacBook Air Pro M2 M1 iPad Surface Dell HP (15cm)",
+      "old_price": 31.59,
+      "new_price": 8.99,
+      "discount": 72,
+      "image": "https://m.media-amazon.com/images/I/71pdt+Nq2BL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYS5SPQP?tag=pepius-21"
+    },
+    {
       "title": "Bialetti - Moka Express: La Cafetière Expresso Iconique, Le Vrai Café Italien, Cafetière 1 Tasse (60 Ml), Aluminium, Argenté",
       "old_price": 24.9,
       "new_price": 11,
@@ -4355,14 +4363,6 @@
       "discount": 50,
       "image": "https://m.media-amazon.com/images/I/61SMyOnjaZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
-    },
-    {
-      "title": "realme Montre S2 Silver UE",
-      "old_price": 62.2,
-      "new_price": 31.49,
-      "discount": 49,
-      "image": "https://m.media-amazon.com/images/I/51a5I3mGsnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCBYQ5ZX?tag=pepius-21"
     },
     {
       "title": "FACOM 440.JP10PB FAC30967 JUEGO 10 LLAVES MIXTAS SOPORTE",
@@ -4581,14 +4581,6 @@
       "link": "https://www.amazon.fr/dp/B0D9Q5CG5J?tag=pepius-21"
     },
     {
-      "title": "ECOVACS GOAT G1-2000 Tondeuse robotisée avec garage robuste et module de connexion automatique, délimitation sans fil pour les jardins jusqu'à 2000㎡, Évitement d'obstacles AIVI 3D, gestion de 16 zones",
-      "old_price": 1599,
-      "new_price": 1299,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/71n2bx2+s1L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWPCT26H?tag=pepius-21"
-    },
-    {
       "title": "Bosch Professional 12V System scie circulaire sans-fil GKS 12V-26 (Ø de lame : 85 mm, avec 2 batteries 3,0 Ah et chargeur, dans L-BOXX 136)",
       "old_price": 233.99,
       "new_price": 189.99,
@@ -4653,7 +4645,7 @@
       "link": "https://www.amazon.fr/dp/B0CC9S938T?tag=pepius-21"
     },
     {
-      "title": "LEGO Speed Champions Voiture F1 McLaren Team MCL38 - Cadeau pour Papa - Set de Construction de Véhicule de Course - Minifigurine Collector de Pilote de Formule 1 - Maquette pour Garçon 10 Ans 77251",
+      "title": "LEGO Speed Champions Voiture F1 McLaren Team MCL38 - Jeu de Construction avec véhicule de Course - Minifigurine Collector de Pilote de Formule 1 - Maquette pour garçons et Filles dès 10 Ans 77251",
       "old_price": 26.99,
       "new_price": 22.84,
       "discount": 15,
@@ -4867,6 +4859,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81FBQA3bHpL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00CALHYF6?tag=pepius-21"
+    },
+    {
+      "title": "realme Montre S2 Silver UE",
+      "old_price": null,
+      "new_price": 60.71,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51a5I3mGsnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCBYQ5ZX?tag=pepius-21"
     },
     {
       "title": "Levi's Classic Chaussettes (Lot de 6) Mixte",
