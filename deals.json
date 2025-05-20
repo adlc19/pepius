@@ -4943,14 +4943,6 @@
       "link": "https://www.amazon.fr/dp/B09HV58YR5?tag=pepius-21"
     },
     {
-      "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Technologie Anti-terne, Citron, (6x19) 114 Capsules, Nettoyage Optimal, Redonne De L’Éclat Et Prévient Le Calcaire",
-      "old_price": 31.5,
-      "new_price": 18.71,
-      "discount": 41,
-      "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
-    },
-    {
       "title": "Tenax Raphia Naturel 50 g, Ligature pour Plantes et Jardinage, Ficelle pour Artisanat, Bricolage, Décoration et Ligature Bouquets Floraux et Paquets-Cadeaux",
       "old_price": 2.68,
       "new_price": 1.64,
@@ -5183,6 +5175,14 @@
       "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
     },
     {
+      "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Technologie Anti-terne, Citron, (6x19) 114 Capsules, Nettoyage Optimal, Redonne De L’Éclat Et Prévient Le Calcaire",
+      "old_price": 31.5,
+      "new_price": 28,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
+    },
+    {
       "title": "GROHE Flexible tuyau de douche salle de bains VitalioFlex Comfort, tuyau de douche 1750mm, anti-pliures, finition brillante, raccord fileté universel 1/2\", chromé, 28745002 (Import Allemagne)",
       "old_price": 16.07,
       "new_price": 14.54,
@@ -5359,6 +5359,14 @@
       "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
     },
     {
+      "title": "ORICO Hub USB C 8 en 1 Station d'accueil avec HDMI 4K@60Hz, PD 100W, SD/TF, 2 Ports 5Gbps USB A 3.0, 3.5mm Audio, Type C Multi Docking Station pour MacBook Air Pro M2 M1 iPad Surface Dell HP (15cm)",
+      "old_price": null,
+      "new_price": 28.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71HMoI66HuL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYS5SPQP?tag=pepius-21"
+    },
+    {
       "title": "DOQAUS 6 Pack Thermomètre Intérieur, Thermomètre Numérique Mini, Thermomètre et Hygromètre de Haute Précision Avec Indicateur Smiley Pour Intérieur, Hygromètre de Chambre de Bébé",
       "old_price": null,
       "new_price": 29.99,
@@ -5457,7 +5465,7 @@
     {
       "title": "LEGO Technic F1 Ferrari SF-24 - Cadeau pour Fête des Pères - Maquette de Voiture de Course Collector à Echelle 1/8 - Moteur V6, Boîte de Vitesses, DRS & Volant - Cadeau pour Adulte & Adolescent 42207",
       "old_price": null,
-      "new_price": 22.98,
+      "new_price": 129.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81cR-YlUcqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSCYDL2?tag=pepius-21"
@@ -5465,7 +5473,7 @@
     {
       "title": "Louise Attaque: Louise Attaque, Louise Attaque",
       "old_price": null,
-      "new_price": 9.99,
+      "new_price": 22.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B00008LORO?tag=pepius-21"
@@ -5501,14 +5509,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81MbELyM2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BBRXC9HN?tag=pepius-21"
-    },
-    {
-      "title": "LEGO Speed Champions Voiture F1 Visa Cash App RB VCARB 01 - Cadeau pour Papa - Maquette d'un Véhicule de Formule 1 - Minifigurine Collector de Pilote de Course - Idée de Cadeau pour Adulte 77246",
-      "old_price": null,
-      "new_price": 22.84,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81UurlCi5VL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DHS9JVGJ?tag=pepius-21"
     },
     {
       "title": "fanxiang 2To SSD Externe Magnétique, Jusqu'à 2050Mo/s, USB 3.2 Gen2 USB-C, SSD Portable avec RGB LEDs, 4K ProRes HDR, Disque Dur Mémoire Externe pour iPhone15/16, Android/PC/Mac-PS2200",
@@ -5553,7 +5553,7 @@
     {
       "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 43.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81i20HNPHNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSDWG2R?tag=pepius-21"
