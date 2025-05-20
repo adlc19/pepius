@@ -5231,6 +5231,14 @@
       "link": "https://www.amazon.fr/dp/B0CGKWRLCJ?tag=pepius-21"
     },
     {
+      "title": "Krups Machine à café broyeur grain, 2 expresso simultanés, Nettoyage automatique, Buse vapeur Cappuccino, Essential blanche EA810570",
+      "old_price": 271.84,
+      "new_price": 257.99,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71l-zy3BRJL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00MZ2F3Z8?tag=pepius-21"
+    },
+    {
       "title": "MAMMOTION YUKA Mini 700 Robot Tondeuse sans Fil Périphérique, NetRTK+Vision, Aucune Antenne RTK Requise, Recommandé 700 m², Max. 1100m², Pente à 50%, Cartographie Automatique, avec Module 4G",
       "old_price": 999,
       "new_price": 949,
@@ -5329,7 +5337,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 65.7,
+      "new_price": 100.38,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
@@ -5513,7 +5521,7 @@
     {
       "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Voiture de Course Jouet pour Enfants, Garçons et Filles Dès 7 Ans, Modèle à Rétrofriction, Décoration pour Chambre, Idée Cadeau d'anniversaire 42165",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 25.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XUrAY3DQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYZRN1?tag=pepius-21"
@@ -5577,26 +5585,10 @@
     {
       "title": "LEGO Art Love - Idée de Cadeau pour la Fête des Mères - Set de Construction pour Adulte et Activité Créative - Cadeau pour Femme ou Homme - Décoration Romantique 31214",
       "old_price": null,
-      "new_price": 43.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81i20HNPHNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSDWG2R?tag=pepius-21"
-    },
-    {
-      "title": "LAFUMA MOBILIER - Fauteuil Relax Zéro Gravité RT 2 - Chaise Longue Pliante Terrasse et Jardin - Toile Batyline® Résistante - Transat Multiposition, Tout Confort, Fabriqué en France - Marron CHATAIGNE",
-      "old_price": null,
-      "new_price": 89.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51G3wZMRHtL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B084N15SJT?tag=pepius-21"
-    },
-    {
-      "title": "Feandrea Arbre à Chat Hauteur 143 cm, Tour de Jeux pour Chats, avec 4 Poteaux à Griffer, 2 Plateformes, 1 Niche, 1 Hamac, 2 Pompons, en Tissu Peluche, Multi-Niveaux, Gris Clair PCT161W01",
-      "old_price": 49.99,
-      "new_price": 49.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71rmdPmFpuL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08XTMNMMZ?tag=pepius-21"
     }
   ]
 }
