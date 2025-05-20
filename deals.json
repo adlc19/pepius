@@ -4943,6 +4943,14 @@
       "link": "https://www.amazon.fr/dp/B09HV58YR5?tag=pepius-21"
     },
     {
+      "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Technologie Anti-terne, Citron, (6x19) 114 Capsules, Nettoyage Optimal, Redonne De L’Éclat Et Prévient Le Calcaire",
+      "old_price": 31.5,
+      "new_price": 18.71,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
+    },
+    {
       "title": "Tenax Raphia Naturel 50 g, Ligature pour Plantes et Jardinage, Ficelle pour Artisanat, Bricolage, Décoration et Ligature Bouquets Floraux et Paquets-Cadeaux",
       "old_price": 2.68,
       "new_price": 1.64,
@@ -5119,12 +5127,28 @@
       "link": "https://www.amazon.fr/dp/B0CC9S938T?tag=pepius-21"
     },
     {
+      "title": "KINGrinder K6 Moulin à café manuel avec 200 degrés de mouture réglables pour Aeropress, French Press, Drip, Expresso, capacité 35 g",
+      "old_price": 99,
+      "new_price": 84.15,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/71U7xbWeigL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CVSDNQ9H?tag=pepius-21"
+    },
+    {
       "title": "LEGO Speed Champions Voiture F1 McLaren Team MCL38 - Cadeau pour Papa - Set de Construction de Véhicule de Course - Minifigurine Collector de Pilote de Formule 1 - Maquette pour Garçon 10 Ans 77251",
       "old_price": 26.99,
       "new_price": 22.84,
       "discount": 15,
       "image": "https://m.media-amazon.com/images/I/81npfNGXubL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHS9Y192?tag=pepius-21"
+    },
+    {
+      "title": "Cecotec Ventilateur de Plafond avec Lumière EnergySilence Aero 360. 50 W, Faible Consommation, Diamètre de 91 cm, 6 Pales Réversibles, 3 Vitesses, Fonction Hiver, Finition en Blanc/Bois",
+      "old_price": 64.9,
+      "new_price": 55.99,
+      "discount": 14,
+      "image": "https://m.media-amazon.com/images/I/41QKrhBGhxL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0913CCNJN?tag=pepius-21"
     },
     {
       "title": "Kärcher Nettoyeur de Vitres WV 2 Black Edition, Autonomie de Batterie : 35 min, Affichage LED, 2 Raclettes, Pulvérisateur avec Microfibres, 20 ml Nettoyant Vitres Concentré",
@@ -5157,14 +5181,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/817k4zDR4rL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
-    },
-    {
-      "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Technologie Anti-terne, Citron, (6x19) 114 Capsules, Nettoyage Optimal, Redonne De L’Éclat Et Prévient Le Calcaire",
-      "old_price": 31.5,
-      "new_price": 28,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/81m1CAqbaRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CVQBLY1D?tag=pepius-21"
     },
     {
       "title": "GROHE Flexible tuyau de douche salle de bains VitalioFlex Comfort, tuyau de douche 1750mm, anti-pliures, finition brillante, raccord fileté universel 1/2\", chromé, 28745002 (Import Allemagne)",
@@ -5305,7 +5321,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 65.7,
+      "new_price": 69.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
@@ -5441,7 +5457,7 @@
     {
       "title": "LEGO Technic F1 Ferrari SF-24 - Cadeau pour Fête des Pères - Maquette de Voiture de Course Collector à Echelle 1/8 - Moteur V6, Boîte de Vitesses, DRS & Volant - Cadeau pour Adulte & Adolescent 42207",
       "old_price": null,
-      "new_price": 129.99,
+      "new_price": 22.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81cR-YlUcqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSCYDL2?tag=pepius-21"
