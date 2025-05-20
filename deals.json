@@ -5039,14 +5039,6 @@
       "link": "https://www.amazon.fr/dp/B0CZ454TLP?tag=pepius-21"
     },
     {
-      "title": "Imageur Thermique, Caméra Thermique -20℃~550℃, 2.4-inch 25 Hz TFT LCD Infrared Thermal Imager, 240 x 240 Résolution TISR, 96 x 96 Résolution IR, 50°FOV Thermal Imaging, 8h Battery Thermal Imager",
-      "old_price": 199.99,
-      "new_price": 149.99,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/71LlG9Qv8FL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DTH9RD9R?tag=pepius-21"
-    },
-    {
       "title": "LEGO Botanicals Le Chrysanthème - Idée de Cadeau pour la Fête des Mères - Décoration avec Fleurs Artificielles pour Passionnée de Plantes - Set de Construction pour Adulte - Cadeau pour Femme 10368",
       "old_price": 29.99,
       "new_price": 22.79,
@@ -5117,6 +5109,14 @@
       "discount": 17,
       "image": "https://m.media-amazon.com/images/I/61TYeT2DCYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTJXX2RV?tag=pepius-21"
+    },
+    {
+      "title": "Imageur Thermique, Caméra Thermique -20℃~550℃, 2.4-inch 25 Hz TFT LCD Infrared Thermal Imager, 240 x 240 Résolution TISR, 96 x 96 Résolution IR, 50°FOV Thermal Imaging, 8h Battery Thermal Imager",
+      "old_price": 179.99,
+      "new_price": 149.99,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/71LlG9Qv8FL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DTH9RD9R?tag=pepius-21"
     },
     {
       "title": "Netatmo Caméra de Surveillance Extérieure Connectée Intelligente avec Éclairage Intégré 12W, Détection des Personnes/Animaux/Véhicules, Vidéo HD 1080p 4MP, Vision Nocturne IR, Stockage Local, NOC-AMZ",
@@ -5273,7 +5273,7 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 16,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XdIxYpYIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
@@ -5289,7 +5289,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 65.7,
+      "new_price": 79.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
