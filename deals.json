@@ -4991,6 +4991,14 @@
       "link": "https://www.amazon.fr/dp/B0CMQ9VGCP?tag=pepius-21"
     },
     {
+      "title": "Bahco 244P-22-U7-Hp Barracuda Handsaw 22In",
+      "old_price": 25.07,
+      "new_price": 17.44,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/41pIeNCAC1S._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0001IX7ZG?tag=pepius-21"
+    },
+    {
       "title": "Krups Machine à café grain, 1,7 L, 2 tasses en simultané, Nettoyage automatique, Buse vapeur pour Cappuccino, Cafetière espresso, Essential noire YY8125FD, Noir",
       "old_price": 419.97,
       "new_price": 299.99,
@@ -5045,14 +5053,6 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/81FBQA3bHpL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00CALHYF6?tag=pepius-21"
-    },
-    {
-      "title": "Bahco 244P-22-U7-Hp Barracuda Handsaw 22In",
-      "old_price": 25.07,
-      "new_price": 19.38,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/41pIeNCAC1S._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B0001IX7ZG?tag=pepius-21"
     },
     {
       "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
@@ -5143,6 +5143,14 @@
       "link": "https://www.amazon.fr/dp/B075F78KDV?tag=pepius-21"
     },
     {
+      "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
+      "old_price": 449,
+      "new_price": 399,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
+    },
+    {
       "title": "CAJOLINE - Adoucissant en bouteille - 45 lavages - fraîcheur pétillante - parfum raffiné aux essences naturelles - bouteille en plastique 100% recyclé",
       "old_price": 2.88,
       "new_price": 2.56,
@@ -5168,8 +5176,8 @@
     },
     {
       "title": "Fairy Platinum Plus All In One Tablettes Lave-Vaisselle, Original, 36x4 Tablettes, Emballage En Papier Recyclable, Pour Une Vaisselle Comme Neuve, Élimine L’Apparence Terne, Sans Prélavage",
-      "old_price": 37.78,
-      "new_price": 34,
+      "old_price": 39.17,
+      "new_price": 35.25,
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/71LzO2x9o2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C3JMVRZP?tag=pepius-21"
@@ -5533,14 +5541,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71rmdPmFpuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XTMNMMZ?tag=pepius-21"
-    },
-    {
-      "title": "Cloueuse,Cloueur Beton,Pistolet A Clou,pistolet à ongles portable,avec 200pièces clou beton(7.3mm),lunettes,Boîte en plastique 5 Engrenages Réglable Double Silencieux,pour mur en ciment (Orange)",
-      "old_price": null,
-      "new_price": 31.5,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61Y8mRzhDBL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DLVYY5BK?tag=pepius-21"
     }
   ]
 }
