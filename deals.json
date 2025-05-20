@@ -4919,14 +4919,6 @@
       "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
     },
     {
-      "title": "Amazon.fr : VARTA - BATTERIE VARTA BLUE DYNAMIC G7",
-      "old_price": 124.71,
-      "new_price": 67,
-      "discount": 46,
-      "image": "https://m.media-amazon.com/images/I/71TifNqM9jL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00RZ4ZIFG?tag=pepius-21"
-    },
-    {
       "title": "Tiger Balm - BAUME DU TIGRE Blanc - Baume à effet froid - Parfum mentholé - Pour sportifs, après l'effort ou en massage de la poitrine ou des tempes. En massage, pour se relaxer - 19 g",
       "old_price": 10.92,
       "new_price": 6.36,
@@ -5143,6 +5135,14 @@
       "link": "https://www.amazon.fr/dp/B075F78KDV?tag=pepius-21"
     },
     {
+      "title": "Bloc Multiprise avec Interrupteur,Multiprise Parafoudre et Surtension,Prise Multiple avec USB C PD20W,Bloc 10 Prises Française 16A 2P+T Rallonge Electrique 2m Parasurtenseur pour Maison,Bureau,Noir",
+      "old_price": 45.99,
+      "new_price": 39.99,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/71fAQMl1dIL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZ6Y4WFG?tag=pepius-21"
+    },
+    {
       "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
       "old_price": 449,
       "new_price": 399,
@@ -5263,12 +5263,28 @@
       "link": "https://www.amazon.fr/dp/B09CYX3MVV?tag=pepius-21"
     },
     {
+      "title": "ORICO 1TB Magnetic External SSD, 4K ProRes HDR Record and Store, 2000MB/s Stable Transmission and Storage, Portable Solid State Drive, Compatible avec Smartphone, Ordinateur - A20PLUS",
+      "old_price": null,
+      "new_price": 99.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616dlCikJoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DMDJGSS6?tag=pepius-21"
+    },
+    {
       "title": "SONGMICS Étendoir à Linge, Séchoir Mobile à 4 Niveaux, avec roulettes, Pliable, 63,5 x 128 x 173 cm, Grande Capacité, Montage Facile, Utilisation Intérieure et Extérieure, Gris LLR701G01",
       "old_price": null,
       "new_price": 37.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81bW6+OkUnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C332C9S4?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : VARTA - BATTERIE VARTA BLUE DYNAMIC G7",
+      "old_price": null,
+      "new_price": 124.71,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71TifNqM9jL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00RZ4ZIFG?tag=pepius-21"
     },
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
@@ -5289,7 +5305,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 79.95,
+      "new_price": 65.7,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
@@ -5425,7 +5441,7 @@
     {
       "title": "LEGO Technic F1 Ferrari SF-24 - Cadeau pour Fête des Pères - Maquette de Voiture de Course Collector à Echelle 1/8 - Moteur V6, Boîte de Vitesses, DRS & Volant - Cadeau pour Adulte & Adolescent 42207",
       "old_price": null,
-      "new_price": 22.98,
+      "new_price": 129.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81cR-YlUcqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSCYDL2?tag=pepius-21"
@@ -5457,7 +5473,7 @@
     {
       "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Voiture de Course Jouet pour Enfants, Garçons et Filles Dès 7 Ans, Modèle à Rétrofriction, Décoration pour Chambre, Idée Cadeau d'anniversaire 42165",
       "old_price": null,
-      "new_price": 69.99,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XUrAY3DQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYZRN1?tag=pepius-21"
