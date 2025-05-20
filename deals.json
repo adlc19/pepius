@@ -4911,14 +4911,6 @@
       "link": "https://www.amazon.fr/dp/B0000AN3QH?tag=pepius-21"
     },
     {
-      "title": "SONGMICS HOME Porte Manteau Mural, Portant à Vêtements en Forme de Branche, avec 7 Crochets, des Butées Rondes, pour Chapeaux, Sacs, Blanc Perle RCR035W01",
-      "old_price": 19.99,
-      "new_price": 9.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/61SMyOnjaZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
-    },
-    {
       "title": "Tiger Balm - BAUME DU TIGRE Blanc - Baume à effet froid - Parfum mentholé - Pour sportifs, après l'effort ou en massage de la poitrine ou des tempes. En massage, pour se relaxer - 19 g",
       "old_price": 10.92,
       "new_price": 6.36,
@@ -5231,6 +5223,14 @@
       "link": "https://www.amazon.fr/dp/B0BRSR8GNQ?tag=pepius-21"
     },
     {
+      "title": "UGREEN Clé WiFi 6 AX900 Antenne à Gain Élevé 6dBi Adaptateur USB Entrée de Gamme 5GHz 2.4GHz Double Bande Station Soft AP Mode Dongle Pilote Intégré Compatible avec Windows 11 10",
+      "old_price": 12.74,
+      "new_price": 11.99,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/51bhQ0nbPaL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D3WY6KMN?tag=pepius-21"
+    },
+    {
       "title": "Meross Prise Connectée Matter (Type E), Prise WiFi avec Matter Simple Setup(MSS), Prise Compatible avec Apple Home, Alexa et Google Home, Prise Mesure de Production du Panneau Solaire Photovoltaïque",
       "old_price": 8.99,
       "new_price": 8.49,
@@ -5279,6 +5279,14 @@
       "link": "https://www.amazon.fr/dp/B09CYX3MVV?tag=pepius-21"
     },
     {
+      "title": "UGREEN Casque Bluetooth sans Fil Sport HiTune Max 5C Hi Res Audio ANC Reduction Active Adaptative de Bruit Casque Musique Bluetooth 5.4 Audio Spatial Personnalisé 75H Charge USB C avec Micro Noir",
+      "old_price": null,
+      "new_price": 39.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/612TMuDXB0L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CWV5LG6M?tag=pepius-21"
+    },
+    {
       "title": "ORICO 1TB Magnetic External SSD, 4K ProRes HDR Record and Store, 2000MB/s Stable Transmission and Storage, Portable Solid State Drive, Compatible avec Smartphone, Ordinateur - A20PLUS",
       "old_price": null,
       "new_price": 99.99,
@@ -5305,7 +5313,7 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 16,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XdIxYpYIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
@@ -5321,7 +5329,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 69.95,
+      "new_price": 71.64,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
@@ -5465,7 +5473,7 @@
     {
       "title": "LEGO Technic F1 Ferrari SF-24 - Cadeau pour Fête des Pères - Maquette de Voiture de Course Collector à Echelle 1/8 - Moteur V6, Boîte de Vitesses, DRS & Volant - Cadeau pour Adulte & Adolescent 42207",
       "old_price": null,
-      "new_price": 129.99,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81cR-YlUcqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSCYDL2?tag=pepius-21"
@@ -5477,6 +5485,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B00008LORO?tag=pepius-21"
+    },
+    {
+      "title": "SONGMICS HOME Porte Manteau Mural, Portant à Vêtements en Forme de Branche, avec 7 Crochets, des Butées Rondes, pour Chapeaux, Sacs, Blanc Perle RCR035W01",
+      "old_price": null,
+      "new_price": 9.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61SMyOnjaZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
     },
     {
       "title": "realme Montre S2 Silver UE",
