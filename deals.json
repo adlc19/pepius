@@ -5713,6 +5713,14 @@
       "link": "https://www.amazon.fr/dp/B08TLSB2XD?tag=pepius-21"
     },
     {
+      "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
+      "old_price": 5.89,
+      "new_price": 4.39,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
+    },
+    {
       "title": "MAMMOTION YUKA Mini 700 Robot Tondeuse sans Fil Périphérique, NetRTK+Vision, Aucune Antenne RTK Requise, Recommandé 700 m², Max. 1100m², Pente à 50%, Cartographie Automatique, avec Module 4G",
       "old_price": 1199,
       "new_price": 899,
@@ -5769,7 +5777,15 @@
       "link": "https://www.amazon.fr/dp/B0DCFYP9N2?tag=pepius-21"
     },
     {
-      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
+      "title": "HP OMEN by 17-db0002sf 17.3\" 2560 x 1440 Pixels AMD Ryzen 7-8845HS 32Go 1000Go SSD NVIDIA GeForce RTX 4070 Windows 11 Home",
+      "old_price": 1699,
+      "new_price": 1399,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/81DdJYragKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCW349NK?tag=pepius-21"
+    },
+    {
+      "title": "TP-Link TL-SG105-M2 Switch No administrado Gigabit Ethernet (10/100/1000) Negro",
       "old_price": 65.44,
       "new_price": 53.57,
       "discount": 18,
@@ -6283,7 +6299,7 @@
     {
       "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Voiture de Course Jouet pour Enfants, Garçons et Filles Dès 7 Ans, Modèle à Rétrofriction, Décoration pour Chambre, Idée Cadeau d'anniversaire 42165",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XUrAY3DQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYZRN1?tag=pepius-21"
@@ -6303,14 +6319,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61TYeT2DCYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTJWLWB9?tag=pepius-21"
-    },
-    {
-      "title": "Bahco 244P-22-U7-Hp Barracuda Handsaw 22In",
-      "old_price": null,
-      "new_price": 17.44,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41pIeNCAC1S._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B0001IX7ZG?tag=pepius-21"
     }
   ]
 }
