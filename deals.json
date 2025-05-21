@@ -5635,8 +5635,8 @@
     {
       "title": "Samsung Galaxy Book4 Edge Ordinateur Portable avec IA 14’’, Copilot+ PC, Snapdragon X Elite X1E-80-100, Mémoire 16 Go, Stockage 512 Go, Gris Glacier",
       "old_price": 1799,
-      "new_price": 975.06,
-      "discount": 46,
+      "new_price": 987.09,
+      "discount": 45,
       "image": "https://m.media-amazon.com/images/I/710p4pkgTQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4R3BVT2?tag=pepius-21"
     },
@@ -5657,7 +5657,7 @@
       "link": "https://www.amazon.fr/dp/B002QQN37S?tag=pepius-21"
     },
     {
-      "title": "Fairy Original Tablettes Lave-Vaisselle Tout En 1,Citron, 132 Capsules, Efficaces Contre Graisse Incrustée, Dissolution Ultra-Rapide, Protection Verre et Argent, Sans Odeurs",
+      "title": "Fairy Original Tablettes Lave-vaisselle Tout En 1, Citron, 132 Capsules, Efficaces Même Sur La Graisse Incrustée",
       "old_price": 30.5,
       "new_price": 18.12,
       "discount": 41,
@@ -5873,6 +5873,14 @@
       "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
     },
     {
+      "title": "Gigabyte GeForce RTX 5060 Ti WINDFORCE 16G Carte Graphique – 16 Go GDDR7, 128 Bits, PCI-E 5.0, 2572 MHz Fréquence du processeur, 3 x DisplayPort, 1 x HDMI, GV-N506TWF2-16GD",
+      "old_price": 499,
+      "new_price": 449.95,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/71+Aze+RupL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F4NGCGM4?tag=pepius-21"
+    },
+    {
       "title": "GROHE Flexible tuyau de douche salle de bains VitalioFlex Comfort, tuyau de douche 1750mm, anti-pliures, finition brillante, raccord fileté universel 1/2\", chromé, 28745002 (Import Allemagne)",
       "old_price": 16.07,
       "new_price": 14.54,
@@ -5977,9 +5985,17 @@
       "link": "https://www.amazon.fr/dp/B09CYX3MVV?tag=pepius-21"
     },
     {
+      "title": "ZKH Cle a Molette | 19.3 x 150 mm | Clés en Acier au carbone 45#, Résistant à la Rouille, l’Usure, Antidérapante | Échelle Gravé au laser, Écrou de Haute Précision | Plomberie/Bricolage/Réparation",
+      "old_price": null,
+      "new_price": 9.37,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51l2CQy1q3L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C7CBZRTQ?tag=pepius-21"
+    },
+    {
       "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
       "old_price": null,
-      "new_price": 7.85,
+      "new_price": 13.75,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
@@ -6251,7 +6267,7 @@
     {
       "title": "LEGO Technic F1 Ferrari SF-24 - Cadeau pour Fête des Pères - Maquette de Voiture de Course Collector à Echelle 1/8 - Moteur V6, Boîte de Vitesses, DRS & Volant - Cadeau pour Adulte & Adolescent 42207",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 25.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81cR-YlUcqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHSCYDL2?tag=pepius-21"
@@ -6291,7 +6307,7 @@
     {
       "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Voiture de Course Jouet pour Enfants, Garçons et Filles Dès 7 Ans, Modèle à Rétrofriction, Décoration pour Chambre, Idée Cadeau d'anniversaire 42165",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XUrAY3DQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYZRN1?tag=pepius-21"
