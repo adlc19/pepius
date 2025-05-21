@@ -5625,6 +5625,14 @@
       "link": "https://www.amazon.fr/dp/B0000AN3QH?tag=pepius-21"
     },
     {
+      "title": "Sage - The Barista Touch - Machine à Café à Grain avec Mousseur à Lait Automatique - Acier Inoxydable Brossé",
+      "old_price": 1249.9,
+      "new_price": 626,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/61m5B4G2I2L._AC_SL1300_.jpg",
+      "link": "https://www.amazon.fr/dp/B07B2WQPR3?tag=pepius-21"
+    },
+    {
       "title": "Philips Sneaker Cleaner - Nettoyeur de Baskets - Kit de Nettoyage Chaussure, 3 Brosses Incluses, Bleu (GCA1000/60)",
       "old_price": 27.99,
       "new_price": 14.49,
@@ -5649,7 +5657,7 @@
       "link": "https://www.amazon.fr/dp/B002QQN37S?tag=pepius-21"
     },
     {
-      "title": "Fairy Original Tablettes Lave-Vaisselle Tout En 1,Citron, 132 Capsules, Efficaces Contre Graisse Incrustée, Dissolution Ultra-Rapide, Protection Verre et Argent, Sans Odeurs",
+      "title": "Fairy Original Tablettes Lave-vaisselle Tout En 1, Citron, 132 Capsules, Efficaces Même Sur La Graisse Incrustée",
       "old_price": 30.5,
       "new_price": 18.12,
       "discount": 41,
@@ -5723,8 +5731,8 @@
     {
       "title": "Moulinex Extra Crisp Cookeo, Couvercle air fryer, Recettes croustillantes, Cuisson sans huile, 4 programmes, Température réglable, Compatible avec les Cookeo 6 L, Noir EZ150800",
       "old_price": 89.99,
-      "new_price": 71.28,
-      "discount": 21,
+      "new_price": 69.99,
+      "discount": 22,
       "image": "https://m.media-amazon.com/images/I/61ix4WPvBeL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
     },
@@ -5745,7 +5753,7 @@
       "link": "https://www.amazon.fr/dp/B0DCFYP9N2?tag=pepius-21"
     },
     {
-      "title": "TP-Link TL-SG105-M2 Switch No administrado Gigabit Ethernet (10/100/1000) Negro",
+      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
       "old_price": 65.44,
       "new_price": 53.57,
       "discount": 18,
@@ -5775,14 +5783,6 @@
       "discount": 17,
       "image": "https://m.media-amazon.com/images/I/61TYeT2DCYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTJXX2RV?tag=pepius-21"
-    },
-    {
-      "title": "Imageur Thermique, Caméra Thermique -20℃~550℃, 2.4-inch 25 Hz TFT LCD Infrared Thermal Imager, 240 x 240 Résolution TISR, 96 x 96 Résolution IR, 50°FOV Thermal Imaging, 8h Battery Thermal Imager",
-      "old_price": 179.99,
-      "new_price": 149.99,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/71LlG9Qv8FL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DTH9RD9R?tag=pepius-21"
     },
     {
       "title": "Netatmo Caméra de Surveillance Extérieure Connectée Intelligente avec Éclairage Intégré 12W, Détection des Personnes/Animaux/Véhicules, Vidéo HD 1080p 4MP, Vision Nocturne IR, Stockage Local, NOC-AMZ",
@@ -6043,7 +6043,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 79.95,
+      "new_price": 199.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
@@ -6051,7 +6051,7 @@
     {
       "title": "Ambientair Home Perfume - VV001VCAP - Bougie parfumée à la vanille et à la cannelle - Parfum vanille et cannelle - Bougie en verre pour intérieur - Durée de vie 30 heures",
       "old_price": null,
-      "new_price": 4.95,
+      "new_price": 5.74,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/6198yvh2MzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09B418536?tag=pepius-21"
@@ -6075,7 +6075,7 @@
     {
       "title": "ORICO Hub USB C 8 en 1 Station d'accueil avec HDMI 4K@60Hz, PD 100W, SD/TF, 2 Ports 5Gbps USB A 3.0, 3.5mm Audio, Type C Multi Docking Station pour MacBook Air Pro M2 M1 iPad Surface Dell HP (15cm)",
       "old_price": null,
-      "new_price": 37.99,
+      "new_price": 19.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71HMoI66HuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BYS5SPQP?tag=pepius-21"
@@ -6243,7 +6243,7 @@
     {
       "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Voiture de Course Jouet pour Enfants, Garçons et Filles Dès 7 Ans, Modèle à Rétrofriction, Décoration pour Chambre, Idée Cadeau d'anniversaire 42165",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 219.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XUrAY3DQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYZRN1?tag=pepius-21"
