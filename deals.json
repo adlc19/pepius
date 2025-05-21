@@ -5729,7 +5729,7 @@
       "link": "https://www.amazon.fr/dp/B0DCFYP9N2?tag=pepius-21"
     },
     {
-      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
+      "title": "TP-Link TL-SG105-M2 Switch No administrado Gigabit Ethernet (10/100/1000) Negro",
       "old_price": 65.44,
       "new_price": 53.57,
       "discount": 18,
@@ -5799,14 +5799,6 @@
       "discount": 14,
       "image": "https://m.media-amazon.com/images/I/616zYA5BHjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DF2PYPR5?tag=pepius-21"
-    },
-    {
-      "title": "Cecotec Ventilateur de Plafond avec Lumière EnergySilence Aero 360. 50 W, Faible Consommation, Diamètre de 91 cm, 6 Pales Réversibles, 3 Vitesses, Fonction Hiver, Finition en Blanc/Bois",
-      "old_price": 64.9,
-      "new_price": 55.99,
-      "discount": 14,
-      "image": "https://m.media-amazon.com/images/I/41QKrhBGhxL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0913CCNJN?tag=pepius-21"
     },
     {
       "title": "Bloc Multiprise avec Interrupteur,Multiprise Parafoudre et Surtension,Prise Multiple avec USB C PD20W,Bloc 10 Prises Française 16A 2P+T Rallonge Electrique 2m Parasurtenseur pour Maison,Bureau,Noir",
@@ -5977,6 +5969,14 @@
       "link": "https://www.amazon.fr/dp/B0CVSDNQ9H?tag=pepius-21"
     },
     {
+      "title": "Cecotec Ventilateur de Plafond avec Lumière EnergySilence Aero 360. 50 W, Faible Consommation, Diamètre de 91 cm, 6 Pales Réversibles, 3 Vitesses, Fonction Hiver, Finition en Blanc/Bois",
+      "old_price": null,
+      "new_price": 71.01,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41QKrhBGhxL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0913CCNJN?tag=pepius-21"
+    },
+    {
       "title": "ORICO 1TB Magnetic External SSD, 4K ProRes HDR Record and Store, 2000MB/s Stable Transmission and Storage, Portable Solid State Drive, Compatible avec Smartphone, Ordinateur - A20PLUS",
       "old_price": null,
       "new_price": 99.99,
@@ -6003,7 +6003,7 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 16,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XdIxYpYIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
@@ -6059,7 +6059,7 @@
     {
       "title": "ORICO Hub USB C 8 en 1 Station d'accueil avec HDMI 4K@60Hz, PD 100W, SD/TF, 2 Ports 5Gbps USB A 3.0, 3.5mm Audio, Type C Multi Docking Station pour MacBook Air Pro M2 M1 iPad Surface Dell HP (15cm)",
       "old_price": null,
-      "new_price": 37.99,
+      "new_price": 32.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71HMoI66HuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BYS5SPQP?tag=pepius-21"
