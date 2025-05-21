@@ -5649,7 +5649,7 @@
       "link": "https://www.amazon.fr/dp/B002QQN37S?tag=pepius-21"
     },
     {
-      "title": "Fairy Original Tablettes Lave-vaisselle Tout En 1, Citron, 132 Capsules, Efficaces Même Sur La Graisse Incrustée",
+      "title": "Fairy Original Tablettes Lave-Vaisselle Tout En 1,Citron, 132 Capsules, Efficaces Contre Graisse Incrustée, Dissolution Ultra-Rapide, Protection Verre et Argent, Sans Odeurs",
       "old_price": 30.5,
       "new_price": 18.12,
       "discount": 41,
@@ -5721,6 +5721,14 @@
       "link": "https://www.amazon.fr/dp/B00CALHYF6?tag=pepius-21"
     },
     {
+      "title": "Moulinex Extra Crisp Cookeo, Couvercle air fryer, Recettes croustillantes, Cuisson sans huile, 4 programmes, Température réglable, Compatible avec les Cookeo 6 L, Noir EZ150800",
+      "old_price": 89.99,
+      "new_price": 71.28,
+      "discount": 21,
+      "image": "https://m.media-amazon.com/images/I/61ix4WPvBeL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
+    },
+    {
       "title": "Sanogyl Dentifrice Soin Gencives 75 ml",
       "old_price": 2.75,
       "new_price": 2.16,
@@ -5737,7 +5745,7 @@
       "link": "https://www.amazon.fr/dp/B0DCFYP9N2?tag=pepius-21"
     },
     {
-      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
+      "title": "TP-Link TL-SG105-M2 Switch No administrado Gigabit Ethernet (10/100/1000) Negro",
       "old_price": 65.44,
       "new_price": 53.57,
       "discount": 18,
@@ -6035,7 +6043,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 64.99,
+      "new_price": 79.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
@@ -6063,14 +6071,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81zsUoJrWcL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DWX6H38M?tag=pepius-21"
-    },
-    {
-      "title": "Moulinex Extra Crisp Cookeo, Couvercle air fryer, Recettes croustillantes, Cuisson sans huile, 4 programmes, Température réglable, Compatible avec les Cookeo 6 L, Noir EZ150800",
-      "old_price": null,
-      "new_price": 71.28,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61ix4WPvBeL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
     },
     {
       "title": "ORICO Hub USB C 8 en 1 Station d'accueil avec HDMI 4K@60Hz, PD 100W, SD/TF, 2 Ports 5Gbps USB A 3.0, 3.5mm Audio, Type C Multi Docking Station pour MacBook Air Pro M2 M1 iPad Surface Dell HP (15cm)",
@@ -6219,7 +6219,7 @@
     {
       "title": "SONGMICS HOME Porte Manteau Mural, Portant à Vêtements en Forme de Branche, avec 7 Crochets, des Butées Rondes, pour Chapeaux, Sacs, Noir d'Encre RCR035B01",
       "old_price": null,
-      "new_price": 8.99,
+      "new_price": 15.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61RbnL4EAWL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D8KXH5K4?tag=pepius-21"
