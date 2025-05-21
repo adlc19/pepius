@@ -5641,6 +5641,14 @@
       "link": "https://www.amazon.fr/dp/B0D4R3BVT2?tag=pepius-21"
     },
     {
+      "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
+      "old_price": 17.79,
+      "new_price": 9.99,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
+    },
+    {
       "title": "Tiger Balm - BAUME DU TIGRE Blanc - Baume à effet froid - Parfum mentholé - Pour sportifs, après l'effort ou en massage de la poitrine ou des tempes. En massage, pour se relaxer - 19 g",
       "old_price": 10.92,
       "new_price": 6.36,
@@ -5809,14 +5817,6 @@
       "link": "https://www.amazon.fr/dp/B0F3DQ4L1Z?tag=pepius-21"
     },
     {
-      "title": "fanxiang 1To SSD Externe Magnétique, Jusqu'à 2050Mo/s, USB 3.2 Gen2 USB-C, SSD Portable avec RGB LEDs, 4K ProRes HDR, Disque Dur SSD Externe pour iPhone15/16, Android/PC/Mac-PS2200",
-      "old_price": 119.99,
-      "new_price": 99.99,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/61TYeT2DCYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DTJXX2RV?tag=pepius-21"
-    },
-    {
       "title": "Netatmo Caméra de Surveillance Extérieure Connectée Intelligente avec Éclairage Intégré 12W, Détection des Personnes/Animaux/Véhicules, Vidéo HD 1080p 4MP, Vision Nocturne IR, Stockage Local, NOC-AMZ",
       "old_price": 202.26,
       "new_price": 169.99,
@@ -5979,7 +5979,7 @@
     {
       "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
       "old_price": null,
-      "new_price": 13.75,
+      "new_price": 7.85,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
@@ -5991,14 +5991,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0897YTBRR?tag=pepius-21"
-    },
-    {
-      "title": "ASelected Corde à sauter réglable pour l'exercice et brûler les graisses – Câble métallique revêtu de PVC – Poignée en mousse à mémoire de forme – Rouge",
-      "old_price": null,
-      "new_price": 3,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61JEqRn8AaL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C38XWJ5C?tag=pepius-21"
     },
     {
       "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
@@ -6299,7 +6291,7 @@
     {
       "title": "LEGO Technic Mercedes-AMG F1 W14 E Performance Voiture de Course Jouet pour Enfants, Garçons et Filles Dès 7 Ans, Modèle à Rétrofriction, Décoration pour Chambre, Idée Cadeau d'anniversaire 42165",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 29.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XUrAY3DQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYZRN1?tag=pepius-21"
@@ -6311,14 +6303,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81MbELyM2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BBRXC9HN?tag=pepius-21"
-    },
-    {
-      "title": "fanxiang 2To SSD Externe Magnétique, Jusqu'à 2050Mo/s, USB 3.2 Gen2 USB-C, SSD Portable avec RGB LEDs, 4K ProRes HDR, Disque Dur Mémoire Externe pour iPhone15/16, Android/PC/Mac-PS2200",
-      "old_price": null,
-      "new_price": 169.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61TYeT2DCYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DTJWLWB9?tag=pepius-21"
     }
   ]
 }
