@@ -5713,14 +5713,6 @@
       "link": "https://www.amazon.fr/dp/B08TLSB2XD?tag=pepius-21"
     },
     {
-      "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
-      "old_price": 5.89,
-      "new_price": 4.39,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
-    },
-    {
       "title": "MAMMOTION YUKA Mini 700 Robot Tondeuse sans Fil Périphérique, NetRTK+Vision, Aucune Antenne RTK Requise, Recommandé 700 m², Max. 1100m², Pente à 50%, Cartographie Automatique, avec Module 4G",
       "old_price": 1199,
       "new_price": 899,
@@ -5743,6 +5735,14 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/81FBQA3bHpL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00CALHYF6?tag=pepius-21"
+    },
+    {
+      "title": "Apple Magic Mouse - Surface Multi‑Touch - Blanc ​​​​​​​",
+      "old_price": 84.69,
+      "new_price": 65,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/51utTTF3AYL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DL6KSW78?tag=pepius-21"
     },
     {
       "title": "SONGMICS Étendoir à Linge, Séchoir Mobile à 4 Niveaux, avec roulettes, Pliable, 63,5 x 128 x 173 cm, Grande Capacité, Montage Facile, Utilisation Intérieure et Extérieure, Blanc LLR701W01",
@@ -5785,7 +5785,7 @@
       "link": "https://www.amazon.fr/dp/B0DCW349NK?tag=pepius-21"
     },
     {
-      "title": "TP-Link TL-SG105-M2 Switch No administrado Gigabit Ethernet (10/100/1000) Negro",
+      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
       "old_price": 65.44,
       "new_price": 53.57,
       "discount": 18,
@@ -5849,6 +5849,14 @@
       "link": "https://www.amazon.fr/dp/B0DF2PYPR5?tag=pepius-21"
     },
     {
+      "title": "CYBEX Gold Siège Auto Pallas G i-Size, 76 - 150 cm, De 15 Mois à 12 ans Environ (9 à 50 Kg Environ), Lava Grey",
+      "old_price": 194.9,
+      "new_price": 169.99,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/71hrKfkoTRL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B982MTVK?tag=pepius-21"
+    },
+    {
       "title": "Bloc Multiprise avec Interrupteur,Multiprise Parafoudre et Surtension,Prise Multiple avec USB C PD20W,Bloc 10 Prises Française 16A 2P+T Rallonge Electrique 2m Parasurtenseur pour Maison,Bureau,Noir",
       "old_price": 45.99,
       "new_price": 39.99,
@@ -5863,14 +5871,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
-    },
-    {
-      "title": "CAJOLINE - Adoucissant en bouteille - 45 lavages - fraîcheur pétillante - parfum raffiné aux essences naturelles - bouteille en plastique 100% recyclé",
-      "old_price": 2.88,
-      "new_price": 2.56,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/817k4zDR4rL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C6QKJ7RS?tag=pepius-21"
     },
     {
       "title": "GROHE Flexible tuyau de douche salle de bains VitalioFlex Comfort, tuyau de douche 1750mm, anti-pliures, finition brillante, raccord fileté universel 1/2\", chromé, 28745002 (Import Allemagne)",
@@ -5977,20 +5977,20 @@
       "link": "https://www.amazon.fr/dp/B09CYX3MVV?tag=pepius-21"
     },
     {
+      "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
+      "old_price": null,
+      "new_price": 13.75,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
+    },
+    {
       "title": "Levi's Ss Original Housemark Tee T-Shirt Homme, Chesthit Logo : Levis",
       "old_price": null,
       "new_price": 13.5,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0897YTBRR?tag=pepius-21"
-    },
-    {
-      "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
-      "old_price": null,
-      "new_price": 20.89,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/612NyKjMeLL._AC_SL1251_.jpg",
-      "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
     },
     {
       "title": "ASelected Corde à sauter réglable pour l'exercice et brûler les graisses – Câble métallique revêtu de PVC – Poignée en mousse à mémoire de forme – Rouge",
@@ -6051,7 +6051,7 @@
     {
       "title": "Cecotec Ventilateur de Plafond avec Lumière EnergySilence Aero 360. 50 W, Faible Consommation, Diamètre de 91 cm, 6 Pales Réversibles, 3 Vitesses, Fonction Hiver, Finition en Blanc/Bois",
       "old_price": null,
-      "new_price": 71.01,
+      "new_price": 68.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41QKrhBGhxL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0913CCNJN?tag=pepius-21"
@@ -6099,7 +6099,7 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 22.49,
+      "new_price": 120.5,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
