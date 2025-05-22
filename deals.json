@@ -6411,6 +6411,14 @@
       "link": "https://www.amazon.fr/dp/B0CMQ9VGCP?tag=pepius-21"
     },
     {
+      "title": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Conformité ATX 3.1 – Prise en Charge PCIe 5.1 – Efficacité Cybenetics Gold – Connecteur natif 12V–2x6 – Noir",
+      "old_price": 154.9,
+      "new_price": 102.89,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/61tOgJ849GL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=pepius-21"
+    },
+    {
       "title": "Soundcore Enceinte Bluetooth Puissante, Anker Motion Boom Plus, Son 80W, 20H d’Autonomie, Étanche IP67 à l’Eau-Poussière, Charge Rapide Type C, Bluetooth 5.3, Portable pour l’Extérieur, Le Camping",
       "old_price": 149.99,
       "new_price": 99.99,
@@ -6513,14 +6521,6 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71iVKguA2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DUF9S6E?tag=pepius-21"
-    },
-    {
-      "title": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Conformité ATX 3.1 – Prise en Charge PCIe 5.1 – Efficacité Cybenetics Gold – Connecteur natif 12V–2x6 – Noir",
-      "old_price": 126.19,
-      "new_price": 102.89,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/61tOgJ849GL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=pepius-21"
     },
     {
       "title": "HP OMEN by 17-db0002sf 17.3\" 2560 x 1440 Pixels AMD Ryzen 7-8845HS 32Go 1000Go SSD NVIDIA GeForce RTX 4070 Windows 11 Home",
@@ -6665,6 +6665,14 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/51bhQ0nbPaL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D3WY6KMN?tag=pepius-21"
+    },
+    {
+      "title": "Meross Thermomètre Hygromètre Intelligent à Énergie Solaire (AVEC HUB), Capteur de Température et d’Humidité Compatible avec Apple Home, Alexa et Google Home, Surveillance à Distance, Alertes d'Appli",
+      "old_price": 26.99,
+      "new_price": 25.59,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/61BnoihMIpL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CGLS1BLW?tag=pepius-21"
     },
     {
       "title": "VASAGLE Panier à Linge, Corbeille à Linge Sale, Rangement 2 Compartiments, 2 Sacs Amovibles en Tissu Oxford, Étagère, Cadre en Métal, 2 x 46L, 73 x 33 x 72 cm, Marron Rustique et Noir BLH201B01",
@@ -6821,7 +6829,7 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 16,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XdIxYpYIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
@@ -6889,14 +6897,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/612xtgBY5nL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B6XJ1VRJ?tag=pepius-21"
-    },
-    {
-      "title": "Kärcher Lance de Nettoyage Haute Pression eco!Booster 180, 50% Plus Efficace Que Le Jet Plat, Économie en Eau, Énergie et Temps, Accessoire d'origine Kärcher pour Nettoyeur Haute Pression Kärcher K 7",
-      "old_price": null,
-      "new_price": 39.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51nSuYLIM6L._AC_SL1061_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZ454TLP?tag=pepius-21"
     }
   ]
 }
