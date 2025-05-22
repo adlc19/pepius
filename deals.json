@@ -6340,7 +6340,7 @@
     },
     {
       "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
-      "old_price": 17.79,
+      "old_price": 17.82,
       "new_price": 9.99,
       "discount": 44,
       "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
@@ -6355,20 +6355,20 @@
       "link": "https://www.amazon.fr/dp/B0D4R3BVT2?tag=pepius-21"
     },
     {
+      "title": "Silent Hill 2 - PS5",
+      "old_price": 69.99,
+      "new_price": 39.99,
+      "discount": 43,
+      "image": "https://m.media-amazon.com/images/I/71XsCEArGiL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CMHMLPND?tag=pepius-21"
+    },
+    {
       "title": "Tiger Balm - BAUME DU TIGRE Blanc - Baume à effet froid - Parfum mentholé - Pour sportifs, après l'effort ou en massage de la poitrine ou des tempes. En massage, pour se relaxer - 19 g",
       "old_price": 10.92,
       "new_price": 6.36,
       "discount": 42,
       "image": "https://m.media-amazon.com/images/I/71vMETP-I6L._AC_SL1376_.jpg",
       "link": "https://www.amazon.fr/dp/B002QQN37S?tag=pepius-21"
-    },
-    {
-      "title": "SHAN ZU Couteau de Cuisine Santoku 18 cm, Lame Ultra-tranchante à 12°, Acier Super Dur Japonais 10Cr15MoV(62HRC) et Manche Ergonomique en Bois de Pakka",
-      "old_price": 59.99,
-      "new_price": 35.79,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/61syOcnxzGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DR237CKM?tag=pepius-21"
     },
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
@@ -6429,8 +6429,8 @@
     {
       "title": "Kärcher Nettoyeur de Vitres WV 2 Black Edition, Autonomie de Batterie : 35 min, Affichage LED, 2 Raclettes, Pulvérisateur avec Microfibres, 20 ml Nettoyant Vitres Concentré",
       "old_price": 79.99,
-      "new_price": 55.99,
-      "discount": 30,
+      "new_price": 55.21,
+      "discount": 31,
       "image": "https://m.media-amazon.com/images/I/61lYAXKeBUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B075F78KDV?tag=pepius-21"
     },
@@ -6491,14 +6491,6 @@
       "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
     },
     {
-      "title": "SONGMICS Étendoir à Linge, Séchoir Mobile à 4 Niveaux, avec roulettes, Pliable, 63,5 x 128 x 173 cm, Grande Capacité, Montage Facile, Utilisation Intérieure et Extérieure, Blanc LLR701W01",
-      "old_price": 34.99,
-      "new_price": 27.49,
-      "discount": 21,
-      "image": "https://m.media-amazon.com/images/I/71oDN+2-+zL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C332N12B?tag=pepius-21"
-    },
-    {
       "title": "TidyIsles Égouttoir à Vaisselle – Égouttoir à Vaisselle à 2 Niveaux pour économiser de l'espace avec Porte-ustensiles, égouttoir à Vaisselle pour comptoir de Cuisine, égouttoir d'évier avec égouttoir",
       "old_price": 39.99,
       "new_price": 31.89,
@@ -6513,6 +6505,14 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71iVKguA2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DUF9S6E?tag=pepius-21"
+    },
+    {
+      "title": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Conformité ATX 3.1 – Prise en Charge PCIe 5.1 – Efficacité Cybenetics Gold – Connecteur natif 12V–2x6 – Noir",
+      "old_price": 126.19,
+      "new_price": 102.89,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/61tOgJ849GL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=pepius-21"
     },
     {
       "title": "HP OMEN by 17-db0002sf 17.3\" 2560 x 1440 Pixels AMD Ryzen 7-8845HS 32Go 1000Go SSD NVIDIA GeForce RTX 4070 Windows 11 Home",
@@ -6532,9 +6532,9 @@
     },
     {
       "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
-      "old_price": 65.44,
+      "old_price": 64.41,
       "new_price": 53.57,
-      "discount": 18,
+      "discount": 17,
       "image": "https://m.media-amazon.com/images/I/51rWPHNuHvL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08VH4Q3NR?tag=pepius-21"
     },
@@ -6585,6 +6585,14 @@
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/71fAQMl1dIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DZ6Y4WFG?tag=pepius-21"
+    },
+    {
+      "title": "Philips OneBlade Authentiques Lames de rechange, pour rasoir/tondeuse électrique OneBlade, acier inoxydable robuste, taille, stylisation et rasage, lot de 5, (modèle QP250/50)",
+      "old_price": 42.76,
+      "new_price": 37.99,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/71Bq12JBgmL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BS747TYL?tag=pepius-21"
     },
     {
       "title": "CMF by Nothing Watch Pro montre connectée avec 1.96 AMOLED display, suivi fitness, GPS multiple intégré, appel Bluetooth avec réduction du bruit par l'AI et jusqu'à 13 jours d'autonomie - Gris cendré",
@@ -6675,6 +6683,14 @@
       "link": "https://www.amazon.fr/dp/B0BQLTWLFD?tag=pepius-21"
     },
     {
+      "title": "SONGMICS Étendoir à Linge, Séchoir Mobile à 4 Niveaux, avec roulettes, Pliable, 63,5 x 128 x 173 cm, Grande Capacité, Montage Facile, Utilisation Intérieure et Extérieure, Blanc LLR701W01",
+      "old_price": 27.22,
+      "new_price": 25.85,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71oDN+2-+zL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C332N12B?tag=pepius-21"
+    },
+    {
       "title": "Krups Machine à café broyeur grain, 2 expresso simultanés, Nettoyage automatique, Buse vapeur Cappuccino, Essential blanche EA810570",
       "old_price": 271.84,
       "new_price": 257.99,
@@ -6683,20 +6699,20 @@
       "link": "https://www.amazon.fr/dp/B00MZ2F3Z8?tag=pepius-21"
     },
     {
-      "title": "SIKA - Traitement algicide et fongicide - Nettoyant désincrustant - Sikagard 120 Stop Vert - Prêt à l'emploi - Elimine algues et lichens - Mur - Toiture - Terrasse - Façade - Dallage - 20L",
-      "old_price": 33.35,
-      "new_price": 31.67,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/61RcHGypJUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B01D1ORVFI?tag=pepius-21"
-    },
-    {
       "title": "Odoland Casque de Vélo avec Visière Magnétique Détachable Casques VTT et VTC Réglable Casque Vélo Route Léger Anti Choc pour Homme Femme Adulte",
       "old_price": null,
       "new_price": 47.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81IQBkmIf3L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DSBYPYZH?tag=pepius-21"
+    },
+    {
+      "title": "SHAN ZU Couteau de Cuisine Santoku 18 cm, Lame Ultra-tranchante à 12°, Acier Super Dur Japonais 10Cr15MoV(62HRC) et Manche Ergonomique en Bois de Pakka",
+      "old_price": null,
+      "new_price": 35.79,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61syOcnxzGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DR237CKM?tag=pepius-21"
     },
     {
       "title": "Nintendo Labo - Kit Robot",
@@ -6897,30 +6913,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/618BPcVgkoL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DCVTFY87?tag=pepius-21"
-    },
-    {
-      "title": "Tonnelle pliante 3 x 3 cm, imperméable, tissu Oxford 420D, protection UV 50+, avec sac de sable, sac de rangement, pour jardin, fête, mariage, bleu",
-      "old_price": null,
-      "new_price": 89.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/617bxB85mAL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DP2L6C83?tag=pepius-21"
-    },
-    {
-      "title": "Les Simpsons- Peluche Parlante Homer - Licence Oficielle - 30 Cm - 20 Phrases - Peluche Douce - Activation Ficelle - Tête Sculpté - Collectionnez Les Tous ! - Piles incluses - Jouet Enfant 6 Ans +",
-      "old_price": null,
-      "new_price": 24.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51SrzP+t0qL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CPYFY28G?tag=pepius-21"
-    },
-    {
-      "title": "Tenax Raphia Naturel 50 g, Ligature pour Plantes et Jardinage, Ficelle pour Artisanat, Bricolage, Décoration et Ligature Bouquets Floraux et Paquets-Cadeaux",
-      "old_price": null,
-      "new_price": 2.68,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71j1Hhu3VbL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BX725VBN?tag=pepius-21"
     }
   ]
 }
