@@ -6339,14 +6339,6 @@
       "link": "https://www.amazon.fr/dp/B002QQN37S?tag=pepius-21"
     },
     {
-      "title": "Fairy Original Tablettes Lave-Vaisselle Tout En 1,Citron, 132 Capsules, Efficaces Contre Graisse Incrustée, Dissolution Ultra-Rapide, Protection Verre et Argent, Sans Odeurs",
-      "old_price": 30.5,
-      "new_price": 18.12,
-      "discount": 41,
-      "image": "https://m.media-amazon.com/images/I/81MeZhgwj4L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWVQ9SN5?tag=pepius-21"
-    },
-    {
       "title": "SHAN ZU Couteau de Cuisine Santoku 18 cm, Lame Ultra-tranchante à 12°, Acier Super Dur Japonais 10Cr15MoV(62HRC) et Manche Ergonomique en Bois de Pakka",
       "old_price": 59.99,
       "new_price": 35.79,
@@ -6393,6 +6385,14 @@
       "discount": 32,
       "image": "https://m.media-amazon.com/images/I/71TkvNJFm4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D7271WYK?tag=pepius-21"
+    },
+    {
+      "title": "Svbony TransAir 1 HDMI sans Fil Émetteur et Récepteur, 4K 1080P Decoding, sans Fil avec écran Couleur OLED, 9 Canaux, 2,4 G et 5 G, sans Interférence, pour Ordinateur Portable",
+      "old_price": 115.99,
+      "new_price": 79.99,
+      "discount": 31,
+      "image": "https://m.media-amazon.com/images/I/71ragYkniuL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DSL9JG2L?tag=pepius-21"
     },
     {
       "title": "SONGMICS Panier à Linge 150L, Corbeille Linge Sale 3 Compartiments de Tri, Couvercle en Bambou, Poignées, Pliable, Sac Amovible Lavable en Machine, pour Buanderie, Chambre, Couleur Boisée LCB091N01",
@@ -6683,14 +6683,6 @@
       "link": "https://www.amazon.fr/dp/B0DB7Z2LC3?tag=pepius-21"
     },
     {
-      "title": "Svbony TransAir 1 HDMI sans Fil Émetteur et Récepteur, 4K 1080P Decoding, sans Fil avec écran Couleur OLED, 9 Canaux, 2,4 G et 5 G, sans Interférence, pour Ordinateur Portable",
-      "old_price": null,
-      "new_price": 115.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71ragYkniuL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DSL9JG2L?tag=pepius-21"
-    },
-    {
       "title": "SONGMICS Panier à Linge Mince avec Couvercle, 90L, Gain de Place, Doublure en Maille Amovible, Tissu Oxford, Poignées en Bambou, Pliable, 42 x 32 x 70,5 cm, Blanc Crème LCB509W01",
       "old_price": null,
       "new_price": 25.99,
@@ -6709,7 +6701,7 @@
     {
       "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
       "old_price": null,
-      "new_price": 7.85,
+      "new_price": 13.75,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
