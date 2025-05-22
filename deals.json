@@ -6315,14 +6315,6 @@
       "link": "https://www.amazon.fr/dp/B00EQ7NPO6?tag=pepius-21"
     },
     {
-      "title": "SHAN ZU Couteau de Cuisine Santoku 18 cm, Lame Ultra-tranchante à 12°, Acier Super Dur Japonais 10Cr15MoV(62HRC) et Manche Ergonomique en Bois de Pakka",
-      "old_price": 59.99,
-      "new_price": 29.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/61syOcnxzGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DR237CKM?tag=pepius-21"
-    },
-    {
       "title": "H.Koenig Mini Blender Smoothie Transportable Compact 570mL SMOO9 Sans BPA Puissant 300W, Mixeur à Smoothie 2 Bouteilles Portables, 4 Lames en Inox, 2 gourdes avec couvercles de voyage incluses",
       "old_price": 59,
       "new_price": 29.99,
@@ -6377,6 +6369,14 @@
       "discount": 42,
       "image": "https://m.media-amazon.com/images/I/71vMETP-I6L._AC_SL1376_.jpg",
       "link": "https://www.amazon.fr/dp/B002QQN37S?tag=pepius-21"
+    },
+    {
+      "title": "SHAN ZU Couteau de Cuisine Santoku 18 cm, Lame Ultra-tranchante à 12°, Acier Super Dur Japonais 10Cr15MoV(62HRC) et Manche Ergonomique en Bois de Pakka",
+      "old_price": 59.99,
+      "new_price": 35.79,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/61syOcnxzGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DR237CKM?tag=pepius-21"
     },
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
@@ -6595,6 +6595,14 @@
       "link": "https://www.amazon.fr/dp/B0DZ6Y4WFG?tag=pepius-21"
     },
     {
+      "title": "Tenda Switch 2,5 Gigabit, commutateur Ethernet 5 Ports 2,5G, 2 Ports SFP+ 10 Gbit/s, commutateur LAN Ethernet 2,5 Gigabit Non géré, Plug and Play, boîtier métallique, Noir (TEM2007X)",
+      "old_price": 59.99,
+      "new_price": 52.99,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/517C3eW8QyL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09M334NK6?tag=pepius-21"
+    },
+    {
       "title": "Philips OneBlade Authentiques Lames de rechange, pour rasoir/tondeuse électrique OneBlade, acier inoxydable robuste, taille, stylisation et rasage, lot de 5, (modèle QP250/50)",
       "old_price": 42.76,
       "new_price": 37.99,
@@ -6625,14 +6633,6 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/71LzO2x9o2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C3JMVRZP?tag=pepius-21"
-    },
-    {
-      "title": "Nothing Phone (3a) 128 GB - Smartphone avec Appareil Photo Frontal 32 MP, Ultra Zoom x30, Charge Rapide 50 W et écran AMOLED Flexible de 6,77\" FHD+ - Noir",
-      "old_price": 334,
-      "new_price": 299,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/61QWVJBjFqL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DPXS4DXR?tag=pepius-21"
     },
     {
       "title": "Philips Sneaker Cleaner - Nettoyeur de Baskets - Kit de Nettoyage Chaussure, 3 Brosses Incluses, Bleu (GCA1000/60)",
@@ -6733,7 +6733,7 @@
     {
       "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
       "old_price": null,
-      "new_price": 7.85,
+      "new_price": 13.75,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
