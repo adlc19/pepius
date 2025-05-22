@@ -6299,6 +6299,22 @@
   ],
   "2025-05-22": [
     {
+      "title": "Born to Die: Lana Del Rey",
+      "old_price": 6.99,
+      "new_price": 2.55,
+      "discount": 64,
+      "image": "https://m.media-amazon.com/images/I/71v9YKQxm2L._SL1400_.jpg",
+      "link": "https://www.amazon.fr/dp/B005QJZ5FA?tag=pepius-21"
+    },
+    {
+      "title": "H.Koenig Mini Blender Smoothie Transportable Compact 570mL SMOO9 Sans BPA Puissant 300W, Mixeur à Smoothie 2 Bouteilles Portables, 4 Lames en Inox, 2 gourdes avec couvercles de voyage incluses",
+      "old_price": 59,
+      "new_price": 29.99,
+      "discount": 49,
+      "image": "https://m.media-amazon.com/images/I/61hKcxbQ0iL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07SB18XRL?tag=pepius-21"
+    },
+    {
       "title": "SIKA - Enduit d'imperméabilisation des piscines et des murs - Sika Monotop 140 Imper Gris - Intérieur et Extérieur - Application manuelle ou par projection - Epaisseur jusqu'à 30mm - 25kg",
       "old_price": 35.04,
       "new_price": 19.09,
@@ -6563,14 +6579,6 @@
       "link": "https://www.amazon.fr/dp/B08TLSB2XD?tag=pepius-21"
     },
     {
-      "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
-      "old_price": 449,
-      "new_price": 399,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
-    },
-    {
       "title": "GROHE Flexible tuyau de douche salle de bains VitalioFlex Comfort, tuyau de douche 1750mm, anti-pliures, finition brillante, raccord fileté universel 1/2\", chromé, 28745002 (Import Allemagne)",
       "old_price": 16.07,
       "new_price": 14.54,
@@ -6693,7 +6701,7 @@
     {
       "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
       "old_price": null,
-      "new_price": 13.75,
+      "new_price": 7.85,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
@@ -6905,14 +6913,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71H+lm-9-AL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BP7XJ7PS?tag=pepius-21"
-    },
-    {
-      "title": "SGEYR Adaptateur USB C vers Ethernet RJ45 pour Fire TV, MacBook, Surface, XPS Windows - Rouge",
-      "old_price": null,
-      "new_price": 16.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61PkFCpnwiL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09ZTX55WR?tag=pepius-21"
     }
   ]
 }
