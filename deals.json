@@ -7037,6 +7037,14 @@
       "link": "https://www.amazon.fr/dp/B08N9KHTL5?tag=pepius-21"
     },
     {
+      "title": "Bosch Set de 4 tournevis courts (compacts pour vissage dans espaces restreints embout magnétique)",
+      "old_price": 11.99,
+      "new_price": 8.99,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/61CiekcEdqL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGGBN4BK?tag=pepius-21"
+    },
+    {
       "title": "BULLDOG Gel Douche Menthe/Eucalyptus",
       "old_price": 4.95,
       "new_price": 3.71,
@@ -7067,6 +7075,14 @@
       "discount": 21,
       "image": "https://m.media-amazon.com/images/I/61bs7WiE8YL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B087VLP2RT?tag=pepius-21"
+    },
+    {
+      "title": "Xbox Manette sans Fil - Astral Purple Pour Xbox Series X, Xbox Series S, Xbox One, Windows 10 & 11, Android et iOS",
+      "old_price": 62.04,
+      "new_price": 49.99,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/61KwHIFeWML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B093X64R9H?tag=pepius-21"
     },
     {
       "title": "Logitech G PRO X LIGHTSPEED Casque gaming sans fil avec technologie de filtre de micro Blue VOICE, transducteurs PRO-G 50mm, DTS Headphone: X 2.0, 20 heures de batterie, PC, PS5, PS4, Switch - Noir",
@@ -7157,14 +7173,6 @@
       "link": "https://www.amazon.fr/dp/B0DZ6Y4WFG?tag=pepius-21"
     },
     {
-      "title": "KS Tools - 914.1215 - Jeu de mini-cliquets réversibles sans manche 1/4'' - 3/8'' - 1/2''",
-      "old_price": 30.82,
-      "new_price": 27.04,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/613RgkSLn3L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B075XX14MN?tag=pepius-21"
-    },
-    {
       "title": "Tenda Switch 2,5 Gigabit, commutateur Ethernet 5 Ports 2,5G, 2 Ports SFP+ 10 Gbit/s, commutateur LAN Ethernet 2,5 Gigabit Non géré, Plug and Play, boîtier métallique, Noir (TEM2007X)",
       "old_price": 59.99,
       "new_price": 52.99,
@@ -7203,6 +7211,14 @@
       "discount": 7,
       "image": "https://m.media-amazon.com/images/I/61Ix5IssOIL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BRSR8GNQ?tag=pepius-21"
+    },
+    {
+      "title": "KS Tools - 914.1215 - Jeu de mini-cliquets réversibles sans manche 1/4'' - 3/8'' - 1/2''",
+      "old_price": 30.82,
+      "new_price": 28.89,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/613RgkSLn3L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B075XX14MN?tag=pepius-21"
     },
     {
       "title": "PreSonus Eris 3.5 Gen 2, Enceintes Actives 3,5\" de Bureau pour Multimédia, Gaming, Production Musicale de Qualite Studio, Puissance de 50 W - en Blanc",
@@ -7271,7 +7287,7 @@
     {
       "title": "VERONES 12 pièces alimentaires en verre hermétiques avec couvercles, sans BPA, passent au micro-ondes, four, congélateur et lave-vaisselle, gris",
       "old_price": null,
-      "new_price": 4,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71W16AIGDML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BZS66X6R?tag=pepius-21"
@@ -7459,14 +7475,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/6198yvh2MzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09B418536?tag=pepius-21"
-    },
-    {
-      "title": "ANDANDA Gants de Travail, 12 Paires, Gant Tricoté sans Couture, Revêtement en PU sur la Paume et les Doigts, Excellente Adhérence, Gants Protections, l'Entreposage, la Logistique, l'Assemblage, M",
-      "old_price": null,
-      "new_price": 14.81,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71Bl9hZa81L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B79Z2LKD?tag=pepius-21"
     }
   ]
 }
