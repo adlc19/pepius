@@ -6903,7 +6903,7 @@
     {
       "title": "H.Koenig Mini Blender Smoothie Transportable Compact 570mL SMOO9 Sans BPA Puissant 300W, Mixeur à Smoothie 2 Bouteilles Portables, 4 Lames en Inox, 2 gourdes avec couvercles de voyage incluses",
       "old_price": 59,
-      "new_price": 29.99,
+      "new_price": 29.95,
       "discount": 49,
       "image": "https://m.media-amazon.com/images/I/61hKcxbQ0iL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07SB18XRL?tag=pepius-21"
@@ -6915,14 +6915,6 @@
       "discount": 46,
       "image": "https://m.media-amazon.com/images/I/71MQH37Bi9L._AC_SL1417_.jpg",
       "link": "https://www.amazon.fr/dp/B08BCFMK4Z?tag=pepius-21"
-    },
-    {
-      "title": "Amazon.fr : VARTA - BATTERIE VARTA BLUE DYNAMIC G7",
-      "old_price": 124.71,
-      "new_price": 67,
-      "discount": 46,
-      "image": "https://m.media-amazon.com/images/I/71TifNqM9jL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00RZ4ZIFG?tag=pepius-21"
     },
     {
       "title": "CORSAIR iCUE Link 3500X RGB Boîtier PC ATX Mid-Tower – Verre Trempé Panoramique – Connexion Inversée Compatible avec La Carte Mère – 3X Ventilateurs iCUE Link RX120 RGB Inclus – Noir",
@@ -7117,6 +7109,14 @@
       "link": "https://www.amazon.fr/dp/B00EQ7NMTY?tag=pepius-21"
     },
     {
+      "title": "AMAZFIT T-Rex 3 Outdoor Smartwatch 48mm Écran AMOLED, Cartes et Navigation Hors Ligne, GPS Double Bande à 6 Systèmes Satellites, Autonomie de 27 Jours, Paiement NFC, 170 Modes Sportifs pour Aventure",
+      "old_price": 299.9,
+      "new_price": 249.99,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/71fXxVf1YFL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DT181T8K?tag=pepius-21"
+    },
+    {
       "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
       "old_price": 64.41,
       "new_price": 53.57,
@@ -7211,14 +7211,6 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/61nI-NciYAL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BS7184HX?tag=pepius-21"
-    },
-    {
-      "title": "Fairy Platinum Plus All In One Tablettes Lave-Vaisselle, Original, 36x4 Tablettes, Emballage En Papier Recyclable, Pour Une Vaisselle Comme Neuve, Élimine L’Apparence Terne, Sans Prélavage",
-      "old_price": 40.55,
-      "new_price": 36.49,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71LzO2x9o2L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C3JMVRZP?tag=pepius-21"
     },
     {
       "title": "Philips Sneaker Cleaner - Nettoyeur de Baskets - Kit de Nettoyage Chaussure, 3 Brosses Incluses, Bleu (GCA1000/60)",
@@ -7435,6 +7427,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81bW6+OkUnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C332C9S4?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : VARTA - BATTERIE VARTA BLUE DYNAMIC G7",
+      "old_price": null,
+      "new_price": 124.71,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71TifNqM9jL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00RZ4ZIFG?tag=pepius-21"
     },
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
