@@ -7109,6 +7109,14 @@
       "link": "https://www.amazon.fr/dp/B00EQ7NMTY?tag=pepius-21"
     },
     {
+      "title": "100 Feuilles Papier pour Friteuse à Air, Perforé Papier à Vapeur sulfurisé Carré de cuisson, Parchemin résistant à la chaleur, Antiadhésif",
+      "old_price": 5.99,
+      "new_price": 4.99,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/71e-3OAd4LL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BXSH98VP?tag=pepius-21"
+    },
+    {
       "title": "AMAZFIT T-Rex 3 Outdoor Smartwatch 48mm Écran AMOLED, Cartes et Navigation Hors Ligne, GPS Double Bande à 6 Systèmes Satellites, Autonomie de 27 Jours, Paiement NFC, 170 Modes Sportifs pour Aventure",
       "old_price": 299.9,
       "new_price": 249.99,
@@ -7229,6 +7237,14 @@
       "link": "https://www.amazon.fr/dp/B0D3WY6KMN?tag=pepius-21"
     },
     {
+      "title": "KS Tools - 914.1215 - Jeu de mini-cliquets réversibles sans manche 1/4'' - 3/8'' - 1/2''",
+      "old_price": 30.82,
+      "new_price": 29.32,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/613RgkSLn3L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B075XX14MN?tag=pepius-21"
+    },
+    {
       "title": "fanxiang 4To SSD NVMe M.2 PCIe Gen4 Jusqu'à 7300Mo/s en Lecture - SSD Interne 4 to Compatible avec PS5, PC, Ordinateur Portable pour Les Gamers et Professionnels - S880E",
       "old_price": 213.98,
       "new_price": 202.33,
@@ -7275,14 +7291,6 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/71l-zy3BRJL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00MZ2F3Z8?tag=pepius-21"
-    },
-    {
-      "title": "KS Tools - 914.1215 - Jeu de mini-cliquets réversibles sans manche 1/4'' - 3/8'' - 1/2''",
-      "old_price": 30.82,
-      "new_price": 30.64,
-      "discount": 1,
-      "image": "https://m.media-amazon.com/images/I/613RgkSLn3L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B075XX14MN?tag=pepius-21"
     },
     {
       "title": "VERONES 12 pièces alimentaires en verre hermétiques avec couvercles, sans BPA, passent au micro-ondes, four, congélateur et lave-vaisselle, gris",
@@ -7463,18 +7471,10 @@
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
       "old_price": null,
-      "new_price": 133.49,
+      "new_price": 100.38,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61izATNbMiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BNJ1XHJN?tag=pepius-21"
-    },
-    {
-      "title": "Ambientair Home Perfume - VV001VCAP - Bougie parfumée à la vanille et à la cannelle - Parfum vanille et cannelle - Bougie en verre pour intérieur - Durée de vie 30 heures",
-      "old_price": null,
-      "new_price": 4.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/6198yvh2MzL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09B418536?tag=pepius-21"
     }
   ]
 }
