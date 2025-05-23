@@ -7077,14 +7077,6 @@
       "link": "https://www.amazon.fr/dp/B0DL6KSW78?tag=pepius-21"
     },
     {
-      "title": "Moulinex Extra Crisp Cookeo, Couvercle air fryer, Recettes croustillantes, Cuisson sans huile, 4 programmes, Température réglable, Compatible avec les Cookeo 6 L, Noir EZ150800",
-      "old_price": 89.99,
-      "new_price": 70.54,
-      "discount": 22,
-      "image": "https://m.media-amazon.com/images/I/61ix4WPvBeL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
-    },
-    {
       "title": "Logitech G PRO X LIGHTSPEED Casque gaming sans fil avec technologie de filtre de micro Blue VOICE, transducteurs PRO-G 50mm, DTS Headphone: X 2.0, 20 heures de batterie, PC, PS5, PS4, Switch - Noir",
       "old_price": 134.99,
       "new_price": 108.98,
@@ -7295,7 +7287,7 @@
     {
       "title": "Hachoir manuel Tefal Shaker 5 secondes K1644104 Vert",
       "old_price": null,
-      "new_price": 51.99,
+      "new_price": 26.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71wExbbf0RL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09CDVSXV8?tag=pepius-21"
@@ -7359,10 +7351,18 @@
     {
       "title": "Amora Sauce à l'Algérienne - Piment & Touche d'Oignon Rôti - Lot de 4 bouteilles de 250g",
       "old_price": null,
-      "new_price": 13.75,
+      "new_price": 7.85,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71h4mB7-0TL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
+    },
+    {
+      "title": "Levi's Ss Original Housemark Tee T-Shirt Homme, Chesthit Logo : Levis",
+      "old_price": null,
+      "new_price": 13.5,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0897YTBRR?tag=pepius-21"
     },
     {
       "title": "Sader - Plâtre Fin de Paris - Scellement, Rebouchage, Montage et Réparation - Tous Supports - Intérieur - Prise Rapide 10 Minutes - 1 Boîte Carton 1 kg, Blanc",
@@ -7371,6 +7371,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71iVKguA2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DUF9S6E?tag=pepius-21"
+    },
+    {
+      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
+      "old_price": null,
+      "new_price": 12.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07YYMTMKZ?tag=pepius-21"
     },
     {
       "title": "Cloueuse Rivet Gun avec 110 clous ronds, cloueuse electrique, pistolet à ongles portable, silencieux réglable, pistolet à ongles, pistolet à ongles, pistolet à ongles,cloueur beton (orange)",
@@ -7407,7 +7415,7 @@
     {
       "title": "Cecotec Ventilateur de Plafond avec Lumière EnergySilence Aero 360. 50 W, Faible Consommation, Diamètre de 91 cm, 6 Pales Réversibles, 3 Vitesses, Fonction Hiver, Finition en Blanc/Bois",
       "old_price": null,
-      "new_price": 68.9,
+      "new_price": 71.63,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41QKrhBGhxL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0913CCNJN?tag=pepius-21"
@@ -7439,10 +7447,18 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 42.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XdIxYpYIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
+    },
+    {
+      "title": "Salomon Homme X Ultra Pioneer Mid Gore-tex Chaussures de randonnée",
+      "old_price": null,
+      "new_price": 107.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71VHzLgO8tL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09N3P49N1?tag=pepius-21"
     },
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
