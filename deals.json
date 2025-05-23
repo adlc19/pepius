@@ -6925,14 +6925,6 @@
       "link": "https://www.amazon.fr/dp/B00RZ4ZIFG?tag=pepius-21"
     },
     {
-      "title": "Hachoir manuel Tefal Shaker 5 secondes K1644104 Vert",
-      "old_price": 18.99,
-      "new_price": 10.49,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/71wExbbf0RL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09CDVSXV8?tag=pepius-21"
-    },
-    {
       "title": "CORSAIR iCUE Link 3500X RGB Boîtier PC ATX Mid-Tower – Verre Trempé Panoramique – Connexion Inversée Compatible avec La Carte Mère – 3X Ventilateurs iCUE Link RX120 RGB Inclus – Noir",
       "old_price": 194.9,
       "new_price": 107.89,
@@ -6983,7 +6975,7 @@
     {
       "title": "FACOM Jeu de 24 Embouts Impacts et Accessoires 1/4 \" - 30 Pièces pour Vissage - EN.1J30PB",
       "old_price": 64.51,
-      "new_price": 39.95,
+      "new_price": 39.94,
       "discount": 38,
       "image": "https://m.media-amazon.com/images/I/51jd6Zl9bhL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B086PPWVWZ?tag=pepius-21"
@@ -7039,7 +7031,7 @@
     {
       "title": "Hollow Knight (L'emballage peut varier)",
       "old_price": 34.99,
-      "new_price": 24.99,
+      "new_price": 24.79,
       "discount": 29,
       "image": "https://m.media-amazon.com/images/I/71rRkE1m18L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07PZ28QKL?tag=pepius-21"
@@ -7099,14 +7091,6 @@
       "discount": 22,
       "image": "https://m.media-amazon.com/images/I/61ix4WPvBeL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XZ4XMWK?tag=pepius-21"
-    },
-    {
-      "title": "TidyIsles Égouttoir à Vaisselle – Égouttoir à Vaisselle à 2 Niveaux pour économiser de l'espace avec Porte-ustensiles, égouttoir à Vaisselle pour comptoir de Cuisine, égouttoir d'évier avec égouttoir",
-      "old_price": 39.99,
-      "new_price": 31.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/71SYkYYh9YL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCFYP9N2?tag=pepius-21"
     },
     {
       "title": "Logitech G PRO X LIGHTSPEED Casque gaming sans fil avec technologie de filtre de micro Blue VOICE, transducteurs PRO-G 50mm, DTS Headphone: X 2.0, 20 heures de batterie, PC, PS5, PS4, Switch - Noir",
@@ -7317,6 +7301,14 @@
       "link": "https://www.amazon.fr/dp/B00MZ2F3Z8?tag=pepius-21"
     },
     {
+      "title": "Hachoir manuel Tefal Shaker 5 secondes K1644104 Vert",
+      "old_price": null,
+      "new_price": 51.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71wExbbf0RL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09CDVSXV8?tag=pepius-21"
+    },
+    {
       "title": "LEGO Star Wars : La Saga Skywalker : TT Games",
       "old_price": null,
       "new_price": 21.9,
@@ -7351,7 +7343,7 @@
     {
       "title": "Nintendo Labo - Kit Robot",
       "old_price": null,
-      "new_price": 62.19,
+      "new_price": 62.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81GD08AvYaL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0792QY3C7?tag=pepius-21"
@@ -7381,28 +7373,12 @@
       "link": "https://www.amazon.fr/dp/B0C7CYBGHZ?tag=pepius-21"
     },
     {
-      "title": "Levi's Ss Original Housemark Tee T-Shirt Homme, Chesthit Logo : Levis",
-      "old_price": null,
-      "new_price": 13.5,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0897YTBRR?tag=pepius-21"
-    },
-    {
       "title": "Sader - Plâtre Fin de Paris - Scellement, Rebouchage, Montage et Réparation - Tous Supports - Intérieur - Prise Rapide 10 Minutes - 1 Boîte Carton 1 kg, Blanc",
       "old_price": null,
       "new_price": 3.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71iVKguA2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DUF9S6E?tag=pepius-21"
-    },
-    {
-      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
-      "old_price": null,
-      "new_price": 12.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07YYMTMKZ?tag=pepius-21"
     },
     {
       "title": "Cloueuse Rivet Gun avec 110 clous ronds, cloueuse electrique, pistolet à ongles portable, silencieux réglable, pistolet à ongles, pistolet à ongles, pistolet à ongles,cloueur beton (orange)",
@@ -7463,18 +7439,10 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 25.99,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81XdIxYpYIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
-    },
-    {
-      "title": "Salomon Homme X Ultra Pioneer Mid Gore-tex Chaussures de randonnée",
-      "old_price": null,
-      "new_price": 107.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71VHzLgO8tL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09N3P49N1?tag=pepius-21"
     },
     {
       "title": "Tefal L9730602 Ingenio Preference, Empilable, Acier inoxydable, Revêtement antiadhésif sûr, Induction, Fabriqué en France, Polyvalence, Gain de place, Indicateur de température, Poêle 28 cm",
