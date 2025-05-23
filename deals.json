@@ -6933,14 +6933,6 @@
       "link": "https://www.amazon.fr/dp/B0CZV112KZ?tag=pepius-21"
     },
     {
-      "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
-      "old_price": 17.82,
-      "new_price": 9.99,
-      "discount": 44,
-      "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
-    },
-    {
       "title": "Samsung Galaxy Book4 Edge Ordinateur Portable avec IA 14’’, Copilot+ PC, Snapdragon X Elite X1E-80-100, Mémoire 16 Go, Stockage 512 Go, Gris Glacier",
       "old_price": 1799,
       "new_price": 999.99,
@@ -6995,6 +6987,14 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/61YMHCUkMpL._AC_SL1371_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFQQJMV6?tag=pepius-21"
+    },
+    {
+      "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
+      "old_price": 14.98,
+      "new_price": 9.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
     },
     {
       "title": "Soundcore Enceinte Bluetooth Puissante, Anker Motion Boom Plus, Son 80W, 20H d’Autonomie, Étanche IP67 à l’Eau-Poussière, Charge Rapide Type C, Bluetooth 5.3, Portable pour l’Extérieur, Le Camping",
@@ -7101,14 +7101,6 @@
       "link": "https://www.amazon.fr/dp/B0DT181T8K?tag=pepius-21"
     },
     {
-      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
-      "old_price": 64.41,
-      "new_price": 53.57,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/51rWPHNuHvL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B08VH4Q3NR?tag=pepius-21"
-    },
-    {
       "title": "Fiskars Cutter Pliable Universel Fiskars, Longueur 17 cm, Acier Inoxydable/Plastique, Noir/Orange, CarbonMax, 1027224",
       "old_price": 19.35,
       "new_price": 15.99,
@@ -7197,6 +7189,14 @@
       "link": "https://www.amazon.fr/dp/B08TLSB2XD?tag=pepius-21"
     },
     {
+      "title": "TP-Link TL-SG105-M2 2.5 Gigabit 5 Ports 2.5 Gbps, Ethernet, RJ45, Boitier Métal, Plug-and-Play, NAS 2.5G, Serveur 2.5G, Ordinateur de Jeu, Vidéo 4K",
+      "old_price": 58.7,
+      "new_price": 53.57,
+      "discount": 9,
+      "image": "https://m.media-amazon.com/images/I/51rWPHNuHvL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B08VH4Q3NR?tag=pepius-21"
+    },
+    {
       "title": "UGREEN Switch HDMI 2.1 8K 60Hz Commutateur 4K 120Hz 3 Entrées 1 Sortie 1080P Dolby Vision Atmos HDR 3D Haute Vitesse 48Gbps Compatible avec PC PS5 PS4 PS3 Xbox One 360 DVD TV Box Projecteur",
       "old_price": 44.99,
       "new_price": 41.99,
@@ -7271,7 +7271,7 @@
     {
       "title": "VERONES 12 pièces alimentaires en verre hermétiques avec couvercles, sans BPA, passent au micro-ondes, four, congélateur et lave-vaisselle, gris",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 5,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71W16AIGDML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BZS66X6R?tag=pepius-21"
@@ -7279,7 +7279,7 @@
     {
       "title": "Hachoir manuel Tefal Shaker 5 secondes K1644104 Vert",
       "old_price": null,
-      "new_price": 26.95,
+      "new_price": 15.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71wExbbf0RL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09CDVSXV8?tag=pepius-21"
@@ -7431,7 +7431,7 @@
     {
       "title": "Lego Icons Williams Racing FW14B et Nigel Mansell - Maquette de Voiture de F1 - Inclut minifigurine Collector de Pilote avec trophée et Casque - Idée Cadeau pour Adulte et Adolescent 10353",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 16,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81ENb3HGwYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01NAEP1AX?tag=pepius-21"
