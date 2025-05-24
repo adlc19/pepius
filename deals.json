@@ -7591,14 +7591,6 @@
       "link": "https://www.amazon.fr/dp/B0CFQQJMV6?tag=pepius-21"
     },
     {
-      "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
-      "old_price": 14.98,
-      "new_price": 9.99,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
-    },
-    {
       "title": "Soundcore Enceinte Bluetooth Puissante, Anker Motion Boom Plus, Son 80W, 20H d’Autonomie, Étanche IP67 à l’Eau-Poussière, Charge Rapide Type C, Bluetooth 5.3, Portable pour l’Extérieur, Le Camping",
       "old_price": 149.99,
       "new_price": 99.99,
@@ -8013,6 +8005,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51l2CQy1q3L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7CBZRTQ?tag=pepius-21"
+    },
+    {
+      "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
+      "old_price": null,
+      "new_price": 9.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
     },
     {
       "title": "Levi's Ss Original Housemark Tee T-Shirt Homme, Chesthit Logo : Levis",
