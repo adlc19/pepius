@@ -7695,14 +7695,6 @@
       "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
     },
     {
-      "title": "Apple Magic Mouse - Surface Multi‑Touch - Blanc ​​​​​​​",
-      "old_price": 84.69,
-      "new_price": 65,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/51utTTF3AYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DL6KSW78?tag=pepius-21"
-    },
-    {
       "title": "Xbox Manette sans Fil - Robot White Pour Xbox One, Series X, Series S, Windows 10 & 11, Android et iOS",
       "old_price": 55.9,
       "new_price": 43.99,
@@ -7984,7 +7976,7 @@
     },
     {
       "title": "Born to Die: Lana Del Rey",
-      "old_price": 6.99,
+      "old_price": null,
       "new_price": 6.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71v9YKQxm2L._SL1400_.jpg",
@@ -8015,12 +8007,28 @@
       "link": "https://www.amazon.fr/dp/B0C7CBZRTQ?tag=pepius-21"
     },
     {
+      "title": "Levi's Ss Original Housemark Tee T-Shirt Homme, Chesthit Logo : Levis",
+      "old_price": null,
+      "new_price": 17.65,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0897YTBRR?tag=pepius-21"
+    },
+    {
       "title": "Sader - Plâtre Fin de Paris - Scellement, Rebouchage, Montage et Réparation - Tous Supports - Intérieur - Prise Rapide 10 Minutes - 1 Boîte Carton 1 kg, Blanc",
       "old_price": null,
       "new_price": 3.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71iVKguA2WL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DUF9S6E?tag=pepius-21"
+    },
+    {
+      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
+      "old_price": null,
+      "new_price": 12.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07YYMTMKZ?tag=pepius-21"
     },
     {
       "title": "Cloueuse Rivet Gun avec 110 clous ronds, cloueuse electrique, pistolet à ongles portable, silencieux réglable, pistolet à ongles, pistolet à ongles, pistolet à ongles,cloueur beton (orange)",
