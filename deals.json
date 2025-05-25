@@ -8201,14 +8201,6 @@
       "link": "https://www.amazon.fr/dp/B0DGGBN4BK?tag=pepius-21"
     },
     {
-      "title": "BULLDOG Gel Douche Menthe/Eucalyptus",
-      "old_price": 4.95,
-      "new_price": 3.71,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/61epV2F7NtL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07WG3F1ZX?tag=pepius-21"
-    },
-    {
       "title": "RESIDENT EVIL 2 REMAKE (PS5)",
       "old_price": 29.99,
       "new_price": 23.08,
@@ -8305,14 +8297,6 @@
       "link": "https://www.amazon.fr/dp/B0DK3YY682?tag=pepius-21"
     },
     {
-      "title": "roborock S7 Max Ultra Robot Aspirateur Laveur avec Station 5500Pa, Lavage/Séchage/Remplissage Automatique avec Évitement Actif d'obstacles/Commande Vocale/APP -Noir",
-      "old_price": 699,
-      "new_price": 599,
-      "discount": 14,
-      "image": "https://m.media-amazon.com/images/I/61z4gFep2TL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C2CCQLSX?tag=pepius-21"
-    },
-    {
       "title": "Tenda Switch 2,5 Gigabit, commutateur Ethernet 5 Ports 2,5G, 2 Ports SFP+ 10 Gbit/s, commutateur LAN Ethernet 2,5 Gigabit Non géré, Plug and Play, boîtier métallique, Noir (TEM2007X)",
       "old_price": 59.99,
       "new_price": 52.99,
@@ -8393,6 +8377,22 @@
       "link": "https://www.amazon.fr/dp/B092VJJB3Y?tag=pepius-21"
     },
     {
+      "title": "Philips Hue Play White and Color Ambiance Barre lumineuse connectée Pack de 2, unité de base, Éclairage d’ambiance pour TV et gaming (Compatible avec Alexa, Google Assistant et Apple HomeKit), Blanc",
+      "old_price": 104.08,
+      "new_price": 100.48,
+      "discount": 3,
+      "image": "https://m.media-amazon.com/images/I/71VUnHIk9QL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07FY1PWLP?tag=pepius-21"
+    },
+    {
+      "title": "roborock S7 Max Ultra Robot Aspirateur Laveur avec Station 5500Pa, Lavage Séchage et Remplissage Automatique avec Évitement Actif d'obstacles/Commande Vocale/APP -Noir",
+      "old_price": null,
+      "new_price": 699,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/615XKEYZCTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C2GZQ8LP?tag=pepius-21"
+    },
+    {
       "title": "Amazon: Barbie [4K Ultra HD + Blu-Ray-Boîtier SteelBook limité]: DVD et Blu-ray: HD-DVD",
       "old_price": null,
       "new_price": 9.99,
@@ -8419,7 +8419,7 @@
     {
       "title": "Coffret 12 forets et 5 burins SDS-plus - MAKITA D-19180",
       "old_price": null,
-      "new_price": 27.88,
+      "new_price": 2.41,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LPgEEv6tL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B002FTHJKI?tag=pepius-21"
@@ -8451,7 +8451,7 @@
     {
       "title": "Q-Connect 44029 Ruban Adhésif Économique Haute Adhérence 50 mm x 66 m Couleurs Assorties",
       "old_price": null,
-      "new_price": 0.3,
+      "new_price": 0.58,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61o4xeoUI4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DMAXZ8E?tag=pepius-21"
@@ -8535,14 +8535,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71v9YKQxm2L._SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B005QJZ5FA?tag=pepius-21"
-    },
-    {
-      "title": "Nintendo Labo - Kit Robot",
-      "old_price": null,
-      "new_price": 55.19,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81GD08AvYaL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0792QY3C7?tag=pepius-21"
     }
   ]
 }
