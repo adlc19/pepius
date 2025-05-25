@@ -8289,14 +8289,6 @@
       "link": "https://www.amazon.fr/dp/B07W5JKB8Z?tag=pepius-21"
     },
     {
-      "title": "HP OMEN by 17-db0002sf 17.3\" 2560 x 1440 Pixels AMD Ryzen 7-8845HS 32Go 1000Go SSD NVIDIA GeForce RTX 4070 Windows 11 Home",
-      "old_price": 1699,
-      "new_price": 1399,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/81DdJYragKL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCW349NK?tag=pepius-21"
-    },
-    {
       "title": "AMAZFIT T-Rex 3 Outdoor Smartwatch 48mm Écran AMOLED, Cartes et Navigation Hors Ligne, GPS Double Bande à 6 Systèmes Satellites, Autonomie de 27 Jours, Paiement NFC, 170 Modes Sportifs pour Aventure",
       "old_price": 299.9,
       "new_price": 249.99,
@@ -8343,6 +8335,14 @@
       "discount": 12,
       "image": "https://m.media-amazon.com/images/I/517C3eW8QyL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09M334NK6?tag=pepius-21"
+    },
+    {
+      "title": "Apple Watch Ultra 2 (49 mm GPS + Cellular) Montre de Sport connectée avec Boîtier en Titane Noir et Boucle Trail Noir (S/M). Suivi de l’activité, GPS Haute précision, Neutre en Carbone",
+      "old_price": 899,
+      "new_price": 799,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/51NEHzGOM7L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGJ5F76Y?tag=pepius-21"
     },
     {
       "title": "Philips OneBlade Authentiques Lames de rechange, pour rasoir/tondeuse électrique OneBlade, acier inoxydable robuste, taille, stylisation et rasage, lot de 5, (modèle QP250/50)",
