@@ -8273,6 +8273,14 @@
       "link": "https://www.amazon.fr/dp/B0CYTHSYDJ?tag=pepius-21"
     },
     {
+      "title": "Patriot Viper Xtreme 5 DDR5 RAM 48 Go (2X24 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX548G60C30K",
+      "old_price": 172.99,
+      "new_price": 137.99,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/71qaeUlF4sL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
+    },
+    {
       "title": "Xbox Manette sans Fil - Astral Purple Pour Xbox Series X, Xbox Series S, Xbox One, Windows 10 & 11, Android et iOS",
       "old_price": 62.04,
       "new_price": 49.99,
@@ -8433,14 +8441,6 @@
       "link": "https://www.amazon.fr/dp/B09GHRJVX4?tag=pepius-21"
     },
     {
-      "title": "Patriot Viper Xtreme 5 DDR5 RAM 48 Go (2X24 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX548G60C30K",
-      "old_price": null,
-      "new_price": 137.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71qaeUlF4sL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
-    },
-    {
       "title": "Amazon.fr - Batman : La Série TV Animée - 4 saisons [Blu-ray] - Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Dick Sebast, Bruce Timm, Eric Radomski, Kent Butterworth : DVD et Blu-ray",
       "old_price": null,
       "new_price": 59.99,
@@ -8531,7 +8531,7 @@
     {
       "title": "Opinel - N°10 Couteau de Poche en Blister - Lame 10 cm Acier Inox, Manche Bois de Hêtre, Usage Quotidien, Bague de Sécurité Virobloc - Fabrication Française",
       "old_price": null,
-      "new_price": 22.56,
+      "new_price": 22.57,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71GbRyQMr2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00422M4VU?tag=pepius-21"
@@ -8583,14 +8583,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
-    },
-    {
-      "title": "Levi's Ss Original Housemark Tee T-Shirt Homme, Chesthit Logo : Levis",
-      "old_price": null,
-      "new_price": 17.65,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0897YTBRR?tag=pepius-21"
     }
   ]
 }
