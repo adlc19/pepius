@@ -8049,10 +8049,18 @@
   ],
   "2025-05-25": [
     {
+      "title": "InnovaGoods® Mini Barbecue Charbon Portable Pliable, Grill Camping Léger et Maniable, Table de Repas Extérieur, Noir, Acier Inoxydable",
+      "old_price": 74.9,
+      "new_price": 27.94,
+      "discount": 63,
+      "image": "https://m.media-amazon.com/images/I/61eIBDoA6qL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXQ46LLS?tag=pepius-21"
+    },
+    {
       "title": "Tefal OptiGrill+ XL, Gril intelligent, 9programmes, Modes manuel, 2000W, Plaques amovibles, Nettoyage facile GC722D16",
       "old_price": 259.99,
-      "new_price": 115.09,
-      "discount": 56,
+      "new_price": 115.89,
+      "discount": 55,
       "image": "https://m.media-amazon.com/images/I/81L+szRU4RL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B071JTQ1Z6?tag=pepius-21"
     },
@@ -8289,6 +8297,14 @@
       "link": "https://www.amazon.fr/dp/B07W5JKB8Z?tag=pepius-21"
     },
     {
+      "title": "LG TV OLED 2024 | OLED65B4E | 65'' (164 cm) | OLED| Processeur α8 AI 4K |Dolby Vision & Atmos | Alexa",
+      "old_price": 1199,
+      "new_price": 999,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/51GxP2HTA1L._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DDTXKR84?tag=pepius-21"
+    },
+    {
       "title": "AMAZFIT T-Rex 3 Outdoor Smartwatch 48mm Écran AMOLED, Cartes et Navigation Hors Ligne, GPS Double Bande à 6 Systèmes Satellites, Autonomie de 27 Jours, Paiement NFC, 170 Modes Sportifs pour Aventure",
       "old_price": 299.9,
       "new_price": 249.99,
@@ -8427,7 +8443,7 @@
     {
       "title": "Amazon.fr - Batman : La Série TV Animée - 4 saisons [Blu-ray] - Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Dick Sebast, Bruce Timm, Eric Radomski, Kent Butterworth : DVD et Blu-ray",
       "old_price": null,
-      "new_price": 79.9,
+      "new_price": 59.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51FNhdnKYcS._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B07D51866D?tag=pepius-21"
@@ -8499,7 +8515,7 @@
     {
       "title": "Hachoir manuel Tefal Shaker 5 secondes K1644104 Vert",
       "old_price": null,
-      "new_price": 26.95,
+      "new_price": 15.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71wExbbf0RL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09CDVSXV8?tag=pepius-21"
@@ -8551,22 +8567,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81t8FVgy4CL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DB7Z2LC3?tag=pepius-21"
-    },
-    {
-      "title": "ZKH Cle a Molette | 19.3 x 150 mm | Clés en Acier au carbone 45#, Résistant à la Rouille, l’Usure, Antidérapante | Échelle Gravé au laser, Écrou de Haute Précision | Plomberie/Bricolage/Réparation",
-      "old_price": null,
-      "new_price": 9.37,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51l2CQy1q3L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C7CBZRTQ?tag=pepius-21"
-    },
-    {
-      "title": "Samsung Chargeur USB C, Adaptateur Secteur 25W Ultra Rapide, Adaptateur USB C vers USB, Chargeur samsung Charge Rapide, Samsung Chargeur Original, sans câble, Noir",
-      "old_price": null,
-      "new_price": 9.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81aG99DySPL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZF4V2P6?tag=pepius-21"
     }
   ]
 }
