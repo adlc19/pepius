@@ -8145,14 +8145,6 @@
       "link": "https://www.amazon.fr/dp/B0CFQQJMV6?tag=pepius-21"
     },
     {
-      "title": "Chargeur Induction sans Fil - 3 en 1 Pliable Station de Charge Magsafe Replacement for iPhone 16/15/14/13/12/11/Pro/Max/Plus, Watch Ultra 10/9/8, Earbuds Pro 4/3, avec Prise 20W et Cable 1M TMKUHOR",
-      "old_price": 21.99,
-      "new_price": 14.99,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/71TkvNJFm4L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D7271WYK?tag=pepius-21"
-    },
-    {
       "title": "Svbony TransAir 1 HDMI sans Fil Émetteur et Récepteur, 4K 1080P Decoding, sans Fil avec écran Couleur OLED, 9 Canaux, 2,4 G et 5 G, sans Interférence, pour Ordinateur Portable",
       "old_price": 115.99,
       "new_price": 79.99,
@@ -8175,14 +8167,6 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/819OoaIC-PL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BBRYHTPS?tag=pepius-21"
-    },
-    {
-      "title": "VoltSurge Car Battery Jump Starter with Air Compressor, 5000A (pour Tous Les véhicules à Essence et Diesel de 10) - Démarreur de Voiture Portable avec gonfleur 150 PSI et Grand Affichage",
-      "old_price": 99,
-      "new_price": 69.99,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/71D7Quy9lvL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CXX88YPN?tag=pepius-21"
     },
     {
       "title": "eufy Security Sonnette vidéo C30, Alimentation par Batterie, 2K FHD, appels vidéo en Direct, détection des Humains et mouvements, Compatible avec la HomeBase S380, aucuns Frais mensuels",
@@ -8425,9 +8409,17 @@
       "link": "https://www.amazon.fr/dp/B002FTHJKI?tag=pepius-21"
     },
     {
+      "title": "Démarreur d'urgence Voiture 12V, 5000A Jump Starter (Essence ou Diesel jusqu'à 10.0L) avec Compresseur 150 PSI, Power Bank, Lampe LED – pour Batterie à Plat",
+      "old_price": null,
+      "new_price": 79.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/613UVFcRTfL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXX88YPN?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr - Batman : La Série TV Animée - 4 saisons [Blu-ray] - Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Dick Sebast, Bruce Timm, Eric Radomski, Kent Butterworth : DVD et Blu-ray",
       "old_price": null,
-      "new_price": 59.99,
+      "new_price": 38.74,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51FNhdnKYcS._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B07D51866D?tag=pepius-21"
@@ -8451,7 +8443,7 @@
     {
       "title": "Q-Connect 44029 Ruban Adhésif Économique Haute Adhérence 50 mm x 66 m Couleurs Assorties",
       "old_price": null,
-      "new_price": 2.32,
+      "new_price": 0.3,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61o4xeoUI4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00DMAXZ8E?tag=pepius-21"
