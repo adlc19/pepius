@@ -8579,6 +8579,14 @@
       "link": "https://www.amazon.fr/dp/B00HH9QI1C?tag=pepius-21"
     },
     {
+      "title": "DEWALT - 6x110x50 Foret SDS-Plus Extreme2 - Argent - 6 x 110 x 50 mm - DT9514-QZ",
+      "old_price": 4,
+      "new_price": 2.12,
+      "discount": 47,
+      "image": "https://m.media-amazon.com/images/I/512Lvm1a+AL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00N7EHU1S?tag=pepius-21"
+    },
+    {
       "title": "Garnier Pure Active - Nettoyant 3 En 1 - Nettoyant, Exfoliant, Masque - Réduit Les Points Noirs & Prévient Leur Apparition - BHA & Charbon - Vegan & Cruelty Free - Peau Mixtes à Grasses - 150 ml",
       "old_price": 6.25,
       "new_price": 3.61,
@@ -8787,14 +8795,6 @@
       "link": "https://www.amazon.fr/dp/B0DT181T8K?tag=pepius-21"
     },
     {
-      "title": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Conformité ATX 3.1 – Prise en Charge PCIe 5.1 – Efficacité Cybenetics Gold – Connecteur natif 12V–2x6 – Noir",
-      "old_price": 154.9,
-      "new_price": 128.13,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/61tOgJ849GL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=pepius-21"
-    },
-    {
       "title": "Apple Watch Series 10 (42 mm GPS) Montre connectée avec Boîtier en Aluminium Or Rose et Bracelet Sport Rose Tendre (S/M). Suivi de l’activité Physique, app ECG, écran Retina Toujours activé",
       "old_price": 449,
       "new_price": 379,
@@ -8915,9 +8915,25 @@
       "link": "https://www.amazon.fr/dp/B0CGLS1BLW?tag=pepius-21"
     },
     {
+      "title": "VEGER Mini Power Bank 20 W PD, batterie externe 5000 mAh avec câble Apple intégré, avec charge Apple Watch, 1 port USB-C, batterie externe de téléphone portable, écran LED compatible avec iPhone,",
+      "old_price": null,
+      "new_price": 12.28,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61XsdZ6a4YL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJ9CJYPC?tag=pepius-21"
+    },
+    {
+      "title": "Smartwares Lot de 2 détecteurs de fumée – Capteur Optique - Durée de Vie : 10 Ans - Pile remplaçable 5 Ans - Bouton de Test – 85 DB - FSM-11512",
+      "old_price": null,
+      "new_price": 17.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51tOwEqUBjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07DNTVMF9?tag=pepius-21"
+    },
+    {
       "title": "LG Nanocell TV 2024 | 75NANO81 | 75 Pouces | UHD | Processeur α5 Gen7 AI 4K, Bleu foncé",
       "old_price": null,
-      "new_price": 379,
+      "new_price": 359,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/812CnfCwlxL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CYH5VPJC?tag=pepius-21"
@@ -8945,14 +8961,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71vzlhAUQfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D53B4QY8?tag=pepius-21"
-    },
-    {
-      "title": "Duracell Plus Piles AAA (lot de 24) - Alcalines 1,5V - Jusqu’à 100% plus longtemps - Idéales pour les appareils du quotidien - Emballage 0% plastique - Conservation 10 ans - LR03 MN2400",
-      "old_price": null,
-      "new_price": 0.4,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71MjPGThhOL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B094YMYM5G?tag=pepius-21"
     },
     {
       "title": "wolfcraft 4185000 Lames trapèze en boîte 0,50 mm Argent",
@@ -9077,7 +9085,7 @@
     {
       "title": "Cyberpunk 2077: Ultimate Edition (XBOX SERIES)",
       "old_price": null,
-      "new_price": 99.99,
+      "new_price": 61.2,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81pjy+hhTfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CNTGT6PC?tag=pepius-21"
@@ -9101,7 +9109,7 @@
     {
       "title": "VERONES 12 pièces alimentaires en verre hermétiques avec couvercles, sans BPA, passent au micro-ondes, four, congélateur et lave-vaisselle, gris",
       "old_price": null,
-      "new_price": 50,
+      "new_price": 2.17,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71W16AIGDML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BZS66X6R?tag=pepius-21"
