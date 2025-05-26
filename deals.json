@@ -8587,14 +8587,6 @@
       "link": "https://www.amazon.fr/dp/B016FON7C2?tag=pepius-21"
     },
     {
-      "title": "LG Nanocell TV 2024 | 65NANO81 | 65 Pouces | UHD | Processeur α5 Gen7 AI 4K, Bleu foncé",
-      "old_price": 799,
-      "new_price": 499,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/812CnfCwlxL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CYTHSYDJ?tag=pepius-21"
-    },
-    {
       "title": "UGREEN Nexode Batterie Externe 20000mAh 130W Power Bank USB C Charge Rapide 3 Ports PD QC Écran Numérique Compatible avec iPhone 16 Plus Pro Max Galaxy S25 Ultra MacBook Pro Air iPad",
       "old_price": 94.99,
       "new_price": 59.99,
@@ -8705,6 +8697,14 @@
       "discount": 23,
       "image": "https://m.media-amazon.com/images/I/612NyKjMeLL._AC_SL1251_.jpg",
       "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
+    },
+    {
+      "title": "VASAGLE Kailyn Collection - Table de Chevet avec Multiprise, Lot de 2, Table d’Appoint avec 3 Tiroirs, 2 Prises CA, 2 Ports USB, pour Salon, Chambre, Bureau, Moderne, Noir Boisé LET831B56",
+      "old_price": 99.99,
+      "new_price": 76.7,
+      "discount": 23,
+      "image": "https://m.media-amazon.com/images/I/8127cTw9iBL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CDP7CCN4?tag=pepius-21"
     },
     {
       "title": "Xbox Manette sans Fil - Robot White Pour Xbox One, Series X, Series S, Windows 10 & 11, Android et iOS",
@@ -8827,6 +8827,14 @@
       "link": "https://www.amazon.fr/dp/B09M334NK6?tag=pepius-21"
     },
     {
+      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
+      "old_price": 339.05,
+      "new_price": 322.1,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
+    },
+    {
       "title": "WD-40 SPECIALIST Graisse Haute Performance Multifonction. Cartouche 400gr",
       "old_price": 14.99,
       "new_price": 14.24,
@@ -8873,14 +8881,6 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/81g7THGywHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DY7HCPQJ?tag=pepius-21"
-    },
-    {
-      "title": "VASAGLE Kailyn Collection - Table de Chevet avec Multiprise, Lot de 2, Table d’Appoint avec 3 Tiroirs, 2 Prises CA, 2 Ports USB, pour Salon, Chambre, Bureau, Moderne, Noir Boisé LET831B56",
-      "old_price": 80.74,
-      "new_price": 76.7,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/8127cTw9iBL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CDP7CCN4?tag=pepius-21"
     },
     {
       "title": "KS Tools - 914.1215 - Jeu de mini-cliquets réversibles sans manche 1/4'' - 3/8'' - 1/2''",
@@ -9047,7 +9047,7 @@
       "old_price": null,
       "new_price": 9.95,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81yj3DRDLZL._AC_SL1497_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81qRFqs2YML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07HMFT3NP?tag=pepius-21"
     },
     {
@@ -9121,14 +9121,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71GbRyQMr2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00422M4VU?tag=pepius-21"
-    },
-    {
-      "title": "Silent Hill 2 - PS5",
-      "old_price": null,
-      "new_price": 129.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71XsCEArGiL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CMHMLPND?tag=pepius-21"
     }
   ]
 }
