@@ -9189,7 +9189,7 @@
       "link": "https://www.amazon.fr/dp/B095Z3GKSL?tag=pepius-21"
     },
     {
-      "title": "Tefal OptiGrill+ XL, Gril intelligent, 9programmes, Modes manuel, 2000W, Plaques amovibles, Nettoyage facile GC722D16",
+      "title": "Tefal Optigrill+ XL, Grill intelligent, 9 programmes, Mode manuel, XL jusqu’à 8 personnes, GC722D16",
       "old_price": 259.99,
       "new_price": 116.34,
       "discount": 55,
@@ -9349,28 +9349,12 @@
       "link": "https://www.amazon.fr/dp/B09JGR7VTT?tag=pepius-21"
     },
     {
-      "title": "LEGO Technic La Planète Terre et la Lune en Orbite, Jouet de Construction Créatif, Stimule le Jeu en Autonomie, Thème du Système Solaire, Cadeau Intergalactique pour Garçons et Filles Dès 10 Ans 42179",
-      "old_price": 79.99,
-      "new_price": 56.99,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/81lZif6MssL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CFVYHXV5?tag=pepius-21"
-    },
-    {
       "title": "VoltSurge Car Battery Jump Starter with Air Compressor, 5000A (pour Tous Les véhicules à Essence et Diesel de 10) - Démarreur de Voiture Portable avec gonfleur 150 PSI et Grand Affichage",
       "old_price": 99,
       "new_price": 69.99,
       "discount": 29,
       "image": "https://m.media-amazon.com/images/I/71D7Quy9lvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CXX88YPN?tag=pepius-21"
-    },
-    {
-      "title": "eufy Security Sonnette vidéo C30, Alimentation par Batterie, 2K FHD, appels vidéo en Direct, détection des Humains et mouvements, Compatible avec la HomeBase S380, aucuns Frais mensuels",
-      "old_price": 69.99,
-      "new_price": 49.99,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/51w3hXu9LDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DHRYZ4JJ?tag=pepius-21"
     },
     {
       "title": "Philips Hue Play Pack White & Color Ambiance, Blanc, Pack de 2, Kit de base, fonctionne avec Alexa, Google Assistant et Apple Homekit",
@@ -9613,9 +9597,17 @@
       "link": "https://www.amazon.fr/dp/B09NL76JR9?tag=pepius-21"
     },
     {
+      "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
+      "old_price": null,
+      "new_price": 289,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
+    },
+    {
       "title": "Avatar: Frontiers Of Pandora Fra PS5",
       "old_price": null,
-      "new_price": 17.99,
+      "new_price": 69.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61A0nmOIt8L._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B0C8JZ3P24?tag=pepius-21"
@@ -9685,6 +9677,14 @@
       "link": "https://www.amazon.fr/dp/B08VJ2VH2J?tag=pepius-21"
     },
     {
+      "title": "adidas Couche de Base suprieure Homme",
+      "old_price": null,
+      "new_price": 17.48,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51BVAJfkkUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09BZ4CPK2?tag=pepius-21"
+    },
+    {
       "title": "PlayStation 5 - DOOM: The Dark Ages - Edition Standard",
       "old_price": null,
       "new_price": 61.2,
@@ -9735,7 +9735,7 @@
     {
       "title": "Coffret 12 forets et 5 burins SDS-plus - MAKITA D-19180",
       "old_price": null,
-      "new_price": 3.45,
+      "new_price": 27.88,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LPgEEv6tL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B002FTHJKI?tag=pepius-21"
