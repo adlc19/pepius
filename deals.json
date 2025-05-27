@@ -9181,7 +9181,7 @@
       "link": "https://www.amazon.fr/dp/B095Z3GKSL?tag=pepius-21"
     },
     {
-      "title": "Tefal Optigrill+ XL, Grill intelligent, 9 programmes, Mode manuel, XL jusqu’à 8 personnes, GC722D16",
+      "title": "Tefal OptiGrill+ XL, Gril intelligent, 9programmes, Modes manuel, 2000W, Plaques amovibles, Nettoyage facile GC722D16",
       "old_price": 259.99,
       "new_price": 116.34,
       "discount": 55,
@@ -9235,14 +9235,6 @@
       "discount": 42,
       "image": "https://m.media-amazon.com/images/I/51j6om2djHL._AC_SL1004_.jpg",
       "link": "https://www.amazon.fr/dp/B01H76BO9U?tag=pepius-21"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles Shredder's Revenge Standard Edition Playstation 5",
-      "old_price": 24.99,
-      "new_price": 14.99,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/81-cniNBhiL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CJP91XFS?tag=pepius-21"
     },
     {
       "title": "SCEPTER - Jerrican Avec Bec Verseur PRO - Pour Eau, Carburants, Lubrifiants Et Plus - Bouchon Dévissable - Plastique - 10 L - Rouge",
@@ -9381,14 +9373,6 @@
       "link": "https://www.amazon.fr/dp/B0DY7HCPQJ?tag=pepius-21"
     },
     {
-      "title": "RESIDENT EVIL 2 REMAKE (PS5)",
-      "old_price": 29.99,
-      "new_price": 23.08,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/71lfqbUrkXL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DN1YSHBZ?tag=pepius-21"
-    },
-    {
       "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
       "old_price": 26.99,
       "new_price": 20.89,
@@ -9435,14 +9419,6 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71ZVtyw8S4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01E4DFULW?tag=pepius-21"
-    },
-    {
-      "title": "Sonos Ace - Casque Bluetooth sans Fil avec Réduction Active de Bruit - Jusqu'à 30 Heures d'autonomie - Audio Spatial - Suivi Dynamique des mouvements de la tête Dolby - Noir",
-      "old_price": 429,
-      "new_price": 349.98,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/41ZKL7os1LL._AC_SL1080_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D37H1T6H?tag=pepius-21"
     },
     {
       "title": "NIKKA - Coffey Grain, sans étui, Whisky Japonais, Single Grain - Notes de Miel & Epices - Origine : Japon/Honshu-Miyagi - 45 % Alcool - 70 cl",
@@ -9525,6 +9501,14 @@
       "link": "https://www.amazon.fr/dp/B08JVDL1YJ?tag=pepius-21"
     },
     {
+      "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
+      "old_price": 19.99,
+      "new_price": 18.98,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
+    },
+    {
       "title": "Projecteur, ELEPHAS 2025 WiFi Mini Projecteur Full HD 1080P, 15000 Lux Projecteur Portable Compatible avec iOS/Android/Smartphone/Tablet/PC/TV Stick/USB (Trépied Inclus)",
       "old_price": 49.99,
       "new_price": 47.49,
@@ -9581,9 +9565,17 @@
       "link": "https://www.amazon.fr/dp/B0D3MWKK68?tag=pepius-21"
     },
     {
+      "title": "Teenage Mutant Ninja Turtles Shredder's Revenge Standard Edition Playstation 5",
+      "old_price": null,
+      "new_price": 24.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81-cniNBhiL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJP91XFS?tag=pepius-21"
+    },
+    {
       "title": "Unicorn Overlord (Nintendo Switch)",
       "old_price": null,
-      "new_price": 28.78,
+      "new_price": 79.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81xYSWmCZGL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJ9RTVNT?tag=pepius-21"
@@ -9623,7 +9615,7 @@
     {
       "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
       "old_price": null,
-      "new_price": 289,
+      "new_price": 279,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
@@ -9739,6 +9731,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81m8z+BvY6L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CD7JWG68?tag=pepius-21"
+    },
+    {
+      "title": "RESIDENT EVIL 2 REMAKE (PS5)",
+      "old_price": null,
+      "new_price": 39.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71lfqbUrkXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DN1YSHBZ?tag=pepius-21"
     },
     {
       "title": "HumanCentric Support mural compatible avec Fat PS5 Original avec 2 supports de manette, support métallique pour Fat PS5, support pour versions numériques et disques, non compatible avec PS5 Slim",
