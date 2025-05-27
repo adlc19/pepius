@@ -9253,7 +9253,7 @@
       "link": "https://www.amazon.fr/dp/B0CD26NJDY?tag=pepius-21"
     },
     {
-      "title": "UGREEN Nexode Batterie Externe 20000mAh 100W Power Bank USB C Charge Rapide 3 Ports PD QC Écran Numérique Compatible avec iPhone 16 Plus Pro Max Galaxy S25 Ultra MacBook Pro Air iPad",
+      "title": "UGREEN Nexode Batterie Externe 20000mAh 130W Power Bank USB C Charge Rapide 3 Ports PD QC Écran Numérique Compatible avec iPhone 16 Plus Pro Max Galaxy S25 Ultra MacBook Pro Air iPad",
       "old_price": 94.99,
       "new_price": 59.99,
       "discount": 37,
@@ -9275,6 +9275,14 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/81Um+CbzjRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00BLHX6J8?tag=pepius-21"
+    },
+    {
+      "title": "Olimpia Splendid-01921 Dolceclima Compact 10P- Climatiseur portable 3-en-1: Refroidissement,Ventilation,Déshumidification,10 000 Btu/H, 2,64 Kw,Gaz R290,Timer 24h,blanc",
+      "old_price": 399,
+      "new_price": 269,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/51y9Cm+ZrmL._AC_SL1181_.jpg",
+      "link": "https://www.amazon.fr/dp/B07NDR71PH?tag=pepius-21"
     },
     {
       "title": "DJI Bundle Osmo Action 4 Standard - Caméra d’Action étanche 4K/120 IPS avec capteur 1/1,3 Pouce, des Images saisissantes en Basse lumière, des Couleurs D-Log M 10 Bits, Batterie 1 770 mAh prolongée",
@@ -9331,14 +9339,6 @@
       "discount": 29,
       "image": "https://m.media-amazon.com/images/I/51w3hXu9LDL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DHRYZ4JJ?tag=pepius-21"
-    },
-    {
-      "title": "Olimpia Splendid-01921 Dolceclima Compact 10P- Climatiseur portable 3-en-1: Refroidissement,Ventilation,Déshumidification,10 000 Btu/H, 2,64 Kw,Gaz R290,Timer 24h,blanc",
-      "old_price": 399,
-      "new_price": 288.49,
-      "discount": 28,
-      "image": "https://m.media-amazon.com/images/I/51y9Cm+ZrmL._AC_SL1181_.jpg",
-      "link": "https://www.amazon.fr/dp/B07NDR71PH?tag=pepius-21"
     },
     {
       "title": "Philips Hue Play Pack White & Color Ambiance, Blanc, Pack de 2, Kit de base, fonctionne avec Alexa, Google Assistant et Apple Homekit",
@@ -9485,6 +9485,14 @@
       "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
     },
     {
+      "title": "UGREEN Station d'accueil et Support pour Mac Mini M4 et M4 Pro Docking Station Hub USB C avec Boîtier M.2 NVME SSD DisplayPort 4K 240Hz 144Hz 5 USB 3.2 4A1C 10Gbps Fente SD TF 3.5mm Aux",
+      "old_price": 79.99,
+      "new_price": 74.99,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/61ry5CIzwjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DSJ633D8?tag=pepius-21"
+    },
+    {
       "title": "SONGMICS Lot de 2, Cage de Football pour Enfants, Pliable, Filet de Football, Montage Rapide, pour Jardin, Cours, Cadre en Fibre de Verre, Tissu Oxford et Polyester, Noir SZQ122B02",
       "old_price": 29.74,
       "new_price": 27.99,
@@ -9563,14 +9571,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81-cniNBhiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJP91XFS?tag=pepius-21"
-    },
-    {
-      "title": "Unicorn Overlord (Nintendo Switch)",
-      "old_price": null,
-      "new_price": 79.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81xYSWmCZGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CJ9RTVNT?tag=pepius-21"
     },
     {
       "title": "Bosch Professional Scie circulaire de table GTS 254 Bosch Professional",
@@ -9743,7 +9743,7 @@
     {
       "title": "Coffret 12 forets et 5 burins SDS-plus - MAKITA D-19180",
       "old_price": null,
-      "new_price": 2.18,
+      "new_price": 4.37,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LPgEEv6tL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B002FTHJKI?tag=pepius-21"
