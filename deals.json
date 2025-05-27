@@ -9269,6 +9269,14 @@
       "link": "https://www.amazon.fr/dp/B0CXHNGDC1?tag=pepius-21"
     },
     {
+      "title": "Amazon Fire TV Stick HD (Nouvelle génération) | TV gratuite et en direct, télécommande vocale Alexa, contrôle de la maison connectée, streaming HD",
+      "old_price": 44.99,
+      "new_price": 28.99,
+      "discount": 36,
+      "image": "https://m.media-amazon.com/images/I/51amU6MVvKL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CQMWQDH4?tag=pepius-21"
+    },
+    {
       "title": "PCCOOLER F5 R120 Ventilateurs de boîtier, 120mm PWM 4 broches FDB Fan, ventilateur de boîtier PC en chaîne Daisy de 2200 RPM, ventilateur de boîtier PC à 3 modes 86 CFM 3.2 mmH2O, blanc - 3 pack",
       "old_price": 19.99,
       "new_price": 12.99,
@@ -9371,14 +9379,6 @@
       "discount": 26,
       "image": "https://m.media-amazon.com/images/I/81g7THGywHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DY7HCPQJ?tag=pepius-21"
-    },
-    {
-      "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
-      "old_price": 26.99,
-      "new_price": 20.89,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/612NyKjMeLL._AC_SL1251_.jpg",
-      "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
     },
     {
       "title": "Mafia: The Old Country XBS",
@@ -9711,7 +9711,7 @@
     {
       "title": "Coffret 12 forets et 5 burins SDS-plus - MAKITA D-19180",
       "old_price": null,
-      "new_price": 27.88,
+      "new_price": 2.41,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LPgEEv6tL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B002FTHJKI?tag=pepius-21"
@@ -9747,14 +9747,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71P0uQnqQcL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DF58ZJ8Y?tag=pepius-21"
-    },
-    {
-      "title": "DEWALT Coffret de 10 Disques Pour Meuleuse - Dimensions 125 mm x 1 mm - Matériau de Disque Robuste en Étain - Pour Acier Inoxydable - Convient pour une Utilisation Professionnelle, DT3507-QZ",
-      "old_price": null,
-      "new_price": 9.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81qRFqs2YML._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07HMFT3NP?tag=pepius-21"
     }
   ]
 }
