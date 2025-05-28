@@ -9783,6 +9783,14 @@
       "link": "https://www.amazon.fr/dp/B095Z3GKSL?tag=pepius-21"
     },
     {
+      "title": "Playstation Uncharted Legacy of Thieves Collection (PlayStation 5)",
+      "old_price": 52.99,
+      "new_price": 19.99,
+      "discount": 62,
+      "image": "https://m.media-amazon.com/images/I/91u-RP3+NTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09NB39P2P?tag=pepius-21"
+    },
+    {
       "title": "LEGRAND - Disjoncteur Phase + Neutre 230V DNX³ - Pouvoir de Coupure 3000A - 16A Courbe C - Bornes à Vis - 1 Module - Fabriqué En France",
       "old_price": 19.9,
       "new_price": 8.95,
@@ -9943,14 +9951,6 @@
       "link": "https://www.amazon.fr/dp/B09JGR7VTT?tag=pepius-21"
     },
     {
-      "title": "LEGO Technic La Planète Terre et la Lune en Orbite, Jouet de Construction Créatif, Stimule le Jeu en Autonomie, Thème du Système Solaire, Cadeau Intergalactique pour Garçons et Filles Dès 10 Ans 42179",
-      "old_price": 79.99,
-      "new_price": 56.99,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/81lZif6MssL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CFVYHXV5?tag=pepius-21"
-    },
-    {
       "title": "FRONTLINE Spot on Chat-Anti Puces, Tiques et Poux broyeurs-Protège L'Animal Pendant 4 Semaines Contre Les Puces, 2 Semaines Contre Les Tiques - Fabriqué en France-3 Pipettes Application Spot on",
       "old_price": 13.29,
       "new_price": 9.76,
@@ -9989,14 +9989,6 @@
       "discount": 18,
       "image": "https://m.media-amazon.com/images/I/81bVL9E6PYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CK292KSH?tag=pepius-21"
-    },
-    {
-      "title": "SONGMICS Bureau Électrique Réglable en Hauteur, 180 x 80 cm, Table Assis-Debout, Fonction Mémoire 4 Hauteurs, pour Bureau, Télétravail, Marron Rustique LSD138K01",
-      "old_price": 174.99,
-      "new_price": 145.34,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/71x-Uw7wpoL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DNSR9KNJ?tag=pepius-21"
     },
     {
       "title": "NIKKA - Coffey Grain, sans étui, Whisky Japonais, Single Grain - Notes de Miel & Epices - Origine : Japon/Honshu-Miyagi - 45 % Alcool - 70 cl",
@@ -10077,14 +10069,6 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/61z8ioFgBaL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09PNV9C9H?tag=pepius-21"
-    },
-    {
-      "title": "Patriot Viper Xtreme 5 DDR5 RAM 48 Go (2X24 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX548G60C30K",
-      "old_price": 145.99,
-      "new_price": 134.99,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/71qaeUlF4sL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
     },
     {
       "title": "SONGMICS Boîte à Montres à 10 Emplacements, Coffret à Montres, Couvercle en Verre, Serrure en Métal, Revêtement en Noir et Doublure en Beige Verdâtre JWB010",
@@ -10183,6 +10167,22 @@
       "link": "https://www.amazon.fr/dp/B0DSFRJ6PM?tag=pepius-21"
     },
     {
+      "title": "Sony, The Last Of US PS5, Jeu d'Action-Aventure, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 5 & The Last of Us Part II Remastered (PS5)",
+      "old_price": null,
+      "new_price": 69.98,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61HKXdPTXAL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CZN8CTYN?tag=pepius-21"
+    },
+    {
+      "title": "SONGMICS Bureau Électrique Réglable en Hauteur, 180 x 80 cm, Table Assis-Debout, Fonction Mémoire 4 Hauteurs, pour Bureau, Télétravail, Marron Rustique LSD138K01",
+      "old_price": null,
+      "new_price": 174.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71x-Uw7wpoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNSR9KNJ?tag=pepius-21"
+    },
+    {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
       "new_price": 39.99,
@@ -10273,7 +10273,7 @@
     {
       "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
       "old_price": null,
-      "new_price": 149.47,
+      "new_price": 199,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
@@ -10317,6 +10317,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71Cw7Mt+Y5L._AC_SL1329_.jpg",
       "link": "https://www.amazon.fr/dp/B0F7XVPGS6?tag=pepius-21"
+    },
+    {
+      "title": "LEGO Technic La Planète Terre et la Lune en Orbite, Jouet de Construction Créatif, Stimule le Jeu en Autonomie, Thème du Système Solaire, Cadeau Intergalactique pour Garçons et Filles Dès 10 Ans 42179",
+      "old_price": null,
+      "new_price": 29.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81lZif6MssL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CFVYHXV5?tag=pepius-21"
     },
     {
       "title": "JARNHNG Câble Ethernet Cat 6 20m, Câble Internet Haute Vitesse 10gbps, Cordon de Raccordement Lan RJ45 Noir, Câble Ethernet Long Pour Jeux, Ordinateur, Télévision, Routeur, Modem, Bornier",
