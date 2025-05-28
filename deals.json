@@ -9783,14 +9783,6 @@
       "link": "https://www.amazon.fr/dp/B095Z3GKSL?tag=pepius-21"
     },
     {
-      "title": "Sader Colle Contact Type Néoprène – Sans Solvant et Sans Odeur – Colle Extra Forte Tous Matériaux – Intérieur et Extérieur Sous Abri – Prise Immédiate – Translucide – Tube 30 ml",
-      "old_price": 4.9,
-      "new_price": 1.75,
-      "discount": 64,
-      "image": "https://m.media-amazon.com/images/I/61nAcIAiA4L._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0758DKZPW?tag=pepius-21"
-    },
-    {
       "title": "LEGRAND - Disjoncteur Phase + Neutre 230V DNX³ - Pouvoir de Coupure 3000A - 16A Courbe C - Bornes à Vis - 1 Module - Fabriqué En France",
       "old_price": 19.9,
       "new_price": 8.95,
@@ -9823,20 +9815,20 @@
       "link": "https://www.amazon.fr/dp/B0BDZ27513?tag=pepius-21"
     },
     {
-      "title": "Asmodee - Splendor Duel - Jeu de Stratégie pour Enfants dès 10 Ans - Jeu de Cartes pour 2 Joueurs - Collectez Les Gemmes pour Attirer Les Faveurs Royales - 30 Min - en Français - Space Cowboys",
-      "old_price": 31.8,
-      "new_price": 16.5,
-      "discount": 48,
-      "image": "https://m.media-amazon.com/images/I/71rT2Q5tbLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09VLKJDP3?tag=pepius-21"
-    },
-    {
       "title": "Kärcher Canon à mousse 0,6L accessoire pour nettoyeurs haute pression, Noir",
       "old_price": 22.99,
       "new_price": 11.99,
       "discount": 48,
       "image": "https://m.media-amazon.com/images/I/61VgUT8WnLL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B00HH9QI1C?tag=pepius-21"
+    },
+    {
+      "title": "Asmodee - Splendor Duel - Jeu de Stratégie pour Enfants dès 10 Ans - Jeu de Cartes pour 2 Joueurs - Collectez Les Gemmes pour Attirer Les Faveurs Royales - 30 Min - en Français - Space Cowboys",
+      "old_price": 31.8,
+      "new_price": 16.82,
+      "discount": 47,
+      "image": "https://m.media-amazon.com/images/I/71rT2Q5tbLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09VLKJDP3?tag=pepius-21"
     },
     {
       "title": "DEWALT - 6x110x50 Foret SDS-Plus Extreme2 - Argent - 6 x 110 x 50 mm - DT9514-QZ",
@@ -9999,14 +9991,6 @@
       "link": "https://www.amazon.fr/dp/B0DSBT6Q9H?tag=pepius-21"
     },
     {
-      "title": "Playstation Sony, Manette 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Bicolore",
-      "old_price": 69.99,
-      "new_price": 54.99,
-      "discount": 21,
-      "image": "https://m.media-amazon.com/images/I/41I8yxodUwL._AC_SL1007_.jpg",
-      "link": "https://www.amazon.fr/dp/B08H99BPJN?tag=pepius-21"
-    },
-    {
       "title": "Mafia: The Old Country XBS",
       "old_price": 49.99,
       "new_price": 39.99,
@@ -10037,6 +10021,14 @@
       "discount": 18,
       "image": "https://m.media-amazon.com/images/I/81bVL9E6PYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CK292KSH?tag=pepius-21"
+    },
+    {
+      "title": "SONGMICS Bureau Électrique Réglable en Hauteur, 180 x 80 cm, Table Assis-Debout, Fonction Mémoire 4 Hauteurs, pour Bureau, Télétravail, Marron Rustique LSD138K01",
+      "old_price": 174.99,
+      "new_price": 145.34,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/71x-Uw7wpoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNSR9KNJ?tag=pepius-21"
     },
     {
       "title": "NIKKA - Coffey Grain, sans étui, Whisky Japonais, Single Grain - Notes de Miel & Epices - Origine : Japon/Honshu-Miyagi - 45 % Alcool - 70 cl",
@@ -10097,7 +10089,7 @@
     {
       "title": "Playstation Sony, 5 Édition Standard, PS5 avec 1 Manette Sans Fil DualSense, Couleur : Blanche",
       "old_price": 499,
-      "new_price": 449.99,
+      "new_price": 449,
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/51N+y+TJTML._AC_SL1231_.jpg",
       "link": "https://www.amazon.fr/dp/B0CLT54ZNZ?tag=pepius-21"
@@ -10281,7 +10273,7 @@
     {
       "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
       "old_price": null,
-      "new_price": 139,
+      "new_price": 199,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
@@ -10417,7 +10409,7 @@
     {
       "title": "Coffret 12 forets et 5 burins SDS-plus - MAKITA D-19180",
       "old_price": null,
-      "new_price": 43.99,
+      "new_price": 41.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LPgEEv6tL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B002FTHJKI?tag=pepius-21"
