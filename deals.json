@@ -9871,6 +9871,14 @@
       "link": "https://www.amazon.fr/dp/B016FON7C2?tag=pepius-21"
     },
     {
+      "title": "PlayStation, Days Gone",
+      "old_price": 31.99,
+      "new_price": 19.99,
+      "discount": 38,
+      "image": "https://m.media-amazon.com/images/I/71IPd5QNQ9L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
+    },
+    {
       "title": "JBL Authentics 300 Enceinte intelligente connectée portable avec Wi-Fi, Bluetooth et assistants vocaux, design rétro, noire, Prise européenne (Type C)",
       "old_price": 399,
       "new_price": 247.99,
@@ -10167,6 +10175,14 @@
       "link": "https://www.amazon.fr/dp/B0DSFRJ6PM?tag=pepius-21"
     },
     {
+      "title": "VDLPOWEREU Chargeur Voiture Electrique, 7.36KW Cable Recharge Voiture Electrique Type 2, Chargeur EV avec Courant Réglable de 6A/8A/10A/13A/16A//20A/24/32A, Monophasée CEE 3 Broches, IEC 62196-2, IP65",
+      "old_price": null,
+      "new_price": 229,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ZXut6FNML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CQQG6TX4?tag=pepius-21"
+    },
+    {
       "title": "Sony, The Last Of US PS5, Jeu d'Action-Aventure, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 5 & The Last of Us Part II Remastered (PS5)",
       "old_price": null,
       "new_price": 69.98,
@@ -10225,7 +10241,7 @@
     {
       "title": "Sonos Ace - Casque Bluetooth sans Fil avec Réduction Active de Bruit - Jusqu'à 30 Heures d'autonomie - Audio Spatial - Suivi Dynamique des mouvements de la tête Dolby - Noir",
       "old_price": null,
-      "new_price": 43.99,
+      "new_price": 499.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41ZKL7os1LL._AC_SL1080_.jpg",
       "link": "https://www.amazon.fr/dp/B0D37H1T6H?tag=pepius-21"
@@ -10271,6 +10287,14 @@
       "link": "https://www.amazon.fr/dp/B09NL76JR9?tag=pepius-21"
     },
     {
+      "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
+      "old_price": null,
+      "new_price": 149.47,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
+    },
+    {
       "title": "Avatar: Frontiers Of Pandora Fra PS5",
       "old_price": null,
       "new_price": 49.99,
@@ -10313,7 +10337,7 @@
     {
       "title": "LEGO Technic La Planète Terre et la Lune en Orbite, Jouet de Construction Créatif, Stimule le Jeu en Autonomie, Thème du Système Solaire, Cadeau Intergalactique pour Garçons et Filles Dès 10 Ans 42179",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 139.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81lZif6MssL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYHXV5?tag=pepius-21"
@@ -10349,6 +10373,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cXgW9naAL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08VJ2VH2J?tag=pepius-21"
+    },
+    {
+      "title": "adidas Couche de Base suprieure Homme",
+      "old_price": null,
+      "new_price": 17.48,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51BVAJfkkUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09BZ4CPK2?tag=pepius-21"
     },
     {
       "title": "PlayStation 5 - DOOM: The Dark Ages - Edition Standard",
