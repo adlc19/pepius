@@ -10577,6 +10577,14 @@
       "link": "https://www.amazon.fr/dp/B08HQHW4LS?tag=pepius-21"
     },
     {
+      "title": "Citizen Automatic Watch NB6050-51E",
+      "old_price": 895,
+      "new_price": 537,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/719QABo-8AL._AC_SL1400_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6BBL1D8?tag=pepius-21"
+    },
+    {
       "title": "Teenage Mutant Ninja Turtles Shredder's Revenge Standard Edition Playstation 5",
       "old_price": 24.99,
       "new_price": 14.99,
@@ -10745,20 +10753,20 @@
       "link": "https://www.amazon.fr/dp/B07XDD2QMB?tag=pepius-21"
     },
     {
-      "title": "Bosch Accessories 10 disques à tronçonner Standard for Inox Rapido WA 60 T BF (pour l'acier inoxydable, Ø 125 mm, droits, accessoires meuleuse angulaire)",
-      "old_price": 8.99,
-      "new_price": 7.64,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/71EQUSvfWpL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B007PB1GSC?tag=pepius-21"
-    },
-    {
       "title": "Sony, Manette DualSense Edge Officielle pour PS5 et PC, Sans Fil, Commandes Ultra-Personnalisables + Profils Interchangeables + Confort Amélioré, Boîte de Transport Incluse, Couleur : Blanche et Noire",
       "old_price": 219.97,
       "new_price": 189.99,
       "discount": 14,
       "image": "https://m.media-amazon.com/images/I/51g8RFSELLL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BJW7XKY2?tag=pepius-21"
+    },
+    {
+      "title": "LG Smart TV 55C44LA 4K Ultra HD OLED AMD FreeSync 55\"",
+      "old_price": 1075.96,
+      "new_price": 949.99,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/61D77nlRHOL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D66YSRL9?tag=pepius-21"
     },
     {
       "title": "MIULEE Lot de 2 Decorative Housse de Coussin en Velours Côtelé Canapé Taie d'oreiller Douce pour Maison Salon Chambre Clic Clac 40x40cm Bleu Lac",
@@ -10897,6 +10905,22 @@
       "link": "https://www.amazon.fr/dp/B08L3TM6H5?tag=pepius-21"
     },
     {
+      "title": "LEVI'S New Duncan Ceinture Mixte",
+      "old_price": null,
+      "new_price": 19.37,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71c6I9QPDkL._AC_SL1020_.jpg",
+      "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
+    },
+    {
+      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6 - Boxers Homme, Boxer Homme Coton, Caleçon Homme",
+      "old_price": null,
+      "new_price": 35.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71zYTz9xkWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09HTTYYRF?tag=pepius-21"
+    },
+    {
       "title": "Sony, God Of War Ragnarök PS4, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 4",
       "old_price": null,
       "new_price": 15.95,
@@ -10939,7 +10963,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 169,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -10963,7 +10987,7 @@
     {
       "title": "Tefal Ingenio Lot de 4 pièces, Casseroles 16/18/20 cm + 1 poignée amovible, Induction, Acier inoxydable, Empilable, Gain de place, Fabriqué en Chine, Preference On L898S334",
       "old_price": null,
-      "new_price": 89.99,
+      "new_price": 89.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gpAGt6cUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BB31NW6D?tag=pepius-21"
@@ -10971,7 +10995,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 99.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11017,9 +11041,17 @@
       "link": "https://www.amazon.fr/dp/B09NL76JR9?tag=pepius-21"
     },
     {
+      "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
+      "old_price": null,
+      "new_price": 35.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
+    },
+    {
       "title": "Avatar: Frontiers Of Pandora Fra PS5",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 69.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61A0nmOIt8L._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B0C8JZ3P24?tag=pepius-21"
@@ -11067,7 +11099,7 @@
     {
       "title": "LEGO Technic La Planète Terre et la Lune en Orbite, Jouet de Construction Créatif, Stimule le Jeu en Autonomie, Thème du Système Solaire, Cadeau Intergalactique pour Garçons et Filles Dès 10 Ans 42179",
       "old_price": null,
-      "new_price": 99.99,
+      "new_price": 29.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81lZif6MssL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFVYHXV5?tag=pepius-21"
