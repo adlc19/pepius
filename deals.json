@@ -10465,14 +10465,6 @@
       "link": "https://www.amazon.fr/dp/B09NB39P2P?tag=pepius-21"
     },
     {
-      "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
-      "old_price": 134.9,
-      "new_price": 55.89,
-      "discount": 59,
-      "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
-    },
-    {
       "title": "LEGRAND - Disjoncteur Phase + Neutre 230V DNX³ - Pouvoir de Coupure 3000A - 16A Courbe C - Bornes à Vis - 1 Module - Fabriqué En France",
       "old_price": 19.9,
       "new_price": 8.95,
@@ -10519,6 +10511,14 @@
       "discount": 50,
       "image": "https://m.media-amazon.com/images/I/71FJO2DOPWL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0BDZ27513?tag=pepius-21"
+    },
+    {
+      "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
+      "old_price": 134.9,
+      "new_price": 68.19,
+      "discount": 49,
+      "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
     },
     {
       "title": "Kärcher Canon à mousse 0,6L accessoire pour nettoyeurs haute pression, Noir",
@@ -10913,14 +10913,6 @@
       "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
     },
     {
-      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6 - Boxers Homme, Boxer Homme Coton, Caleçon Homme",
-      "old_price": null,
-      "new_price": 35.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71zYTz9xkWL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09HTTYYRF?tag=pepius-21"
-    },
-    {
       "title": "Sony, God Of War Ragnarök PS4, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 4",
       "old_price": null,
       "new_price": 15.95,
@@ -10963,7 +10955,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 499,
+      "new_price": 51.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -10995,7 +10987,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 99.99,
+      "new_price": 79.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11039,14 +11031,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/614uEKFhOVL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09NL76JR9?tag=pepius-21"
-    },
-    {
-      "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
-      "old_price": null,
-      "new_price": 35.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
     },
     {
       "title": "Avatar: Frontiers Of Pandora Fra PS5",
@@ -11119,14 +11103,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71vzlhAUQfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D53B4QY8?tag=pepius-21"
-    },
-    {
-      "title": "Spear & Jackson Lot de 2 sécateurs",
-      "old_price": null,
-      "new_price": 26.36,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71wBlw1qaDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B004N99WBC?tag=pepius-21"
     }
   ]
 }
