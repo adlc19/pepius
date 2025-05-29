@@ -10449,14 +10449,6 @@
       "link": "https://www.amazon.fr/dp/B0CRSPLRZY?tag=pepius-21"
     },
     {
-      "title": "PlayStation, Death Stranding Director's Cut (PlayStation 5)",
-      "old_price": 52.99,
-      "new_price": 19.99,
-      "discount": 62,
-      "image": "https://m.media-amazon.com/images/I/51NVpThrkyL._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B099BWLC1K?tag=pepius-21"
-    },
-    {
       "title": "Nerf Elite 2.0, Blaster Commander RC-6, 12 fléchettes Nerf Elite, Barillet Rotatif 6 fléchettes, Personnalisable",
       "old_price": 15.74,
       "new_price": 5.99,
@@ -10561,14 +10553,6 @@
       "link": "https://www.amazon.fr/dp/B002AMVQUE?tag=pepius-21"
     },
     {
-      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
-      "old_price": 48.65,
-      "new_price": 26.55,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
-    },
-    {
       "title": "PlayStation, Days Gone",
       "old_price": 31.99,
       "new_price": 17.99,
@@ -10657,20 +10641,20 @@
       "link": "https://www.amazon.fr/dp/B07711727G?tag=pepius-21"
     },
     {
-      "title": "Sony, God Of War Ragnarök PS4, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 4",
-      "old_price": 35.28,
-      "new_price": 24.99,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/71h-xYqRKmL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B6GRMTBB?tag=pepius-21"
-    },
-    {
       "title": "De'Longhi, Accessoires Robot café, Lot de 4 Filtres Adoucisseur d'eau, DLSC321",
       "old_price": 39.99,
       "new_price": 28.4,
       "discount": 29,
       "image": "https://m.media-amazon.com/images/I/61XUjS1DICL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09JGR7VTT?tag=pepius-21"
+    },
+    {
+      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
+      "old_price": 48.65,
+      "new_price": 35,
+      "discount": 28,
+      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
     },
     {
       "title": "Kindle Scribe (2022) - 16 Go | Le premier Kindle et carnet de notes numérique tout-en-un, avec écran Paperwhite 10,2\" de 300 ppp | Stylet basique inclus",
@@ -10687,6 +10671,14 @@
       "discount": 26,
       "image": "https://m.media-amazon.com/images/I/612NyKjMeLL._AC_SL1251_.jpg",
       "link": "https://www.amazon.fr/dp/B08JTQ66K7?tag=pepius-21"
+    },
+    {
+      "title": "PlayStation, Death Stranding Director's Cut (PlayStation 5)",
+      "old_price": 27,
+      "new_price": 19.99,
+      "discount": 26,
+      "image": "https://m.media-amazon.com/images/I/51NVpThrkyL._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B099BWLC1K?tag=pepius-21"
     },
     {
       "title": "Sonos Ace - Casque Bluetooth sans Fil avec Réduction Active de Bruit - Jusqu'à 30 Heures d'autonomie - Audio Spatial - Suivi Dynamique des mouvements de la tête Dolby - Noir",
@@ -10929,6 +10921,22 @@
       "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
     },
     {
+      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6 - Boxers Homme, Boxer Homme Coton, Caleçon Homme",
+      "old_price": null,
+      "new_price": 35.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71zYTz9xkWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09HTTYYRF?tag=pepius-21"
+    },
+    {
+      "title": "Sony, God Of War Ragnarök PS4, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 4",
+      "old_price": null,
+      "new_price": 15.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71h-xYqRKmL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B6GRMTBB?tag=pepius-21"
+    },
+    {
       "title": "VDLPOWEREU Chargeur Voiture Electrique, 7.36KW Cable Recharge Voiture Electrique Type 2, Chargeur EV avec Courant Réglable de 6A/8A/10A/13A/16A//20A/24/32A, Monophasée CEE 3 Broches, IEC 62196-2, IP65",
       "old_price": null,
       "new_price": 229,
@@ -10955,7 +10963,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 499,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -10987,7 +10995,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 18.6,
+      "new_price": 99.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11031,6 +11039,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/614uEKFhOVL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09NL76JR9?tag=pepius-21"
+    },
+    {
+      "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
+      "old_price": null,
+      "new_price": 145.27,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
     },
     {
       "title": "Avatar: Frontiers Of Pandora Fra PS5",
@@ -11119,6 +11135,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cXgW9naAL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08VJ2VH2J?tag=pepius-21"
+    },
+    {
+      "title": "adidas Couche de Base suprieure Homme",
+      "old_price": null,
+      "new_price": 17.48,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51BVAJfkkUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09BZ4CPK2?tag=pepius-21"
     }
   ]
 }
