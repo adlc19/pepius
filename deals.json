@@ -10633,6 +10633,14 @@
       "link": "https://www.amazon.fr/dp/B0C783YNW7?tag=pepius-21"
     },
     {
+      "title": "Bialetti - Nouvelle cafetière expresso Venus Induction, Plaque de cuisson en acier inoxydable, Adaptée à toutes les sources de chaleur, 6 Tasses, Aluminium, 235ml,Argent",
+      "old_price": 43.9,
+      "new_price": 29.99,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/51BJn+IL-iL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07ZKZXM4B?tag=pepius-21"
+    },
+    {
       "title": "Smartwares Extincteur à mousse - 3 L - pour Feux A&B - Adapté pour bureaux et domiciles - Support inclus - FEX-15230",
       "old_price": 42.82,
       "new_price": 29.99,
@@ -10703,14 +10711,6 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/81YvlQ1odML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F8BZ19DS?tag=pepius-21"
-    },
-    {
-      "title": "Bialetti - Nouvelle cafetière expresso Venus Induction, Plaque de cuisson en acier inoxydable, Adaptée à toutes les sources de chaleur, 6 Tasses, Aluminium, 235ml,Argent",
-      "old_price": 24.99,
-      "new_price": 19.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/51BJn+IL-iL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07ZKZXM4B?tag=pepius-21"
     },
     {
       "title": "Bosch Professional Scie à Onglets Radiale Filaire GCM 80 SJ (1400 W, Ø de la lame : 216 mm, incl. 2x lames circulaires)",
@@ -10963,7 +10963,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 499,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -10995,7 +10995,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 50,
+      "new_price": 80,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11135,14 +11135,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cXgW9naAL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08VJ2VH2J?tag=pepius-21"
-    },
-    {
-      "title": "adidas Couche de Base suprieure Homme",
-      "old_price": null,
-      "new_price": 17.48,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51BVAJfkkUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09BZ4CPK2?tag=pepius-21"
     }
   ]
 }
