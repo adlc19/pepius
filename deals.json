@@ -10561,14 +10561,6 @@
       "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
     },
     {
-      "title": "Garnier Pure Active - Nettoyant 3 En 1 - Nettoyant, Exfoliant, Masque - Réduit Les Points Noirs & Prévient Leur Apparition - BHA & Charbon - Vegan & Cruelty Free - Peau Mixtes à Grasses - 150 ml",
-      "old_price": 6.25,
-      "new_price": 3.61,
-      "discount": 42,
-      "image": "https://m.media-amazon.com/images/I/51j6om2djHL._AC_SL1004_.jpg",
-      "link": "https://www.amazon.fr/dp/B01H76BO9U?tag=pepius-21"
-    },
-    {
       "title": "Bosch Pompe à vélo Pompe à air Mini-compresseur électrique EasyPump (Batterie 3,0 Ah, 3,6 V, Fonction Autostop, 150 PSI, 10,3 Bar, LED, Rechargeable Via câble USB-C, dans boîte Carton)",
       "old_price": 76.64,
       "new_price": 44.99,
@@ -10657,20 +10649,20 @@
       "link": "https://www.amazon.fr/dp/B09JGR7VTT?tag=pepius-21"
     },
     {
-      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
-      "old_price": 48.65,
-      "new_price": 35,
-      "discount": 28,
-      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
-    },
-    {
       "title": "Kindle Scribe (2022) - 16 Go | Le premier Kindle et carnet de notes numérique tout-en-un, avec écran Paperwhite 10,2\" de 300 ppp | Stylet basique inclus",
       "old_price": 369.99,
       "new_price": 269.99,
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/81e5dv6eRuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09BS5XWNS?tag=pepius-21"
+    },
+    {
+      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
+      "old_price": 48.65,
+      "new_price": 35.5,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
     },
     {
       "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
@@ -10719,14 +10711,6 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71ZVtyw8S4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01E4DFULW?tag=pepius-21"
-    },
-    {
-      "title": "Bialetti Six tasses empilables, multicolore, porcelaine",
-      "old_price": 19.46,
-      "new_price": 15.99,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/71cFDKhag0L._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08L3TM6H5?tag=pepius-21"
     },
     {
       "title": "Atlus Unicorn Overlord Édition Standard (Nintendo Switch)",
@@ -10905,6 +10889,14 @@
       "link": "https://www.amazon.fr/dp/B0DGB2ZJDB?tag=pepius-21"
     },
     {
+      "title": "Bialetti Six tasses empilables, multicolore, porcelaine",
+      "old_price": 19.9,
+      "new_price": 19.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71cFDKhag0L._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08L3TM6H5?tag=pepius-21"
+    },
+    {
       "title": "LEVI'S New Duncan Ceinture Mixte",
       "old_price": null,
       "new_price": 19.37,
@@ -10963,7 +10955,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 499,
+      "new_price": 16.14,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -11127,14 +11119,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71wBlw1qaDL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B004N99WBC?tag=pepius-21"
-    },
-    {
-      "title": "INIU Allume Cigare USB C, 2 Ports 60W Charge Rapide Chargeur Voiture with USB C et A, Prise Allume Cigare 12V pour iPhone 16 15 14 13 12 11 Pro Max Mini Plus Samsung S38 Huawei iPad AirPods Switch",
-      "old_price": null,
-      "new_price": 9.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71cXgW9naAL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08VJ2VH2J?tag=pepius-21"
     }
   ]
 }
