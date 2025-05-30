@@ -11467,6 +11467,14 @@
       "link": "https://www.amazon.fr/dp/B0DFQF5S56?tag=pepius-21"
     },
     {
+      "title": "Feandrea Arbre à Chat Hauteur 143 cm, Tour de Jeux pour Chats, avec 4 Poteaux à Griffer, 2 Plateformes, 1 Niche, 1 Hamac, 2 Pompons, en Tissu Peluche, Multi-Niveaux, Gris Clair PCT161W01",
+      "old_price": 45.99,
+      "new_price": 42.49,
+      "discount": 8,
+      "image": "https://m.media-amazon.com/images/I/71rmdPmFpuL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08XTMNMMZ?tag=pepius-21"
+    },
+    {
       "title": "Apple MacBook Pro Ordinateur Portable avec Puce M4, CPU et GPU 10 cœurs : Conçu pour Apple Intelligence, écran Liquid Retina XDR 14,2″, 16Go de mémoire unifiée, 512 Go de Stockage SSD; Noir sidéral",
       "old_price": 1899,
       "new_price": 1749,
@@ -11661,7 +11669,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 499,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -11693,7 +11701,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 50,
+      "new_price": 80,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11709,7 +11717,7 @@
     {
       "title": "LG Smart TV 55C44LA 4K Ultra HD OLED AMD FreeSync 55\"",
       "old_price": null,
-      "new_price": 399,
+      "new_price": 309,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61D77nlRHOL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0D66YSRL9?tag=pepius-21"
@@ -11749,7 +11757,7 @@
     {
       "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 109.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
@@ -11761,14 +11769,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61A0nmOIt8L._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B0C8JZ3P24?tag=pepius-21"
-    },
-    {
-      "title": "DEWALT - 6x110x50 Foret SDS-Plus Extreme2 - Argent - 6 x 110 x 50 mm - DT9514-QZ",
-      "old_price": null,
-      "new_price": 4.21,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/512Lvm1a+AL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00N7EHU1S?tag=pepius-21"
     }
   ]
 }
