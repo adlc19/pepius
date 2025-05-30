@@ -11147,6 +11147,14 @@
       "link": "https://www.amazon.fr/dp/B09NB39P2P?tag=pepius-21"
     },
     {
+      "title": "Sony, Jeu PlayStation 5, Sackboy : A Big Adventure PS5, Jeu de Plateforme et d'Aventure 3D sur PS5, Edition Standard, 1 à 4 Joueurs, Version Physique avec CD, En Français, PEGI 7+",
+      "old_price": 69.99,
+      "new_price": 29.99,
+      "discount": 57,
+      "image": "https://m.media-amazon.com/images/I/919lQ9PNQZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08J8LMPGQ?tag=pepius-21"
+    },
+    {
       "title": "LEGRAND - Disjoncteur Phase + Neutre 230V DNX³ - Pouvoir de Coupure 3000A - 16A Courbe C - Bornes à Vis - 1 Module - Fabriqué En France",
       "old_price": 19.9,
       "new_price": 8.95,
@@ -11451,6 +11459,14 @@
       "link": "https://www.amazon.fr/dp/B07XDD2QMB?tag=pepius-21"
     },
     {
+      "title": "NIVEA MEN Crème Visage - Corps - Mains, crème multi-usages au parfum masculin format boîte alu, soin hydratant 3-en-1 à la texture non grasse, Sans parfum, 150 ml",
+      "old_price": 3.95,
+      "new_price": 3.41,
+      "discount": 14,
+      "image": "https://m.media-amazon.com/images/I/71mCcVS3TuL._AC_SL1201_.jpg",
+      "link": "https://www.amazon.fr/dp/B075MNHYP7?tag=pepius-21"
+    },
+    {
       "title": "Sony, Manette DualSense Edge Officielle pour PS5 et PC, Sans Fil, Commandes Ultra-Personnalisables + Profils Interchangeables + Confort Amélioré, Boîte de Transport Incluse, Couleur : Blanche et Noire",
       "old_price": 219.97,
       "new_price": 189.99,
@@ -11753,14 +11769,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51T-Yg0vC6L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000X2B38S?tag=pepius-21"
-    },
-    {
-      "title": "BIC Cristal Multicolour Stylos-Bille Pointe Large (1,6 mm) - Écriture Vive et Colorée - Couleurs Assorties, Boîte de 20",
-      "old_price": null,
-      "new_price": 5.97,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71-t+DJR5tL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00U13N30U?tag=pepius-21"
     }
   ]
 }
