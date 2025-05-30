@@ -11123,6 +11123,14 @@
       "link": "https://www.amazon.fr/dp/B0CRSPLRZY?tag=pepius-21"
     },
     {
+      "title": "KTC Ecran PC 24 Pouces, QHD 2K 100Hz IPS Moniteur, Contraste 1300:1, Affichage anti-lumière bleue, 122%sRGB, Support FreeSync et GSync, HDMI2.0/DP/Earphone pour les jeux et le travail de bureau H24T27",
+      "old_price": 299,
+      "new_price": 106.24,
+      "discount": 64,
+      "image": "https://m.media-amazon.com/images/I/71VUKcGx7gL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZ6X2YPZ?tag=pepius-21"
+    },
+    {
       "title": "Nerf Elite 2.0, Blaster Commander RC-6, 12 fléchettes Nerf Elite, Barillet Rotatif 6 fléchettes, Personnalisable",
       "old_price": 15.74,
       "new_price": 5.99,
@@ -11669,7 +11677,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 499,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -11693,7 +11701,7 @@
     {
       "title": "Tefal Ingenio Lot de 4 pièces, Casseroles 16/18/20 cm + 1 poignée amovible, Induction, Acier inoxydable, Empilable, Gain de place, Fabriqué en Chine, Preference On L898S334",
       "old_price": null,
-      "new_price": 89.99,
+      "new_price": 89.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gpAGt6cUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BB31NW6D?tag=pepius-21"
@@ -11717,7 +11725,7 @@
     {
       "title": "LG Smart TV 55C44LA 4K Ultra HD OLED AMD FreeSync 55\"",
       "old_price": null,
-      "new_price": 309,
+      "new_price": 429,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61D77nlRHOL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0D66YSRL9?tag=pepius-21"
@@ -11757,18 +11765,10 @@
     {
       "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
       "old_price": null,
-      "new_price": 109.99,
+      "new_price": 269,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
-    },
-    {
-      "title": "Avatar: Frontiers Of Pandora Fra PS5",
-      "old_price": null,
-      "new_price": 49.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61A0nmOIt8L._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C8JZ3P24?tag=pepius-21"
     }
   ]
 }
