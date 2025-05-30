@@ -11243,6 +11243,14 @@
       "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
     },
     {
+      "title": "Tefal Ingenio Lot de 4 pièces, Casseroles 16/18/20 cm + 1 poignée amovible, Induction, Acier inoxydable, Empilable, Gain de place, Fabriqué en Chine, Preference On L898S334",
+      "old_price": 79.99,
+      "new_price": 44.98,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/61gpAGt6cUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BB31NW6D?tag=pepius-21"
+    },
+    {
       "title": "Bosch Pompe à vélo Pompe à air Mini-compresseur électrique EasyPump (Batterie 3,0 Ah, 3,6 V, Fonction Autostop, 150 PSI, 10,3 Bar, LED, Rechargeable Via câble USB-C, dans boîte Carton)",
       "old_price": 76.64,
       "new_price": 44.99,
@@ -11297,14 +11305,6 @@
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/91GamAcnQ1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0073R1IZ4?tag=pepius-21"
-    },
-    {
-      "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
-      "old_price": 569,
-      "new_price": 379,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
     },
     {
       "title": "LEGO Botanicals Bouquet de Fleurs Sauvages - Plantes Artificielles avec Coquelicots et Lavande - Activité Manuelle pour Adulte - Idée Cadeau pour Femme ou Homme - Edition 2023-10313",
@@ -11699,17 +11699,9 @@
       "link": "https://www.amazon.fr/dp/B0CXXZP6R2?tag=pepius-21"
     },
     {
-      "title": "Tefal Ingenio Lot de 4 pièces, Casseroles 16/18/20 cm + 1 poignée amovible, Induction, Acier inoxydable, Empilable, Gain de place, Fabriqué en Chine, Preference On L898S334",
-      "old_price": null,
-      "new_price": 89.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61gpAGt6cUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BB31NW6D?tag=pepius-21"
-    },
-    {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 80,
+      "new_price": 50,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11785,14 +11777,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61XsdZ6a4YL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJ9CJYPC?tag=pepius-21"
-    },
-    {
-      "title": "Smartwares Lot de 2 détecteurs de fumée – Capteur Optique - Durée de Vie : 10 Ans - Pile remplaçable 5 Ans - Bouton de Test – 85 DB - FSM-11512",
-      "old_price": null,
-      "new_price": 17.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51tOwEqUBjL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07DNTVMF9?tag=pepius-21"
     }
   ]
 }
