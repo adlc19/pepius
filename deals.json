@@ -11155,6 +11155,14 @@
       "link": "https://www.amazon.fr/dp/B007AKROAM?tag=pepius-21"
     },
     {
+      "title": "PlayStation, Uncharted : The Nathan Drake Collection HITS",
+      "old_price": 19.99,
+      "new_price": 9.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/81aMA3J0KLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07K11MSQ6?tag=pepius-21"
+    },
+    {
       "title": "PlayStation, Until Dawn HITS",
       "old_price": 19.99,
       "new_price": 9.99,
@@ -11233,14 +11241,6 @@
       "discount": 45,
       "image": "https://m.media-amazon.com/images/I/51NKedvbKuL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B002AMVQUE?tag=pepius-21"
-    },
-    {
-      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
-      "old_price": 48.65,
-      "new_price": 26.55,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
     },
     {
       "title": "PlayStation, Days Gone",
@@ -11369,6 +11369,22 @@
       "discount": 26,
       "image": "https://m.media-amazon.com/images/I/51NVpThrkyL._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B099BWLC1K?tag=pepius-21"
+    },
+    {
+      "title": "UGREEN Aptx Audio Dongle Bluetooth 5.3 Clé Adaptateur USB Compatible avec Console PS5 PS4 Switch PC Supporte Casque de Jeu Écouteur Enceinte, Micro Séparé Inclus",
+      "old_price": 29.99,
+      "new_price": 22.49,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/71KkWcFw6aL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCT75PK2?tag=pepius-21"
+    },
+    {
+      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
+      "old_price": 48.65,
+      "new_price": 36.95,
+      "discount": 24,
+      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
     },
     {
       "title": "Sonos Ace - Casque Bluetooth sans Fil avec Réduction Active de Bruit - Jusqu'à 30 Heures d'autonomie - Audio Spatial - Suivi Dynamique des mouvements de la tête Dolby - Noir",
@@ -11539,6 +11555,14 @@
       "link": "https://www.amazon.fr/dp/B0DGB2ZJDB?tag=pepius-21"
     },
     {
+      "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S1T0BW",
+      "old_price": null,
+      "new_price": 76.76,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71mcrja3g9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=pepius-21"
+    },
+    {
       "title": "LISEN Chargeur Allume Cigare USB C, PD 36W & QC 18W Chargeur Voiture Rapide3.0, Mini Alumencigare USB C pour iPhone 16 Pro Max 15 14 13 Galaxy S24 23 iPad Tablette Airpods",
       "old_price": null,
       "new_price": 8.97,
@@ -11637,7 +11661,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 169,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -11661,7 +11685,7 @@
     {
       "title": "Tefal Ingenio Lot de 4 pièces, Casseroles 16/18/20 cm + 1 poignée amovible, Induction, Acier inoxydable, Empilable, Gain de place, Fabriqué en Chine, Preference On L898S334",
       "old_price": null,
-      "new_price": 89.98,
+      "new_price": 89.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gpAGt6cUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BB31NW6D?tag=pepius-21"
@@ -11669,7 +11693,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 99.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11685,7 +11709,7 @@
     {
       "title": "LG Smart TV 55C44LA 4K Ultra HD OLED AMD FreeSync 55\"",
       "old_price": null,
-      "new_price": 429,
+      "new_price": 309,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61D77nlRHOL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0D66YSRL9?tag=pepius-21"
