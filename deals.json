@@ -11443,6 +11443,14 @@
       "link": "https://www.amazon.fr/dp/B0BJW7XKY2?tag=pepius-21"
     },
     {
+      "title": "Sony, God Of War Ragnarök PS5, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 5",
+      "old_price": 39.99,
+      "new_price": 34.99,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/71BWGVZSSNL._AC_SL1497_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B6GQ4L5F?tag=pepius-21"
+    },
+    {
       "title": "MIULEE Lot de 2 Decorative Housse de Coussin en Velours Côtelé Canapé Taie d'oreiller Douce pour Maison Salon Chambre Clic Clac 40x40cm Bleu Lac",
       "old_price": 13.67,
       "new_price": 11.99,
@@ -11555,14 +11563,6 @@
       "link": "https://www.amazon.fr/dp/B0D97XCZSK?tag=pepius-21"
     },
     {
-      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
-      "old_price": null,
-      "new_price": 12.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07YYMDPXL?tag=pepius-21"
-    },
-    {
       "title": "Dr.Scholl's Semelles multi-usages 24-Heures Énergie pour tout type de chaussures - Technologie Billes Rebond et Énergie - Soulage les pieds fatigués et douloureux - 1 Paire - Taille Large 40 à 47.5",
       "old_price": null,
       "new_price": 22.52,
@@ -11645,7 +11645,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 499,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -11677,7 +11677,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 50,
+      "new_price": 80,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -11753,14 +11753,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51tOwEqUBjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07DNTVMF9?tag=pepius-21"
-    },
-    {
-      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
-      "old_price": null,
-      "new_price": 359,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
     }
   ]
 }
