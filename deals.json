@@ -11315,6 +11315,14 @@
       "link": "https://www.amazon.fr/dp/B00BLHX6J8?tag=pepius-21"
     },
     {
+      "title": "Lenovo LOQ 15IAX9 - Ordinateur Portable Gaming 15.6'' FHD 144Hz (Intel Core i5-12450HX, RAM 2x12Go, SSD 512Go, NVIDIA RTX 4060 8Go, Windows 11 Home) Clavier rétroéclairé AZERTY - Gris",
+      "old_price": 1249.99,
+      "new_price": 849.99,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/81s36P2ha6L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DT73P9F7?tag=pepius-21"
+    },
+    {
       "title": "Philips Hue White and Color Ambiance, Kit de base ruban LED Lightstrip 3 mètres Smart LED pour l'intérieur - 1 pack - Contrôle avec Hue App - Fonctionne avec Alexa, Google Assistant et Apple HomeKit",
       "old_price": 69.99,
       "new_price": 48.99,
@@ -11539,20 +11547,20 @@
       "link": "https://www.amazon.fr/dp/B0DY1LK818?tag=pepius-21"
     },
     {
-      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
-      "old_price": 339.05,
-      "new_price": 322.1,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
-    },
-    {
       "title": "Patriot Viper Elite 5 RGB DDR5 RAM 32 Go (1X32 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Module- PVER532G60C30W",
       "old_price": 93.99,
       "new_price": 89.99,
       "discount": 4,
       "image": "https://m.media-amazon.com/images/I/61cL3U9VsnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGB2ZJDB?tag=pepius-21"
+    },
+    {
+      "title": "Creality K1 SE Imprimante 3D, 2024 Nouvelle Version 600mm/s Haute Vitesse Mise à Niveau Automatique Extrudeuse Directe Buse Tri-métal à Remplacement Rapide Imprimante 3D K1 Upgrade",
+      "old_price": null,
+      "new_price": 389,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61hEadRMwHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D97XCZSK?tag=pepius-21"
     },
     {
       "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
@@ -11603,7 +11611,7 @@
       "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
     },
     {
-      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6 - Boxers Homme, Boxer Homme Coton, Caleçon Homme",
+      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6, Noir, L",
       "old_price": null,
       "new_price": 35.95,
       "discount": 0,
@@ -11741,7 +11749,7 @@
     {
       "title": "Seiko Homme Analogique Quartz Japonais Montre avec Bracelet en Cuir véritable SSB385P1",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 610,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61KvNxzFrlL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08DKXLDXB?tag=pepius-21"
@@ -11777,6 +11785,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51tOwEqUBjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07DNTVMF9?tag=pepius-21"
+    },
+    {
+      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
+      "old_price": null,
+      "new_price": 359,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
     }
   ]
 }
