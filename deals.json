@@ -11813,6 +11813,14 @@
       "link": "https://www.amazon.fr/dp/B089GPXY6W?tag=pepius-21"
     },
     {
+      "title": "TRANSFORMERS ONE - COMBO UHD 4K + BD",
+      "old_price": 29.99,
+      "new_price": 14.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/81Pr1zXmmeL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DL7MY4NP?tag=pepius-21"
+    },
+    {
       "title": "PlayStation, Uncharted : The Nathan Drake Collection HITS",
       "old_price": 19.99,
       "new_price": 9.99,
@@ -11899,14 +11907,6 @@
       "discount": 44,
       "image": "https://m.media-amazon.com/images/I/71IPd5QNQ9L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
-    },
-    {
-      "title": "Citizen Automatic Watch NB6050-51E",
-      "old_price": 895,
-      "new_price": 537,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/719QABo-8AL._AC_SL1400_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D6BBL1D8?tag=pepius-21"
     },
     {
       "title": "Sac a Dos Voyage Cabine Avion Valise Bagages Cabine Sac 40x20x25 pour Ryanair Easyjet Vueling Wizz Air Femme Homme",
@@ -12141,14 +12141,6 @@
       "link": "https://www.amazon.fr/dp/B0DNTWJJV2?tag=pepius-21"
     },
     {
-      "title": "Hub USB C, Adaptateur Multiport 11 en 1 vers Dual HDMI et VGA, Ethernet RJ45, Port Audio, 100W PD, 5 USB Ports, Docking Station pour MacBook Dell Surface HP Tablette Type C",
-      "old_price": 24.22,
-      "new_price": 23.01,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/71+lZEZmhOL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08PFSSJCQ?tag=pepius-21"
-    },
-    {
       "title": "FOIFKIN Boitier PC - en Bois de Noyer - Plaque Avant en Bois de Noyer - 3 Ventilateurs ARGB PWM préinstallés - Boitier PC de Jeu ATX Mid-Tower - Verre panoramique 270° avec Type C (Noir, M9)",
       "old_price": 87.45,
       "new_price": 83.08,
@@ -12197,20 +12189,20 @@
       "link": "https://www.amazon.fr/dp/B0BGPLL3D6?tag=pepius-21"
     },
     {
-      "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
-      "old_price": 14,
-      "new_price": 13.38,
-      "discount": 4,
-      "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
-    },
-    {
       "title": "Patriot Viper Elite 5 RGB DDR5 RAM 32 Go (1X32 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Module- PVER532G60C30W",
       "old_price": 93.99,
       "new_price": 89.99,
       "discount": 4,
       "image": "https://m.media-amazon.com/images/I/61cL3U9VsnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGB2ZJDB?tag=pepius-21"
+    },
+    {
+      "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
+      "old_price": 14.01,
+      "new_price": 13.54,
+      "discount": 3,
+      "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
     },
     {
       "title": "Panasonic CR2032 Lot de 6 Piles Bouton au Lithium 3 V 225 mAh",
@@ -12245,28 +12237,12 @@
       "link": "https://www.amazon.fr/dp/B0DG64L8QX?tag=pepius-21"
     },
     {
-      "title": "TRANSFORMERS ONE - COMBO UHD 4K + BD",
-      "old_price": null,
-      "new_price": 35.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81Pr1zXmmeL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DL7MY4NP?tag=pepius-21"
-    },
-    {
       "title": "Spray antiseptique incolore Mercurochrome - 100 ml (Lot de 2)",
       "old_price": null,
       "new_price": 5.18,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL._AC_SY355_PIbundle-2,TopRight,0,0_SH20_.jpg",
+      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.fr/dp/B0CPF4GW43?tag=pepius-21"
-    },
-    {
-      "title": "Amazon: Bloodsport [4K Ultra HD + Blu-Ray]: DVD et Blu-ray: HD-DVD",
-      "old_price": null,
-      "new_price": 14.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71oN4jCqFfL._AC_SL1481_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D7Q8B2QN?tag=pepius-21"
     },
     {
       "title": "Garmin Ceinture pectorale à double fréquence cardiaque premium, données de fréquence cardiaque en temps réel via Bluetooth Low Energy, ANT+, jusqu'à 3,5 ans d'autonomie de la batterie",
@@ -12301,14 +12277,6 @@
       "link": "https://www.amazon.fr/dp/B0D97XCZSK?tag=pepius-21"
     },
     {
-      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
-      "old_price": null,
-      "new_price": 12.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07YYMDPXL?tag=pepius-21"
-    },
-    {
       "title": "MUSETEX Boitier PC ATX, 3 Ventilateurs Non-LED préinstallés, Support RAD 360MM, Verre trempé 270° Full View Boitier Pc Gamer with Type-C, Boîtier d'ordinateur Mid Tower ATX, Noir, Y6",
       "old_price": null,
       "new_price": 79.99,
@@ -12323,22 +12291,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cFDKhag0L._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08L3TM6H5?tag=pepius-21"
-    },
-    {
-      "title": "LEVI'S New Duncan Ceinture Mixte",
-      "old_price": null,
-      "new_price": 19.37,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71c6I9QPDkL._AC_SL1020_.jpg",
-      "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
-    },
-    {
-      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6 - Boxers Homme, Boxer Homme Coton, Caleçon Homme",
-      "old_price": null,
-      "new_price": 35.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71zYTz9xkWL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09HTTYYRF?tag=pepius-21"
     },
     {
       "title": "Slime 40070-95 Gonfleur Tous Pneus, Station de Gonflage pour Garage, Gonfleur 120 V à Montage Mural, Pour Voitures, Vélos, Structures Pneumatiques, Ballons de Sport",
@@ -12391,7 +12343,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 22.79,
+      "new_price": 499,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
@@ -12403,14 +12355,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91ZpB9KcE2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B099GQZKN1?tag=pepius-21"
-    },
-    {
-      "title": "ARZOPA 65W Chargeur Rapide USB C, GaN Prise USB 3 Ports Compatible avec iPhone 15 Plus Pro Max/14/13/12, Galaxy S23/S22, Mac Book Pro/Air, iPad, Steam Deck, Pixel,Pixel et Plus (Noir)",
-      "old_price": null,
-      "new_price": 27.16,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71A7sNcIcjL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CXXZP6R2?tag=pepius-21"
     }
   ]
 }
