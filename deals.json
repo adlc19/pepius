@@ -11893,14 +11893,6 @@
       "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
     },
     {
-      "title": "Citizen Automatic Watch NB6050-51E",
-      "old_price": 895,
-      "new_price": 537,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/719QABo-8AL._AC_SL1400_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D6BBL1D8?tag=pepius-21"
-    },
-    {
       "title": "Teenage Mutant Ninja Turtles Shredder's Revenge Standard Edition Playstation 5",
       "old_price": 24.99,
       "new_price": 14.99,
@@ -11947,6 +11939,14 @@
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/91GamAcnQ1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0073R1IZ4?tag=pepius-21"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3 14IRH8 - Ordinateur Portable 14'' FHD (Intel Core i7-13620H, RAM 16Go, SSD 512Go, Intel UHD Graphics, Windows 11 Home) Clavier AZERTY Français - Gris",
+      "old_price": 899.99,
+      "new_price": 599.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/716fxNpDtNL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DB1WJYVP?tag=pepius-21"
     },
     {
       "title": "Lenovo LOQ 15IAX9 - Ordinateur Portable Gaming 15.6'' FHD 144Hz (Intel Core i5-12450HX, RAM 2x12Go, SSD 512Go, NVIDIA RTX 4060 8Go, Windows 11 Home) Clavier rétroéclairé AZERTY - Gris",
@@ -12059,14 +12059,6 @@
       "discount": 18,
       "image": "https://m.media-amazon.com/images/I/71mCcVS3TuL._AC_SL1201_.jpg",
       "link": "https://www.amazon.fr/dp/B075MNHYP7?tag=pepius-21"
-    },
-    {
-      "title": "Atlus Unicorn Overlord Édition Standard (Nintendo Switch)",
-      "old_price": 34.95,
-      "new_price": 28.69,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/81bVL9E6PYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CK292KSH?tag=pepius-21"
     },
     {
       "title": "Beurer BM 25 Tensiomètre au bras, facile à utiliser à l'aide d'un bouton, mesure précise grâce au contrôle du positionnement du brassard, détection d'arythmie, avec port USB-C, brassard 22-42 cm",
@@ -12245,6 +12237,14 @@
       "link": "https://www.amazon.fr/dp/B098FCM51S?tag=pepius-21"
     },
     {
+      "title": "Spray antiseptique incolore Mercurochrome - 100 ml (Lot de 2)",
+      "old_price": null,
+      "new_price": 5.18,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL._AC_SY355_PIbundle-2,TopRight,0,0_SH20_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CPF4GW43?tag=pepius-21"
+    },
+    {
       "title": "Amazon: Bloodsport [4K Ultra HD + Blu-Ray]: DVD et Blu-ray: HD-DVD",
       "old_price": null,
       "new_price": 19.9,
@@ -12293,14 +12293,6 @@
       "link": "https://www.amazon.fr/dp/B0D97XCZSK?tag=pepius-21"
     },
     {
-      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
-      "old_price": null,
-      "new_price": 12.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07YYMDPXL?tag=pepius-21"
-    },
-    {
       "title": "MUSETEX Boitier PC ATX, 3 Ventilateurs Non-LED préinstallés, Support RAD 360MM, Verre trempé 270° Full View Boitier Pc Gamer with Type-C, Boîtier d'ordinateur Mid Tower ATX, Noir, Y6",
       "old_price": null,
       "new_price": 79.99,
@@ -12315,22 +12307,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cFDKhag0L._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08L3TM6H5?tag=pepius-21"
-    },
-    {
-      "title": "LEVI'S New Duncan Ceinture Mixte",
-      "old_price": null,
-      "new_price": 19.37,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71c6I9QPDkL._AC_SL1020_.jpg",
-      "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
-    },
-    {
-      "title": "DANISH ENDURANCE Boxer Homme Sport Respirants et Doux, Anti-Frottement, Lot de 6 - Boxers Homme, Boxer Homme Coton, Caleçon Homme",
-      "old_price": null,
-      "new_price": 35.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71zYTz9xkWL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09HTTYYRF?tag=pepius-21"
     },
     {
       "title": "Slime 40070-95 Gonfleur Tous Pneus, Station de Gonflage pour Garage, Gonfleur 120 V à Montage Mural, Pour Voitures, Vélos, Structures Pneumatiques, Ballons de Sport",
