@@ -11965,14 +11965,6 @@
       "link": "https://www.amazon.fr/dp/B0DJRHG27F?tag=pepius-21"
     },
     {
-      "title": "Smartwares Extincteur à mousse - 3 L - pour Feux A&B - Adapté pour bureaux et domiciles - Support inclus - FEX-15230",
-      "old_price": 42.82,
-      "new_price": 29.99,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/81+TaMxUkQL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07711727G?tag=pepius-21"
-    },
-    {
       "title": "Kindle Scribe (2022) - 16 Go | Le premier Kindle et carnet de notes numérique tout-en-un, avec écran Paperwhite 10,2\" de 300 ppp | Stylet basique inclus",
       "old_price": 369.99,
       "new_price": 269.99,
@@ -12085,14 +12077,6 @@
       "link": "https://www.amazon.fr/dp/B08HQHW4LS?tag=pepius-21"
     },
     {
-      "title": "HARIBO, Les Schtroumpfs Pik Bonbons Gélifiés et acidulés Sachet Vrac 2 kg",
-      "old_price": 11.89,
-      "new_price": 10.7,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/A1Y0uUQAf-L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00ADPIRLQ?tag=pepius-21"
-    },
-    {
       "title": "Playstation Sony, 5 Édition Standard, PS5 avec 1 Manette Sans Fil DualSense, Couleur : Blanche",
       "old_price": 499,
       "new_price": 449,
@@ -12197,6 +12181,14 @@
       "link": "https://www.amazon.fr/dp/B0D2XKRCGK?tag=pepius-21"
     },
     {
+      "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
+      "old_price": 14,
+      "new_price": 13.51,
+      "discount": 4,
+      "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
+    },
+    {
       "title": "Patriot Viper Elite 5 RGB DDR5 RAM 32 Go (1X32 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Module- PVER532G60C30W",
       "old_price": 93.99,
       "new_price": 89.99,
@@ -12211,6 +12203,14 @@
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/61eryKyDReS._AC_SL1002_.jpg",
       "link": "https://www.amazon.fr/dp/B098FCM51S?tag=pepius-21"
+    },
+    {
+      "title": "HARIBO, Les Schtroumpfs Pik Bonbons Gélifiés et acidulés Sachet Vrac 2 kg",
+      "old_price": null,
+      "new_price": 11.89,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/A1Y0uUQAf-L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00ADPIRLQ?tag=pepius-21"
     },
     {
       "title": "Spray antiseptique incolore Mercurochrome - 100 ml (Lot de 2)",
@@ -12231,7 +12231,7 @@
     {
       "title": "Garmin Ceinture pectorale à double fréquence cardiaque premium, données de fréquence cardiaque en temps réel via Bluetooth Low Energy, ANT+, jusqu'à 3,5 ans d'autonomie de la batterie",
       "old_price": null,
-      "new_price": 212.58,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61uIQawinfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07N3C5WRG?tag=pepius-21"
@@ -12359,7 +12359,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 22.79,
+      "new_price": 16.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
