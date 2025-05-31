@@ -11757,14 +11757,6 @@
   ],
   "2025-05-31": [
     {
-      "title": "Otterbox Serie Clear Case avec MagSafe, Coque pour iPhone 14 Pro Max, Antichoc, Anti Chute, très Fine, supporte 2 x Plus de Chutes Que la Norme Militaire, Obsidian",
-      "old_price": 39.99,
-      "new_price": 11.39,
-      "discount": 72,
-      "image": "https://m.media-amazon.com/images/I/61BCVZ9vmsL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CRSPLRZY?tag=pepius-21"
-    },
-    {
       "title": "KTC Ecran PC 24 Pouces, QHD 2K 100Hz IPS Moniteur, Contraste 1300:1, Affichage anti-lumière bleue, 122%sRGB, Support FreeSync et GSync, HDMI2.0/DP/Earphone pour les jeux et le travail de bureau H24T27",
       "old_price": 299,
       "new_price": 106.24,
@@ -11803,6 +11795,14 @@
       "discount": 55,
       "image": "https://m.media-amazon.com/images/I/714ba2ZUp2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B007AKROAM?tag=pepius-21"
+    },
+    {
+      "title": "unisky Home Trainer Vélo Support Entraînement Magnétique à l'intérieur pour VTT et Vélo de Route avec Roue de réductrice du Bruit",
+      "old_price": 99.99,
+      "new_price": 49.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/71KwbhJZRjS._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B089GPXY6W?tag=pepius-21"
     },
     {
       "title": "PlayStation, Uncharted : The Nathan Drake Collection HITS",
@@ -12125,6 +12125,14 @@
       "link": "https://www.amazon.fr/dp/B0DLHY98C1?tag=pepius-21"
     },
     {
+      "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
+      "old_price": 14,
+      "new_price": 13.24,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
+    },
+    {
       "title": "FOIFKIN Boitier PC - en Bois de Noyer - Plaque Avant en Bois de Noyer - 3 Ventilateurs ARGB PWM préinstallés - Boitier PC de Jeu ATX Mid-Tower - Verre panoramique 270° avec Type C (Noir, M9)",
       "old_price": 87.45,
       "new_price": 83.08,
@@ -12181,14 +12189,6 @@
       "link": "https://www.amazon.fr/dp/B0D2XKRCGK?tag=pepius-21"
     },
     {
-      "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
-      "old_price": 14,
-      "new_price": 13.51,
-      "discount": 4,
-      "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
-    },
-    {
       "title": "Patriot Viper Elite 5 RGB DDR5 RAM 32 Go (1X32 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Module- PVER532G60C30W",
       "old_price": 93.99,
       "new_price": 89.99,
@@ -12231,7 +12231,7 @@
     {
       "title": "Garmin Ceinture pectorale à double fréquence cardiaque premium, données de fréquence cardiaque en temps réel via Bluetooth Low Energy, ANT+, jusqu'à 3,5 ans d'autonomie de la batterie",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 212.58,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61uIQawinfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07N3C5WRG?tag=pepius-21"
@@ -12359,7 +12359,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 16.99,
+      "new_price": 22.79,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
