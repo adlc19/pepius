@@ -12077,14 +12077,6 @@
       "link": "https://www.amazon.fr/dp/B00ADPIRLQ?tag=pepius-21"
     },
     {
-      "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S1T0BW",
-      "old_price": 77.99,
-      "new_price": 69.81,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71mcrja3g9L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=pepius-21"
-    },
-    {
       "title": "Playstation Sony, 5 Édition Standard, PS5 avec 1 Manette Sans Fil DualSense, Couleur : Blanche",
       "old_price": 499,
       "new_price": 449,
@@ -12107,6 +12099,14 @@
       "discount": 8,
       "image": "https://m.media-amazon.com/images/I/71XqvNUk4cL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01BM99LTI?tag=pepius-21"
+    },
+    {
+      "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S1T0BW",
+      "old_price": 75.99,
+      "new_price": 69.81,
+      "discount": 8,
+      "image": "https://m.media-amazon.com/images/I/71mcrja3g9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=pepius-21"
     },
     {
       "title": "Feandrea Arbre à Chat Hauteur 143 cm, Tour de Jeux pour Chats, avec 4 Poteaux à Griffer, 2 Plateformes, 1 Niche, 1 Hamac, 2 Pompons, en Tissu Peluche, Multi-Niveaux, Gris Clair PCT161W01",
@@ -12279,7 +12279,7 @@
     {
       "title": "Bosch Pompe à vélo Pompe à air Mini-compresseur électrique EasyPump (Batterie 3,0 Ah, 3,6 V, Fonction Autostop, 150 PSI, 10,3 Bar, LED, Rechargeable Via câble USB-C, dans boîte Carton)",
       "old_price": null,
-      "new_price": 41.99,
+      "new_price": 22.79,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/718A06u30NL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08HQHW4LS?tag=pepius-21"
@@ -12327,7 +12327,7 @@
     {
       "title": "RESIDENT EVIL 7 GOLD EDITION (PS5)",
       "old_price": null,
-      "new_price": 84.99,
+      "new_price": 22.79,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71-+DmQip5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DN1Y4P3C?tag=pepius-21"
