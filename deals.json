@@ -12535,14 +12535,6 @@
       "link": "https://www.amazon.fr/dp/B002AMVQUE?tag=pepius-21"
     },
     {
-      "title": "PlayStation, Days Gone",
-      "old_price": 31.99,
-      "new_price": 17.99,
-      "discount": 44,
-      "image": "https://m.media-amazon.com/images/I/71IPd5QNQ9L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
-    },
-    {
       "title": "Citizen Automatic Watch NB6050-51E",
       "old_price": 895,
       "new_price": 537,
@@ -12685,14 +12677,6 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/81YO7qCcpiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DQ5WMN4H?tag=pepius-21"
-    },
-    {
-      "title": "PlayStation The Last of Us Part II Remastered (PS5)",
-      "old_price": 34.99,
-      "new_price": 27.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/81hEsg04h0L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CPFW7WVM?tag=pepius-21"
     },
     {
       "title": "Beurer BM 25 Tensiomètre au bras, facile à utiliser à l'aide d'un bouton, mesure précise grâce au contrôle du positionnement du brassard, détection d'arythmie, avec port USB-C, brassard 22-42 cm",
@@ -12965,6 +12949,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61ZXut6FNML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQQG6TX4?tag=pepius-21"
+    },
+    {
+      "title": "PlayStation, Days Gone",
+      "old_price": null,
+      "new_price": 39.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71IPd5QNQ9L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B07MWXG7QV?tag=pepius-21"
     },
     {
       "title": "Sony, The Last Of US PS5, Jeu d'Action-Aventure, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 5 & The Last of Us Part II Remastered (PS5)",
