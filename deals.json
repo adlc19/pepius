@@ -13089,6 +13089,14 @@
       "link": "https://www.amazon.fr/dp/B0D6BBL1D8?tag=pepius-21"
     },
     {
+      "title": "Cyberpunk 2077: Ultimate Edition (PS5)",
+      "old_price": 59.99,
+      "new_price": 37.43,
+      "discount": 38,
+      "image": "https://m.media-amazon.com/images/I/81A2Mf-OmnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CNTH38H5?tag=pepius-21"
+    },
+    {
       "title": "FACOM - Coffret d'Embouts 1/4\" 31 Pièces - R.PEJ31 - 1 Cliquet Porte-Embouts 1/4\" Ultra Compact, 1 Rallonge, 28 Embouts, 1 Embout Porte-Douilles et 1 Coffret Bimatière Compris",
       "old_price": 93.53,
       "new_price": 60.65,
@@ -13143,14 +13151,6 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/81tJuCcD61L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJRHG27F?tag=pepius-21"
-    },
-    {
-      "title": "Cyberpunk 2077: Ultimate Edition (PS5)",
-      "old_price": 59.99,
-      "new_price": 44.09,
-      "discount": 27,
-      "image": "https://m.media-amazon.com/images/I/81A2Mf-OmnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CNTH38H5?tag=pepius-21"
     },
     {
       "title": "Kindle Scribe (2022) - 16 Go | Le premier Kindle et carnet de notes numérique tout-en-un, avec écran Paperwhite 10,2\" de 300 ppp | Stylet basique inclus",
@@ -13337,6 +13337,14 @@
       "link": "https://www.amazon.fr/dp/B07DK5B3WV?tag=pepius-21"
     },
     {
+      "title": "UGREEN NASync DXP4800 Plus, NAS de Bureau 4 Baies, processeur Intel Pentium Gold 8505 5 cœurs, 8 Go de RAM DDR5, SSD 128 Go, 1 x 10 GbE, 1 x 2,5 GbE, 2 x emplacements NVMe M.2, HDMI 4K (sans Disque)",
+      "old_price": null,
+      "new_price": 699.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61QB2Uya4IL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D2KKVZN2?tag=pepius-21"
+    },
+    {
       "title": "Anker SoundCore Enceinte Bluetooth Portable Stereo avec Batterie Durée de 24 Heures, Micro Intégré et Port de Basses pour Son de Qualité Supérieure - Haut Parleur Autonomie 24 Heures pour iPhone, iPad, Android et autres",
       "old_price": null,
       "new_price": 35.99,
@@ -13387,7 +13395,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 15.22,
+      "new_price": 15.33,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
