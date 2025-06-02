@@ -13065,14 +13065,6 @@
       "link": "https://www.amazon.fr/dp/B0D7271WYK?tag=pepius-21"
     },
     {
-      "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
-      "old_price": 134.9,
-      "new_price": 68.19,
-      "discount": 49,
-      "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
-    },
-    {
       "title": "Scholl Semelles GelActiv Décontracté pour chaussures Femmes - Confort renforcé par une mousse à mémoire de forme et la technologie GelWave chaque jour - Taille 35,5 à 40,5",
       "old_price": 15.71,
       "new_price": 8.32,
@@ -13103,14 +13095,6 @@
       "discount": 40,
       "image": "https://m.media-amazon.com/images/I/719QABo-8AL._AC_SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B0D6BBL1D8?tag=pepius-21"
-    },
-    {
-      "title": "Cyberpunk 2077: Ultimate Edition (PS5)",
-      "old_price": 59.99,
-      "new_price": 37.43,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/81A2Mf-OmnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CNTH38H5?tag=pepius-21"
     },
     {
       "title": "FACOM - Coffret d'Embouts 1/4\" 31 Pièces - R.PEJ31 - 1 Cliquet Porte-Embouts 1/4\" Ultra Compact, 1 Rallonge, 28 Embouts, 1 Embout Porte-Douilles et 1 Coffret Bimatière Compris",
@@ -13169,6 +13153,14 @@
       "link": "https://www.amazon.fr/dp/B0DJRHG27F?tag=pepius-21"
     },
     {
+      "title": "Cyberpunk 2077: Ultimate Edition (PS5)",
+      "old_price": 59.99,
+      "new_price": 44.09,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/81A2Mf-OmnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CNTH38H5?tag=pepius-21"
+    },
+    {
       "title": "Kindle Scribe (2022) - 16 Go | Le premier Kindle et carnet de notes numérique tout-en-un, avec écran Paperwhite 10,2\" de 300 ppp | Stylet basique inclus",
       "old_price": 369.99,
       "new_price": 269.99,
@@ -13207,6 +13199,14 @@
       "discount": 22,
       "image": "https://m.media-amazon.com/images/I/71G5+e2owHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJFLN7ZP?tag=pepius-21"
+    },
+    {
+      "title": "Kryptonite 002154 New-U - New York Lock Standard - Antifurto per bici (10,2 cm X 20,3 cm), Giallo, 1pz.",
+      "old_price": 106.99,
+      "new_price": 84.99,
+      "discount": 21,
+      "image": "https://m.media-amazon.com/images/I/71IUIU483JL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B06XCH21YH?tag=pepius-21"
     },
     {
       "title": "Funko Pop! Super: Harry Potter Prisoner of Azkaban - Rubeus Hagrid Animal Pelt Outfit - Figurine en Vinyle à Collectionner - Idée de Cadeau - Produits Officiels - Movies Fans",
@@ -13353,12 +13353,12 @@
       "link": "https://www.amazon.fr/dp/B07DK5B3WV?tag=pepius-21"
     },
     {
-      "title": "Reloop Turn 5 - Lecteur de disque platine hi-fi à quartz avec entraînement puissant, moteur DC sans balais à entraînement direct, platine en aluminium, noir-doré",
-      "old_price": 733.69,
-      "new_price": 710.55,
-      "discount": 3,
-      "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
+      "title": "UGREEN NASync DXP2800, NAS de Bureau 2 Baies, processeur Intel N100 quadricœur, 8 Go de RAM DDR5, 2,5 GbE, 2 emplacements M.2 NVMe, HDMI 4K, Stockage en réseau (sans Disque)",
+      "old_price": null,
+      "new_price": 349.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61WvMIHMDcL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D2K9J5TY?tag=pepius-21"
     },
     {
       "title": "PUMA Mixte Caven 2.0 Basket",
@@ -13375,6 +13375,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Rc78Q8pQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00URHCPGI?tag=pepius-21"
+    },
+    {
+      "title": "Reloop Turn 5 - Lecteur de disque platine hi-fi à quartz avec entraînement puissant, moteur DC sans balais à entraînement direct, platine en aluminium, noir-doré",
+      "old_price": null,
+      "new_price": 725,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
     },
     {
       "title": "Fiskars Déplantoir, Pour sols durs, Longueur : 30 cm, Tête en acier résistant/Manche en plastique, Noir/Orange, Ergo, 1027017",
@@ -13405,7 +13413,7 @@
       "old_price": null,
       "new_price": 5.18,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL._AC_SY355_PIbundle-2,TopRight,0,0_SH20_.jpg",
+      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.fr/dp/B0CPF4GW43?tag=pepius-21"
     },
     {
@@ -13519,6 +13527,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zYTz9xkWL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09HTTYYRF?tag=pepius-21"
+    },
+    {
+      "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
+      "old_price": null,
+      "new_price": 99.9,
+      "discount": 0,
+      "image": "Non disponible",
+      "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
     },
     {
       "title": "Sac a Dos Voyage Cabine Avion Valise Bagages Cabine Sac 40x20x25 pour Ryanair Easyjet Vueling Wizz Air Femme Homme",
