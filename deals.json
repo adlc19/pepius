@@ -13233,12 +13233,12 @@
       "link": "https://www.amazon.fr/dp/B0DQ5WMN4H?tag=pepius-21"
     },
     {
-      "title": "Beurer BM 25 Tensiomètre au bras, facile à utiliser à l'aide d'un bouton, mesure précise grâce au contrôle du positionnement du brassard, détection d'arythmie, avec port USB-C, brassard 22-42 cm",
-      "old_price": 29.99,
-      "new_price": 24.99,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/717mt2tek2L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DSW11C1S?tag=pepius-21"
+      "title": "FACOM Pince à Becs Demi-Ronds Droits 160 mm - 193A.16CPEB",
+      "old_price": 32.76,
+      "new_price": 26.4,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/71DOCS1+VeL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00CDJYUA2?tag=pepius-21"
     },
     {
       "title": "POCO C75 6GB 128GB Noir, Smartphone Android, 2.0GHz, écran de 6.88\", Double caméra AI de 50MP, Batterie de 5160mAH(Version Française + 2 Ans de Garantie)",
@@ -13247,6 +13247,14 @@
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/51FpAYKwH4L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DG64L8QX?tag=pepius-21"
+    },
+    {
+      "title": "SONGMICS Store Banne Rétractable, Store Manuel, Réglable en Hauteur, avec Manivelle pour Balcon, Jardin, Terrasse, 400 x 180 cm, Gris Anthracite GSA402G02",
+      "old_price": 99.99,
+      "new_price": 84.99,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/61Rv2r9LM4L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CL8Z2B33?tag=pepius-21"
     },
     {
       "title": "Sony, God Of War Ragnarök PS5, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 5",
@@ -13337,14 +13345,6 @@
       "link": "https://www.amazon.fr/dp/B07DK5B3WV?tag=pepius-21"
     },
     {
-      "title": "Reloop Turn 5 - Lecteur de disque platine hi-fi à quartz avec entraînement puissant, moteur DC sans balais à entraînement direct, platine en aluminium, noir-doré",
-      "old_price": 733.69,
-      "new_price": 710.55,
-      "discount": 3,
-      "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
-    },
-    {
       "title": "Anker SoundCore Enceinte Bluetooth Portable Stereo avec Batterie Durée de 24 Heures, Micro Intégré et Port de Basses pour Son de Qualité Supérieure - Haut Parleur Autonomie 24 Heures pour iPhone, iPad, Android et autres",
       "old_price": null,
       "new_price": 35.99,
@@ -13369,6 +13369,14 @@
       "link": "https://www.amazon.fr/dp/B0D2KTP2TJ?tag=pepius-21"
     },
     {
+      "title": "Reloop Turn 5 - Lecteur de disque platine hi-fi à quartz avec entraînement puissant, moteur DC sans balais à entraînement direct, platine en aluminium, noir-doré",
+      "old_price": null,
+      "new_price": 725,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
+    },
+    {
       "title": "Fiskars Déplantoir, Pour sols durs, Longueur : 30 cm, Tête en acier résistant/Manche en plastique, Noir/Orange, Ergo, 1027017",
       "old_price": null,
       "new_price": 7.49,
@@ -13387,7 +13395,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 16.02,
+      "new_price": 14.93,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -13495,14 +13503,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cFDKhag0L._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08L3TM6H5?tag=pepius-21"
-    },
-    {
-      "title": "LEVI'S New Duncan Ceinture Mixte",
-      "old_price": null,
-      "new_price": 19.37,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71c6I9QPDkL._AC_SL1020_.jpg",
-      "link": "https://www.amazon.fr/dp/B06XFNV2ZM?tag=pepius-21"
     }
   ]
 }
