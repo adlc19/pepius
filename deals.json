@@ -13153,14 +13153,6 @@
       "link": "https://www.amazon.fr/dp/B0DT73P9F7?tag=pepius-21"
     },
     {
-      "title": "DYMO LetraTag LT-100H étiqueteuse portative | Imprimante d'étiquettes autocollant thermique sans encre | avec clavier ABC | Rose",
-      "old_price": 48.65,
-      "new_price": 33.49,
-      "discount": 31,
-      "image": "https://m.media-amazon.com/images/I/81xuHbMTtmL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BRZ9RTMX?tag=pepius-21"
-    },
-    {
       "title": "Philips Hue White and Color Ambiance, Kit de base ruban LED Lightstrip 3 mètres Smart LED pour l'intérieur - 1 pack - Contrôle avec Hue App - Fonctionne avec Alexa, Google Assistant et Apple HomeKit",
       "old_price": 69.99,
       "new_price": 48.99,
@@ -13185,6 +13177,14 @@
       "link": "https://www.amazon.fr/dp/B09BS5XWNS?tag=pepius-21"
     },
     {
+      "title": "STANLEY - Niveau Magnétique de Poche - 042130",
+      "old_price": 7.9,
+      "new_price": 5.96,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/61QOpnW8-LL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0072T5YDK?tag=pepius-21"
+    },
+    {
       "title": "GTA V - Play Station 5",
       "old_price": 19.99,
       "new_price": 14.9,
@@ -13195,7 +13195,7 @@
     {
       "title": "Xiaomi Poco X7 Pro 5G Dual Sim 8GB RAM 256GB - Black - 256 GB (MZB0J1JEU) (no Charger)",
       "old_price": 352.57,
-      "new_price": 263.68,
+      "new_price": 264,
       "discount": 25,
       "image": "https://m.media-amazon.com/images/I/51q5y1ddrTL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DS1VS2VJ?tag=pepius-21"
@@ -13353,6 +13353,14 @@
       "link": "https://www.amazon.fr/dp/B07DK5B3WV?tag=pepius-21"
     },
     {
+      "title": "Reloop Turn 5 - Lecteur de disque platine hi-fi à quartz avec entraînement puissant, moteur DC sans balais à entraînement direct, platine en aluminium, noir-doré",
+      "old_price": 733.69,
+      "new_price": 710.55,
+      "discount": 3,
+      "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
+    },
+    {
       "title": "PUMA Mixte Caven 2.0 Basket",
       "old_price": null,
       "new_price": 45.45,
@@ -13367,14 +13375,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Rc78Q8pQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00URHCPGI?tag=pepius-21"
-    },
-    {
-      "title": "Reloop Turn 5 - Lecteur de disque platine hi-fi à quartz avec entraînement puissant, moteur DC sans balais à entraînement direct, platine en aluminium, noir-doré",
-      "old_price": null,
-      "new_price": 717.73,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
     },
     {
       "title": "Fiskars Déplantoir, Pour sols durs, Longueur : 30 cm, Tête en acier résistant/Manche en plastique, Noir/Orange, Ergo, 1027017",
@@ -13395,7 +13395,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 15.76,
+      "new_price": 16.19,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -13527,14 +13527,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51qu8xmDiFL._AC_SL1371_.jpg",
       "link": "https://www.amazon.fr/dp/B0BR4XHC8N?tag=pepius-21"
-    },
-    {
-      "title": "Slime 40070-95 Gonfleur Tous Pneus, Station de Gonflage pour Garage, Gonfleur 120 V à Montage Mural, Pour Voitures, Vélos, Structures Pneumatiques, Ballons de Sport",
-      "old_price": null,
-      "new_price": 16.12,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81Q8SSvJ+UL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BSXQLD4Z?tag=pepius-21"
     }
   ]
 }
