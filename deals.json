@@ -13587,14 +13587,6 @@
       "link": "https://www.amazon.fr/dp/B0B553HT2B?tag=pepius-21"
     },
     {
-      "title": "NIVEA MEN Déodorant Bille Black & White Invisible (6 x 50ml), déodorant homme anti-traces blanches et jaunes, anti-transpirant anti odeur & humidité, protection efficace 72 h, sans alcool",
-      "old_price": 12.9,
-      "new_price": 7.83,
-      "discount": 39,
-      "image": "https://m.media-amazon.com/images/I/71bZI8mGPJL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYMN92DD?tag=pepius-21"
-    },
-    {
       "title": "FACOM - Coffret d'Embouts 1/4\" 31 Pièces - R.PEJ31 - 1 Cliquet Porte-Embouts 1/4\" Ultra Compact, 1 Rallonge, 28 Embouts, 1 Embout Porte-Douilles et 1 Coffret Bimatière Compris",
       "old_price": 93.53,
       "new_price": 60.65,
@@ -13625,14 +13617,6 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/716fxNpDtNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DB1WJYVP?tag=pepius-21"
-    },
-    {
-      "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
-      "old_price": 569,
-      "new_price": 379,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
     },
     {
       "title": "Lenovo LOQ 15IAX9 - Ordinateur Portable Gaming 15.6'' FHD 144Hz (Intel Core i5-12450HX, RAM 2x12Go, SSD 512Go, NVIDIA RTX 4060 8Go, Windows 11 Home) Clavier rétroéclairé AZERTY - Gris",
@@ -13915,6 +13899,14 @@
       "link": "https://www.amazon.fr/dp/B0D2K9J5TY?tag=pepius-21"
     },
     {
+      "title": "PUMA Mixte Caven 2.0 Basket",
+      "old_price": null,
+      "new_price": 45.45,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61jO88IGgkL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D2KTP2TJ?tag=pepius-21"
+    },
+    {
       "title": "Fiskars Déplantoir, Pour sols durs, Longueur : 30 cm, Tête en acier résistant/Manche en plastique, Noir/Orange, Ergo, 1027017",
       "old_price": null,
       "new_price": 7.49,
@@ -13965,7 +13957,7 @@
     {
       "title": "Garmin Ceinture pectorale à double fréquence cardiaque premium, données de fréquence cardiaque en temps réel via Bluetooth Low Energy, ANT+, jusqu'à 3,5 ans d'autonomie de la batterie",
       "old_price": null,
-      "new_price": 79.9,
+      "new_price": 199.68,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61uIQawinfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07N3C5WRG?tag=pepius-21"
@@ -13997,7 +13989,7 @@
     {
       "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S1T0BW",
       "old_price": null,
-      "new_price": 83.49,
+      "new_price": 83.16,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71mcrja3g9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=pepius-21"
@@ -14017,6 +14009,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61ckdT7kfzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4ZGG6JZ?tag=pepius-21"
+    },
+    {
+      "title": "Umbro Caleçon Boxeur (Lot de 5) Homme",
+      "old_price": null,
+      "new_price": 12.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61zlVp2hasL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07YYMDPXL?tag=pepius-21"
     }
   ]
 }
