@@ -13611,14 +13611,6 @@
       "link": "https://www.amazon.fr/dp/B0DB1WJYVP?tag=pepius-21"
     },
     {
-      "title": "Lenovo LOQ 15IAX9 - Ordinateur Portable Gaming 15.6'' FHD 144Hz (Intel Core i5-12450HX, RAM 2x12Go, SSD 512Go, NVIDIA RTX 4060 8Go, Windows 11 Home) Clavier rétroéclairé AZERTY - Gris",
-      "old_price": 1249.99,
-      "new_price": 849.99,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/81s36P2ha6L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DT73P9F7?tag=pepius-21"
-    },
-    {
       "title": "North-Cittie 7-Box XXL Edition Chariot à Outils avec 256 Pièces D'outils Professionnels, Idéal pour I'atelier, la Maison, Le Chariot Qui Vous Donne Un Monde de Bricolage Plus Ordonné",
       "old_price": 599,
       "new_price": 419,
@@ -13659,9 +13651,9 @@
       "link": "https://www.amazon.fr/dp/B09WZ7TKNB?tag=pepius-21"
     },
     {
-      "title": "Xiaomi Poco X7 Pro 5G Dual Sim 8GB RAM 256GB - Black - 256 GB (MZB0J1JEU) (no Charger)",
+      "title": "POCO X7 Pro 5G 8/256GB Amarillo Libre",
       "old_price": 352.57,
-      "new_price": 263.68,
+      "new_price": 263.67,
       "discount": 25,
       "image": "https://m.media-amazon.com/images/I/51q5y1ddrTL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DS1VS2VJ?tag=pepius-21"
@@ -13689,22 +13681,6 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/71DQbOdh+UL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00URGEYZY?tag=pepius-21"
-    },
-    {
-      "title": "Creality K1 SE Imprimante 3D, 2024 Nouvelle Version 600mm/s Haute Vitesse Mise à Niveau Automatique Extrudeuse Directe Buse Tri-métal à Remplacement Rapide Imprimante 3D K1 Upgrade",
-      "old_price": 389,
-      "new_price": 299,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/61hEadRMwHL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D97XCZSK?tag=pepius-21"
-    },
-    {
-      "title": "HONOR 200 Smart, Smartphone 5G, 4Go+256Go, Écran 6,8\", Batterie 5200mAh, Appareil Photo 50MP, Double SIM, Android 14, Noir",
-      "old_price": 139,
-      "new_price": 109,
-      "discount": 22,
-      "image": "https://m.media-amazon.com/images/I/71G5+e2owHL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJFLN7ZP?tag=pepius-21"
     },
     {
       "title": "Kryptonite 002154 New-U - New York Lock Standard - Antifurto per bici (10,2 cm X 20,3 cm), Giallo, 1pz.",
@@ -13843,6 +13819,14 @@
       "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
     },
     {
+      "title": "Meross Ouvre-Porte de Garage Connecté, Télécommande de Porte Intelligent Compatible avec HomeKit, Siri, Apple Watch, HomePod, Alexa, Google Home et SmartThings, Contrôle à Distance et Commande Vocale",
+      "old_price": null,
+      "new_price": 39.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61GAH5yTw6L._AC_SL1476_.jpg",
+      "link": "https://www.amazon.fr/dp/B08HV41Q5W?tag=pepius-21"
+    },
+    {
       "title": "PUMA Mixte Caven 2.0 Basket",
       "old_price": null,
       "new_price": 37.28,
@@ -13861,7 +13845,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 7.99,
+      "new_price": 329.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
       "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
@@ -13933,7 +13917,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 16.01,
+      "new_price": 16.05,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -13947,6 +13931,14 @@
       "link": "https://www.amazon.fr/dp/B0CPF4GW43?tag=pepius-21"
     },
     {
+      "title": "HONOR 200 Smart, Smartphone 5G, 4Go+256Go, Écran 6,8\", Batterie 5200mAh, Appareil Photo 50MP, Double SIM, Android 14, Noir",
+      "old_price": null,
+      "new_price": 109,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71G5+e2owHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJFLN7ZP?tag=pepius-21"
+    },
+    {
       "title": "Panasonic CR2032 Lot de 6 Piles Bouton au Lithium 3 V 225 mAh",
       "old_price": null,
       "new_price": 4.4,
@@ -13957,7 +13949,7 @@
     {
       "title": "Mission : Impossible-Dead Reckoning Partie 1 [4K Ultra HD Blu-Ray Bonus-Boîtier SteelBook édition limitée]: DVD et Blu-ray",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 14.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71ErWc1n2oL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CBQLJ9PH?tag=pepius-21"
