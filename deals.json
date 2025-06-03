@@ -13595,14 +13595,6 @@
       "link": "https://www.amazon.fr/dp/B07G4TPWBN?tag=pepius-21"
     },
     {
-      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
-      "old_price": 78.99,
-      "new_price": 49.99,
-      "discount": 37,
-      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
-      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
-    },
-    {
       "title": "FACOM - Coffret d'Embouts 1/4\" 31 Pièces - R.PEJ31 - 1 Cliquet Porte-Embouts 1/4\" Ultra Compact, 1 Rallonge, 28 Embouts, 1 Embout Porte-Douilles et 1 Coffret Bimatière Compris",
       "old_price": 93.53,
       "new_price": 60.65,
@@ -13635,12 +13627,28 @@
       "link": "https://www.amazon.fr/dp/B0F1354YTT?tag=pepius-21"
     },
     {
+      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
+      "old_price": 69.99,
+      "new_price": 49.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
+      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
+    },
+    {
       "title": "Lotus Papier Toilette Humide Sensitive - Sans colorant, ni parfum - Fibres FSC 100 % d’origine naturelle - 42 feuilles (lot de 1)",
       "old_price": 2.23,
       "new_price": 1.59,
       "discount": 29,
       "image": "https://m.media-amazon.com/images/I/71RdWXGmaRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08GL3JT65?tag=pepius-21"
+    },
+    {
+      "title": "Weber Cheminée d'allumage, Rapidfire Starter - Grand (32cm de hauteur), allume-feu compact avec deux poignées, barbecues à charbon Ø 47cm et +, aide à l'allumage pour charbon et briquettes - (7416)",
+      "old_price": 29.99,
+      "new_price": 21.99,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/81qftFACaeL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B000WEOQV8?tag=pepius-21"
     },
     {
       "title": "Cyberpunk 2077: Ultimate Edition (PS5)",
@@ -13667,7 +13675,7 @@
       "link": "https://www.amazon.fr/dp/B09WZ7TKNB?tag=pepius-21"
     },
     {
-      "title": "Xiaomi Poco X7 Pro 5G Dual Sim 8GB RAM 256GB - Black - 256 GB (MZB0J1JEU) (no Charger)",
+      "title": "POCO X7 Pro 5G 8/256GB Amarillo Libre",
       "old_price": 352.57,
       "new_price": 263.68,
       "discount": 25,
@@ -13763,6 +13771,14 @@
       "link": "https://www.amazon.fr/dp/B000IAZDE0?tag=pepius-21"
     },
     {
+      "title": "Rowenta Turbo Silence, Ventilateur sur pied, Silencieux, Puissant, Design durable, Écoénergétique, Timer 12h VU5650F0, Blanc",
+      "old_price": 99.99,
+      "new_price": 89.99,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/71V9m6Rha-L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CS3NX4QG?tag=pepius-21"
+    },
+    {
       "title": "eufy Camera Surveillance WiFi exterieure sans Fil Solaire SoloCam S220, résolution 2K, Compatibile avec Alexa, Wi-FI 2,4 GHz, sans Frais Mensuels",
       "old_price": 59.99,
       "new_price": 54.99,
@@ -13777,14 +13793,6 @@
       "discount": 8,
       "image": "https://m.media-amazon.com/images/I/71XqvNUk4cL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01BM99LTI?tag=pepius-21"
-    },
-    {
-      "title": "Feandrea Arbre à Chat Hauteur 143 cm, Tour de Jeux pour Chats, avec 4 Poteaux à Griffer, 2 Plateformes, 1 Niche, 1 Hamac, 2 Pompons, en Tissu Peluche, Multi-Niveaux, Gris Clair PCT161W01",
-      "old_price": 45.99,
-      "new_price": 42.49,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/71rmdPmFpuL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08XTMNMMZ?tag=pepius-21"
     },
     {
       "title": "Rowenta Aspirateur sans Sac, Moteur Basse consommation, Puissance 900 W, Format Compact, Haute Filtration, Rayon d'action de 7,6 m, Swift Power Cyclonic Blanc RO2917EA",
@@ -13825,6 +13833,14 @@
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/81mZ-Diuu2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
+    },
+    {
+      "title": "adidas Think Linear Ankle Socks 3 Pairs Socks Mixte (lot de 1)",
+      "old_price": null,
+      "new_price": 5.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71v0KEbszHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BPSM352H?tag=pepius-21"
     },
     {
       "title": "Thermalright Aqua Elite 360 V3 Ventilateur de processeur liquide double PWM ARGB avec roulements S-FDB, pompe à commande PWM efficace pour AMD/AM4/AM5, Intel LGA1150/1151/1200/2011/1700 (AE360 V3)",
@@ -13925,7 +13941,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 15.11,
+      "new_price": 15,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -13949,7 +13965,7 @@
     {
       "title": "Panasonic CR2032 Lot de 6 Piles Bouton au Lithium 3 V 225 mAh",
       "old_price": null,
-      "new_price": 4.4,
+      "new_price": 4.42,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61eryKyDReS._AC_SL1002_.jpg",
       "link": "https://www.amazon.fr/dp/B098FCM51S?tag=pepius-21"
@@ -14001,14 +14017,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71mcrja3g9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=pepius-21"
-    },
-    {
-      "title": "KTC Ecran PC 24 Pouces, QHD 2K 100Hz IPS Moniteur, Contraste 1300:1, Affichage anti-lumière bleue, 122%sRGB, Support FreeSync et GSync, HDMI2.0/DP/Earphone pour les jeux et le travail de bureau H24T27",
-      "old_price": null,
-      "new_price": 129.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71VUKcGx7gL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DZ6X2YPZ?tag=pepius-21"
     }
   ]
 }
