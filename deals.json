@@ -13659,9 +13659,9 @@
       "link": "https://www.amazon.fr/dp/B09WZ7TKNB?tag=pepius-21"
     },
     {
-      "title": "POCO X7 Pro 5G 8/256GB Amarillo Libre",
+      "title": "Xiaomi Poco X7 Pro 5G Dual Sim 8GB RAM 256GB - Black - 256 GB (MZB0J1JEU) (no Charger)",
       "old_price": 352.57,
-      "new_price": 263.67,
+      "new_price": 264,
       "discount": 25,
       "image": "https://m.media-amazon.com/images/I/51q5y1ddrTL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DS1VS2VJ?tag=pepius-21"
@@ -13747,14 +13747,6 @@
       "link": "https://www.amazon.fr/dp/B0CL8Z2B33?tag=pepius-21"
     },
     {
-      "title": "Sony, God Of War Ragnarök PS5, Jeu d'Action-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 18, Pour PlayStation 5",
-      "old_price": 39.99,
-      "new_price": 34.99,
-      "discount": 13,
-      "image": "https://m.media-amazon.com/images/I/71BWGVZSSNL._AC_SL1497_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B6GQ4L5F?tag=pepius-21"
-    },
-    {
       "title": "Victorinox Spartan Couteau de Poche Suisse, Léger, Multitool, 12 Fonctions, Lame, Ouvre Boite, Tire Bouchon,Rouge Transparent",
       "old_price": 27,
       "new_price": 24.03,
@@ -13827,20 +13819,20 @@
       "link": "https://www.amazon.fr/dp/B07BZRCVBG?tag=pepius-21"
     },
     {
+      "title": "Thermalright Aqua Elite 360 V3 Ventilateur de processeur liquide double PWM ARGB avec roulements S-FDB, pompe à commande PWM efficace pour AMD/AM4/AM5, Intel LGA1150/1151/1200/2011/1700 (AE360 V3)",
+      "old_price": null,
+      "new_price": 59.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/612ptcpN5cL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCR528FR?tag=pepius-21"
+    },
+    {
       "title": "Meross Ouvre-Porte de Garage Connecté, Télécommande de Porte Intelligent Compatible avec HomeKit, Siri, Apple Watch, HomePod, Alexa, Google Home et SmartThings, Contrôle à Distance et Commande Vocale",
       "old_price": null,
       "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61GAH5yTw6L._AC_SL1476_.jpg",
       "link": "https://www.amazon.fr/dp/B08HV41Q5W?tag=pepius-21"
-    },
-    {
-      "title": "PUMA Mixte Caven 2.0 Basket",
-      "old_price": null,
-      "new_price": 37.28,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/610wYAQfyEL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BLCMBZ1J?tag=pepius-21"
     },
     {
       "title": "Philips Hue White and Color Ambiance, Kit de base ruban LED Lightstrip 3 mètres Smart LED pour l'intérieur - 1 pack - Contrôle avec Hue App - Fonctionne avec Alexa, Google Assistant et Apple HomeKit",
@@ -13853,7 +13845,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 7.99,
+      "new_price": 499,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
       "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
@@ -13899,14 +13891,6 @@
       "link": "https://www.amazon.fr/dp/B0D2K9J5TY?tag=pepius-21"
     },
     {
-      "title": "PUMA Mixte Caven 2.0 Basket",
-      "old_price": null,
-      "new_price": 45.44,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61jO88IGgkL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D2KTP2TJ?tag=pepius-21"
-    },
-    {
       "title": "Fiskars Déplantoir, Pour sols durs, Longueur : 30 cm, Tête en acier résistant/Manche en plastique, Noir/Orange, Ergo, 1027017",
       "old_price": null,
       "new_price": 7.49,
@@ -13925,7 +13909,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 16.05,
+      "new_price": 15.04,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -13971,7 +13955,7 @@
       "link": "https://www.amazon.fr/dp/B07N3C5WRG?tag=pepius-21"
     },
     {
-      "title": "ARCTIC Liquid Freezer III Pro 240 - Refroidisseur CPU AIO, 2 x 120 mm Refroidissement à Eau, Radiateur da 38 mm, Pompe PWM, Ventilateur VRM, AMD AM5/AM4, Intel LGA1851/1700 Cadre de Contact - Noir",
+      "title": "ARCTIC Liquid Freezer III Pro 240 - Refroidisseur CPU AIO, 2 x 120 mm refroidissement à eau, Radiateur da 38 mm, Pompe PWM, ventilateur VRM, AMD AM5/AM4, Intel LGA1851/1700 Cadre de contact - Noir",
       "old_price": null,
       "new_price": 76.99,
       "discount": 0,
