@@ -14109,14 +14109,6 @@
       "link": "https://www.amazon.fr/dp/B06XCH21YH?tag=pepius-21"
     },
     {
-      "title": "Lenovo IdeaPad Slim 3 14IRH8 - Ordinateur Portable 14'' FHD (Intel Core i7-13620H, RAM 16Go, SSD 512Go, Intel UHD Graphics, Windows 11 Home) Clavier AZERTY Français - Gris",
-      "old_price": 899.99,
-      "new_price": 599.99,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/716fxNpDtNL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DB1WJYVP?tag=pepius-21"
-    },
-    {
       "title": "Nothing Phone (2a) 8+128GB - Telephone portable avec Nothing OS 2.5 - Blanc Cassé",
       "old_price": 349,
       "new_price": 245.25,
@@ -14147,6 +14139,14 @@
       "discount": 28,
       "image": "https://m.media-amazon.com/images/I/61ckdT7kfzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4ZGG6JZ?tag=pepius-21"
+    },
+    {
+      "title": "CITIZEN Montre de plongée NY0086-16LE",
+      "old_price": 239,
+      "new_price": 174,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
     },
     {
       "title": "SHYOSUCCE Plafonnier LED avec détecteur de mouvement intérieur, 30 W IP65 Plafonnier avec capteur de mouvement pour escaliers, armoire, balcon, débarras, cave, couloir, garage, salle de bain, cuisine",
@@ -14479,7 +14479,7 @@
     {
       "title": "Catit Aire de Jeux Labyrinthe à Friandise pour Chat",
       "old_price": null,
-      "new_price": 25.99,
+      "new_price": 33.88,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71pd7ZsEe5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B004G9L1H2?tag=pepius-21"
