@@ -14117,6 +14117,14 @@
       "link": "https://www.amazon.fr/dp/B0DB1WJYVP?tag=pepius-21"
     },
     {
+      "title": "Nothing Phone (2a) 8+128GB - Telephone portable avec Nothing OS 2.5 - Blanc Cassé",
+      "old_price": 349,
+      "new_price": 245.25,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/519KVc-h8xL._AC_SL1090_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CQ7P5X9N?tag=pepius-21"
+    },
+    {
       "title": "North-Cittie 7-Box XXL Edition Chariot à Outils avec 256 Pièces D'outils Professionnels, Idéal pour I'atelier, la Maison, Le Chariot Qui Vous Donne Un Monde de Bricolage Plus Ordonné",
       "old_price": 599,
       "new_price": 419,
@@ -14141,14 +14149,6 @@
       "link": "https://www.amazon.fr/dp/B0D4ZGG6JZ?tag=pepius-21"
     },
     {
-      "title": "CITIZEN Montre de plongée NY0086-16LE",
-      "old_price": 239,
-      "new_price": 174,
-      "discount": 27,
-      "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
-      "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
-    },
-    {
       "title": "SHYOSUCCE Plafonnier LED avec détecteur de mouvement intérieur, 30 W IP65 Plafonnier avec capteur de mouvement pour escaliers, armoire, balcon, débarras, cave, couloir, garage, salle de bain, cuisine",
       "old_price": 21.99,
       "new_price": 15.99,
@@ -14167,7 +14167,7 @@
     {
       "title": "Cyberpunk 2077: Ultimate Edition (PS5)",
       "old_price": 59.99,
-      "new_price": 44.09,
+      "new_price": 43.99,
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/81A2Mf-OmnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CNTH38H5?tag=pepius-21"
@@ -14479,7 +14479,7 @@
     {
       "title": "Catit Aire de Jeux Labyrinthe à Friandise pour Chat",
       "old_price": null,
-      "new_price": 33.88,
+      "new_price": 25.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71pd7ZsEe5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B004G9L1H2?tag=pepius-21"
@@ -14511,7 +14511,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 15.33,
+      "new_price": 15.47,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -14529,7 +14529,7 @@
       "old_price": null,
       "new_price": 5.18,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/41WvFywh5mL._AC_SY355_PIbundle-2,TopRight,0,0_SH20_.jpg",
       "link": "https://www.amazon.fr/dp/B0CPF4GW43?tag=pepius-21"
     }
   ]
