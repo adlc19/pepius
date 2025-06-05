@@ -14559,6 +14559,14 @@
       "link": "https://www.amazon.fr/dp/B0C8JZ3P24?tag=pepius-21"
     },
     {
+      "title": "PlayStation, Ghost Of Tsushima Director's Cut (Playstation 4)",
+      "old_price": 73.99,
+      "new_price": 29.99,
+      "discount": 59,
+      "image": "https://m.media-amazon.com/images/I/71IXDkma5uS._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B098X27T93?tag=pepius-21"
+    },
+    {
       "title": "Kärcher Irrigation - Kit de raccordement pour robinets, Noir",
       "old_price": 26.81,
       "new_price": 11.04,
@@ -14581,14 +14589,6 @@
       "discount": 50,
       "image": "https://m.media-amazon.com/images/I/71DVET30s3L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09MV3XX9C?tag=pepius-21"
-    },
-    {
-      "title": "JBL Wave Buds Écouteurs Intra-Auriculaires sans Fil, Résistance à l'Eau IP54 et IPX2, Basses Puissantes et Batterie à Autonomie de 32 heures, en Noir",
-      "old_price": 59.99,
-      "new_price": 29.99,
-      "discount": 50,
-      "image": "https://m.media-amazon.com/images/I/51lhZsdupGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BHDMHHM9?tag=pepius-21"
     },
     {
       "title": "DARKBEAM Lampe Torche UV Lamp Lumière Noire 365nm et 395nm rechargeable Lampe de Wood Ultraviolette, Portable Mini LED avec clip, Détecteur d'urine de chat, ambré, verre d'uranium, résine, Lot de 2",
@@ -14615,28 +14615,12 @@
       "link": "https://www.amazon.fr/dp/B07G4TPWBN?tag=pepius-21"
     },
     {
-      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
-      "old_price": 78.99,
-      "new_price": 49.99,
-      "discount": 37,
-      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
-      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
-    },
-    {
       "title": "Kryptonite 002154 New-U - New York Lock Standard - Antifurto per bici (10,2 cm X 20,3 cm), Giallo, 1pz.",
       "old_price": 160.99,
       "new_price": 106.99,
       "discount": 34,
       "image": "https://m.media-amazon.com/images/I/71IUIU483JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B06XCH21YH?tag=pepius-21"
-    },
-    {
-      "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
-      "old_price": 569,
-      "new_price": 379,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
     },
     {
       "title": "Baseus Bowie MA10 Casque Bluetooth sans fil avec suppression active du bruit hybride -48 dB, 140 heures de lecture, étanche IPX6, 4 microphones ENC, faible latence 0,038 s, Bluetooth 5.3",
@@ -14661,6 +14645,14 @@
       "discount": 31,
       "image": "https://m.media-amazon.com/images/I/81+OXmK2DhL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
+    },
+    {
+      "title": "Le Petit Marseillais | Recharge Crème Lavante Mains Fleur d'Oranger Bio (berlingot de 250 ml) – Savon liquide avec 92 % d'ingrédients d'origine naturelle – Emballage avec -80% de plastique*",
+      "old_price": 1.15,
+      "new_price": 0.8,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/61fLCuKn70L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C8TPTWQ1?tag=pepius-21"
     },
     {
       "title": "Nothing Phone (2a) 8+128GB - Telephone portable avec Nothing OS 2.5 - Blanc Cassé",
@@ -14703,10 +14695,18 @@
       "link": "https://www.amazon.fr/dp/B08GL3JT65?tag=pepius-21"
     },
     {
+      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
+      "old_price": 69.99,
+      "new_price": 49.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
+      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
+    },
+    {
       "title": "CITIZEN Montre de plongée NY0086-16LE",
       "old_price": 239,
-      "new_price": 173,
-      "discount": 28,
+      "new_price": 174,
+      "discount": 27,
       "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
       "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
     },
@@ -14733,14 +14733,6 @@
       "discount": 25,
       "image": "https://m.media-amazon.com/images/I/61R7357uoeL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0072T5YDK?tag=pepius-21"
-    },
-    {
-      "title": "GTA V - Play Station 5",
-      "old_price": 19.99,
-      "new_price": 14.9,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/81eNbP14LdL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09WZ7TKNB?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : ELF EVOLUTION FULL-TECH C4 5W-30, Huile moteur Diesel, 5 litres",
@@ -14799,20 +14791,20 @@
       "link": "https://www.amazon.fr/dp/B0CL8Z2B33?tag=pepius-21"
     },
     {
-      "title": "WD-40 SPECIALIST • Degraissant Vélo • Aérosol • Formule à action rapide • Ne laisse aucun résidu • Ralentit l'usure naturelle • 500Ml",
-      "old_price": 13.9,
-      "new_price": 11.87,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/71DQbOdh+UL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00URGEYZY?tag=pepius-21"
-    },
-    {
       "title": "Kryptonite Antivol en U Evolution Mini-7 W/ Flex | Antivol Vélo avec Câble Flexible à Double Boucle | Cadenas pour Vélos | Niveau de Sécurité 7/10 | Niveau de Protection Élevé | Dimensions 8,3x15,3 cm",
       "old_price": 67.8,
       "new_price": 58.9,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/81jSvDSkR-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B06XZT8KZ1?tag=pepius-21"
+    },
+    {
+      "title": "Apple Watch Series 10 (42 mm GPS + Cellular) Montre connectée avec Boîtier en Aluminium Argent et Bouchle Sport nuée Bleue. Suivi de l’activité Physique, app ECG, Neutre en Carbone",
+      "old_price": 569,
+      "new_price": 499,
+      "discount": 12,
+      "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
     },
     {
       "title": "Victorinox Spartan Couteau de Poche Suisse, Léger, Multitool, 12 Fonctions, Lame, Ouvre Boite, Tire Bouchon,Rouge Transparent",
@@ -14965,6 +14957,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
+    },
+    {
+      "title": "JBL Wave Buds Écouteurs Intra-Auriculaires sans Fil, Résistance à l'Eau IP54 et IPX2, Basses Puissantes et Batterie à Autonomie de 32 heures, en Noir",
+      "old_price": null,
+      "new_price": 199.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51lhZsdupGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BHDMHHM9?tag=pepius-21"
     },
     {
       "title": "SHYOSUCCE Plafonnier LED avec détecteur de mouvement intérieur, 30 W IP65 Plafonnier avec capteur de mouvement pour escaliers, armoire, balcon, débarras, cave, couloir, garage, salle de bain, cuisine",
