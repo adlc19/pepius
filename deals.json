@@ -14815,14 +14815,6 @@
       "link": "https://www.amazon.fr/dp/B0CTCPBWW5?tag=pepius-21"
     },
     {
-      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5, Couleur : Chroma Pearl",
-      "old_price": 79.99,
-      "new_price": 67.98,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
-    },
-    {
       "title": "SONGMICS Store Banne Rétractable, Store Manuel, Réglable en Hauteur, avec Manivelle pour Balcon, Jardin, Terrasse, 400 x 180 cm, Gris Anthracite GSA402G02",
       "old_price": 99.99,
       "new_price": 84.99,
@@ -14927,6 +14919,14 @@
       "link": "https://www.amazon.fr/dp/B0CB1F69ZK?tag=pepius-21"
     },
     {
+      "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
+      "old_price": null,
+      "new_price": 499,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
+    },
+    {
       "title": "adidas Starlancer Club Ball Football Mixte",
       "old_price": null,
       "new_price": 9.49,
@@ -15025,7 +15025,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 499,
+      "new_price": 26,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
       "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
