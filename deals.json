@@ -15129,6 +15129,14 @@
       "link": "https://www.amazon.fr/dp/B0BZ4FS8LF?tag=pepius-21"
     },
     {
+      "title": "Xiaomi Electric Kettle 2 Lite EU",
+      "old_price": 34.9,
+      "new_price": 19.99,
+      "discount": 43,
+      "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
+    },
+    {
       "title": "CUTTER DE SÉCURITÉ",
       "old_price": 4.77,
       "new_price": 2.78,
@@ -15143,14 +15151,6 @@
       "discount": 40,
       "image": "https://m.media-amazon.com/images/I/51XNh7mE2dL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B07V2498X2?tag=pepius-21"
-    },
-    {
-      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
-      "old_price": 78.99,
-      "new_price": 49.99,
-      "discount": 37,
-      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
-      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
     },
     {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
@@ -15239,14 +15239,6 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/61ckdT7kfzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4ZGG6JZ?tag=pepius-21"
-    },
-    {
-      "title": "Lotus Papier Toilette Humide Sensitive - Sans colorant, ni parfum - Fibres FSC 100 % d’origine naturelle - 42 feuilles (lot de 1)",
-      "old_price": 2.23,
-      "new_price": 1.57,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/71RdWXGmaRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08GL3JT65?tag=pepius-21"
     },
     {
       "title": "CITIZEN Montre de plongée NY0086-16LE",
@@ -15409,6 +15401,14 @@
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
     },
     {
+      "title": "Bellota 50806-A - Brosse Métallique de Nettoyage avec Manche en Plastique de Type Spid - Brosse Métallique en Laiton Ondulé pour Atelier",
+      "old_price": null,
+      "new_price": 2.46,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51zr2J0+QqL._AC_SL1035_.jpg",
+      "link": "https://www.amazon.fr/dp/B00F2NS372?tag=pepius-21"
+    },
+    {
       "title": "MAYLINE CAT5 CAT6 Pince à sertir RJ45 Outils Kit réseau professionnel Pince à sertir Cosses pour RJ12 RJ11 Cirmpature pour câbles réseau, couvercles pour connecteurs (bleu gris)",
       "old_price": null,
       "new_price": 68.39,
@@ -15545,12 +15545,12 @@
       "link": "https://www.amazon.fr/dp/B0F1354YTT?tag=pepius-21"
     },
     {
-      "title": "UGREEN FineTrack Slim Smart Finder Tag Traqueur Bluetooth Wallet Tracker Localisateur Objets Ultra Fin 1.7mm Étanche IP68 Compatible avec Find My (iOS Uniquement) pour Portefeuille Clés Bagages Valise",
+      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 21.65,
+      "new_price": 499,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51fsrwVetrL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D5415Q27?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
+      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
     }
   ]
 }
