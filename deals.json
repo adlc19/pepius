@@ -15089,14 +15089,6 @@
       "link": "https://www.amazon.fr/dp/B098X27T93?tag=pepius-21"
     },
     {
-      "title": "Kärcher Irrigation - Kit de raccordement pour robinets, Noir",
-      "old_price": 24.97,
-      "new_price": 11.04,
-      "discount": 56,
-      "image": "https://m.media-amazon.com/images/I/91GBOBBmWqL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B001TJ4GQ0?tag=pepius-21"
-    },
-    {
       "title": "NIVEA MEN Crème Visage - Corps - Mains, crème multi-usages au parfum masculin format boîte alu, soin hydratant 3-en-1 à la texture non grasse, Sans parfum, 150 ml",
       "old_price": 3.95,
       "new_price": 1.79,
@@ -15345,14 +15337,6 @@
       "link": "https://www.amazon.fr/dp/B0BMG37THG?tag=pepius-21"
     },
     {
-      "title": "eufy Camera Surveillance WiFi exterieure sans Fil Solaire SoloCam S220, résolution 2K, Compatibile avec Alexa, Wi-FI 2,4 GHz, sans Frais Mensuels",
-      "old_price": 59.99,
-      "new_price": 54.99,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/515ghdL4kpL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BZ4G7S3H?tag=pepius-21"
-    },
-    {
       "title": "OUTILS A DENUDER UNIVERSEL CABLE 8 A 13MM DIAM : Jokari",
       "old_price": 13.54,
       "new_price": 12.6,
@@ -15399,6 +15383,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/711WaFk3+aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
+    },
+    {
+      "title": "UGREEN Cat 8 Câble Ethernet Réseau RJ45 Super Débit 40Gbps 2000MHz Nylon Tressé Double Blindage Compatible avec Routeur Switch Modem Décodeur TV Box Internet PS5 PS4 Xbox Console de Jeux PC (1M)",
+      "old_price": null,
+      "new_price": 7.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71BTSapMiGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0875NB89J?tag=pepius-21"
     },
     {
       "title": "Bellota 50806-A - Brosse Métallique de Nettoyage avec Manche en Plastique de Type Spid - Brosse Métallique en Laiton Ondulé pour Atelier",
@@ -15487,6 +15479,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
+    },
+    {
+      "title": "Kärcher Irrigation - Kit de raccordement pour robinets, Noir",
+      "old_price": null,
+      "new_price": 11.04,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/91GBOBBmWqL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B001TJ4GQ0?tag=pepius-21"
     },
     {
       "title": "SHYOSUCCE Plafonnier LED avec détecteur de mouvement intérieur, 30 W IP65 Plafonnier avec capteur de mouvement pour escaliers, armoire, balcon, débarras, cave, couloir, garage, salle de bain, cuisine",
