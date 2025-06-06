@@ -15153,14 +15153,6 @@
       "link": "https://www.amazon.fr/dp/B07G4TPWBN?tag=pepius-21"
     },
     {
-      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
-      "old_price": 78.99,
-      "new_price": 49.99,
-      "discount": 37,
-      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
-      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
-    },
-    {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
       "old_price": 16.99,
       "new_price": 10.99,
@@ -15191,6 +15183,14 @@
       "discount": 31,
       "image": "https://m.media-amazon.com/images/I/81+OXmK2DhL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
+    },
+    {
+      "title": "DJI Mic 2 (2 TX + 1 RX + Boîtier de Recharge), Micro sans Fil Tout-en-Un, Réduction Intel. du Bruit, Enregistrement Interne 32 Bits à Virgule Flottante, Portée de 250 m",
+      "old_price": 349,
+      "new_price": 245.44,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/51cGkvwR70L._AC_SL1040_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJXT71NX?tag=pepius-21"
     },
     {
       "title": "Le Petit Marseillais | Recharge Crème Lavante Mains Fleur d'Oranger Bio (berlingot de 250 ml) – Savon liquide avec 92 % d'ingrédients d'origine naturelle – Emballage avec -80% de plastique*",
@@ -15225,12 +15225,28 @@
       "link": "https://www.amazon.fr/dp/B0D4ZGG6JZ?tag=pepius-21"
     },
     {
+      "title": "North-Cittie 7-Box XXL Edition Chariot à Outils avec 256 Pièces D'outils Professionnels, Idéal pour I'atelier, la Maison, Le Chariot Qui Vous Donne Un Monde de Bricolage Plus Ordonné",
+      "old_price": 599,
+      "new_price": 419,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/81M6zSOQPwL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F1354YTT?tag=pepius-21"
+    },
+    {
       "title": "Lotus Papier Toilette Humide Sensitive - Sans colorant, ni parfum - Fibres FSC 100 % d’origine naturelle - 42 feuilles (lot de 1)",
       "old_price": 2.23,
       "new_price": 1.57,
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/71RdWXGmaRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08GL3JT65?tag=pepius-21"
+    },
+    {
+      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
+      "old_price": 69.99,
+      "new_price": 49.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
+      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
     },
     {
       "title": "CITIZEN Montre de plongée NY0086-16LE",
@@ -15271,6 +15287,14 @@
       "discount": 17,
       "image": "https://m.media-amazon.com/images/I/61PFEUQ9kQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000YBXU6G?tag=pepius-21"
+    },
+    {
+      "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
+      "old_price": 79.99,
+      "new_price": 67.45,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
     },
     {
       "title": "LISEN Support Chargeur Induction iPhone pour [Ultra Portable] Chargeur MagSafe Apple [2 en 1] Chargeur MagSafe vers USB‑C Compatible iPhone 12-16 Pro Max Et Apple Watch Series 2-10/AirPods 2 3Pro",
@@ -15381,7 +15405,7 @@
       "old_price": 28.01,
       "new_price": 26.61,
       "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     },
     {
@@ -15423,14 +15447,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61nr0GVFN6L._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0914C95MX?tag=pepius-21"
-    },
-    {
-      "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
-      "old_price": null,
-      "new_price": 499,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
     },
     {
       "title": "adidas Starlancer Club Ball Football Mixte",
@@ -15529,28 +15545,12 @@
       "link": "https://www.amazon.fr/dp/B0BLCMBZ1J?tag=pepius-21"
     },
     {
-      "title": "North-Cittie 7-Box XXL Edition Chariot à Outils avec 256 Pièces D'outils Professionnels, Idéal pour I'atelier, la Maison, Le Chariot Qui Vous Donne Un Monde de Bricolage Plus Ordonné",
-      "old_price": null,
-      "new_price": 419,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81M6zSOQPwL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F1354YTT?tag=pepius-21"
-    },
-    {
       "title": "UGREEN FineTrack Slim Smart Finder Tag Traqueur Bluetooth Wallet Tracker Localisateur Objets Ultra Fin 1.7mm Étanche IP68 Compatible avec Find My (iOS Uniquement) pour Portefeuille Clés Bagages Valise",
       "old_price": null,
       "new_price": 21.65,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51fsrwVetrL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D5415Q27?tag=pepius-21"
-    },
-    {
-      "title": "Victorinox Spartan Couteau de Poche Suisse, Léger, Multitool, 12 Fonctions, Lame, Ouvre Boite, Tire Bouchon,Rouge Transparent",
-      "old_price": 27,
-      "new_price": 27,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71YsWM7nehL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B000IAZDE0?tag=pepius-21"
     }
   ]
 }
