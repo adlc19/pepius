@@ -15225,6 +15225,14 @@
       "link": "https://www.amazon.fr/dp/B08GL3JT65?tag=pepius-21"
     },
     {
+      "title": "CITIZEN Montre de plongée NY0086-16LE",
+      "old_price": 239,
+      "new_price": 174,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
+    },
+    {
       "title": "Weber Cheminée d'allumage, Rapidfire Starter - Grand (32cm de hauteur), allume-feu compact avec deux poignées, barbecues à charbon Ø 47cm et +, aide à l'allumage pour charbon et briquettes - (7416)",
       "old_price": 29.99,
       "new_price": 21.99,
@@ -15239,14 +15247,6 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/81wJJDKi-JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CHYLQ57B?tag=pepius-21"
-    },
-    {
-      "title": "Rameur magnétique Wenoker Pliable pour la Maison, capacité de Poids de 160 kg, Silencieux et Lisse avec Support de Tablette pour écran LCD et Coussin de siège Confortable",
-      "old_price": 269.99,
-      "new_price": 219.8,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/71csWVsSj4L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D6ZVCT64?tag=pepius-21"
     },
     {
       "title": "MOVA 1000 Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 1000 m² évitement Intelligent des Obstacles. Contrôle Via App, Roues Tout-Terrain, Coupe en U, Chargement Rapide",
@@ -15271,14 +15271,6 @@
       "discount": 15,
       "image": "https://m.media-amazon.com/images/I/71BLJKTIDYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CTCPBWW5?tag=pepius-21"
-    },
-    {
-      "title": "Multiprise USB C,Bloc 10 Prises Française avec Terre 2P+T,Prise Multiple avec Interrupteur Parasurtenseur,Multiprise Parafoudre et Surtension PD20W USB C Chargeur,Rallonge Electrique 2m Câble,Blanc",
-      "old_price": 39.99,
-      "new_price": 33.99,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/61JPmhHbbbL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F4N7K5B7?tag=pepius-21"
     },
     {
       "title": "Kryptonite Antivol en U Evolution Mini-7 W/ Flex | Antivol Vélo avec Câble Flexible à Double Boucle | Cadenas pour Vélos | Niveau de Sécurité 7/10 | Niveau de Protection Élevé | Dimensions 8,3x15,3 cm",
@@ -15381,7 +15373,7 @@
       "old_price": 28.01,
       "new_price": 26.61,
       "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     },
     {
@@ -15393,11 +15385,19 @@
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
     },
     {
-      "title": "MAYLINE Pince à sertir RJ45 Outils Kit réseau professionnel Pince à sertir Cosses pour RJ12 RJ11 CAT5 CAT6 Cirmpature pour câbles réseau, couvercles pour connecteurs (bleu)",
+      "title": "INIU Batterie Externe, Mini 10000mAh 22.5 W Power Bank Charge Rapide Chargeur Portable, USB C Out & Input Powerbank avec Support pour iPhone 16 15 14 13 Pro Max Plus Samsung S23 S22 AirPods iPad etc",
       "old_price": null,
-      "new_price": 13.75,
+      "new_price": 22.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61Xu9fRLJxL._AC_SL1000_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71zGmEcnQtL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08VD632WJ?tag=pepius-21"
+    },
+    {
+      "title": "MAYLINE CAT5 CAT6 Pince à sertir RJ45 Outils Kit réseau professionnel Pince à sertir Cosses pour RJ12 RJ11 Cirmpature pour câbles réseau, couvercles pour connecteurs (bleu gris)",
+      "old_price": null,
+      "new_price": 68.39,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/91FNTN5VbML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
     },
     {
@@ -15431,6 +15431,22 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61YNcaieBIL._AC_SL1425_.jpg",
       "link": "https://www.amazon.fr/dp/B0CPY8JM2P?tag=pepius-21"
+    },
+    {
+      "title": "Converse Chuck Taylor All Star Classic M9166C, Basket : Converse",
+      "old_price": null,
+      "new_price": 38.2,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61M8uqwfurL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B000EDGPIY?tag=pepius-21"
+    },
+    {
+      "title": "Salomon Mixte Enfant XA Pro V8 Hiking Shoe",
+      "old_price": null,
+      "new_price": 48.8,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81Kc2V0MecL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6VHNL4Q?tag=pepius-21"
     },
     {
       "title": "ORICO SSD Externe 512Go, Disque Dur Externe SSD USB3.2 Gen2 Jusqu'à 1050 Mo/s, Double USB C & A External Solid State Drive de PC Mobile Ordinateur Photos Vidéo MacBook Pro Air et Plus OG201",
@@ -15481,12 +15497,28 @@
       "link": "https://www.amazon.fr/dp/B0CZL6J417?tag=pepius-21"
     },
     {
+      "title": "adidas Think Linear Ankle Socks 3 Pairs Socks Mixte (lot de 1)",
+      "old_price": null,
+      "new_price": 5.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71v0KEbszHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BPSM352H?tag=pepius-21"
+    },
+    {
       "title": "Thermalright Aqua Elite 360 V3 Ventilateur de processeur liquide double PWM ARGB avec roulements S-FDB, pompe à commande PWM efficace pour AMD/AM4/AM5, Intel LGA1150/1151/1200/2011/1700 (AE360 V3)",
       "old_price": null,
       "new_price": 59.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/612ptcpN5cL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CCR528FR?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Mixte Caven 2.0 Basket",
+      "old_price": null,
+      "new_price": 38.12,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/610wYAQfyEL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BLCMBZ1J?tag=pepius-21"
     },
     {
       "title": "North-Cittie 7-Box XXL Edition Chariot à Outils avec 256 Pièces D'outils Professionnels, Idéal pour I'atelier, la Maison, Le Chariot Qui Vous Donne Un Monde de Bricolage Plus Ordonné",
