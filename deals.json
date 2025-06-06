@@ -15089,14 +15089,6 @@
       "link": "https://www.amazon.fr/dp/B098X27T93?tag=pepius-21"
     },
     {
-      "title": "NIVEA MEN Crème Visage - Corps - Mains, crème multi-usages au parfum masculin format boîte alu, soin hydratant 3-en-1 à la texture non grasse, Sans parfum, 150 ml",
-      "old_price": 3.95,
-      "new_price": 1.79,
-      "discount": 55,
-      "image": "https://m.media-amazon.com/images/I/71mCcVS3TuL._AC_SL1201_.jpg",
-      "link": "https://www.amazon.fr/dp/B075MNHYP7?tag=pepius-21"
-    },
-    {
       "title": "Plafonnier extérieur PHILIPS LED Superslim 15W [Blanc chaud - Noir] Résistant à l'eau IP54, pour éclairage de jardin, patio et terrasse.",
       "old_price": 49.99,
       "new_price": 25.07,
@@ -15121,20 +15113,20 @@
       "link": "https://www.amazon.fr/dp/B0BZ4FS8LF?tag=pepius-21"
     },
     {
-      "title": "Xiaomi Electric Kettle 2 Lite EU",
-      "old_price": 34.9,
-      "new_price": 19.99,
-      "discount": 43,
-      "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
-    },
-    {
       "title": "CUTTER DE SÉCURITÉ",
       "old_price": 4.77,
       "new_price": 2.78,
       "discount": 42,
       "image": "https://m.media-amazon.com/images/I/51F6965r65L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08FF37GDT?tag=pepius-21"
+    },
+    {
+      "title": "Xiaomi Electric Kettle 2 Lite EU",
+      "old_price": 33.32,
+      "new_price": 19.99,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
     },
     {
       "title": "ZEFAL Pulse L2 - Porte-bidon vélo en carbone - Ultra-léger - 18g, Noir",
@@ -15161,6 +15153,14 @@
       "link": "https://www.amazon.fr/dp/B07G4TPWBN?tag=pepius-21"
     },
     {
+      "title": "Samsung Écran PC Gaming Odyssey G30D 27'', 180Hz, 1ms, VA, Full HD (1920x1080), 3000:1, Ajustable en hauteur, pivotable, orientable, inclinable, LS27DG302EUXEN",
+      "old_price": 149,
+      "new_price": 99,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/71pLFBGEbBL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4QYD65C?tag=pepius-21"
+    },
+    {
       "title": "INIU Batterie Externe, Mini 10000mAh 22.5 W Power Bank Charge Rapide Chargeur Portable, USB C Out & Input Powerbank avec Support pour iPhone 16 15 14 13 Pro Max Plus Samsung S23 S22 AirPods iPad etc",
       "old_price": 34.99,
       "new_price": 22.99,
@@ -15183,14 +15183,6 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/61YMHCUkMpL._AC_SL1371_.jpg",
       "link": "https://www.amazon.fr/dp/B0CFQQJMV6?tag=pepius-21"
-    },
-    {
-      "title": "MSI Modern 15 B7M-220FR : AMD Ryzen 7 7730U - 16GB LPDDR4 - SSD 512GB - AMD Radeon™ Graphics - 15, 6\" Full HD - Windows 11 Famille - Clavier Azerty retroéclairé",
-      "old_price": 699,
-      "new_price": 479,
-      "discount": 31,
-      "image": "https://m.media-amazon.com/images/I/81+OXmK2DhL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
     },
     {
       "title": "DJI Mic 2 (2 TX + 1 RX + Boîtier de Recharge), Micro sans Fil Tout-en-Un, Réduction Intel. du Bruit, Enregistrement Interne 32 Bits à Virgule Flottante, Portée de 250 m",
@@ -15235,8 +15227,8 @@
     {
       "title": "CITIZEN Montre de plongée NY0086-16LE",
       "old_price": 239,
-      "new_price": 174,
-      "discount": 27,
+      "new_price": 173,
+      "discount": 28,
       "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
       "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
     },
@@ -15273,6 +15265,14 @@
       "link": "https://www.amazon.fr/dp/B000YBXU6G?tag=pepius-21"
     },
     {
+      "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
+      "old_price": 79.99,
+      "new_price": 67.54,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
+    },
+    {
       "title": "LISEN Support Chargeur Induction iPhone pour [Ultra Portable] Chargeur MagSafe Apple [2 en 1] Chargeur MagSafe vers USB‑C Compatible iPhone 12-16 Pro Max Et Apple Watch Series 2-10/AirPods 2 3Pro",
       "old_price": 19.99,
       "new_price": 16.99,
@@ -15303,14 +15303,6 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/71FJO2DOPWL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0BDZ27513?tag=pepius-21"
-    },
-    {
-      "title": "ASSASSIN'S CREED MIRAGE XBOX X",
-      "old_price": 19.9,
-      "new_price": 17.9,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71ISu5RdEyL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BDZ1XGXZ?tag=pepius-21"
     },
     {
       "title": "Thermalright Burst Assassin 120 Vision Refroidisseur d'air pour processeur – Écran IPS 2,4\" carré rotatif, ventilateur avant et arrière de 120 mm, compatible Intel LGA1700/1150/1151/1200, AMD AM4/AM5",
@@ -15361,6 +15353,14 @@
       "link": "https://www.amazon.fr/dp/B0BVKZ9GCB?tag=pepius-21"
     },
     {
+      "title": "Niveau Laser avec Trépied, Huepar 30M Niveau Laser à Ligne Verte Auto-nivelant Laser Croisée pour Accrochage de Tableaux, Rénovation de Maison, Projet d'Intérieur, Batterie et Sac de Transport Inclus",
+      "old_price": 43.72,
+      "new_price": 41.53,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71QmlK6r8oL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CW35SGQL?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr - ASTERIX ET OBELIX MISSION CLEOPATRE - UHD 4K - Alain Chabat : DVD et Blu-ray",
       "old_price": 14.99,
       "new_price": 14.24,
@@ -15377,12 +15377,28 @@
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     },
     {
+      "title": "ASSASSIN'S CREED MIRAGE XBOX X",
+      "old_price": 18.89,
+      "new_price": 17.9,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71ISu5RdEyL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BDZ1XGXZ?tag=pepius-21"
+    },
+    {
       "title": "Gawfolk Écran PC Ultra Large 34 Pouces 1500R incurvé 144Hz Gaming Computer Moniteur,21:9 UWQHD(3440x1440),Adaptive Sync，HDR，178 ° Angle Vue，DisplayPort、HDMI，VESA 75 * 75MM-Noir",
       "old_price": 195.47,
       "new_price": 185.7,
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/711WaFk3+aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
+    },
+    {
+      "title": "iVANKY pour iPhone 16/15/14 Serie Pro Max, Cube de Chargeur Induction 4 en 1 avec Lampe de Nuit pour MagSafe Charger sans Fil, 3 en 1 Station de Charge Rapide 22.5 W pour Apple iWatch Ultra, AirPods",
+      "old_price": null,
+      "new_price": 41.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71LyDs5gGOL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DBYYTRD3?tag=pepius-21"
     },
     {
       "title": "UGREEN Cat 8 Câble Ethernet Réseau RJ45 Super Débit 40Gbps 2000MHz Nylon Tressé Double Blindage Compatible avec Routeur Switch Modem Décodeur TV Box Internet PS5 PS4 Xbox Console de Jeux PC (1M)",
@@ -15425,14 +15441,6 @@
       "link": "https://www.amazon.fr/dp/B0914C95MX?tag=pepius-21"
     },
     {
-      "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
-      "old_price": null,
-      "new_price": 499,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
-    },
-    {
       "title": "adidas Starlancer Club Ball Football Mixte",
       "old_price": null,
       "new_price": 9.99,
@@ -15447,6 +15455,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61M8uqwfurL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000EDGPIY?tag=pepius-21"
+    },
+    {
+      "title": "MSI Modern 15 B7M-220FR : AMD Ryzen 7 7730U - 16GB LPDDR4 - SSD 512GB - AMD Radeon™ Graphics - 15, 6\" Full HD - Windows 11 Famille - Clavier Azerty retroéclairé",
+      "old_price": null,
+      "new_price": 699,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81+OXmK2DhL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
     },
     {
       "title": "Salomon Mixte Enfant XA Pro V8 Hiking Shoe",
@@ -15475,7 +15491,7 @@
     {
       "title": "Sony, PlayStation 5 Édition Standard, PS5 avec 2 Manettes Sans Fil DualSense, Couleur : Blanche",
       "old_price": null,
-      "new_price": 26,
+      "new_price": 32.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
@@ -15543,14 +15559,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81M6zSOQPwL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F1354YTT?tag=pepius-21"
-    },
-    {
-      "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
-      "old_price": null,
-      "new_price": 499,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
-      "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
     }
   ]
 }
