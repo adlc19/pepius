@@ -15595,6 +15595,14 @@
       "link": "https://www.amazon.fr/dp/B000YBXU6G?tag=pepius-21"
     },
     {
+      "title": "Samsung Écran PC S36GD, Taille 24\" - Dalle VA, Résolution FHD (1920 x 1080), 100Hz, Inclinable, VESA 75x75 , Contraste 3000:1, Eye Saver Mode, Flicker Free, HDMI (1,4), VGA, Prise Casque, LS24D362GAU",
+      "old_price": 127.99,
+      "new_price": 70,
+      "discount": 45,
+      "image": "https://m.media-amazon.com/images/I/61e3tlfH3VL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCCBXQXJ?tag=pepius-21"
+    },
+    {
       "title": "DARKBEAM Lampe Torche UV Lamp Lumière Noire 365nm et 395nm rechargeable Lampe de Wood Ultraviolette, Portable Mini LED avec clip, Détecteur d'urine de chat, ambré, verre d'uranium, résine, Lot de 2",
       "old_price": 26.99,
       "new_price": 14.99,
@@ -15613,10 +15621,18 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.85,
+      "new_price": 35.89,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
+    },
+    {
+      "title": "FREEWOLF K8 Clavier de Jeu Mécanique sans Fil à échange à Chaud, Clavier Filaire Rétroéclairé RGB, Commutateur Bleu, Bluetooth/2,4 GHz/USB-C Tri Mode avec Batterie 4000 mAh pour Mac/Win – Gris/Orange",
+      "old_price": 59.99,
+      "new_price": 39.88,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/618wV8Tq6HL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CMQ7MJ9Q?tag=pepius-21"
     },
     {
       "title": "Samsung Écran PC Gaming Odyssey G30D 27'', 180Hz, 1ms, VA, Full HD (1920x1080), 3000:1, Ajustable en hauteur, pivotable, orientable, inclinable, LS27DG302EUXEN",
@@ -15917,7 +15933,7 @@
     {
       "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
       "old_price": null,
-      "new_price": 0.71,
+      "new_price": 499,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
@@ -15981,7 +15997,7 @@
     {
       "title": "PlayStation Sony, 5 Édition Standard, PS5 avec 2 Manettes Sans Fil DualSense, Couleur : Blanche",
       "old_price": null,
-      "new_price": 129.99,
+      "new_price": 26,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
