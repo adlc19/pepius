@@ -15613,7 +15613,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.81,
+      "new_price": 35.83,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -15981,7 +15981,7 @@
     {
       "title": "PlayStation Sony, 5 Édition Standard, PS5 avec 2 Manettes Sans Fil DualSense, Couleur : Blanche",
       "old_price": null,
-      "new_price": 17.99,
+      "new_price": 26,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
@@ -16009,14 +16009,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51HYRWqkB7L._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C8FCTSC6?tag=pepius-21"
-    },
-    {
-      "title": "ORICO Boîtier pour Disque Dur 2 Baies USB C Plug and Play DAS avec Adaptateur Secteur 12 V/4 A, Maximum 44 TB de Stockage pour Base de données Locale personnelle (9728C3)",
-      "old_price": null,
-      "new_price": 63.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/6168ivcnlQL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZL6J417?tag=pepius-21"
     }
   ]
 }
