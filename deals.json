@@ -15619,14 +15619,6 @@
       "link": "https://www.amazon.fr/dp/B08FF37GDT?tag=pepius-21"
     },
     {
-      "title": "Xiaomi Electric Kettle 2 Lite EU",
-      "old_price": 33.32,
-      "new_price": 19.99,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
-    },
-    {
       "title": "ZEFAL Pulse L2 - Porte-bidon vélo en carbone - Ultra-léger - 18g, Noir",
       "old_price": 19.95,
       "new_price": 11.99,
@@ -15637,8 +15629,8 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.71,
-      "discount": 38,
+      "new_price": 35.73,
+      "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
     },
@@ -15699,20 +15691,20 @@
       "link": "https://www.amazon.fr/dp/B0CQ7P5X9N?tag=pepius-21"
     },
     {
-      "title": "CITIZEN Montre de plongée NY0086-16LE",
-      "old_price": 239,
-      "new_price": 173,
-      "discount": 28,
-      "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
-      "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
-    },
-    {
       "title": "Tefal Comfort Max Faitout 24 cm + couvercle verre, Induction, Inox haute qualité, Poignées thermo-isolées, Garantie 10 ans C9734604",
       "old_price": 32.99,
       "new_price": 23.99,
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/51HFhm2ISeL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BP8DTF6W?tag=pepius-21"
+    },
+    {
+      "title": "CITIZEN Montre de plongée NY0086-16LE",
+      "old_price": 239,
+      "new_price": 174,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : ELF EVOLUTION FULL-TECH C4 5W-30, Huile moteur Diesel, 5 litres",
@@ -15843,6 +15835,14 @@
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
     },
     {
+      "title": "Qui Sème Le Vent Récolte Le Tempo: Mc Solaar, Mc Solaar",
+      "old_price": null,
+      "new_price": 9.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71PgKobf4DL._SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
+    },
+    {
       "title": "Aqara Sonnette Vidéo G4 avec Carillon, Sonnette sans Fil ou Filaire, Reconnaissance Faciale et Automatisation,WiFi 2,4GHz, 1080p, Sonnette sans Fil avec Camera, Compatible HomeKit, Alexa, Google Home",
       "old_price": null,
       "new_price": 119.99,
@@ -15873,6 +15873,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71BTSapMiGL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0875NB89J?tag=pepius-21"
+    },
+    {
+      "title": "Xiaomi Electric Kettle 2 Lite EU",
+      "old_price": null,
+      "new_price": 60.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
     },
     {
       "title": "Bellota 50806-A - Brosse Métallique de Nettoyage avec Manche en Plastique de Type Spid - Brosse Métallique en Laiton Ondulé pour Atelier",
@@ -15981,7 +15989,7 @@
     {
       "title": "PlayStation Sony, 5 Édition Standard, PS5 avec 2 Manettes Sans Fil DualSense, Couleur : Blanche",
       "old_price": null,
-      "new_price": 26,
+      "new_price": 329.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
