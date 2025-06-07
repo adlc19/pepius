@@ -15563,14 +15563,6 @@
   ],
   "2025-06-07": [
     {
-      "title": "Avatar: Frontiers Of Pandora Fra PS5",
-      "old_price": 49.99,
-      "new_price": 19.99,
-      "discount": 60,
-      "image": "https://m.media-amazon.com/images/I/61A0nmOIt8L._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C8JZ3P24?tag=pepius-21"
-    },
-    {
       "title": "PlayStation, Ghost Of Tsushima Director's Cut (Playstation 4)",
       "old_price": 73.99,
       "new_price": 29.99,
@@ -15629,7 +15621,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.74,
+      "new_price": 35.78,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -15641,14 +15633,6 @@
       "discount": 34,
       "image": "https://m.media-amazon.com/images/I/71pLFBGEbBL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4QYD65C?tag=pepius-21"
-    },
-    {
-      "title": "INIU Batterie Externe, Mini 10000mAh 22.5 W Power Bank Charge Rapide Chargeur Portable, USB C Out & Input Powerbank avec Support pour iPhone 16 15 14 13 Pro Max Plus Samsung S23 S22 AirPods iPad etc",
-      "old_price": 34.99,
-      "new_price": 22.99,
-      "discount": 34,
-      "image": "https://m.media-amazon.com/images/I/71zGmEcnQtL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08VD632WJ?tag=pepius-21"
     },
     {
       "title": "Baseus Bowie MA10 Casque Bluetooth sans fil avec suppression active du bruit hybride -48 dB, 140 heures de lecture, étanche IPX6, 4 microphones ENC, faible latence 0,038 s, Bluetooth 5.3",
@@ -15835,9 +15819,17 @@
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
     },
     {
+      "title": "Enter The WU-Tang Clan : Wu-Tang Clan",
+      "old_price": null,
+      "new_price": 15.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/614UiJzoxPL._SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0171SOYCI?tag=pepius-21"
+    },
+    {
       "title": "Qui Sème Le Vent Récolte Le Tempo: Mc Solaar, Mc Solaar",
       "old_price": null,
-      "new_price": 9.99,
+      "new_price": 9.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71PgKobf4DL._SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
@@ -15889,6 +15881,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51zr2J0+QqL._AC_SL1035_.jpg",
       "link": "https://www.amazon.fr/dp/B00F2NS372?tag=pepius-21"
+    },
+    {
+      "title": "INIU Batterie Externe, Mini 10000mAh 22.5 W Power Bank Charge Rapide Chargeur Portable, USB C Out & Input Powerbank avec Support pour iPhone 16 15 14 13 Pro Max Plus Samsung S23 S22 AirPods iPad etc",
+      "old_price": null,
+      "new_price": 22.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71zGmEcnQtL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08VD632WJ?tag=pepius-21"
     },
     {
       "title": "MAYLINE CAT5 CAT6 Pince à sertir RJ45 Outils Kit réseau professionnel Pince à sertir Cosses pour RJ12 RJ11 Cirmpature pour câbles réseau, couvercles pour connecteurs (bleu gris)",
@@ -15989,7 +15989,7 @@
     {
       "title": "PlayStation Sony, 5 Édition Standard, PS5 avec 2 Manettes Sans Fil DualSense, Couleur : Blanche",
       "old_price": null,
-      "new_price": 26,
+      "new_price": 262.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Si5BzQ8EL._AC_SL1295_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQMPN7DY?tag=pepius-21"
