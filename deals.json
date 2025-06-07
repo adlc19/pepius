@@ -15613,7 +15613,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.96,
+      "new_price": 35.97,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -15819,6 +15819,14 @@
       "link": "https://www.amazon.fr/dp/B0D78RYFQG?tag=pepius-21"
     },
     {
+      "title": "Patriot Viper Xtreme 5 MPOWER DDR5 RGB RAM 48 Go (2X24 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVXR548G60C30KM",
+      "old_price": null,
+      "new_price": 142.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51WlYlegGZL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D932L43S?tag=pepius-21"
+    },
+    {
       "title": "Histoire de Melody Nelson: Serge Gainsbourg, Serge Gainsbourg",
       "old_price": null,
       "new_price": 9.99,
@@ -15829,7 +15837,7 @@
     {
       "title": "Bahco 244P-22-U7-Hp Barracuda Handsaw 22In",
       "old_price": null,
-      "new_price": 14.83,
+      "new_price": 14.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41pIeNCAC1S._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0001IX7ZG?tag=pepius-21"
@@ -15885,7 +15893,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 60.95,
+      "new_price": 44.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -15933,7 +15941,7 @@
     {
       "title": "Playstation DualSense Wireless-Controller - Chroma Pearl 5",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 26,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51rfluDdvKL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJ1VN1LF?tag=pepius-21"
@@ -15993,14 +16001,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91GBOBBmWqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B001TJ4GQ0?tag=pepius-21"
-    },
-    {
-      "title": "SHYOSUCCE Plafonnier LED avec détecteur de mouvement intérieur, 30 W IP65 Plafonnier avec capteur de mouvement pour escaliers, armoire, balcon, débarras, cave, couloir, garage, salle de bain, cuisine",
-      "old_price": null,
-      "new_price": 15.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51oQAN5F8dL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C1SC4JT6?tag=pepius-21"
     }
   ]
 }
