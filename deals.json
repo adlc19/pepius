@@ -15611,17 +15611,9 @@
       "link": "https://www.amazon.fr/dp/B08FF37GDT?tag=pepius-21"
     },
     {
-      "title": "ZEFAL Pulse L2 - Porte-bidon vélo en carbone - Ultra-léger - 18g, Noir",
-      "old_price": 19.95,
-      "new_price": 11.99,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/51XNh7mE2dL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B07V2498X2?tag=pepius-21"
-    },
-    {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.78,
+      "new_price": 35.8,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -15675,12 +15667,28 @@
       "link": "https://www.amazon.fr/dp/B0CQ7P5X9N?tag=pepius-21"
     },
     {
+      "title": "COOPER - Sérum physiologique - Lavage du nez et des yeux - Hygiène quotidienne - Pour toute la famille - Fabriqué en France - Boîte de 30 unidoses, Blanc, 5 ml (Lot de 1)",
+      "old_price": 2.45,
+      "new_price": 1.8,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/61f+0HGn1VL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00569UOQK?tag=pepius-21"
+    },
+    {
       "title": "Tefal Comfort Max Faitout 24 cm + couvercle verre, Induction, Inox haute qualité, Poignées thermo-isolées, Garantie 10 ans C9734604",
       "old_price": 32.99,
       "new_price": 23.99,
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/51HFhm2ISeL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BP8DTF6W?tag=pepius-21"
+    },
+    {
+      "title": "CITIZEN Montre de plongée NY0086-16LE",
+      "old_price": 239,
+      "new_price": 174,
+      "discount": 27,
+      "image": "https://m.media-amazon.com/images/I/61niOlpzbRL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B07Q72523X?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : ELF EVOLUTION FULL-TECH C4 5W-30, Huile moteur Diesel, 5 litres",
@@ -15819,14 +15827,6 @@
       "link": "https://www.amazon.fr/dp/B0171SOYCI?tag=pepius-21"
     },
     {
-      "title": "Qui Sème Le Vent Récolte Le Tempo: Mc Solaar, Mc Solaar",
-      "old_price": null,
-      "new_price": 9.84,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71PgKobf4DL._SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
-    },
-    {
       "title": "Aqara Sonnette Vidéo G4 avec Carillon, Sonnette sans Fil ou Filaire, Reconnaissance Faciale et Automatisation,WiFi 2,4GHz, 1080p, Sonnette sans Fil avec Camera, Compatible HomeKit, Alexa, Google Home",
       "old_price": null,
       "new_price": 119.99,
@@ -15861,7 +15861,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 60.95,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -15889,6 +15889,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91FNTN5VbML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
+    },
+    {
+      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
+      "old_price": null,
+      "new_price": 19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
     },
     {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
@@ -15923,6 +15931,14 @@
       "link": "https://www.amazon.fr/dp/B0CPY8JM2P?tag=pepius-21"
     },
     {
+      "title": "Converse Chuck Taylor All Star Classic M9166C, Basket : Converse",
+      "old_price": null,
+      "new_price": 38.2,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61M8uqwfurL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B000EDGPIY?tag=pepius-21"
+    },
+    {
       "title": "OUTILS A DENUDER UNIVERSEL CABLE 8 A 13MM DIAM : Jokari",
       "old_price": null,
       "new_price": 13.1,
@@ -15937,6 +15953,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81+OXmK2DhL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
+    },
+    {
+      "title": "Salomon Mixte Enfant XA Pro V8 Hiking Shoe",
+      "old_price": null,
+      "new_price": 48.8,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81Kc2V0MecL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6VHNL4Q?tag=pepius-21"
     },
     {
       "title": "ORICO SSD Externe 512Go, Disque Dur Externe SSD USB3.2 Gen2 Jusqu'à 1050 Mo/s, Double USB C & A External Solid State Drive de PC Mobile Ordinateur Photos Vidéo MacBook Pro Air et Plus OG201",
