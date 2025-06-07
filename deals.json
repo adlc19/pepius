@@ -15621,7 +15621,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 35.89,
+      "new_price": 35.9,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -15689,14 +15689,6 @@
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/61f+0HGn1VL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00569UOQK?tag=pepius-21"
-    },
-    {
-      "title": "Tefal Comfort Max Faitout 24 cm + couvercle verre, Induction, Inox haute qualité, Poignées thermo-isolées, Garantie 10 ans C9734604",
-      "old_price": 32.99,
-      "new_price": 23.99,
-      "discount": 27,
-      "image": "https://m.media-amazon.com/images/I/51HFhm2ISeL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BP8DTF6W?tag=pepius-21"
     },
     {
       "title": "CITIZEN Montre de plongée NY0086-16LE",
@@ -15849,6 +15841,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71mJI-YqqYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BPHTL7MG?tag=pepius-21"
+    },
+    {
+      "title": "Tefal Comfort Max Faitout 24 cm + couvercle verre, Induction, Inox haute qualité, Poignées thermo-isolées, Garantie 10 ans C9734604",
+      "old_price": null,
+      "new_price": 38.92,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51HFhm2ISeL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BP8DTF6W?tag=pepius-21"
     },
     {
       "title": "ACEMAGIC 2025 Ordinateur Portable 15,6 Pouces AMD Ryzen 7 5700U (8C/16T, 4,3 GHz) PC Portables 16Go RAM DDR4*2,512Go M.2 SSD, 3*USB 3.2,FHD, WiFi 6,BT5.2,HDMI,Type C,54.7Wh Laptop Haute Autonomie Gris",
