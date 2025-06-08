@@ -16109,14 +16109,6 @@
       "link": "https://www.amazon.fr/dp/B0CS6XCRTK?tag=pepius-21"
     },
     {
-      "title": "Baseus Bowie MA10 Casque Bluetooth sans fil avec suppression active du bruit hybride -48 dB, 140 heures de lecture, étanche IPX6, 4 microphones ENC, faible latence 0,038 s, Bluetooth 5.3",
-      "old_price": 29.99,
-      "new_price": 19.99,
-      "discount": 33,
-      "image": "https://m.media-amazon.com/images/I/61JvHUAsaBL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DK5MZB8J?tag=pepius-21"
-    },
-    {
       "title": "SXBCyan 0-36 Mois Bébé Lunettes De Soleil Rondes Polarisées Nuances En Caoutchouc Flexibles Avec Sangle For Tout-petit Nouveau-né Âges Du Nourrisson (Color : Coffee)",
       "old_price": 12.89,
       "new_price": 8.99,
@@ -16147,6 +16139,14 @@
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/61f+0HGn1VL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00569UOQK?tag=pepius-21"
+    },
+    {
+      "title": "20 Gousses de Vanille Bourbon de Madagascar - 14-16 cm - L - Planifolia \"Réserve Prestige\" - Qualité Premium-Charnues et Aromatiques -100% Naturelles - Idéal pour Pâtisseries et Desserts",
+      "old_price": 17.9,
+      "new_price": 13.41,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/81XqOKTz7IL._AC_SL1493_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CX9B5WTW?tag=pepius-21"
     },
     {
       "title": "Sonos Barre de Son Sonos Arc Ultra avec Dolby Atmos et contrôle Vocal - Son Surround 9.1.4 pour la TV et la Musique - Blanc",
@@ -16301,14 +16301,6 @@
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
     },
     {
-      "title": "PUMA Mixte St Miler Basket",
-      "old_price": null,
-      "new_price": 36,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
-    },
-    {
       "title": "The massacre: Cent, 50",
       "old_price": 6.99,
       "new_price": 6.99,
@@ -16415,7 +16407,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 22.9,
+      "new_price": 60.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -16435,14 +16427,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91FNTN5VbML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
-    },
-    {
-      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
-      "old_price": null,
-      "new_price": 19,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
     },
     {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
@@ -16483,14 +16467,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61YNcaieBIL._AC_SL1425_.jpg",
       "link": "https://www.amazon.fr/dp/B0CPY8JM2P?tag=pepius-21"
-    },
-    {
-      "title": "Converse Chuck Taylor All Star Classic M9166C, Basket : Converse",
-      "old_price": null,
-      "new_price": 38.2,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61M8uqwfurL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B000EDGPIY?tag=pepius-21"
     }
   ]
 }
