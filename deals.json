@@ -16495,6 +16495,14 @@
   ],
   "2025-06-09": [
     {
+      "title": "Sader - Plâtre Fin de Paris - Scellement, Rebouchage, Montage et Réparation - Tous Supports - Intérieur - Prise Rapide 10 Minutes - 1 Boîte Carton 1 kg, Blanc",
+      "old_price": 4.9,
+      "new_price": 1.5,
+      "discount": 69,
+      "image": "https://m.media-amazon.com/images/I/71iVKguA2WL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00DUF9S6E?tag=pepius-21"
+    },
+    {
       "title": "TASSE EN PLASTIQUE DE 350 ML SANS BPA, PASSANT AU MICRO-ONDES | STITCH PALMS, Bleu",
       "old_price": 8.99,
       "new_price": 2.99,
@@ -16561,18 +16569,10 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 37.08,
+      "new_price": 37.12,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
-    },
-    {
-      "title": "DREAME H12 Pro FlexReach Aspirateur Laveur, portée à Plat à 180°, séchage 5 Min, Aspiration 18 kPa, Lavage à Chaud à 90 °C, Nettoyage Deux Bords, 50 Minutes de Nettoyage",
-      "old_price": 449,
-      "new_price": 298,
-      "discount": 34,
-      "image": "https://m.media-amazon.com/images/I/6113D9pvDhL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DV5RRL9F?tag=pepius-21"
     },
     {
       "title": "FREEWOLF K8 Clavier de Jeu Mécanique sans Fil à échange à Chaud, Clavier Filaire Rétroéclairé RGB, Commutateur Bleu, Bluetooth/2,4 GHz/USB-C Tri Mode avec Batterie 4000 mAh pour Mac/Win – Gris/Orange",
@@ -17001,7 +17001,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 139,
+      "new_price": 60.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -17043,7 +17043,7 @@
       "old_price": null,
       "new_price": 45.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     }
   ]
