@@ -16519,14 +16519,6 @@
       "link": "https://www.amazon.fr/dp/B00MA65ZGQ?tag=pepius-21"
     },
     {
-      "title": "Casio Ga2100rgb1aer Watch One Size",
-      "old_price": 109,
-      "new_price": 59.95,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
-    },
-    {
       "title": "Samsung Écran PC S36GD, Taille 24\" - Dalle VA, Résolution FHD (1920 x 1080), 100Hz, Inclinable, VESA 75x75 , Contraste 3000:1, Eye Saver Mode, Flicker Free, HDMI (1,4), VGA, Prise Casque, LS24D362GAU",
       "old_price": 127.99,
       "new_price": 70,
@@ -16561,7 +16553,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 37.01,
+      "new_price": 37.04,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -16613,6 +16605,14 @@
       "discount": 31,
       "image": "https://m.media-amazon.com/images/I/61uLqcKyOcL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DS2B3P2B?tag=pepius-21"
+    },
+    {
+      "title": "Quiksilver Homme Bushmaster Chapeau, Noir, S-M EU : Quiksilver",
+      "old_price": 32.99,
+      "new_price": 22.99,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/41GEFO3sJVL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0198K1UGU?tag=pepius-21"
     },
     {
       "title": "SXBCyan 0-36 Mois Bébé Lunettes De Soleil Rondes Polarisées Nuances En Caoutchouc Flexibles Avec Sangle For Tout-petit Nouveau-né Âges Du Nourrisson (Color : Coffee)",
@@ -16791,14 +16791,6 @@
       "link": "https://www.amazon.fr/dp/B0DPB87LMV?tag=pepius-21"
     },
     {
-      "title": "ASSASSIN'S CREED MIRAGE XBOX X",
-      "old_price": 18.89,
-      "new_price": 17.9,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/71ISu5RdEyL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BDZ1XGXZ?tag=pepius-21"
-    },
-    {
       "title": "Intel® Core™ i5-14400F, processeur pour PC de bureau, 10 cœurs (6 P-cores + 4 E-cores) jusqu'à 4,7 GHz",
       "old_price": 142,
       "new_price": 135.66,
@@ -16853,14 +16845,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gEdx3J-JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
-    },
-    {
-      "title": "PUMA Mixte St Miler Basket",
-      "old_price": null,
-      "new_price": 36,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
     },
     {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
@@ -16977,7 +16961,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 139,
+      "new_price": 84.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -16999,14 +16983,6 @@
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
     },
     {
-      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
-      "old_price": null,
-      "new_price": 19,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
-    },
-    {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
       "old_price": null,
       "new_price": 10.99,
@@ -17019,7 +16995,7 @@
       "old_price": null,
       "new_price": 45.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     }
   ]
