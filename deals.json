@@ -16569,7 +16569,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.44,
+      "new_price": 36.53,
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -16831,6 +16831,14 @@
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
     },
     {
+      "title": "PUMA Mixte St Miler Basket",
+      "old_price": null,
+      "new_price": 36,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
+    },
+    {
       "title": "The massacre: Cent, 50",
       "old_price": 6.99,
       "new_price": 6.99,
@@ -16945,7 +16953,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 139,
+      "new_price": 60.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -16967,6 +16975,14 @@
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
     },
     {
+      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
+      "old_price": null,
+      "new_price": 19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
+    },
+    {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
       "old_price": null,
       "new_price": 10.99,
@@ -16979,7 +16995,7 @@
       "old_price": null,
       "new_price": 45.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     }
   ]
