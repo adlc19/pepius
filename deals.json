@@ -16561,7 +16561,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.89,
+      "new_price": 36.9,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -16677,6 +16677,14 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71jDQ9a7TVL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01GHTOPNK?tag=pepius-21"
+    },
+    {
+      "title": "MOVA 1000 Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 1000 m² évitement Intelligent des Obstacles. Contrôle Via App, Roues Tout-Terrain, Coupe en U, Chargement Rapide",
+      "old_price": 1199,
+      "new_price": 989,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/61PAYIlugvL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DVGDNNXM?tag=pepius-21"
     },
     {
       "title": "20 Gousses de Vanille Bourbon de Madagascar - 14 cm - Taille M - Planifolia \"Réserve Prestige\" - Qualité Premium - Savoureuses et Aromatiques - 100% Naturelles - Idéal pour Pâtisseries et Desserts",
@@ -16801,7 +16809,7 @@
     {
       "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
       "old_price": null,
-      "new_price": 33.99,
+      "new_price": 29.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
@@ -16997,14 +17005,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
-    },
-    {
-      "title": "MOVA 1000 Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 1000 m² évitement Intelligent des Obstacles. Contrôle Via App, Roues Tout-Terrain, Coupe en U, Chargement Rapide",
-      "old_price": null,
-      "new_price": 899,
-      "discount": 0,
-      "image": "Non disponible",
-      "link": "https://www.amazon.fr/dp/B0DVGDNNXM?tag=pepius-21"
     }
   ]
 }
