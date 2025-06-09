@@ -16561,10 +16561,18 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.97,
+      "new_price": 36.98,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
+    },
+    {
+      "title": "DREAME H12 Pro FlexReach Aspirateur Laveur, portée à Plat à 180°, séchage 5 Min, Aspiration 18 kPa, Lavage à Chaud à 90 °C, Nettoyage Deux Bords, 50 Minutes de Nettoyage",
+      "old_price": 449,
+      "new_price": 298,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/6113D9pvDhL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DV5RRL9F?tag=pepius-21"
     },
     {
       "title": "FREEWOLF K8 Clavier de Jeu Mécanique sans Fil à échange à Chaud, Clavier Filaire Rétroéclairé RGB, Commutateur Bleu, Bluetooth/2,4 GHz/USB-C Tri Mode avec Batterie 4000 mAh pour Mac/Win – Gris/Orange",
@@ -16637,6 +16645,14 @@
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/61f+0HGn1VL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00569UOQK?tag=pepius-21"
+    },
+    {
+      "title": "Philips OneBlade 360 - Authentiques lames de rechange, pour rasoir/tondeuse électrique OneBlade, 3x 360 lames, modèle QP430/60",
+      "old_price": 32.67,
+      "new_price": 24.29,
+      "discount": 26,
+      "image": "https://m.media-amazon.com/images/I/71wCA5G-fpL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CVXRFT15?tag=pepius-21"
     },
     {
       "title": "20 Gousses de Vanille Bourbon de Madagascar - 14-16 cm - L - Planifolia \"Réserve Prestige\" - Qualité Premium-Charnues et Aromatiques -100% Naturelles - Idéal pour Pâtisseries et Desserts",
@@ -16799,6 +16815,14 @@
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
     },
     {
+      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
+      "old_price": null,
+      "new_price": 149,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
+    },
+    {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
       "old_price": null,
       "new_price": 14.99,
@@ -16897,7 +16921,7 @@
     {
       "title": "Enter The WU-Tang Clan : Wu-Tang Clan",
       "old_price": null,
-      "new_price": 15.99,
+      "new_price": 18,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/614UiJzoxPL._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0171SOYCI?tag=pepius-21"
