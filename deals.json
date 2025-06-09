@@ -16569,7 +16569,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 37.14,
+      "new_price": 37.17,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -16749,6 +16749,14 @@
       "discount": 12,
       "image": "https://m.media-amazon.com/images/I/51nyX4zqbLL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGHV6HNV?tag=pepius-21"
+    },
+    {
+      "title": "NIVEA MEN Déodorant Bille Black & White Invisible (6 x 50ml), déodorant homme anti-traces blanches et jaunes, anti-transpirant anti odeur & humidité, protection efficace 72 h, sans alcool",
+      "old_price": 10.64,
+      "new_price": 9.58,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/71bZI8mGPJL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYMN92DD?tag=pepius-21"
     },
     {
       "title": "Dreame L40 Ultra AE Robot Aspirateur et Serpillière Autonome, 19 000 Pa Aspiration Puissante, Nettoyage Sec/Humide, Dock Tout-en-1 Vidange Automatique, 2 Brosses Incluses",
@@ -16961,7 +16969,7 @@
     {
       "title": "Samsung Écran PC Gaming Odyssey G30D 27'', 180Hz, 1ms, VA, Full HD (1920x1080), 3000:1, Ajustable en hauteur, pivotable, orientable, inclinable, LS27DG302EUXEN",
       "old_price": null,
-      "new_price": 165.3,
+      "new_price": 169.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71pLFBGEbBL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4QYD65C?tag=pepius-21"
@@ -17019,7 +17027,7 @@
       "old_price": null,
       "new_price": 45.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     }
   ]
