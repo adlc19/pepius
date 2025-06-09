@@ -16535,14 +16535,6 @@
       "link": "https://www.amazon.fr/dp/B0DCCBXQXJ?tag=pepius-21"
     },
     {
-      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
-      "old_price": 249,
-      "new_price": 139.99,
-      "discount": 44,
-      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
-    },
-    {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
       "old_price": 124.99,
       "new_price": 69.99,
@@ -16559,14 +16551,6 @@
       "link": "https://www.amazon.fr/dp/B08FF37GDT?tag=pepius-21"
     },
     {
-      "title": "VASAGLE Table de Bar, Table de Pub avec Multiprise et Tiroir Amovible en Tissu Non-Tissé, Crochets, 40 x 120 x 105 cm, Noir Boisé LBT029B02V1",
-      "old_price": 47.99,
-      "new_price": 29.99,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/61H9ioquufL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F2H3DDBJ?tag=pepius-21"
-    },
-    {
       "title": "Sur Ecoute (The Wire) - L'Intégrale [Blu-ray]: DVD et Blu-ray",
       "old_price": 68.99,
       "new_price": 43.44,
@@ -16577,8 +16561,8 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.85,
-      "discount": 36,
+      "new_price": 36.89,
+      "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
     },
@@ -16605,6 +16589,14 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/51bDbSgefxL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B07LFDGBRF?tag=pepius-21"
+    },
+    {
+      "title": "Niveau Laser avec Trépied, Huepar 30M Niveau Laser à Ligne Verte Auto-nivelant Laser Croisée pour Accrochage de Tableaux, Rénovation de Maison, Projet d'Intérieur, Batterie et Sac de Transport Inclus",
+      "old_price": 55.99,
+      "new_price": 37.99,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/71QmlK6r8oL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CW35SGQL?tag=pepius-21"
     },
     {
       "title": "DJI Bundle Osmo Action 4 Essentiel - Caméra d’Action étanche 4K/120 IPS avec capteur 1/1,3 Pouce, des Images saisissantes en Basse lumière, des Couleurs D-Log M 10 Bits, Batterie 1 770 mAh prolongée",
@@ -16687,14 +16679,6 @@
       "link": "https://www.amazon.fr/dp/B01GHTOPNK?tag=pepius-21"
     },
     {
-      "title": "MOVA 1000 Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 1000 m² évitement Intelligent des Obstacles. Contrôle Via App, Roues Tout-Terrain, Coupe en U, Chargement Rapide",
-      "old_price": 1199,
-      "new_price": 989,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/61PAYIlugvL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DVGDNNXM?tag=pepius-21"
-    },
-    {
       "title": "20 Gousses de Vanille Bourbon de Madagascar - 14 cm - Taille M - Planifolia \"Réserve Prestige\" - Qualité Premium - Savoureuses et Aromatiques - 100% Naturelles - Idéal pour Pâtisseries et Desserts",
       "old_price": 11.9,
       "new_price": 9.9,
@@ -16775,6 +16759,14 @@
       "link": "https://www.amazon.fr/dp/B01CR3YRB0?tag=pepius-21"
     },
     {
+      "title": "VASAGLE Table de Bar, Table de Pub avec Multiprise et Tiroir Amovible en Tissu Non-Tissé, Crochets, 40 x 120 x 105 cm, Marron Cendré LBT029K02V1",
+      "old_price": 47.99,
+      "new_price": 44.99,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/61lTBGTOUDL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F2H3DDBJ?tag=pepius-21"
+    },
+    {
       "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
       "old_price": 322.1,
       "new_price": 306,
@@ -16805,6 +16797,14 @@
       "discount": 4,
       "image": "https://m.media-amazon.com/images/I/51rjqemFmgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQ3142LB?tag=pepius-21"
+    },
+    {
+      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
+      "old_price": null,
+      "new_price": 33.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
     },
     {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
@@ -16943,14 +16943,6 @@
       "link": "https://www.amazon.fr/dp/B0DBYYTRD3?tag=pepius-21"
     },
     {
-      "title": "Niveau Laser avec Trépied, Huepar 30M Niveau Laser à Ligne Verte Auto-nivelant Laser Croisée pour Accrochage de Tableaux, Rénovation de Maison, Projet d'Intérieur, Batterie et Sac de Transport Inclus",
-      "old_price": null,
-      "new_price": 65.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71QmlK6r8oL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CW35SGQL?tag=pepius-21"
-    },
-    {
       "title": "UGREEN Cat 8 Câble Ethernet Réseau RJ45 Super Débit 40Gbps 2000MHz Nylon Tressé Double Blindage Compatible avec Routeur Switch Modem Décodeur TV Box Internet PS5 PS4 Xbox Console de Jeux PC (1M)",
       "old_price": null,
       "new_price": 7.99,
@@ -16961,7 +16953,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 84.99,
+      "new_price": 139,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -17005,6 +16997,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
+    },
+    {
+      "title": "MOVA 1000 Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 1000 m² évitement Intelligent des Obstacles. Contrôle Via App, Roues Tout-Terrain, Coupe en U, Chargement Rapide",
+      "old_price": null,
+      "new_price": 899,
+      "discount": 0,
+      "image": "Non disponible",
+      "link": "https://www.amazon.fr/dp/B0DVGDNNXM?tag=pepius-21"
     }
   ]
 }
