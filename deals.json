@@ -16569,10 +16569,18 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 37.12,
+      "new_price": 37.14,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
+    },
+    {
+      "title": "DREAME H12 Pro FlexReach Aspirateur Laveur, portée à Plat à 180°, séchage 5 Min, Aspiration 18 kPa, Lavage à Chaud à 90 °C, Nettoyage Deux Bords, 50 Minutes de Nettoyage",
+      "old_price": 449,
+      "new_price": 298,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/6113D9pvDhL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DV5RRL9F?tag=pepius-21"
     },
     {
       "title": "FREEWOLF K8 Clavier de Jeu Mécanique sans Fil à échange à Chaud, Clavier Filaire Rétroéclairé RGB, Commutateur Bleu, Bluetooth/2,4 GHz/USB-C Tri Mode avec Batterie 4000 mAh pour Mac/Win – Gris/Orange",
@@ -16831,22 +16839,6 @@
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
     },
     {
-      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
-      "old_price": null,
-      "new_price": 149,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
-    },
-    {
-      "title": "Casio Ga2100rgb1aer Watch One Size",
-      "old_price": null,
-      "new_price": 149,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
-    },
-    {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
       "old_price": null,
       "new_price": 14.99,
@@ -16877,14 +16869,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gEdx3J-JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
-    },
-    {
-      "title": "PUMA Mixte St Miler Basket",
-      "old_price": null,
-      "new_price": 36,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
     },
     {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
@@ -17001,7 +16985,7 @@
     {
       "title": "Xiaomi Electric Kettle 2 Lite EU",
       "old_price": null,
-      "new_price": 60.95,
+      "new_price": 139,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
@@ -17023,14 +17007,6 @@
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
     },
     {
-      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
-      "old_price": null,
-      "new_price": 19,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
-    },
-    {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
       "old_price": null,
       "new_price": 10.99,
@@ -17043,7 +17019,7 @@
       "old_price": null,
       "new_price": 45.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/516ClajgVqL._AC_SX425_.jpg",
+      "image": "https://m.media-amazon.com/images/I/516ClajgVqL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.fr/dp/B07THMBQ7P?tag=pepius-21"
     }
   ]
