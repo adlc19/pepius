@@ -17089,6 +17089,14 @@
       "link": "https://www.amazon.fr/dp/B0007VGT98?tag=pepius-21"
     },
     {
+      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
+      "old_price": 249,
+      "new_price": 139.99,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
+    },
+    {
       "title": "Azzaro Sport Eau de Toilette - Parfum pour homme frais et pur - Fragrance agrumée, aromatique et boisée - Pour un port quotidien décontracté - Parfum de luxe pour homme",
       "old_price": 39,
       "new_price": 22.66,
@@ -17139,7 +17147,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.87,
+      "new_price": 36.89,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -17191,14 +17199,6 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/41KGkA978DL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7GMGBPH?tag=pepius-21"
-    },
-    {
-      "title": "DJI Mic 2 (2 TX + 1 RX + Boîtier de Recharge), Micro sans Fil Tout-en-Un, Réduction Intel. du Bruit, Enregistrement Interne 32 Bits à Virgule Flottante, Portée de 250 m",
-      "old_price": 349,
-      "new_price": 245.44,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/51cGkvwR70L._AC_SL1040_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CJXT71NX?tag=pepius-21"
     },
     {
       "title": "Les AVENTURIERS du Rail Legacy: Légendes de L'Ouest - Jeu de Société Ferroviaire Immersif pour Enfants dès 10 Ans - Campagne en 12 Parties à Jouer en Famille - 2 à 5 Joueurs - Version Française",
@@ -17377,20 +17377,20 @@
       "link": "https://www.amazon.fr/dp/B0DKJ1X7DH?tag=pepius-21"
     },
     {
-      "title": "Intel® Core™ i5-14400F, processeur pour PC de bureau, 10 cœurs (6 P-cores + 4 E-cores) jusqu'à 4,7 GHz",
-      "old_price": 142,
-      "new_price": 135,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/51rjqemFmgL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CQ3142LB?tag=pepius-21"
-    },
-    {
       "title": "COOPER - Sérum physiologique - Lavage du nez et des yeux - Hygiène quotidienne - Pour toute la famille - Fabriqué en France - Boîte de 30 unidoses, Blanc, 5 ml (Lot de 1)",
       "old_price": 2.7,
       "new_price": 2.56,
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61f+0HGn1VL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00569UOQK?tag=pepius-21"
+    },
+    {
+      "title": "Intel® Core™ i5-14400F, processeur pour PC de bureau, 10 cœurs (6 P-cores + 4 E-cores) jusqu'à 4,7 GHz",
+      "old_price": 142,
+      "new_price": 135.66,
+      "discount": 4,
+      "image": "https://m.media-amazon.com/images/I/51rjqemFmgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CQ3142LB?tag=pepius-21"
     },
     {
       "title": "ORICO 2 to M.2 NVMe SSD, TLC NAND Flash, 3600 Mo/s PCIe Gen3x4 M2 2280 SSD, Disque d'état Solide Interne Compatible avec Les Ordinateurs Portables de Bureau - D10",
@@ -17415,6 +17415,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/719lIJGK68L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
+    },
+    {
+      "title": "Casio Ga2100rgb1aer Watch One Size",
+      "old_price": null,
+      "new_price": 199,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
     },
     {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
@@ -17455,6 +17463,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gEdx3J-JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Mixte St Miler Basket",
+      "old_price": null,
+      "new_price": 36,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
     },
     {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
