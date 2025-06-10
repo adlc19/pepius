@@ -17139,7 +17139,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.69,
+      "new_price": 36.71,
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -17225,6 +17225,14 @@
       "link": "https://www.amazon.fr/dp/B0CJXT71NX?tag=pepius-21"
     },
     {
+      "title": "Les AVENTURIERS du Rail Legacy: Légendes de L'Ouest - Jeu de Société Ferroviaire Immersif pour Enfants dès 10 Ans - Campagne en 12 Parties à Jouer en Famille - 2 à 5 Joueurs - Version Française",
+      "old_price": 112.5,
+      "new_price": 79.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/81O9OzWqmGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CG2HMN4L?tag=pepius-21"
+    },
+    {
       "title": "Philips OneBlade 360 - Authentiques lames de rechange, pour rasoir/tondeuse électrique OneBlade, 3x 360 lames, modèle QP430/60",
       "old_price": 32.67,
       "new_price": 24.29,
@@ -17295,14 +17303,6 @@
       "discount": 15,
       "image": "https://m.media-amazon.com/images/I/71iNxGiM8hL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07818LB9D?tag=pepius-21"
-    },
-    {
-      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
-      "old_price": 359,
-      "new_price": 306,
-      "discount": 15,
-      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
     },
     {
       "title": "WD_BLACK SN7100 2TB NVMe SSD, M.2 2280,Vitesse de Lecture jusqu'à 6800 MB/s,Next Gen TLC 3D NAND, Dashboard,Compatibilité Parfaite avec Les Ordinateurs et systèmes Gaming Portables",
@@ -17433,22 +17433,6 @@
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
     },
     {
-      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
-      "old_price": null,
-      "new_price": 149,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
-    },
-    {
-      "title": "Casio Ga2100rgb1aer Watch One Size",
-      "old_price": null,
-      "new_price": 149,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
-    },
-    {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
       "old_price": null,
       "new_price": 14.99,
@@ -17481,14 +17465,6 @@
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
     },
     {
-      "title": "PUMA Mixte St Miler Basket",
-      "old_price": null,
-      "new_price": 36,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
-    },
-    {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
       "old_price": null,
       "new_price": 47.99,
@@ -17511,6 +17487,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B00008LORO?tag=pepius-21"
+    },
+    {
+      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
+      "old_price": null,
+      "new_price": 359,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
     },
     {
       "title": "ACEMAGIC 15.6 Pouces Ordinateur Portable avec AMD Ryzen 7 5700U (8C/16T, 4,3GHz) 16Go RAM DDR4x2 + 512Go M.2 SSD Windows 11 PC Portables,1080 FHD,3*USB 3.2,BT5.2,HDMI,Type C, Adaptateur 65W, WiFi 6.0",
@@ -17631,14 +17615,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91FNTN5VbML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
-    },
-    {
-      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
-      "old_price": null,
-      "new_price": 19,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
     },
     {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
