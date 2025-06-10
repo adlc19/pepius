@@ -17147,7 +17147,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.92,
+      "new_price": 36.94,
       "discount": 35,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -17223,6 +17223,14 @@
       "discount": 25,
       "image": "https://m.media-amazon.com/images/I/81XqOKTz7IL._AC_SL1493_.jpg",
       "link": "https://www.amazon.fr/dp/B0CX9B5WTW?tag=pepius-21"
+    },
+    {
+      "title": "Intex kit Piscine Ultra XTR Ronde Tubulaire (ø) 5,49 x (h) 1,32m",
+      "old_price": 799,
+      "new_price": 610.71,
+      "discount": 24,
+      "image": "https://m.media-amazon.com/images/I/51bDbSgefxL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B07LFDGBRF?tag=pepius-21"
     },
     {
       "title": "DEWALT Coffret de 32 Embouts de Vissage de 25mm Robustes et Précis - Assortiment de 32 Embouts de Vissage avec Porte-Embout à Changement Rapide - Compatible TSTAK DT7969-QZ",
@@ -17361,14 +17369,6 @@
       "link": "https://www.amazon.fr/dp/B01CR3YRB0?tag=pepius-21"
     },
     {
-      "title": "Intex kit Piscine Ultra XTR Ronde Tubulaire (ø) 5,49 x (h) 1,32m",
-      "old_price": 799,
-      "new_price": 752.79,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/51bDbSgefxL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B07LFDGBRF?tag=pepius-21"
-    },
-    {
       "title": "Zendure Solarflow AIO Pro 1200, Batterie et Micro-onduleur Tout-en-Un, 960Wh, Entrée Solaire 1 800W, HUB Intégré(Unité de Contrôle Intelligente), Capacité Max 6 720 kWh, Plug&Play",
       "old_price": 540.59,
       "new_price": 513.55,
@@ -17391,6 +17391,14 @@
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/51rjqemFmgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQ3142LB?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Montres Bracelet NY0040-09W",
+      "old_price": null,
+      "new_price": 184.26,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616ja-Ua5ZL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B00DH9PMHC?tag=pepius-21"
     },
     {
       "title": "ORICO 2 to M.2 NVMe SSD, TLC NAND Flash, 3600 Mo/s PCIe Gen3x4 M2 2280 SSD, Disque d'état Solide Interne Compatible avec Les Ordinateurs Portables de Bureau - D10",
@@ -17529,6 +17537,14 @@
       "link": "https://www.amazon.fr/dp/B0D932L43S?tag=pepius-21"
     },
     {
+      "title": "Histoire de Melody Nelson: Serge Gainsbourg, Serge Gainsbourg",
+      "old_price": null,
+      "new_price": 13.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71UYWolXY-L._SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B01IPSN0MS?tag=pepius-21"
+    },
+    {
       "title": "Bahco 244P-22-U7-Hp Barracuda Handsaw 22In",
       "old_price": null,
       "new_price": 25.07,
@@ -17591,22 +17607,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LyDs5gGOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DBYYTRD3?tag=pepius-21"
-    },
-    {
-      "title": "UGREEN Cat 8 Câble Ethernet Réseau RJ45 Super Débit 40Gbps 2000MHz Nylon Tressé Double Blindage Compatible avec Routeur Switch Modem Décodeur TV Box Internet PS5 PS4 Xbox Console de Jeux PC (1M)",
-      "old_price": null,
-      "new_price": 7.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71BTSapMiGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0875NB89J?tag=pepius-21"
-    },
-    {
-      "title": "Xiaomi Electric Kettle 2 Lite EU",
-      "old_price": null,
-      "new_price": 19.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41baQ8i9Y2L._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DNB1K25H?tag=pepius-21"
     }
   ]
 }
