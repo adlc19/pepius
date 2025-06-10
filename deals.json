@@ -17139,7 +17139,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.68,
+      "new_price": 36.69,
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -17297,6 +17297,14 @@
       "link": "https://www.amazon.fr/dp/B07818LB9D?tag=pepius-21"
     },
     {
+      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
+      "old_price": 359,
+      "new_price": 306,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
+    },
+    {
       "title": "WD_BLACK SN7100 2TB NVMe SSD, M.2 2280,Vitesse de Lecture jusqu'à 6800 MB/s,Next Gen TLC 3D NAND, Dashboard,Compatibilité Parfaite avec Les Ordinateurs et systèmes Gaming Portables",
       "old_price": 137.81,
       "new_price": 119.89,
@@ -17321,20 +17329,20 @@
       "link": "https://www.amazon.fr/dp/B0F53MJY8T?tag=pepius-21"
     },
     {
-      "title": "Sonos Barre de Son Sonos Arc Ultra avec Dolby Atmos et contrôle Vocal - Son Surround 9.1.4 pour la TV et la Musique - Blanc",
-      "old_price": 999,
-      "new_price": 897,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/71zHCIo1cZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DDZ6P92X?tag=pepius-21"
-    },
-    {
       "title": "ASSASSIN'S CREED MIRAGE PS5",
       "old_price": 19.9,
       "new_price": 17.9,
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/71FJO2DOPWL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0BDZ27513?tag=pepius-21"
+    },
+    {
+      "title": "Sonos Barre de Son Sonos Arc Ultra avec Dolby Atmos et contrôle Vocal - Son Surround 9.1.4 pour la TV et la Musique - Blanc",
+      "old_price": 999,
+      "new_price": 915.25,
+      "discount": 8,
+      "image": "https://m.media-amazon.com/images/I/71zHCIo1cZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DDZ6P92X?tag=pepius-21"
     },
     {
       "title": "UGREEN Revodok Pro 2102 Docking Station USB C Double HDMI 4K 60Hz 10 en 1 Hub USB C 10Gbps Adaptateur Ethernet Gigabit PD 100W Charge Lecteur de Carte SD TF Multi Data Ports",
@@ -17367,14 +17375,6 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61Rjl657DcL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKJ1X7DH?tag=pepius-21"
-    },
-    {
-      "title": "Zendure SolarFlow 800 - Micro-onduleur Hybride Intelligent 1200W MPPT, Rendement énergétique de 96%, Puissance AC bidirectionnelle de 800 W, avec Panneau Solaire Bi-facial 1118W (Installation Facile)",
-      "old_price": 322.1,
-      "new_price": 306,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
     },
     {
       "title": "COOPER - Sérum physiologique - Lavage du nez et des yeux - Hygiène quotidienne - Pour toute la famille - Fabriqué en France - Boîte de 30 unidoses, Blanc, 5 ml (Lot de 1)",
@@ -17433,6 +17433,22 @@
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
     },
     {
+      "title": "CASIO Montre PRG-340-1ER - 54,7mm - Noir",
+      "old_price": null,
+      "new_price": 149,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616md0Uxw0L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BFJ9C526?tag=pepius-21"
+    },
+    {
+      "title": "Casio Ga2100rgb1aer Watch One Size",
+      "old_price": null,
+      "new_price": 149,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
+    },
+    {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
       "old_price": null,
       "new_price": 14.99,
@@ -17463,6 +17479,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gEdx3J-JL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CM3CCBZZ?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Mixte St Miler Basket",
+      "old_price": null,
+      "new_price": 36,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
     },
     {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
@@ -17607,6 +17631,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91FNTN5VbML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09LM5GDTY?tag=pepius-21"
+    },
+    {
+      "title": "adidas Mixte Enfant Advantage Shoes Kids Chaussures de Tennis",
+      "old_price": null,
+      "new_price": 19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41-qzsvhiwL._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C3JJN2T1?tag=pepius-21"
     },
     {
       "title": "Pommeau de douche avec tuyau de 1,6M, YEAUPE PRO Pommeau De Douche Haute Pression Avec 3 Types de Jets, Pommeau De Douche Anti Calcaire (Φ120 MM), Pommeau De Douche Economie Deau, Chromé",
