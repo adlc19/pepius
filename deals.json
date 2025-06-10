@@ -17081,14 +17081,6 @@
       "link": "https://www.amazon.fr/dp/B0B7QDVS92?tag=pepius-21"
     },
     {
-      "title": "Duralex 511840V44 Provence Lot de 6 verresà eau et jus Transparent",
-      "old_price": 18.66,
-      "new_price": 9.19,
-      "discount": 51,
-      "image": "https://m.media-amazon.com/images/I/61+Ov4OfEdL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00MA65ZGQ?tag=pepius-21"
-    },
-    {
       "title": "Tefal Cocotte en fonte ovale 30cm, Cocotte légère en fonte d'aluminium, Nettoyage facile, Revêtement en céramique sûr, Couvercle de condensation, Compatibilité four, Induction, Air E2668925",
       "old_price": 99.99,
       "new_price": 49.99,
@@ -17133,7 +17125,7 @@
       "old_price": 2399,
       "new_price": 1499,
       "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/71RPHrvhEnL._AC_SL1500_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61kkrFpaklL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08J2K9VS7?tag=pepius-21"
     },
     {
@@ -17163,7 +17155,7 @@
     {
       "title": "Amazon.fr : MOTUL Huile 8100 X-Clean EFE 5W30 5L (bidon)",
       "old_price": 57.14,
-      "new_price": 36.8,
+      "new_price": 36.82,
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/8187+F0v5aL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01MT1X517?tag=pepius-21"
@@ -17511,6 +17503,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81a5t4So+yL._SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B000AZ7986?tag=pepius-21"
+    },
+    {
+      "title": "Duralex 511840V44 Provence Lot de 6 verresà eau et jus Transparent",
+      "old_price": null,
+      "new_price": 9.19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61+Ov4OfEdL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00MA65ZGQ?tag=pepius-21"
     },
     {
       "title": "Louise Attaque: Louise Attaque, Louise Attaque",
