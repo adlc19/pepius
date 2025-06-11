@@ -17883,14 +17883,6 @@
       "link": "https://www.amazon.fr/dp/B0DDZ6P92X?tag=pepius-21"
     },
     {
-      "title": "UGREEN Revodok Pro 2102 Docking Station USB C Double HDMI 4K 60Hz 10 en 1 Hub USB C 10Gbps Adaptateur Ethernet Gigabit PD 100W Charge Lecteur de Carte SD TF Multi Data Ports",
-      "old_price": 48.99,
-      "new_price": 45.49,
-      "discount": 7,
-      "image": "https://m.media-amazon.com/images/I/71-Tn1huU8L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D1XK8H21?tag=pepius-21"
-    },
-    {
       "title": "Patriot Viper Xtreme 5 MPOWER DDR5 RGB RAM 32 Go (2X16 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVXR532G60C30KM",
       "old_price": 109.99,
       "new_price": 102.99,
@@ -17929,6 +17921,14 @@
       "discount": 4,
       "image": "https://m.media-amazon.com/images/I/51rjqemFmgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQ3142LB?tag=pepius-21"
+    },
+    {
+      "title": "Alan Wake 2 Deluxe Edition - Xbox",
+      "old_price": null,
+      "new_price": 60.08,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81pTgu31GHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6686VFJ?tag=pepius-21"
     },
     {
       "title": "LISEN 4 en 1 Rétractable Chargeur Voiture USB C 69W [Cadeau Fete des Peres & Idee Cadeau Homme Papa Femme] Câble Magique & Rebond Instantané, Voyage Camping Car Accessoires pour iPhone 16 15 Pro Max",
@@ -18115,6 +18115,14 @@
       "link": "https://www.amazon.fr/dp/B0D932L43S?tag=pepius-21"
     },
     {
+      "title": "Histoire de Melody Nelson: Serge Gainsbourg, Serge Gainsbourg",
+      "old_price": null,
+      "new_price": 13.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71UYWolXY-L._SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B01IPSN0MS?tag=pepius-21"
+    },
+    {
       "title": "Bahco 244P-22-U7-Hp Barracuda Handsaw 22In",
       "old_price": null,
       "new_price": 25.07,
@@ -18137,14 +18145,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/614UiJzoxPL._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0171SOYCI?tag=pepius-21"
-    },
-    {
-      "title": "Aqara Sonnette Vidéo G4 avec Carillon, Sonnette sans Fil ou Filaire, Reconnaissance Faciale et Automatisation,WiFi 2,4GHz, 1080p, Sonnette sans Fil avec Camera, Compatible HomeKit, Alexa, Google Home",
-      "old_price": null,
-      "new_price": 119.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71mJI-YqqYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BPHTL7MG?tag=pepius-21"
     }
   ]
 }
