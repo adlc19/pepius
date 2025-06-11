@@ -17917,7 +17917,7 @@
     {
       "title": "Intel® Core™ i5-14400F, processeur pour PC de bureau, 10 cœurs (6 P-cores + 4 E-cores) jusqu'à 4,7 GHz",
       "old_price": 139.2,
-      "new_price": 135,
+      "new_price": 135.66,
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/51rjqemFmgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CQ3142LB?tag=pepius-21"
@@ -17937,6 +17937,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51z2cBdgQfL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09GFZ5R36?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : VALEO 578519 Balai d'essuie-glace",
+      "old_price": null,
+      "new_price": 35.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51TAPt8hmML._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B073GBDGHH?tag=pepius-21"
     },
     {
       "title": "LEGO Superheroes DC L’Armure Robot de Batman - Jouet de Super-héros pour Enfants - Figurine XXL et Minifigurine à Collectionner - Idée Cadeau Créatif pour Les Garçons et Filles dès 6 Ans 76270",
@@ -18077,7 +18085,7 @@
     {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
       "old_price": null,
-      "new_price": 25.99,
+      "new_price": 508.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81eUUHnGyyL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09KGX3MN4?tag=pepius-21"
@@ -18117,7 +18125,7 @@
     {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
       "old_price": null,
-      "new_price": 209,
+      "new_price": 14.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71F-MmjQqmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00026CTZQ?tag=pepius-21"
@@ -18161,14 +18169,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71Hqkvm3uTL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DX5KY74K?tag=pepius-21"
-    },
-    {
-      "title": "ACEMAGIC 15.6 Pouces Ordinateur Portable avec AMD Ryzen 7 5700U (8C/16T, 4,3GHz) 16Go RAM DDR4x2 + 512Go M.2 SSD Windows 11 PC Portables,1080 FHD,3*USB 3.2,BT5.2,HDMI,Type C, Adaptateur 65W, WiFi 6.0",
-      "old_price": null,
-      "new_price": 469.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71b7OC+pSkL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D66M83HD?tag=pepius-21"
     }
   ]
 }
