@@ -17795,6 +17795,14 @@
       "link": "https://www.amazon.fr/dp/B08CG3GKQ7?tag=pepius-21"
     },
     {
+      "title": "Citizen Automatic Watch NK5010-01H",
+      "old_price": 359,
+      "new_price": 287.2,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/71-xHvSKCjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CZGVV4LZ?tag=pepius-21"
+    },
+    {
       "title": "Born in The U.S.a: Bruce Springsteen",
       "old_price": 19,
       "new_price": 15.19,
@@ -17913,14 +17921,6 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/71-coAYYPJL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01CR3YRB0?tag=pepius-21"
-    },
-    {
-      "title": "Zendure Solarflow AIO Pro 1200, Batterie et Micro-onduleur Tout-en-Un, 960Wh, Entrée Solaire 1 800W, HUB Intégré(Unité de Contrôle Intelligente), Capacité Max 6 720 kWh, Plug&Play",
-      "old_price": 540.59,
-      "new_price": 513.55,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/61Rjl657DcL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DKJ1X7DH?tag=pepius-21"
     },
     {
       "title": "Intel® Core™ i5-14400F, processeur pour PC de bureau, 10 cœurs (6 P-cores + 4 E-cores) jusqu'à 4,7 GHz",
@@ -18043,6 +18043,14 @@
       "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
     },
     {
+      "title": "Zendure Solarflow AIO Pro 1200, Batterie et Micro-onduleur Tout-en-Un, 960Wh, Entrée Solaire 1 800W, HUB Intégré(Unité de Contrôle Intelligente), Capacité Max 6 720 kWh, Plug&Play",
+      "old_price": null,
+      "new_price": 599,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61Rjl657DcL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DKJ1X7DH?tag=pepius-21"
+    },
+    {
       "title": "Bosch Professional 8 pièces Pack d'Embouts de Vissage (Impact Control, PZ/PH Bits, Longueur 50mm, Universalhalter, Pick and Click, Accessoires de visseuse à percussion)",
       "old_price": null,
       "new_price": 12.78,
@@ -18101,7 +18109,7 @@
     {
       "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
       "old_price": null,
-      "new_price": 184.99,
+      "new_price": 14.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71F-MmjQqmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00026CTZQ?tag=pepius-21"
