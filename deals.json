@@ -17635,6 +17635,22 @@
       "link": "https://www.amazon.fr/dp/B0DW439CLL?tag=pepius-21"
     },
     {
+      "title": "Amazon.fr : VALEO 578519 Balai d'essuie-glace",
+      "old_price": 16.5,
+      "new_price": 9.16,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/51TAPt8hmML._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B073GBDGHH?tag=pepius-21"
+    },
+    {
+      "title": "Chanteclair - Spray Dégraissant Bicarbonate, Idéaux sur Tout, Efficaces Partout, Fonctionne Tête en Bas - 600 ml",
+      "old_price": 2.45,
+      "new_price": 1.38,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/41sDKjYhTmL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BQZ4VJQW?tag=pepius-21"
+    },
+    {
       "title": "Casio Montre PRG-340-1ER - 54,7mm - Noir",
       "old_price": 249,
       "new_price": 139.99,
@@ -17917,7 +17933,7 @@
     {
       "title": "LEGO Superheroes DC L’Armure Robot de Batman - Jouet de Super-héros pour Enfants - Figurine XXL et Minifigurine à Collectionner - Idée Cadeau Créatif pour Les Garçons et Filles dès 6 Ans 76270",
       "old_price": null,
-      "new_price": 22.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81n0TvcCYFL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWH3DDT9?tag=pepius-21"
@@ -17981,7 +17997,7 @@
     {
       "title": "LES AVENTURIERS DU RAIL : EUROPE - Jeu de Base - Version Française - Unbox Now - Jeu de Société Famille pour Enfants dès 8 ans - 2 à 5 Joueurs - Jeu de Stratégie - Compatible Alexa - Days of Wonder",
       "old_price": null,
-      "new_price": 30.1,
+      "new_price": 30.03,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91m2ce5kPBL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000NJL2GO?tag=pepius-21"
@@ -18017,6 +18033,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71X5cfVeGQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B075KPPTTW?tag=pepius-21"
+    },
+    {
+      "title": "Qui Sème Le Vent Récolte Le Tempo: Mc Solaar, Mc Solaar",
+      "old_price": null,
+      "new_price": 9.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71PgKobf4DL._SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
     },
     {
       "title": "Bosch Professional 8 pièces Pack d'Embouts de Vissage (Impact Control, PZ/PH Bits, Longueur 50mm, Universalhalter, Pick and Click, Accessoires de visseuse à percussion)",
@@ -18101,7 +18125,7 @@
     {
       "title": "Louise Attaque: Louise Attaque, Louise Attaque",
       "old_price": null,
-      "new_price": 249.98,
+      "new_price": 9.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/814FrZDeRKL._SL1400_.jpg",
       "link": "https://www.amazon.fr/dp/B00008LORO?tag=pepius-21"
@@ -18153,14 +18177,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41pIeNCAC1S._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0001IX7ZG?tag=pepius-21"
-    },
-    {
-      "title": "Samsung Écran PC S36GD, Taille 24\" - Dalle VA, Résolution FHD (1920 x 1080), 100Hz, Inclinable, VESA 75x75 , Contraste 3000:1, Eye Saver Mode, Flicker Free, HDMI (1,4), VGA, Prise Casque, LS24D362GAU",
-      "old_price": null,
-      "new_price": 134.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61e3tlfH3VL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCCBXQXJ?tag=pepius-21"
     }
   ]
 }
