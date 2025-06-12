@@ -18197,12 +18197,28 @@
       "link": "https://www.amazon.fr/dp/B007QDW6DS?tag=pepius-21"
     },
     {
+      "title": "Russell Hobbs Blender [Nomade et Pratique] Mix & Go (300W, Lame en Acier inox, Démarrage automatique, 2 gourdes de 600 ml compatibles au lave vaisselle, Sans BPA, Smoothie & autres) Mixeur 23470-56",
+      "old_price": 59.99,
+      "new_price": 25.74,
+      "discount": 57,
+      "image": "https://m.media-amazon.com/images/I/51RioOQmMGL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B01B0YRL4M?tag=pepius-21"
+    },
+    {
       "title": "Sader Maxiglue Gel – Super Glue Universelle – Tous Matériaux – Colle de Réparation à Prise Rapide – Colle Extra Forte – Transparente – Tube de 3 g",
       "old_price": 5.9,
       "new_price": 2.95,
       "discount": 50,
       "image": "https://m.media-amazon.com/images/I/61bM5cKIZWL._AC_SL1294_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTV1QDT2?tag=pepius-21"
+    },
+    {
+      "title": "Stanley Flip Straw 2.0 Gourde Isotherme Avec Paille 0.7L - 10 Heures Froide - 2 Jours Glacée - Acier Inoxydable - Sans BPA - Etanche - Lavable Au Lave-Vaisselle - Thermos - Poolside",
+      "old_price": 43,
+      "new_price": 22.72,
+      "discount": 47,
+      "image": "https://m.media-amazon.com/images/I/614xQHbFChL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F4XXV1F9?tag=pepius-21"
     },
     {
       "title": "Casio Montre PRG-340-1ER - 54,7mm - Noir",
@@ -18301,6 +18317,14 @@
       "link": "https://www.amazon.fr/dp/B0CG2HMN4L?tag=pepius-21"
     },
     {
+      "title": "Intex Excursion 4 bateau Unisex-Youth, Gris, 315 x 165 x 43 cm",
+      "old_price": 145.49,
+      "new_price": 105.26,
+      "discount": 28,
+      "image": "https://m.media-amazon.com/images/I/51q5IMVBSkL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B00137UGIA?tag=pepius-21"
+    },
+    {
       "title": "Philips OneBlade 360 - Authentiques lames de rechange, pour rasoir/tondeuse électrique OneBlade, 3x 360 lames, modèle QP430/60",
       "old_price": 32.67,
       "new_price": 24.29,
@@ -18347,14 +18371,6 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/71-xHvSKCjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CZGVV4LZ?tag=pepius-21"
-    },
-    {
-      "title": "Born in The U.S.a: Bruce Springsteen",
-      "old_price": 19,
-      "new_price": 15.44,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/81VqdgV3cmL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00TPVW5QM?tag=pepius-21"
     },
     {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
@@ -18421,20 +18437,20 @@
       "link": "https://www.amazon.fr/dp/B0F53MJY8T?tag=pepius-21"
     },
     {
-      "title": "Patriot Viper Xtreme 5 MPOWER DDR5 RGB RAM 32 Go (2X16 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVXR532G60C30KM",
-      "old_price": 109.99,
-      "new_price": 102.99,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/51WlYlegGZL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DKQS389Z?tag=pepius-21"
-    },
-    {
       "title": "FOIFKIN M1 Boitier PC - Bois Noyer Façade - 4 Ventilateurs ARGB PWM préinstallés, boîtier de PC de Jeu ATX Mid-Tower (M1, Noir)",
       "old_price": 69.99,
       "new_price": 66.49,
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/819GzMSCT5L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DXQJJMYC?tag=pepius-21"
+    },
+    {
+      "title": "Patriot Viper Xtreme 5 MPOWER DDR5 RGB RAM 32 Go (2X16 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVXR532G60C30KM",
+      "old_price": 107.99,
+      "new_price": 102.99,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/51WlYlegGZL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DKQS389Z?tag=pepius-21"
     },
     {
       "title": "SONGMICS Chaise de Bureau, Fauteuil Pivotant, Tissu Peluche Respirant et PU, Rembourrage en Mousse, Hauteur Réglable, pour Bureau, Bar, Beige Cappuccino et Blanc Nuage OBG012W01",
@@ -18527,7 +18543,7 @@
     {
       "title": "TURBO CHALLENGE - Rétro Vintage - Trotteur - 119183 - Roues Libres - Blanc - 25Kg Max - Plastique - Jouet Enfant - Cadeau - Anniversaire - Décoration - Chambre - À Partir de 12 mois",
       "old_price": null,
-      "new_price": 59.9,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71Ok7cmKivL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJCMHJBQ?tag=pepius-21"
@@ -18551,7 +18567,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 138,
+      "new_price": 6.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
       "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
@@ -18567,7 +18583,7 @@
     {
       "title": "Amazon.fr : VALEO 578519 Balai d'essuie-glace",
       "old_price": null,
-      "new_price": 20.9,
+      "new_price": 14.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51TAPt8hmML._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B073GBDGHH?tag=pepius-21"
@@ -18711,26 +18727,10 @@
     {
       "title": "Bosch Professional 8 pièces Pack d'Embouts de Vissage (Impact Control, PZ/PH Bits, Longueur 50mm, Universalhalter, Pick and Click, Accessoires de visseuse à percussion)",
       "old_price": null,
-      "new_price": 12.91,
+      "new_price": 22.28,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/719lIJGK68L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
-    },
-    {
-      "title": "Casio Ga2100rgb1aer Watch One Size",
-      "old_price": null,
-      "new_price": 34.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
-    },
-    {
-      "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
-      "old_price": null,
-      "new_price": 15.29,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81eUUHnGyyL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09KGX3MN4?tag=pepius-21"
     }
   ]
 }
