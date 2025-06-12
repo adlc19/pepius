@@ -18301,14 +18301,6 @@
       "link": "https://www.amazon.fr/dp/B0CVXRFT15?tag=pepius-21"
     },
     {
-      "title": "20 Gousses de Vanille Bourbon de Madagascar - 14-16 cm - L - Planifolia \"Réserve Prestige\" - Qualité Premium-Charnues et Aromatiques -100% Naturelles - Idéal pour Pâtisseries et Desserts",
-      "old_price": 17.9,
-      "new_price": 13.41,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/81XqOKTz7IL._AC_SL1493_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CX9B5WTW?tag=pepius-21"
-    },
-    {
       "title": "Lotus Papier Toilette Humide Natural Aloe - Sans colorant, ni parfum - Fibres FSC 100 % d’origine naturelle - 42 unités (Lot de 1)",
       "old_price": 2.23,
       "new_price": 1.69,
@@ -18429,6 +18421,14 @@
       "link": "https://www.amazon.fr/dp/B0DXQJJMYC?tag=pepius-21"
     },
     {
+      "title": "adidas Linear Ankle Cushioned Socks 3 Pairs Chausettes basses Mixte (lot de 1)",
+      "old_price": null,
+      "new_price": 5.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71f0YoWwymL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BPSWHH47?tag=pepius-21"
+    },
+    {
       "title": "AOC Nouveau PC Portable 2025, écran 16,10 Pouces, Boîtier en métal rétroéclairé, Ordinateur Portable AMD Ryzen 7 5700U (8C/16T, jusqu'à 4,30 GHz),16 Go DDR4, 512 Go SSD M.2, WiFi 6,Type-C",
       "old_price": null,
       "new_price": 442.99,
@@ -18487,7 +18487,7 @@
     {
       "title": "TURBO CHALLENGE - Rétro Vintage - Trotteur - 119183 - Roues Libres - Blanc - 25Kg Max - Plastique - Jouet Enfant - Cadeau - Anniversaire - Décoration - Chambre - À Partir de 12 mois",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 59.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71Ok7cmKivL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJCMHJBQ?tag=pepius-21"
@@ -18511,7 +18511,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 31.48,
+      "new_price": 6.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
       "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
@@ -18558,8 +18558,8 @@
     },
     {
       "title": "Alan Wake 2 Deluxe Edition - Xbox",
-      "old_price": null,
-      "new_price": 60.08,
+      "old_price": 59.84,
+      "new_price": 59.84,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81pTgu31GHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D6686VFJ?tag=pepius-21"
@@ -18615,7 +18615,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5, Couleur : Chroma Indigo",
       "old_price": null,
-      "new_price": 31.48,
+      "new_price": 138,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Nqaf5WiML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJ1VD925?tag=pepius-21"
@@ -18679,7 +18679,7 @@
     {
       "title": "Casio Ga2100rgb1aer Watch One Size",
       "old_price": null,
-      "new_price": 34.9,
+      "new_price": 349,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
       "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
