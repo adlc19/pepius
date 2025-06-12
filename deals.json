@@ -18413,14 +18413,6 @@
       "link": "https://www.amazon.fr/dp/B0F53MJY8T?tag=pepius-21"
     },
     {
-      "title": "by Amazon Papier Toilette, 4 Épaisseurs Matelassé, Douceur Suprême, 48 Rouleaux (4 Paquets de 12), 160 Feuilles par Rouleau, Certifié FSC",
-      "old_price": 17.4,
-      "new_price": 15.66,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/61Xvv8ww6pL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07PYRPFBV?tag=pepius-21"
-    },
-    {
       "title": "Patriot Viper Xtreme 5 MPOWER DDR5 RGB RAM 32 Go (2X16 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVXR532G60C30KM",
       "old_price": 109.99,
       "new_price": 102.99,
@@ -18543,7 +18535,7 @@
     {
       "title": "LEGO Superheroes DC L’Armure Robot de Batman - Jouet de Super-héros pour Enfants - Figurine XXL et Minifigurine à Collectionner - Idée Cadeau Créatif pour Les Garçons et Filles dès 6 Ans 76270",
       "old_price": null,
-      "new_price": 59.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81n0TvcCYFL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWH3DDT9?tag=pepius-21"
@@ -18655,7 +18647,7 @@
     {
       "title": "Tefal Cocotte en fonte ovale 30cm, Cocotte légère en fonte d'aluminium, Nettoyage facile, Revêtement en céramique sûr, Couvercle de condensation, Compatibilité four, Induction, Air E2668925",
       "old_price": null,
-      "new_price": 110.95,
+      "new_price": 48.5,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/519YBQ7goWL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DW439CLL?tag=pepius-21"
@@ -18677,20 +18669,20 @@
       "link": "https://www.amazon.fr/dp/B01N6RVPQG?tag=pepius-21"
     },
     {
+      "title": "Casio Ga2100rgb1aer Watch One Size",
+      "old_price": null,
+      "new_price": 34.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
+    },
+    {
       "title": "GTA The Trilogy - The Definitive Edition (Playstation 4)",
       "old_price": null,
       "new_price": 40,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81eUUHnGyyL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09KGX3MN4?tag=pepius-21"
-    },
-    {
-      "title": "TASSE EN PLASTIQUE DE 350 ML SANS BPA, PASSANT AU MICRO-ONDES | STITCH PALMS, Bleu",
-      "old_price": null,
-      "new_price": 2.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81PkmSgRy+L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B7QDVS92?tag=pepius-21"
     }
   ]
 }
