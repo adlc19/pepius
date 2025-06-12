@@ -18213,6 +18213,14 @@
       "link": "https://www.amazon.fr/dp/B0BQZ4VJQW?tag=pepius-21"
     },
     {
+      "title": "Bialetti New Venus cafetière 6 tasses, poignée anti-brûlure, ne convient pas à l'induction, 6 tasses (235 ml), acier inoxydable, bronze",
+      "old_price": 49.9,
+      "new_price": 29.99,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/51fMGVWtO8L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09KZV5LW8?tag=pepius-21"
+    },
+    {
       "title": "Makita Fil nylon Trèfle torsadé MAKITA 2 mm x 30 m - E-01775",
       "old_price": 7.61,
       "new_price": 4.58,
@@ -18503,7 +18511,7 @@
     {
       "title": "Sony, Manette PlayStation 5 officielle DualSense, Sans fil, Batterie rechargeable, Bluetooth, Compatible avec PS5 et PC, Couleur : Midnight Black",
       "old_price": null,
-      "new_price": 138,
+      "new_price": 6.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41U9vYjTzlL._AC_SL1007_.jpg",
       "link": "https://www.amazon.fr/dp/B094WLFGD3?tag=pepius-21"
@@ -18519,7 +18527,7 @@
     {
       "title": "Amazon.fr : VALEO 578519 Balai d'essuie-glace",
       "old_price": null,
-      "new_price": 26.29,
+      "new_price": 25.92,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51TAPt8hmML._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B073GBDGHH?tag=pepius-21"
@@ -18639,7 +18647,7 @@
     {
       "title": "Qui Sème Le Vent Récolte Le Tempo: Mc Solaar, Mc Solaar",
       "old_price": null,
-      "new_price": 34.99,
+      "new_price": 39,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71PgKobf4DL._SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B096TRTMVB?tag=pepius-21"
@@ -18663,7 +18671,7 @@
     {
       "title": "Casio Ga2100rgb1aer Watch One Size",
       "old_price": null,
-      "new_price": 34.9,
+      "new_price": 449,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61a0QN4IhnL._AC_SL1046_.jpg",
       "link": "https://www.amazon.fr/dp/B0BYWZFFTM?tag=pepius-21"
@@ -18707,14 +18715,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81hnuDTTFVL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJC1JC31?tag=pepius-21"
-    },
-    {
-      "title": "Weber Compact Kettle barbecue au charbon de bois, surface de cuisson Ø 47cm, barbecue avec couvercle et cuve en acier emaillé, trépied et roues, grille chromée - Noir (1221004)",
-      "old_price": null,
-      "new_price": 184.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71F-MmjQqmL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00026CTZQ?tag=pepius-21"
     }
   ]
 }
