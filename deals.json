@@ -18967,6 +18967,14 @@
       "link": "https://www.amazon.fr/dp/B0CZGVV4LZ?tag=pepius-21"
     },
     {
+      "title": "EASTPAK Padded PAK'R Sac à Dos, 24 L - Black (Noir) : Eastpak",
+      "old_price": 38.5,
+      "new_price": 34.99,
+      "discount": 9,
+      "image": "https://m.media-amazon.com/images/I/71sjy9mR6yL._AC_SL1375_.jpg",
+      "link": "https://www.amazon.fr/dp/B000CRBEJ2?tag=pepius-21"
+    },
+    {
       "title": "FOIFKIN M1 Boitier PC - Bois Noyer Façade - 4 Ventilateurs ARGB PWM préinstallés, boîtier de PC de Jeu ATX Mid-Tower (M1, Noir)",
       "old_price": 69.99,
       "new_price": 66.49,
@@ -19193,7 +19201,7 @@
     {
       "title": "Asmodee - Harmonies - Nommé AS d'or 2025 - Jeu de Société Enfants dès 10 Ans - Création de Paysages et Habitats pour Animaux - Jeux Famille et Amis - Stratégie - Version Française - Libellud",
       "old_price": null,
-      "new_price": 25.76,
+      "new_price": 25.75,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81mSDmogWgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D1R5T4SY?tag=pepius-21"
@@ -19269,14 +19277,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/810ufTWNvGS._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XR74D8F?tag=pepius-21"
-    },
-    {
-      "title": "ORICO 2 to M.2 NVMe SSD, TLC NAND Flash, 3600 Mo/s PCIe Gen3x4 M2 2280 SSD, Disque d'état Solide Interne Compatible avec Les Ordinateurs Portables de Bureau - D10",
-      "old_price": null,
-      "new_price": 98.79,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61CERC4VHKL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DLG1S1Q3?tag=pepius-21"
     }
   ]
 }
