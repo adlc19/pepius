@@ -19321,20 +19321,20 @@
       "link": "https://www.amazon.fr/dp/B000WEMG74?tag=pepius-21"
     },
     {
-      "title": "Brennenstuhl Super-Solid / 8-prises 2,5m 4.500A (argent) avec Protection contre les surtensions",
-      "old_price": 43.34,
-      "new_price": 23.62,
-      "discount": 46,
-      "image": "https://m.media-amazon.com/images/I/61PFEUQ9kQL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B000YBXU6G?tag=pepius-21"
-    },
-    {
       "title": "Duracell Plus Piles AAA (lot de 24) - Alcalines 1,5V - Jusqu’à 100% plus longtemps - Idéales pour les appareils du quotidien - Emballage 0% plastique - Conservation 10 ans - LR03 MN2400",
       "old_price": 22.99,
       "new_price": 12.34,
       "discount": 46,
       "image": "https://m.media-amazon.com/images/I/71MjPGThhOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B094YMYM5G?tag=pepius-21"
+    },
+    {
+      "title": "Brennenstuhl Super-Solid / 8-prises 2,5m 4.500A (argent) avec Protection contre les surtensions",
+      "old_price": 43.34,
+      "new_price": 23.64,
+      "discount": 45,
+      "image": "https://m.media-amazon.com/images/I/61PFEUQ9kQL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B000YBXU6G?tag=pepius-21"
     },
     {
       "title": "Sony, Lego Horizon Adventures, PS5, Jeu Plateforme-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 7, Pour PlayStation 5",
@@ -19811,7 +19811,7 @@
     {
       "title": "LEGO Superheroes DC L’Armure Robot de Batman - Jouet de Super-héros pour Enfants - Figurine XXL et Minifigurine à Collectionner - Idée Cadeau Créatif pour Les Garçons et Filles dès 6 Ans 76270",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81n0TvcCYFL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWH3DDT9?tag=pepius-21"
@@ -19835,7 +19835,7 @@
     {
       "title": "Alan Wake 2 Deluxe Edition - Xbox",
       "old_price": null,
-      "new_price": 61.48,
+      "new_price": 61.17,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81pTgu31GHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D6686VFJ?tag=pepius-21"
