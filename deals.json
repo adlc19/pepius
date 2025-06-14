@@ -19377,20 +19377,20 @@
       "link": "https://www.amazon.fr/dp/B07ZL4WWWR?tag=pepius-21"
     },
     {
+      "title": "FACOM - Clé à Cliquet 1/4'' à Manche Hélicoïdal à Action Rapide - R.360PB - Cric à Poignée Rotative - Ergonomique Antidérapant - Incréments de 6° de Serrage Final - Verrouillage de Sécurité",
+      "old_price": 54.89,
+      "new_price": 33.15,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/41OUUTDLujL._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B0051ABEZY?tag=pepius-21"
+    },
+    {
       "title": "Makita Fil nylon Trèfle torsadé MAKITA 2 mm x 30 m - E-01775",
       "old_price": 7.61,
       "new_price": 4.58,
       "discount": 40,
       "image": "https://m.media-amazon.com/images/I/61SHxLiJqfL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B08BN6PFKT?tag=pepius-21"
-    },
-    {
-      "title": "FACOM - Clé à Cliquet 1/4'' à Manche Hélicoïdal à Action Rapide - R.360PB - Cric à Poignée Rotative - Ergonomique Antidérapant - Incréments de 6° de Serrage Final - Verrouillage de Sécurité",
-      "old_price": 54.89,
-      "new_price": 33.96,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/41OUUTDLujL._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B0051ABEZY?tag=pepius-21"
     },
     {
       "title": "Intex Excursion 4 bateau Unisex-Youth, Gris, 315 x 165 x 43 cm",
@@ -19471,14 +19471,6 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71QvWJIHHRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C2ZPQCFX?tag=pepius-21"
-    },
-    {
-      "title": "Pipishell Étagères Murales, Etagere Murale de 40 cm, étagères murales en Bois de Paulownia, Ensemble de 4 étagères en Bois pour Salle de Bain, Chambre, Bureau, Salon, Cuisine, etc. (Brun)",
-      "old_price": 43.99,
-      "new_price": 35.99,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/81mtVOjElfL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CX1H5JLK?tag=pepius-21"
     },
     {
       "title": "Command Languettes Accroches Tableaux Moyen Modèle, 4 x 2 Languettes, 5,4 kg, Blanc - Fixation sans Dommage",
@@ -19591,6 +19583,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
+    },
+    {
+      "title": "Pipishell Étagères Murales, Etagere Murale de 40 cm, étagères murales en Bois de Paulownia, Ensemble de 4 étagères en Bois pour Salle de Bain, Chambre, Bureau, Salon, Cuisine, etc. (Brun)",
+      "old_price": null,
+      "new_price": 35.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81mtVOjElfL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CX1H5JLK?tag=pepius-21"
     },
     {
       "title": "UGREEN 10K 8K 60Hz Câble HDMI 2.1 Certifié 4K 240Hz UHD Haute Vitesse 48Gbps 3D eARC HDR 10+ VRR HDCP 2.3 Dolby Vision Compatible avec Switch PS5 PS4 Xbox One X HDTV MacBook Pro Mac Mini M4 (2M)",
@@ -19739,7 +19739,7 @@
     {
       "title": "TURBO CHALLENGE - Rétro Vintage - Trotteur - 119183 - Roues Libres - Blanc - 25Kg Max - Plastique - Jouet Enfant - Cadeau - Anniversaire - Décoration - Chambre - À Partir de 12 mois",
       "old_price": null,
-      "new_price": 72.19,
+      "new_price": 59.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71Ok7cmKivL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJCMHJBQ?tag=pepius-21"
@@ -19787,7 +19787,7 @@
     {
       "title": "LEGO Superheroes DC L’Armure Robot de Batman - Jouet de Super-héros pour Enfants - Figurine XXL et Minifigurine à Collectionner - Idée Cadeau Créatif pour Les Garçons et Filles dès 6 Ans 76270",
       "old_price": null,
-      "new_price": 149.99,
+      "new_price": 29.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81n0TvcCYFL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWH3DDT9?tag=pepius-21"
