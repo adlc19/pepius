@@ -19339,8 +19339,8 @@
     {
       "title": "Sony, Lego Horizon Adventures, PS5, Jeu Plateforme-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 7, Pour PlayStation 5",
       "old_price": 69.99,
-      "new_price": 39.99,
-      "discount": 43,
+      "new_price": 39.49,
+      "discount": 44,
       "image": "https://m.media-amazon.com/images/I/81mVSO0rzPL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJD7YMX3?tag=pepius-21"
     },
@@ -19383,6 +19383,14 @@
       "discount": 40,
       "image": "https://m.media-amazon.com/images/I/51m965W-irL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07ZL4WWWR?tag=pepius-21"
+    },
+    {
+      "title": "FACOM - Clé à Cliquet 1/4'' à Manche Hélicoïdal à Action Rapide - R.360PB - Cric à Poignée Rotative - Ergonomique Antidérapant - Incréments de 6° de Serrage Final - Verrouillage de Sécurité",
+      "old_price": 54.89,
+      "new_price": 33.15,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/41OUUTDLujL._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B0051ABEZY?tag=pepius-21"
     },
     {
       "title": "Carte de 6 batteries Panasonic CR2032 Lithium 3V",
@@ -19538,9 +19546,9 @@
     },
     {
       "title": "AMD Ryzen 5 4500 Processeur (6 Coeurs/12 Threads, 65W DTP, Socket AM4, Cache 11Mo, jusqu'à 4.1 GHz Fréquence Boost, avec Ventilateur wraith Stealth)",
-      "old_price": 65.53,
-      "new_price": 66.46,
-      "discount": 0,
+      "old_price": 65.8,
+      "new_price": 63.29,
+      "discount": 4,
       "image": "https://m.media-amazon.com/images/I/91OZjLdueYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09VCJN7HZ?tag=pepius-21"
     },
@@ -19595,7 +19603,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 84.99,
+      "new_price": 79.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -19763,7 +19771,7 @@
     {
       "title": "TURBO CHALLENGE - Rétro Vintage - Trotteur - 119183 - Roues Libres - Blanc - 25Kg Max - Plastique - Jouet Enfant - Cadeau - Anniversaire - Décoration - Chambre - À Partir de 12 mois",
       "old_price": null,
-      "new_price": 59.9,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71Ok7cmKivL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CJCMHJBQ?tag=pepius-21"
@@ -19855,14 +19863,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81MoKKjJvGL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F3JCCCTR?tag=pepius-21"
-    },
-    {
-      "title": "Mario Kart World",
-      "old_price": null,
-      "new_price": 69.9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/91t8kRKLRXL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3J9FTLC?tag=pepius-21"
     }
   ]
 }
