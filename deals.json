@@ -20517,14 +20517,6 @@
       "link": "https://www.amazon.fr/dp/B09MTP5QXS?tag=pepius-21"
     },
     {
-      "title": "Intex Excursion 4 bateau Unisex-Youth, Gris, 315 x 165 x 43 cm",
-      "old_price": 144.38,
-      "new_price": 94.73,
-      "discount": 34,
-      "image": "https://m.media-amazon.com/images/I/51q5IMVBSkL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B00137UGIA?tag=pepius-21"
-    },
-    {
       "title": "UGREEN Nexode Batterie Externe Magnétique sans Fil 10000mAh 20W Power Bank Induction USB C Charge Rapide PD 3.0 Compatible avec iPhone 16 Plus Pro Max 15 14 13 12 Coque MagSafe (Noir)",
       "old_price": 44.99,
       "new_price": 29.99,
@@ -20621,6 +20613,14 @@
       "link": "https://www.amazon.fr/dp/B0C2ZPQCFX?tag=pepius-21"
     },
     {
+      "title": "Intex Excursion 4 bateau Unisex-Youth, Gris, 315 x 165 x 43 cm",
+      "old_price": 116.95,
+      "new_price": 94.73,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/51q5IMVBSkL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B00137UGIA?tag=pepius-21"
+    },
+    {
       "title": "Smartwares Détecteur de monoxyde de Carbone FGA-13041 - Capteur 10 Ans - avec écran et Bouton de Test",
       "old_price": 32.99,
       "new_price": 26.99,
@@ -20701,6 +20701,14 @@
       "link": "https://www.amazon.fr/dp/B0BN3YZ35V?tag=pepius-21"
     },
     {
+      "title": "Gears of War: Reloaded – PlayStation 5 (Disque)",
+      "old_price": null,
+      "new_price": 49.99,
+      "discount": 0,
+      "image": "Non disponible",
+      "link": "https://www.amazon.fr/dp/B0FCYSJYMF?tag=pepius-21"
+    },
+    {
       "title": "SONGMICS Trampoline Extérieur Enfant Diamètre 244/305/366/427 cm, Filet de Protection, Poteau Incurvé de 180 cm de Haut, Coussins de Sécurité, Échelle, Cadre en Acier",
       "old_price": null,
       "new_price": 129.99,
@@ -20759,9 +20767,9 @@
     {
       "title": "EASTPAK Padded PAK'R Sac à Dos, 24 L - Black (Noir) : Eastpak",
       "old_price": null,
-      "new_price": 34.99,
+      "new_price": 45,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71sjy9mR6yL._AC_SL1375_.jpg",
+      "image": "Non disponible",
       "link": "https://www.amazon.fr/dp/B000CRBEJ2?tag=pepius-21"
     },
     {
@@ -20823,7 +20831,7 @@
     {
       "title": "Amazon.fr - Batman : La Série TV Animée - 4 saisons [Blu-ray] - Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Dick Sebast, Bruce Timm, Eric Radomski, Kent Butterworth : DVD et Blu-ray",
       "old_price": null,
-      "new_price": 81.09,
+      "new_price": 0.54,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51FNhdnKYcS._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B07D51866D?tag=pepius-21"
