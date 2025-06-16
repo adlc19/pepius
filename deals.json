@@ -20453,14 +20453,6 @@
       "link": "https://www.amazon.fr/dp/B0DJD7YMX3?tag=pepius-21"
     },
     {
-      "title": "Skyn Elite : Lot de 20 Préservatifs sans latex Skynfeel pour Homme / Taille Régulière, Ultra-Fins et Doux, Forme Droite et Lisse / Largeur nominale 53mm",
-      "old_price": 18.9,
-      "new_price": 10.79,
-      "discount": 43,
-      "image": "https://m.media-amazon.com/images/I/71qkcyPFzlL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B079NM9MQS?tag=pepius-21"
-    },
-    {
       "title": "Tapo Prise Connectée WiFi, Suivi de consommation, 16A Type E, compatible avec Alexa et Google Home, Contrôler le radiateur, le chauffage, Économie d'énergie, Commande vocale, Tapo P110(FR)",
       "old_price": 16.9,
       "new_price": 9.99,
@@ -20701,6 +20693,14 @@
       "link": "https://www.amazon.fr/dp/B0BN3YZ35V?tag=pepius-21"
     },
     {
+      "title": "Gears of War: Reloaded – PlayStation 5 (Disque)",
+      "old_price": null,
+      "new_price": 39.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81txjpb50sL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0FCYSJYMF?tag=pepius-21"
+    },
+    {
       "title": "SONGMICS Trampoline Extérieur Enfant Diamètre 244/305/366/427 cm, Filet de Protection, Poteau Incurvé de 180 cm de Haut, Coussins de Sécurité, Échelle, Cadre en Acier",
       "old_price": null,
       "new_price": 129.99,
@@ -20883,14 +20883,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71f0YoWwymL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BPSWHH47?tag=pepius-21"
-    },
-    {
-      "title": "AOC Nouveau PC Portable 2025, écran 16,10 Pouces, Boîtier en métal rétroéclairé, Ordinateur Portable AMD Ryzen 7 5700U (8C/16T, jusqu'à 4,30 GHz),16 Go DDR4, 512 Go SSD M.2, WiFi 6,Type-C",
-      "old_price": null,
-      "new_price": 442.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71TBkhWH8AL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DRHZQT7G?tag=pepius-21"
     }
   ]
 }
