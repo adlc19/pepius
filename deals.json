@@ -20447,8 +20447,8 @@
     {
       "title": "Sony, Lego Horizon Adventures, PS5, Jeu Plateforme-Aventure, Édition Standard, Version Physique avec CD, En Français, 1 joueur, PEGI 7, Pour PlayStation 5",
       "old_price": 69.99,
-      "new_price": 39.49,
-      "discount": 44,
+      "new_price": 39.99,
+      "discount": 43,
       "image": "https://m.media-amazon.com/images/I/81mVSO0rzPL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DJD7YMX3?tag=pepius-21"
     },
@@ -20507,6 +20507,14 @@
       "discount": 38,
       "image": "https://m.media-amazon.com/images/I/71F-FwwavuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTQ68HGJ?tag=pepius-21"
+    },
+    {
+      "title": "Le Petit Marseillais | Gel Douche Homme Minéraux & Bois de Cèdre (flacon de 250 ml) – Formule 4 en 1 corps, cheveux, visage & barbe – 92 % d'ingrédients d'origine naturelle et pH neutre",
+      "old_price": 2.2,
+      "new_price": 1.39,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/71QvWJIHHRL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C2ZPQCFX?tag=pepius-21"
     },
     {
       "title": "Garmin Instinct 2, Graphite - Montre GPS robuste et connectée - Boîtier 45 mm",
@@ -20605,14 +20613,6 @@
       "link": "https://www.amazon.fr/dp/B092L9GF5N?tag=pepius-21"
     },
     {
-      "title": "Le Petit Marseillais | Gel Douche Homme Minéraux & Bois de Cèdre (flacon de 250 ml) – Formule 4 en 1 corps, cheveux, visage & barbe – 92 % d'ingrédients d'origine naturelle et pH neutre",
-      "old_price": 2.2,
-      "new_price": 1.79,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/71QvWJIHHRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C2ZPQCFX?tag=pepius-21"
-    },
-    {
       "title": "Intex Excursion 4 bateau Unisex-Youth, Gris, 315 x 165 x 43 cm",
       "old_price": 116.95,
       "new_price": 94.73,
@@ -20701,14 +20701,6 @@
       "link": "https://www.amazon.fr/dp/B0BN3YZ35V?tag=pepius-21"
     },
     {
-      "title": "Gears of War: Reloaded – PlayStation 5 (Disque)",
-      "old_price": null,
-      "new_price": 49.99,
-      "discount": 0,
-      "image": "Non disponible",
-      "link": "https://www.amazon.fr/dp/B0FCYSJYMF?tag=pepius-21"
-    },
-    {
       "title": "SONGMICS Trampoline Extérieur Enfant Diamètre 244/305/366/427 cm, Filet de Protection, Poteau Incurvé de 180 cm de Haut, Coussins de Sécurité, Échelle, Cadre en Acier",
       "old_price": null,
       "new_price": 129.99,
@@ -20767,9 +20759,9 @@
     {
       "title": "EASTPAK Padded PAK'R Sac à Dos, 24 L - Black (Noir) : Eastpak",
       "old_price": null,
-      "new_price": 45,
+      "new_price": 34.99,
       "discount": 0,
-      "image": "Non disponible",
+      "image": "https://m.media-amazon.com/images/I/71sjy9mR6yL._AC_SL1375_.jpg",
       "link": "https://www.amazon.fr/dp/B000CRBEJ2?tag=pepius-21"
     },
     {
