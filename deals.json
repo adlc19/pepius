@@ -20501,28 +20501,12 @@
       "link": "https://www.amazon.fr/dp/B07ZL4WWWR?tag=pepius-21"
     },
     {
-      "title": "Bialetti New Venus cafetière 6 tasses, poignée anti-brûlure, ne convient pas à l'induction, 6 tasses (235 ml), acier inoxydable, bronze",
-      "old_price": 49.9,
-      "new_price": 29.99,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/51fMGVWtO8L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09KZV5LW8?tag=pepius-21"
-    },
-    {
       "title": "Ninja Foodi StaySharp Bloc-couteaux avec Affûteur, Ensemble de Couteaux 6 Pièces Aiguisés: Couteau de chef, à pain, à trancher, universel, à éplucher et ciseaux, en Acier Inoxydable, K32006EU",
       "old_price": 179.99,
       "new_price": 109.9,
       "discount": 39,
       "image": "https://m.media-amazon.com/images/I/71iPe6I3EmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09P41RW38?tag=pepius-21"
-    },
-    {
-      "title": "auto easy klima Rechargez Facilement Votre climatisation avec ce kit 2-en-1 pour réfrigérant R134a. Il inclut Un Tuyau et Un manomètre pour Un Remplissage Rapide et précis.",
-      "old_price": 42.99,
-      "new_price": 26.49,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/71F-FwwavuL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DTQ68HGJ?tag=pepius-21"
     },
     {
       "title": "Garmin Instinct 2, Graphite - Montre GPS robuste et connectée - Boîtier 45 mm",
@@ -20541,6 +20525,14 @@
       "link": "https://www.amazon.fr/dp/B00137UGIA?tag=pepius-21"
     },
     {
+      "title": "UGREEN Nexode Batterie Externe Magnétique sans Fil 10000mAh 20W Power Bank Induction USB C Charge Rapide PD 3.0 Compatible avec iPhone 16 Plus Pro Max 15 14 13 12 Coque MagSafe (Noir)",
+      "old_price": 44.99,
+      "new_price": 29.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/51X+2NxBWxL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CH33F5P2?tag=pepius-21"
+    },
+    {
       "title": "Lotus Biscoff |Original Boîte Distributrice de 150 Biscuits | Emballé Individuellement | Vegan | Sans Colorant ni Arômes Artificiels | 938g",
       "old_price": 10.99,
       "new_price": 7.64,
@@ -20555,14 +20547,6 @@
       "discount": 29,
       "image": "https://m.media-amazon.com/images/I/31QoSl6phYL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B07J6JLW11?tag=pepius-21"
-    },
-    {
-      "title": "CASIO G-SHOCK Mod. G-Steel Tough Solar Bluetooth Black",
-      "old_price": 249,
-      "new_price": 180.03,
-      "discount": 28,
-      "image": "https://m.media-amazon.com/images/I/81oAyc47ztL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D9YRWQDZ?tag=pepius-21"
     },
     {
       "title": "UGREEN Nexode 30W Chargeur USB C Rapide avec GaN Tech Compatible avec iPhone 16 Plus Pro Max 15 14 13 12 11 Pixel 9 8 7a 6a Galaxy S24 Plus Ultra S23 A15 A05s MacBook Air iPad Pro Air Mini (Gris)",
@@ -20587,14 +20571,6 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/61N3Jesi55L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKG199K5?tag=pepius-21"
-    },
-    {
-      "title": "Lotus Papier Toilette Humide Natural Aloe - Sans colorant, ni parfum - Fibres FSC 100 % d’origine naturelle - 42 unités (Lot de 1)",
-      "old_price": 2.23,
-      "new_price": 1.69,
-      "discount": 24,
-      "image": "https://m.media-amazon.com/images/I/71J63x0sBZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07DPBZ7VT?tag=pepius-21"
     },
     {
       "title": "Eaton Onduleur Ellipse PRO 1200 FR - Line Interactive UPS - ELP1200FR - Puissance 1200VA (8 prises FR) - Régulation Tension (AVR) - UPS avec Afficheur et Interface USB (cable USB inclus) - Noir",
@@ -20669,6 +20645,14 @@
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
     },
     {
+      "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Argent",
+      "old_price": 1199,
+      "new_price": 1027.84,
+      "discount": 14,
+      "image": "https://m.media-amazon.com/images/I/71se+LJZybL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZDKFFBN?tag=pepius-21"
+    },
+    {
       "title": "Philips Ambilight 65PUS8109 Smart TV LED 4K - Écran 65 Pouces avec Plate-Forme Pixel Precise Ultra HD, Titan OS et Son Dolby Atmos, Fonctionne avec l’Assistant Vocal Alexa et Google - Chrome satiné",
       "old_price": 599,
       "new_price": 549,
@@ -20709,28 +20693,12 @@
       "link": "https://www.amazon.fr/dp/B07N2Q143T?tag=pepius-21"
     },
     {
-      "title": "Skechers Femme Flex Appeal 4.0 Brilliant View Basket",
-      "old_price": null,
-      "new_price": 38.25,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71BsWW9TQXL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08LS6FCYK?tag=pepius-21"
-    },
-    {
       "title": "AMD Ryzen 5 4500 Processeur (6 Coeurs/12 Threads, 65W DTP, Socket AM4, Cache 11Mo, jusqu'à 4.1 GHz Fréquence Boost, avec Ventilateur wraith Stealth)",
       "old_price": 65.8,
       "new_price": 67,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91OZjLdueYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09VCJN7HZ?tag=pepius-21"
-    },
-    {
-      "title": "New Era Golden State Warriors NBA The League Bleu 9Forty Casquette Ajustable : New Era",
-      "old_price": null,
-      "new_price": 26.94,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61WhshLceDL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B07V5QTW5Y?tag=pepius-21"
     },
     {
       "title": "ASelected Corde à sauter réglable pour l'exercice et brûler les graisses – Câble métallique revêtu de PVC – Poignée en mousse à mémoire de forme – Rouge",
@@ -20767,7 +20735,7 @@
     {
       "title": "Star Wars Jedi: Survivor | PS5 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 84.99,
+      "new_price": 99.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
@@ -20815,18 +20783,10 @@
     {
       "title": "Amazon.fr - Batman : La Série TV Animée - 4 saisons [Blu-ray] - Kevin Altieri, Boyd Kirkland, Frank Paur, Dan Riba, Dick Sebast, Bruce Timm, Eric Radomski, Kent Butterworth : DVD et Blu-ray",
       "old_price": null,
-      "new_price": 0.54,
+      "new_price": 81.09,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51FNhdnKYcS._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B07D51866D?tag=pepius-21"
-    },
-    {
-      "title": "VEVOR Sac à dos tactique, 45 L, sac d'assaut militaire avec design Molle et 3 compartiments, sac de sport pour homme et femme, sac à dos de matériel de tir pour aventure en plein air, randonnée, noir",
-      "old_price": null,
-      "new_price": 25.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81flsjhDVeL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DM1Y79GQ?tag=pepius-21"
     },
     {
       "title": "Stanley Flip Straw 2.0 Gourde Isotherme Avec Paille 0.7L - 10 Heures Froide - 2 Jours Glacée - Acier Inoxydable - Sans BPA - Etanche - Lavable Au Lave-Vaisselle - Thermos - Poolside",
@@ -20851,30 +20811,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81GXuLECLWL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C7VF9YCX?tag=pepius-21"
-    },
-    {
-      "title": "adidas Entrada 22 Sweat Hoodie Hooded Sweat Homme (Lot de 1)",
-      "old_price": null,
-      "new_price": 27.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/91LQs9r6H0L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BV78XZQ4?tag=pepius-21"
-    },
-    {
-      "title": "FALARY Chaussette Hommes Femme de Sport 10 Paires Chaussettes Basses Coton Soquette",
-      "old_price": null,
-      "new_price": 14.24,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81IDLXDd8JL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B087CSB9DC?tag=pepius-21"
-    },
-    {
-      "title": "adidas Linear Ankle Cushioned Socks 3 Pairs Chausettes basses Mixte (lot de 1)",
-      "old_price": null,
-      "new_price": 9,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71f0YoWwymL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BPSWHH47?tag=pepius-21"
     },
     {
       "title": "AOC Nouveau PC Portable 2025, écran 16,10 Pouces, Boîtier en métal rétroéclairé, Ordinateur Portable AMD Ryzen 7 5700U (8C/16T, jusqu'à 4,30 GHz),16 Go DDR4, 512 Go SSD M.2, WiFi 6,Type-C",
