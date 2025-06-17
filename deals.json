@@ -20911,14 +20911,6 @@
       "link": "https://www.amazon.fr/dp/B0DJD7YMX3?tag=pepius-21"
     },
     {
-      "title": "Taurus - Presse-agrumes Électrique Citrus Compact | Double Rotation | Cône Extra Large | Démontable | Compatible Lave-vaisselle | Rangement Compact | Sans BPA | 800 ml",
-      "old_price": 26.2,
-      "new_price": 15.74,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/61X2Q6BB4JL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D6NMQXYC?tag=pepius-21"
-    },
-    {
       "title": "Ninja Foodi StaySharp Bloc-couteaux avec Affûteur, Ensemble de Couteaux 6 Pièces Aiguisés: Couteau de chef, à pain, à trancher, universel, à éplucher et ciseaux, en Acier Inoxydable, K32006EU",
       "old_price": 179.99,
       "new_price": 109.9,
@@ -21111,14 +21103,6 @@
       "link": "https://www.amazon.fr/dp/B09GKDQD8Y?tag=pepius-21"
     },
     {
-      "title": "MERACH Tapis de Marche, 3 en 1 Tapis de Course, 2-6KM/H Walking Pad, Tapis de Marche Bureau, Treadmill Compact pour la Maison et Le Bureau, Moteur 2.5 HP, Télécommande, Affichage LED, Capacité 120kg",
-      "old_price": 199.99,
-      "new_price": 179.99,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/61ZFS9+OvML._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F7XNW1TT?tag=pepius-21"
-    },
-    {
       "title": "Philips Ambilight 65PUS8109 Smart TV LED 4K - Écran 65 Pouces avec Plate-Forme Pixel Precise Ultra HD, Titan OS et Son Dolby Atmos, Fonctionne avec l’Assistant Vocal Alexa et Google - Chrome satiné",
       "old_price": 599,
       "new_price": 549,
@@ -21141,6 +21125,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61PdFcJf5ML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGXFNVLD?tag=pepius-21"
+    },
+    {
+      "title": "MERACH Tapis de Marche, 3 en 1 Tapis de Course, 2-6KM/H Walking Pad, Tapis de Marche Bureau, Treadmill Compact pour la Maison et Le Bureau, Moteur 2.5 HP, Télécommande, Affichage LED, Capacité 120kg",
+      "old_price": 199.99,
+      "new_price": 189.99,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/61ZFS9+OvML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F7XNW1TT?tag=pepius-21"
     },
     {
       "title": "Rowenta Turbo Silence, Ventilateur sur pied, Silencieux, Puissant, Design durable, Écoénergétique, Timer - 12h VU5650F0 et VU5640F2",
@@ -21225,7 +21217,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": 15,
-      "new_price": 16.15,
+      "new_price": 15.72,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
@@ -21249,7 +21241,7 @@
     {
       "title": "AMD Ryzen 5 4500 Processeur (6 Coeurs/12 Threads, 65W DTP, Socket AM4, Cache 11Mo, jusqu'à 4.1 GHz Fréquence Boost, avec Ventilateur wraith Stealth)",
       "old_price": null,
-      "new_price": 66.21,
+      "new_price": 67,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91OZjLdueYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09VCJN7HZ?tag=pepius-21"
