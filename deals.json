@@ -2117,14 +2117,6 @@
       "link": "https://www.amazon.fr/dp/B0DCNSZCYT?tag=pepius-21"
     },
     {
-      "title": "SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1)",
-      "old_price": 15.15,
-      "new_price": 14.29,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/71HEG21YF1L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B7NTY2S6?tag=pepius-21"
-    },
-    {
       "title": "MAMMOTION Tondeuse Robot YUKA Mini 500 avec Garage Combinées, NetRTK+Vision, Aucune Antenne RTK Requise, Recommandé 500 m², Max. 700 m², Pente à 50%, avec Module 4G",
       "old_price": 949,
       "new_price": 899,
@@ -2155,6 +2147,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
+    },
+    {
+      "title": "Patriot Viper Xtreme 5 DDR5 RAM 32 Go (2X16 Go) 6400MT/s CL32 UDIMM Desktop Gaming Memory Kit - PVX532G64C32K",
+      "old_price": null,
+      "new_price": 86.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61eUoccyMAL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJ1W1T5J?tag=pepius-21"
     },
     {
       "title": "Stanley 0-55-114 Pied de biche griffes étroites, Argent, 250 mm",
@@ -2245,6 +2245,14 @@
       "link": "https://www.amazon.fr/dp/B0C8ZDDB2G?tag=pepius-21"
     },
     {
+      "title": "SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1)",
+      "old_price": null,
+      "new_price": 15.89,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71HEG21YF1L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B7NTY2S6?tag=pepius-21"
+    },
+    {
       "title": "Ventilateur de Plafond avec Lumière, BLITZWILL Ø132cm Ventilateurs de Plafond avec Éclairage LED, Contrôle App&Télécommande, 6 Vitesses, 3 Couleurs Dimmables, 3 Pales, Silencieux, Été-Hiver, Minuterie",
       "old_price": null,
       "new_price": 135.99,
@@ -2303,7 +2311,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": null,
-      "new_price": 15.71,
+      "new_price": 15.88,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
