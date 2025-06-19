@@ -1933,20 +1933,20 @@
       "link": "https://www.amazon.fr/dp/B08D9QHCXR?tag=pepius-21"
     },
     {
+      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
+      "old_price": 57.53,
+      "new_price": 35,
+      "discount": 39,
+      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
+    },
+    {
       "title": "Ninja Foodi StaySharp Bloc-couteaux avec Affûteur, Ensemble de Couteaux 6 Pièces Aiguisés: Couteau de chef, à pain, à trancher, universel, à éplucher et ciseaux, en Acier Inoxydable, K32006EU",
       "old_price": 179.99,
       "new_price": 109.9,
       "discount": 39,
       "image": "https://m.media-amazon.com/images/I/71iPe6I3EmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09P41RW38?tag=pepius-21"
-    },
-    {
-      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
-      "old_price": 57.53,
-      "new_price": 35.94,
-      "discount": 38,
-      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
     },
     {
       "title": "Garmin Instinct 2, Graphite - Montre GPS robuste et connectée - Boîtier 45 mm",
@@ -2031,7 +2031,7 @@
     {
       "title": "Motorola Moto G84 5G 8 Go/256 Go Gris (Midnight Blue) Double SIM XT2347-2",
       "old_price": 190.75,
-      "new_price": 145,
+      "new_price": 145.1,
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/511tvwhIhGL._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0DPTB5PZ9?tag=pepius-21"
@@ -2307,6 +2307,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
+    },
+    {
+      "title": "SONGMICS Trampoline Extérieur Enfant Diamètre 244/305/366/427 cm, Filet de Protection, Poteau Incurvé de 180 cm de Haut, Coussins de Sécurité, Échelle, Cadre en Acier",
+      "old_price": null,
+      "new_price": 199.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/91WCsI4RO0L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07N2Q143T?tag=pepius-21"
     }
   ]
 }
