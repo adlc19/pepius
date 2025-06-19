@@ -2069,14 +2069,6 @@
       "link": "https://www.amazon.fr/dp/B0D6WCX277?tag=pepius-21"
     },
     {
-      "title": "Motul - Nettoyant Injecteur Essence - Additif Curatif pour Moteurs Essence - Performance - Réduction Consommation et Émissions - Idéal Avant Contrôle Technique - Injector Cleaner Gasoline - 300 ML",
-      "old_price": 13.25,
-      "new_price": 10.98,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/61NGXpAvBJL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09J6D2CNZ?tag=pepius-21"
-    },
-    {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Argent",
       "old_price": 1199,
       "new_price": 1027.84,
@@ -2099,6 +2091,14 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/51yVuZ0ufPL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DCNSZCYT?tag=pepius-21"
+    },
+    {
+      "title": "SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1)",
+      "old_price": 15.15,
+      "new_price": 14.29,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/71HEG21YF1L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B7NTY2S6?tag=pepius-21"
     },
     {
       "title": "MAMMOTION Tondeuse Robot YUKA Mini 500 avec Garage Combinées, NetRTK+Vision, Aucune Antenne RTK Requise, Recommandé 500 m², Max. 700 m², Pente à 50%, avec Module 4G",
@@ -2229,14 +2229,6 @@
       "link": "https://www.amazon.fr/dp/B0C8ZDDB2G?tag=pepius-21"
     },
     {
-      "title": "SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1)",
-      "old_price": 15.15,
-      "new_price": 15.89,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71HEG21YF1L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B7NTY2S6?tag=pepius-21"
-    },
-    {
       "title": "Ventilateur de Plafond avec Lumière, BLITZWILL Ø132cm Ventilateurs de Plafond avec Éclairage LED, Contrôle App&Télécommande, 6 Vitesses, 3 Couleurs Dimmables, 3 Pales, Silencieux, Été-Hiver, Minuterie",
       "old_price": null,
       "new_price": 135.99,
@@ -2295,7 +2287,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": 15,
-      "new_price": 15.33,
+      "new_price": 15,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
