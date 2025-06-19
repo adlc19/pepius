@@ -2077,6 +2077,14 @@
       "link": "https://www.amazon.fr/dp/B0DZDKFFBN?tag=pepius-21"
     },
     {
+      "title": "Xbox Elite Wireless Controller Series 2 – Core Edition",
+      "old_price": 149.99,
+      "new_price": 129.99,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/61PI3iQMaqL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B9GJLV2D?tag=pepius-21"
+    },
+    {
       "title": "Philips Ambilight 65PUS8109 Smart TV LED 4K - Écran 65 Pouces avec Plate-Forme Pixel Precise Ultra HD, Titan OS et Son Dolby Atmos, Fonctionne avec l’Assistant Vocal Alexa et Google - Chrome satiné",
       "old_price": 599,
       "new_price": 549,
@@ -2287,7 +2295,7 @@
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
       "old_price": 15,
-      "new_price": 15,
+      "new_price": 15.11,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
