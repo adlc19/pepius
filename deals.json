@@ -2045,14 +2045,6 @@
       "link": "https://www.amazon.fr/dp/B0CD28HHML?tag=pepius-21"
     },
     {
-      "title": "Kingston DataTraveler Micro clé USB 256GB 200MB/s Métal USB 3.2 Gen 1 - DTMC3G2/256GB",
-      "old_price": 31.99,
-      "new_price": 25,
-      "discount": 22,
-      "image": "https://m.media-amazon.com/images/I/51Sg67QgFNL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B1W3W6D8?tag=pepius-21"
-    },
-    {
       "title": "DURATECH Kit d'Outils de Réparation pour Vélo 31 pièces avec Mallette Pratique, Ensemble d'Outils de Vélo Portable pour la Réparation des Pneus, des Chaînes et du Pédalier",
       "old_price": 37.99,
       "new_price": 29.99,
@@ -2067,6 +2059,14 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/71V9m6Rha-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CS3NX4QG?tag=pepius-21"
+    },
+    {
+      "title": "Kingston DataTraveler Micro clé USB 256GB 200MB/s Métal USB 3.2 Gen 1 - DTMC3G2/256GB",
+      "old_price": 31.99,
+      "new_price": 25.78,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/51Sg67QgFNL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B1W3W6D8?tag=pepius-21"
     },
     {
       "title": "SanDisk SSD PLUS 480 GB SATA III 2.5-Inch Internal Solid State Drive, SDSSDA-480G-G26 , Black",
@@ -2091,14 +2091,6 @@
       "discount": 17,
       "image": "https://m.media-amazon.com/images/I/61NGXpAvBJL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09J6D2CNZ?tag=pepius-21"
-    },
-    {
-      "title": "AMD Ryzen 5 5600G Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM4, Cache 19Mo, jusqu'à 4,4Ghz Fréquence Boost, Ventilateur wraith Stealth)",
-      "old_price": 139.06,
-      "new_price": 115.88,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/51f2hkWjTlL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B092L9GF5N?tag=pepius-21"
     },
     {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Argent",
@@ -2173,6 +2165,14 @@
       "link": "https://www.amazon.fr/dp/B000A24RCA?tag=pepius-21"
     },
     {
+      "title": "Under Armour Homme UA Charged Pursuit 3 BL Chaussures de Course",
+      "old_price": null,
+      "new_price": 53.23,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CkL9HH8xL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BGQNH1HW?tag=pepius-21"
+    },
+    {
       "title": "Casio Calculatrice Scolaire FX-92 collège classwiz",
       "old_price": 19.97,
       "new_price": 19.97,
@@ -2187,6 +2187,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/7169HmUTqkL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CXCQCFC7?tag=pepius-21"
+    },
+    {
+      "title": "wearPro Lunettes de Soleil Homme Polarisées Pour Hommes et Femmes Protection Style Classique Lunettes Ultralégères Verres Anti-Reflets Conduite Pêche Sports Avec Lunettes de Soleil",
+      "old_price": null,
+      "new_price": 19.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/511zZ1AtdRL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DPHK8NL4?tag=pepius-21"
     },
     {
       "title": "Dirty: Sonic Youth, Sonic Youth",
@@ -2213,6 +2221,14 @@
       "link": "https://www.amazon.fr/dp/B0B9X1RY8G?tag=pepius-21"
     },
     {
+      "title": "Pansements universel famille Mercurochrome - x50",
+      "old_price": null,
+      "new_price": 6.55,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61mr6JxxO-L._AC_SL1262_.jpg",
+      "link": "https://www.amazon.fr/dp/B00G3IBKDO?tag=pepius-21"
+    },
+    {
       "title": "JIZZU Horloge Murale Apprentissage pour Enfants, Ø 30cm Pendule Murale Silencieuse Colorée avec 3D Chiffres Facile à Lire, Horloge Murale Digitale pour Ecole Chambre Enfant Salon",
       "old_price": null,
       "new_price": 21.08,
@@ -2230,7 +2246,7 @@
     },
     {
       "title": "SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1)",
-      "old_price": null,
+      "old_price": 15.15,
       "new_price": 15.89,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71HEG21YF1L._AC_SL1500_.jpg",
@@ -2261,6 +2277,14 @@
       "link": "https://www.amazon.fr/dp/B0D4NLTM6R?tag=pepius-21"
     },
     {
+      "title": "New Era Golden State Warriors NBA The League Bleu 9Forty Casquette Ajustable : New Era",
+      "old_price": null,
+      "new_price": 32,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/513IucOw0kL._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B0141D0T0C?tag=pepius-21"
+    },
+    {
       "title": "MYCARBON Moustiquaire Porte-Fenêtre Magnétique 120x210cm Fermeture Automatique Maille Ultra Fine Rideau Aimanté Porte Coulissante Anti Mouche Installation Sans Perçage avec Ruban Adhésif, Noir",
       "old_price": null,
       "new_price": 23.99,
@@ -2286,8 +2310,8 @@
     },
     {
       "title": "SanDisk Ultra Fit 128 Go Flash Drive, (Clé USB 3.2, Idéale pour ordinateurs portables et consoles, des vitesses allant jusqu'à 400 Mo/s, logiciel de récupération des données RescuePRO Deluxe) Noir",
-      "old_price": null,
-      "new_price": 15,
+      "old_price": 15,
+      "new_price": 15.33,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81WJgkjTGML._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07855LJ99?tag=pepius-21"
