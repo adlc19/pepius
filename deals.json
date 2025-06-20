@@ -2281,8 +2281,8 @@
     {
       "title": "It Takes Two PCWin | Téléchargement code EA App - Origin | Jeu Vidéo | Français",
       "old_price": 34.99,
-      "new_price": 9.99,
-      "discount": 71,
+      "new_price": 8.74,
+      "discount": 75,
       "image": "https://m.media-amazon.com/images/I/815NG0ZvHrL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08T6HJ3MX?tag=pepius-21"
     },
@@ -2471,14 +2471,6 @@
       "link": "https://www.amazon.fr/dp/B0DCNSZCYT?tag=pepius-21"
     },
     {
-      "title": "GetD Lunettes AI,Assistant AI optimisé par ChatGPT,Traduction AI,Lunettes intelligentes,Lunettes de soleil polarisées,Lunettes de musique Bluetooth hommes/femmes (Black Frame+Clear Lens)",
-      "old_price": 54.14,
-      "new_price": 51.43,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/519bOHNclCL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DSC3LBWW?tag=pepius-21"
-    },
-    {
       "title": "Casio Calculatrice Scolaire FX-92 collège classwiz",
       "old_price": 19.98,
       "new_price": 18.99,
@@ -2575,28 +2567,12 @@
       "link": "https://www.amazon.fr/dp/B000A24RCA?tag=pepius-21"
     },
     {
-      "title": "Under Armour Homme UA Charged Pursuit 3 BL Chaussures de Course",
-      "old_price": null,
-      "new_price": 51.45,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71CkL9HH8xL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BGQNH1HW?tag=pepius-21"
-    },
-    {
       "title": "ORICO Adaptateur de Boîtier SSD M.2 NVMe 40 Gbps, Ventilateur M.2 Intégré, Boîtier Externe pour M-Key SSD 2230/2242/2260/2280, Prend en Charge Jusqu'à 8 to, Compatible Thunderbolt 3/4 USB4",
       "old_price": 78.99,
       "new_price": 78.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/7169HmUTqkL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CXCQCFC7?tag=pepius-21"
-    },
-    {
-      "title": "wearPro Lunettes de Soleil Homme Polarisées Pour Hommes et Femmes Protection Style Classique Lunettes Ultralégères Verres Anti-Reflets Conduite Pêche Sports Avec Lunettes de Soleil",
-      "old_price": null,
-      "new_price": 19.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/511zZ1AtdRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DPHK8NL4?tag=pepius-21"
     },
     {
       "title": "STABILO OHPen - Marqueur permanent - Pochette x 8 marqueurs (encre permanente/pointe fine 0,7mm)",
@@ -2641,7 +2617,7 @@
     {
       "title": "SanDisk 128 Go Ultra microSDXC, Carte micro sd + adaptateur SD (Pour Smartphone et Tablette, Video Full HDD, jusqu'à 140 Mo/s, UHS-I, La performance A1, Class 10, U1)",
       "old_price": 15.15,
-      "new_price": 15.57,
+      "new_price": 15.38,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71HEG21YF1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B7NTY2S6?tag=pepius-21"
@@ -2653,14 +2629,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51FJBtyvbSL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CXY1ZXD3?tag=pepius-21"
-    },
-    {
-      "title": "MERACH Tapis de Marche, 3 en 1 Tapis de Course, 2-6KM/H Walking Pad, Tapis de Marche Bureau, Treadmill Compact pour la Maison et Le Bureau, Moteur 2.5 HP, Télécommande, Affichage LED, Capacité 120kg",
-      "old_price": null,
-      "new_price": 189.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61ZFS9+OvML._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F7XNW1TT?tag=pepius-21"
     }
   ]
 }
