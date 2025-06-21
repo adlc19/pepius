@@ -2681,6 +2681,14 @@
       "link": "https://www.amazon.fr/dp/B09WJ3HYBW?tag=pepius-21"
     },
     {
+      "title": "Spray antiseptique incolore Mercurochrome - 100 ml",
+      "old_price": 3.75,
+      "new_price": 1.96,
+      "discount": 48,
+      "image": "https://m.media-amazon.com/images/I/71QV7kfoSHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B001AO2MNS?tag=pepius-21"
+    },
+    {
       "title": "Silent Hill 2 - PS5",
       "old_price": 69.99,
       "new_price": 39.99,
@@ -2769,14 +2777,6 @@
       "link": "https://www.amazon.fr/dp/B0DX1SVMJ5?tag=pepius-21"
     },
     {
-      "title": "Kingston DataTraveler Micro clé USB 256GB 200MB/s Métal USB 3.2 Gen 1 - DTMC3G2/256GB",
-      "old_price": 31.99,
-      "new_price": 25,
-      "discount": 22,
-      "image": "https://m.media-amazon.com/images/I/51Sg67QgFNL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0B1W3W6D8?tag=pepius-21"
-    },
-    {
       "title": "DURATECH Kit d'Outils de Réparation pour Vélo 31 pièces avec Mallette Pratique, Ensemble d'Outils de Vélo Portable pour la Réparation des Pneus, des Chaînes et du Pédalier",
       "old_price": 37.99,
       "new_price": 29.99,
@@ -2791,6 +2791,14 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/71V9m6Rha-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CS3NX4QG?tag=pepius-21"
+    },
+    {
+      "title": "Kingston DataTraveler Micro clé USB 256GB 200MB/s Métal USB 3.2 Gen 1 - DTMC3G2/256GB",
+      "old_price": 31.99,
+      "new_price": 25.78,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/51Sg67QgFNL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B1W3W6D8?tag=pepius-21"
     },
     {
       "title": "Outer Wilds: Archaeologist Edition - Switch",
@@ -2971,7 +2979,7 @@
     {
       "title": "STABILO OHPen - Marqueur permanent - Pochette x 8 marqueurs (encre permanente/pointe fine 0,7mm)",
       "old_price": null,
-      "new_price": 11.97,
+      "new_price": 11.96,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81AJj1dBkIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000K69LBS?tag=pepius-21"
