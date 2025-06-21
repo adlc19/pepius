@@ -2738,7 +2738,7 @@
     },
     {
       "title": "Amazon.fr : TotalEnergies Quartz Ineo Long Life 5W-30, Huile moteur essence et Diesel, 5 litres",
-      "old_price": 50.9,
+      "old_price": 50.55,
       "new_price": 35.63,
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/81TzzSRebrL._AC_SL1500_.jpg",
@@ -2759,14 +2759,6 @@
       "discount": 28,
       "image": "https://m.media-amazon.com/images/I/71D6im2nBpS._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07X4995J3?tag=pepius-21"
-    },
-    {
-      "title": "Xbox Series X",
-      "old_price": 599.99,
-      "new_price": 447,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/51yjriFNPEL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08H93ZRLL?tag=pepius-21"
     },
     {
       "title": "Smart Air Tag Traceur Lot de 4, Compatible avec Apple Localiser (iOS Uniquement), Air Localisateurs Tags pour Valises Portefeuilles Clés Sacs, 100dB Bip, Suivi Mondial, IP68, Batterie Remplaçable",
@@ -2881,6 +2873,14 @@
       "link": "https://www.amazon.fr/dp/B0D2R6DDCB?tag=pepius-21"
     },
     {
+      "title": "Xbox Series X",
+      "old_price": 447,
+      "new_price": 447,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51yjriFNPEL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08H93ZRLL?tag=pepius-21"
+    },
+    {
       "title": "Högert Technik - Boite à Outils, Outils Bricolage, Mallette à Outils, Trousse a Outils, Jeu de Douilles et Équipement 1/4\", Mécanisme à Cliquet avec 72 Dents - HT1R462, 38 Pièces",
       "old_price": null,
       "new_price": 30.64,
@@ -2915,7 +2915,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - PS5",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
@@ -2963,7 +2963,7 @@
     {
       "title": "STABILO OHPen - Marqueur permanent - Pochette x 8 marqueurs (encre permanente/pointe fine 0,7mm)",
       "old_price": null,
-      "new_price": 11.95,
+      "new_price": 11.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81AJj1dBkIL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B000K69LBS?tag=pepius-21"
