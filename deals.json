@@ -3091,6 +3091,14 @@
       "link": "https://www.amazon.fr/dp/B0B4KNN42H?tag=pepius-21"
     },
     {
+      "title": "Stanley Stmt0-74101 Composition d'Outils mix Dans Un Sac Souple - mesure - marteau - Tournevis Porte-Embouts - Tournevis de Précision - Pinces - Niveau… - Dimensions : 33 x 20 x 16.5 cm - 38 Pièces",
+      "old_price": 33,
+      "new_price": 22.49,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/71XIhobyzjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B01LZU2OJM?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr : TotalEnergies Quartz 9000 Diesel 5W-40, Huile moteur, 5 litres",
       "old_price": 37.9,
       "new_price": 26.53,
@@ -3179,6 +3187,14 @@
       "link": "https://www.amazon.fr/dp/B0F3CGL72N?tag=pepius-21"
     },
     {
+      "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
+      "old_price": null,
+      "new_price": 68.19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
+    },
+    {
       "title": "Mixa Solaire Peau Sensible - Spray Solaire Très Haute Protection SPF50+ UVA, UVA longs, UVB - Peaux Fragiles Enfants - Résistant à l'Eau - Anti-sable - Hypoallergénique, Sans Parfum - 150ml (Lot de 3)",
       "old_price": null,
       "new_price": 18.79,
@@ -3193,14 +3209,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91r0dvXhNGL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/1526626586?tag=pepius-21"
-    },
-    {
-      "title": "Orient Horloge FAC00003W0",
-      "old_price": null,
-      "new_price": 209.89,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71gxZMwX50L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07DY5XLR5?tag=pepius-21"
     },
     {
       "title": "MAYLINE Pince à sertir professionnelle RJ45 avec connecteur Cat6 RJ45 Outils Kit Réseau, Entretien du Kit LAN Testeur à sertir Sertissage pour câble réseau (blanc)",
@@ -3285,7 +3293,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - Switch",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
@@ -3329,14 +3337,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71CkL9HH8xL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BGQNH1HW?tag=pepius-21"
-    },
-    {
-      "title": "ORICO Adaptateur de Boîtier SSD M.2 NVMe 40 Gbps, Ventilateur M.2 Intégré, Boîtier Externe pour M-Key SSD 2230/2242/2260/2280, Prend en Charge Jusqu'à 8 to, Compatible Thunderbolt 3/4 USB4",
-      "old_price": null,
-      "new_price": 89.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/7169HmUTqkL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CXCQCFC7?tag=pepius-21"
     }
   ]
 }
