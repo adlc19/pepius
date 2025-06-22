@@ -3123,14 +3123,6 @@
       "link": "https://www.amazon.fr/dp/B0DX1SVMJ5?tag=pepius-21"
     },
     {
-      "title": "Outer Wilds: Archaeologist Edition - Switch",
-      "old_price": 29.99,
-      "new_price": 24.99,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
-    },
-    {
       "title": "PETIT ISLAND SWITCH",
       "old_price": 29.99,
       "new_price": 24.99,
@@ -3273,6 +3265,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61kdK2NImiL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D7HGMMFC?tag=pepius-21"
+    },
+    {
+      "title": "Outer Wilds: Archaeologist Edition - Switch",
+      "old_price": null,
+      "new_price": 49.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
     },
     {
       "title": "Patriot Viper Xtreme 5 DDR5 RAM 32 Go (2X16 Go) 7000MT/s CL32 UDIMM Desktop Gaming Memory Kit - PVX532G70C32K",
