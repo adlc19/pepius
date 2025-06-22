@@ -3027,14 +3027,6 @@
       "link": "https://www.amazon.fr/dp/B09WJ3HYBW?tag=pepius-21"
     },
     {
-      "title": "Spray antiseptique incolore Mercurochrome - 100 ml",
-      "old_price": 3.75,
-      "new_price": 1.96,
-      "discount": 48,
-      "image": "https://m.media-amazon.com/images/I/71QV7kfoSHL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B001AO2MNS?tag=pepius-21"
-    },
-    {
       "title": "Silent Hill 2 - PS5",
       "old_price": 69.99,
       "new_price": 39.99,
@@ -3107,6 +3099,14 @@
       "link": "https://www.amazon.fr/dp/B0C9N5ZX4C?tag=pepius-21"
     },
     {
+      "title": "Spray antiseptique incolore Mercurochrome - 100 ml",
+      "old_price": 3.75,
+      "new_price": 2.65,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/71QV7kfoSHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B001AO2MNS?tag=pepius-21"
+    },
+    {
       "title": "GROHE Blue Poubelle de Cuisine, Tri sélectif, Double Compartiment 2X15L, Installation au sol derrière une porte battante d'au moins 30cm, Compatible avec GROHE Blue Home, Gris, 40855000",
       "old_price": 88.2,
       "new_price": 63.48,
@@ -3121,14 +3121,6 @@
       "discount": 25,
       "image": "https://m.media-amazon.com/images/I/61FUfxXUf7L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DX1SVMJ5?tag=pepius-21"
-    },
-    {
-      "title": "Outer Wilds: Archaeologist Edition - Switch",
-      "old_price": 29.99,
-      "new_price": 24.99,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
     },
     {
       "title": "PETIT ISLAND SWITCH",
@@ -3267,6 +3259,14 @@
       "link": "https://www.amazon.fr/dp/B0D7HGMMFC?tag=pepius-21"
     },
     {
+      "title": "Outer Wilds: Archaeologist Edition - Switch",
+      "old_price": null,
+      "new_price": 49.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
+    },
+    {
       "title": "Patriot Viper Xtreme 5 DDR5 RAM 32 Go (2X16 Go) 7000MT/s CL32 UDIMM Desktop Gaming Memory Kit - PVX532G70C32K",
       "old_price": null,
       "new_price": 87.99,
@@ -3277,7 +3277,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - PS5",
       "old_price": null,
-      "new_price": 5.64,
+      "new_price": 5.57,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
