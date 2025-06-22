@@ -3027,6 +3027,14 @@
       "link": "https://www.amazon.fr/dp/B09WJ3HYBW?tag=pepius-21"
     },
     {
+      "title": "Spray antiseptique incolore Mercurochrome - 100 ml",
+      "old_price": 3.75,
+      "new_price": 1.96,
+      "discount": 48,
+      "image": "https://m.media-amazon.com/images/I/71QV7kfoSHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B001AO2MNS?tag=pepius-21"
+    },
+    {
       "title": "Silent Hill 2 - PS5",
       "old_price": 69.99,
       "new_price": 39.99,
@@ -3107,14 +3115,6 @@
       "link": "https://www.amazon.fr/dp/B0C9N5ZX4C?tag=pepius-21"
     },
     {
-      "title": "Spray antiseptique incolore Mercurochrome - 100 ml",
-      "old_price": 3.75,
-      "new_price": 2.65,
-      "discount": 29,
-      "image": "https://m.media-amazon.com/images/I/71QV7kfoSHL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B001AO2MNS?tag=pepius-21"
-    },
-    {
       "title": "GROHE Blue Poubelle de Cuisine, Tri sélectif, Double Compartiment 2X15L, Installation au sol derrière une porte battante d'au moins 30cm, Compatible avec GROHE Blue Home, Gris, 40855000",
       "old_price": 88.2,
       "new_price": 63.48,
@@ -3163,6 +3163,14 @@
       "link": "https://www.amazon.fr/dp/B0DCNSZCYT?tag=pepius-21"
     },
     {
+      "title": "GetD Lunettes AI,Assistant AI optimisé par ChatGPT,Traduction AI,Lunettes intelligentes,Lunettes de soleil polarisées,Lunettes de musique Bluetooth hommes/femmes (Black Frame+Clear Lens)",
+      "old_price": 54.14,
+      "new_price": 51.43,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/519bOHNclCL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DSC5LG3K?tag=pepius-21"
+    },
+    {
       "title": "Casio Calculatrice Scolaire FX-92 collège classwiz",
       "old_price": 19.98,
       "new_price": 18.89,
@@ -3177,6 +3185,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61bkLDClIwL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F3CGL72N?tag=pepius-21"
+    },
+    {
+      "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
+      "old_price": null,
+      "new_price": 9.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51WpAn-YF8L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07RL6YQCK?tag=pepius-21"
     },
     {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
@@ -3219,12 +3235,28 @@
       "link": "https://www.amazon.fr/dp/B085QN64XP?tag=pepius-21"
     },
     {
+      "title": "Levi's Lvg SS Batwing Tee T-Shirt Fille",
+      "old_price": null,
+      "new_price": 18,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51V09-pa9pL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CHKHWVN4?tag=pepius-21"
+    },
+    {
       "title": "ACEMAGIC W1 Mini PC - AMD Ryzen 7 8745HS(8C/16T, jusqu'à 4,9 GHz)，32GB DDR5 1TB NVMe SSD Mini Ordinateur de Bureau, AMD Radeon 780M, 8K HD Vision, WiFi 6, BT 5.2, Win 11 Pro, VESA Supporté",
       "old_price": null,
       "new_price": 699.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51VeHk66HOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F5Q2D7GP?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Ess No. 1 Logo Hoodie FL Sweats à Capuche Homme (Lot de 1)",
+      "old_price": null,
+      "new_price": 20,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51GXGvUQIzL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D2R6DDCB?tag=pepius-21"
     },
     {
       "title": "Xbox Series X",
@@ -3259,6 +3291,14 @@
       "link": "https://www.amazon.fr/dp/B0C9N2JRH6?tag=pepius-21"
     },
     {
+      "title": "TOMMY HILFIGER Pullover Sweater Homme",
+      "old_price": null,
+      "new_price": 41.7,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61kdK2NImiL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HGMMFC?tag=pepius-21"
+    },
+    {
       "title": "Outer Wilds: Archaeologist Edition - Switch",
       "old_price": null,
       "new_price": 49.99,
@@ -3277,7 +3317,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - PS5",
       "old_price": null,
-      "new_price": 5.57,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
@@ -3297,6 +3337,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71GU14TuAyL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CTMNRY8Q?tag=pepius-21"
+    },
+    {
+      "title": "Under Armour Homme UA Charged Pursuit 3 BL Chaussures de Course",
+      "old_price": null,
+      "new_price": 51.45,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CkL9HH8xL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BGQNH1HW?tag=pepius-21"
     }
   ]
 }
