@@ -3083,12 +3083,12 @@
       "link": "https://www.amazon.fr/dp/B0DHSFBRPB?tag=pepius-21"
     },
     {
-      "title": "Amazon.fr : TotalEnergies Quartz Ineo Long Life 5W-30, Huile moteur essence et Diesel, 5 litres",
-      "old_price": 50.55,
-      "new_price": 35.63,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/81TzzSRebrL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C9N2JRH6?tag=pepius-21"
+      "title": "Bulk Shaker Iconic, 750ml, Transparent, Antifuite, Sans BPA, Boule de mélange en acier inoxydable pour des shakes fluides, Niveau de remplissage transparent, Passe au lave-vaisselle",
+      "old_price": 5.99,
+      "new_price": 3.99,
+      "discount": 33,
+      "image": "https://m.media-amazon.com/images/I/51v-HOd7IaL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B4KNN42H?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : TotalEnergies Quartz 9000 Diesel 5W-40, Huile moteur, 5 litres",
@@ -3123,6 +3123,14 @@
       "link": "https://www.amazon.fr/dp/B0DX1SVMJ5?tag=pepius-21"
     },
     {
+      "title": "Outer Wilds: Archaeologist Edition - Switch",
+      "old_price": 29.99,
+      "new_price": 24.99,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
+    },
+    {
       "title": "PETIT ISLAND SWITCH",
       "old_price": 29.99,
       "new_price": 24.99,
@@ -3153,14 +3161,6 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/51yVuZ0ufPL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DCNSZCYT?tag=pepius-21"
-    },
-    {
-      "title": "GetD Lunettes AI,Assistant AI optimisé par ChatGPT,Traduction AI,Lunettes intelligentes,Lunettes de soleil polarisées,Lunettes de musique Bluetooth hommes/femmes (Black Frame+Clear Lens)",
-      "old_price": 54.14,
-      "new_price": 51.43,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/519bOHNclCL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DSC5LG3K?tag=pepius-21"
     },
     {
       "title": "Casio Calculatrice Scolaire FX-92 collège classwiz",
@@ -3203,28 +3203,12 @@
       "link": "https://www.amazon.fr/dp/B085QN64XP?tag=pepius-21"
     },
     {
-      "title": "Levi's Lvg SS Batwing Tee T-Shirt Fille",
-      "old_price": null,
-      "new_price": 18,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51V09-pa9pL._AC_SL1001_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CHKHWVN4?tag=pepius-21"
-    },
-    {
       "title": "ACEMAGIC W1 Mini PC - AMD Ryzen 7 8745HS(8C/16T, jusqu'à 4,9 GHz)，32GB DDR5 1TB NVMe SSD Mini Ordinateur de Bureau, AMD Radeon 780M, 8K HD Vision, WiFi 6, BT 5.2, Win 11 Pro, VESA Supporté",
       "old_price": null,
       "new_price": 699.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51VeHk66HOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F5Q2D7GP?tag=pepius-21"
-    },
-    {
-      "title": "PUMA Ess No. 1 Logo Hoodie FL Sweats à Capuche Homme (Lot de 1)",
-      "old_price": null,
-      "new_price": 20,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51GXGvUQIzL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D2R6DDCB?tag=pepius-21"
     },
     {
       "title": "Xbox Series X",
@@ -3251,20 +3235,12 @@
       "link": "https://www.amazon.fr/dp/B0DG5HTPCF?tag=pepius-21"
     },
     {
-      "title": "TOMMY HILFIGER Pullover Sweater Homme",
+      "title": "Amazon.fr : TotalEnergies Quartz Ineo Long Life 5W-30, Huile moteur essence et Diesel, 5 litres",
       "old_price": null,
-      "new_price": 41.7,
+      "new_price": 35.63,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61kdK2NImiL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D7HGMMFC?tag=pepius-21"
-    },
-    {
-      "title": "Outer Wilds: Archaeologist Edition - Switch",
-      "old_price": null,
-      "new_price": 49.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/81TzzSRebrL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C9N2JRH6?tag=pepius-21"
     },
     {
       "title": "Patriot Viper Xtreme 5 DDR5 RAM 32 Go (2X16 Go) 7000MT/s CL32 UDIMM Desktop Gaming Memory Kit - PVX532G70C32K",
@@ -3299,28 +3275,12 @@
       "link": "https://www.amazon.fr/dp/B0CTMNRY8Q?tag=pepius-21"
     },
     {
-      "title": "Under Armour Homme UA Charged Pursuit 3 BL Chaussures de Course",
-      "old_price": null,
-      "new_price": 51.45,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71CkL9HH8xL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BGQNH1HW?tag=pepius-21"
-    },
-    {
       "title": "ORICO Adaptateur de Boîtier SSD M.2 NVMe 40 Gbps, Ventilateur M.2 Intégré, Boîtier Externe pour M-Key SSD 2230/2242/2260/2280, Prend en Charge Jusqu'à 8 to, Compatible Thunderbolt 3/4 USB4",
       "old_price": null,
       "new_price": 89.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/7169HmUTqkL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CXCQCFC7?tag=pepius-21"
-    },
-    {
-      "title": "wearPro Lunettes de Soleil Homme Polarisées Pour Hommes et Femmes Protection Style Classique Lunettes Ultralégères Verres Anti-Reflets Conduite Pêche Sports Avec Lunettes de Soleil",
-      "old_price": null,
-      "new_price": 19.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/511zZ1AtdRL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DPHK8NL4?tag=pepius-21"
     }
   ]
 }
