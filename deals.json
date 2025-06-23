@@ -3317,14 +3317,6 @@
       "link": "https://www.amazon.fr/dp/B08T6HJ3MX?tag=pepius-21"
     },
     {
-      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
-      "old_price": 30,
-      "new_price": 11.03,
-      "discount": 63,
-      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
-    },
-    {
       "title": "Logitech G502 HERO Souris Gamer Filaire Haute Performance, Capteur Gaming HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, PC/Mac - Noire : Logitech",
       "old_price": 89.99,
       "new_price": 39.9,
@@ -3451,6 +3443,14 @@
       "discount": 24,
       "image": "https://m.media-amazon.com/images/I/81439KoGN1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0052DVYF0?tag=pepius-21"
+    },
+    {
+      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
+      "old_price": 30,
+      "new_price": 24.3,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
     },
     {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
@@ -3671,7 +3671,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - PS5",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
