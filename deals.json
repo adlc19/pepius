@@ -3405,22 +3405,6 @@
       "link": "https://www.amazon.fr/dp/B07X4995J3?tag=pepius-21"
     },
     {
-      "title": "Smart Air Tag Traceur Lot de 4, Compatible avec Apple Localiser (iOS Uniquement), Air Localisateurs Tags pour Valises Portefeuilles Clés Sacs, 100dB Bip, Suivi Mondial, IP68, Batterie Remplaçable",
-      "old_price": 39.99,
-      "new_price": 29.99,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/61FUfxXUf7L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DX1SVMJ5?tag=pepius-21"
-    },
-    {
-      "title": "LEVOIT Ventilateur sur Pied 20 dB Silencieux, Puissant 2465 m³/h, Flux d'air 7.5 m/s, avec Télécommande, Oscillant 90°+120°,4 Modes 12 Vitesses, Minuterie 12h, Réglage Hauteur Circulation d'Air",
-      "old_price": 129.99,
-      "new_price": 99.99,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/71GU14TuAyL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CTMNRY8Q?tag=pepius-21"
-    },
-    {
       "title": "Philips Ventilateur sur pied Série 2000. Puissant et ultra-silencieux. 19 dB Ventilateur de table et de pied 2-en-1. Inclinaison et oscillation réglables. Blanc. (CX2550/00)",
       "old_price": 79.99,
       "new_price": 64.99,
@@ -3429,20 +3413,20 @@
       "link": "https://www.amazon.fr/dp/B0CYTL9FTD?tag=pepius-21"
     },
     {
+      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
+      "old_price": 12.6,
+      "new_price": 10.89,
+      "discount": 14,
+      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
+    },
+    {
       "title": "Xbox Elite Wireless Controller Series 2 – Core Edition",
       "old_price": 149.99,
       "new_price": 129.99,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/61PI3iQMaqL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B9GJLV2D?tag=pepius-21"
-    },
-    {
-      "title": "Stanley 0-55-114 Pied de biche griffes étroites, Argent, 250 mm",
-      "old_price": 15.31,
-      "new_price": 13.95,
-      "discount": 9,
-      "image": "https://m.media-amazon.com/images/I/619ZRVUyCXL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B000A24RCA?tag=pepius-21"
     },
     {
       "title": "Gants de Barbecue, Gants Four Anti Chaleur Jusqu'à 800°C, Gant Barbecue Résistant à la Chaleur, Gants de Cuisine Antidérapants pour BBQ, la Cuisson, Grill et Cheminée, Rouge",
@@ -3479,7 +3463,7 @@
     {
       "title": "Stanley Stmt0-74101 Composition d'Outils mix Dans Un Sac Souple - mesure - marteau - Tournevis Porte-Embouts - Tournevis de Précision - Pinces - Niveau… - Dimensions : 33 x 20 x 16.5 cm - 38 Pièces",
       "old_price": null,
-      "new_price": 76.54,
+      "new_price": 45.24,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71XIhobyzjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01LZU2OJM?tag=pepius-21"
@@ -3583,7 +3567,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - Switch",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71kOyb4VBnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWV767JV?tag=pepius-21"
@@ -3607,7 +3591,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - PS5",
       "old_price": null,
-      "new_price": 5.57,
+      "new_price": 39.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
