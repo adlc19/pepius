@@ -3317,6 +3317,14 @@
       "link": "https://www.amazon.fr/dp/B08T6HJ3MX?tag=pepius-21"
     },
     {
+      "title": "Razer BlackWidow V3 Mini HyperSpeed (Switches Jaunes) - Clavier Gamer Sans-Fil Mécanique Compact à 65% (Switches Mécaniques Silencieux, Bluetooth, USB-C) Clavier AZERTY | Noir",
+      "old_price": 189.99,
+      "new_price": 66.69,
+      "discount": 65,
+      "image": "https://m.media-amazon.com/images/I/61TE8JkiqhL._AC_SL1499_.jpg",
+      "link": "https://www.amazon.fr/dp/B08Z8HXT4X?tag=pepius-21"
+    },
+    {
       "title": "Logitech G502 HERO Souris Gamer Filaire Haute Performance, Capteur Gaming HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, PC/Mac - Noire : Logitech",
       "old_price": 89.99,
       "new_price": 39.9,
@@ -3445,14 +3453,6 @@
       "link": "https://www.amazon.fr/dp/B0052DVYF0?tag=pepius-21"
     },
     {
-      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
-      "old_price": 30,
-      "new_price": 24.3,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
-    },
-    {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
       "old_price": 12.63,
       "new_price": 10.89,
@@ -3517,6 +3517,14 @@
       "link": "https://www.amazon.fr/dp/B0C84XRCZ6?tag=pepius-21"
     },
     {
+      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
+      "old_price": null,
+      "new_price": 30,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
+    },
+    {
       "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
       "old_price": null,
       "new_price": 9.95,
@@ -3535,7 +3543,7 @@
     {
       "title": "Stanley Stmt0-74101 Composition d'Outils mix Dans Un Sac Souple - mesure - marteau - Tournevis Porte-Embouts - Tournevis de Précision - Pinces - Niveau… - Dimensions : 33 x 20 x 16.5 cm - 38 Pièces",
       "old_price": null,
-      "new_price": 16.7,
+      "new_price": 45.24,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71XIhobyzjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01LZU2OJM?tag=pepius-21"
@@ -3671,7 +3679,7 @@
     {
       "title": "Outer Wilds: Archaeologist Edition - PS5",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 11.24,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/818q6iseS9L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWTXTQCQ?tag=pepius-21"
