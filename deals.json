@@ -3335,7 +3335,7 @@
     {
       "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 2,5 cm Cuir, Marron (Cognac), 90 cm",
       "old_price": 49.9,
-      "new_price": 22.37,
+      "new_price": 22.43,
       "discount": 55,
       "image": "https://m.media-amazon.com/images/I/61HZiBB+b7L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0D7H99CD6?tag=pepius-21"
@@ -3379,14 +3379,6 @@
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/61wp-jPYILL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTHYHKP7?tag=pepius-21"
-    },
-    {
-      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
-      "old_price": 57.53,
-      "new_price": 35,
-      "discount": 39,
-      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
     },
     {
       "title": "BULLDOG Gel Douche Original",
@@ -3469,14 +3461,6 @@
       "link": "https://www.amazon.fr/dp/B0B9GJLV2D?tag=pepius-21"
     },
     {
-      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
-      "old_price": 30,
-      "new_price": 28.13,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
-    },
-    {
       "title": "BONTEC Montage au Sol Support TV sur Pied pour 30-70 Pouces Téléviseurs Incurvés Plats LED OLED LCD jusqu'à 40 kg, Pivotant Hauteur Réglable avec 2 Etagères, Max VESA 600x400 mm",
       "old_price": 49.72,
       "new_price": 47.23,
@@ -3491,6 +3475,14 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/815MpoURs7L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DG5HTPCF?tag=pepius-21"
+    },
+    {
+      "title": "meross Interrupteur Connecté Matter (FIL NEUTRE REQUIS) - Suivi de Consommation d'Énergie et Matter Simple Setup (MSS), Commutateur WiFi Compatible avec Apple Home, Alexa et Google Home",
+      "old_price": null,
+      "new_price": 14.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61CRhSKqKoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F4WV8TKC?tag=pepius-21"
     },
     {
       "title": "Fractal Design BT-Fractal Era ITX Carbon TG FD-CA-Era-ITX-BK 1781 Boitier PC",
@@ -3533,6 +3525,14 @@
       "link": "https://www.amazon.fr/dp/B0C84XRCZ6?tag=pepius-21"
     },
     {
+      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
+      "old_price": null,
+      "new_price": 30,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
+    },
+    {
       "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
       "old_price": null,
       "new_price": 9.95,
@@ -3551,7 +3551,7 @@
     {
       "title": "Stanley Stmt0-74101 Composition d'Outils mix Dans Un Sac Souple - mesure - marteau - Tournevis Porte-Embouts - Tournevis de Précision - Pinces - Niveau… - Dimensions : 33 x 20 x 16.5 cm - 38 Pièces",
       "old_price": null,
-      "new_price": 16.7,
+      "new_price": 61.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71XIhobyzjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01LZU2OJM?tag=pepius-21"
