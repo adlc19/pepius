@@ -3807,14 +3807,6 @@
       "link": "https://www.amazon.fr/dp/B08G4D7BRH?tag=pepius-21"
     },
     {
-      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
-      "old_price": 12.63,
-      "new_price": 12,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
-    },
-    {
       "title": "Gants de Barbecue, Gants Four Anti Chaleur Jusqu'à 800°C, Gant Barbecue Résistant à la Chaleur, Gants de Cuisine Antidérapants pour BBQ, la Cuisson, Grill et Cheminée, Rouge",
       "old_price": 8.99,
       "new_price": 8.54,
@@ -3829,6 +3821,22 @@
       "discount": 4,
       "image": "https://m.media-amazon.com/images/I/71qaeUlF4sL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
+    },
+    {
+      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
+      "old_price": 12.63,
+      "new_price": 12.09,
+      "discount": 4,
+      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
+    },
+    {
+      "title": "HOGOKIDS Kit Construction bonsaï Fleurs Cerisier - Plantes artificielles 2 en 1 pour décoration et l'exposition Maison Artisanat Cerisier Fleurs botaniques Jouet pour Adultes Adolescents (775 pièces)",
+      "old_price": null,
+      "new_price": 37.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81YU09InVUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F1MHP366?tag=pepius-21"
     },
     {
       "title": "adidas Think Linear Ankle Socks 3 Pairs Socks Mixte (lot de 1)",
@@ -3865,7 +3873,7 @@
     {
       "title": "BULLDOG Gel Douche Original",
       "old_price": null,
-      "new_price": 10.63,
+      "new_price": 7.22,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/617wdpOMAzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
