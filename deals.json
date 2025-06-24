@@ -3655,6 +3655,14 @@
       "link": "https://www.amazon.fr/dp/B08Z8HXT4X?tag=pepius-21"
     },
     {
+      "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
+      "old_price": 39.9,
+      "new_price": 15.95,
+      "discount": 60,
+      "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
+    },
+    {
       "title": "Logitech G502 HERO Souris Gamer Filaire Haute Performance, Capteur Gaming HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, PC/Mac - Noire : Logitech",
       "old_price": 89.99,
       "new_price": 39.9,
@@ -3815,14 +3823,6 @@
       "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
     },
     {
-      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
-      "old_price": 30,
-      "new_price": 28.12,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
-    },
-    {
       "title": "BONTEC Montage au Sol Support TV sur Pied pour 30-70 Pouces Téléviseurs Incurvés Plats LED OLED LCD jusqu'à 40 kg, Pivotant Hauteur Réglable avec 2 Etagères, Max VESA 600x400 mm",
       "old_price": 49.72,
       "new_price": 47.23,
@@ -3833,7 +3833,7 @@
     {
       "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
       "old_price": null,
-      "new_price": 18.97,
+      "new_price": 89.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
@@ -3881,7 +3881,7 @@
     {
       "title": "BULLDOG Gel Douche Original",
       "old_price": null,
-      "new_price": 10.63,
+      "new_price": 35.84,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/617wdpOMAzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
@@ -3920,11 +3920,19 @@
     },
     {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
-      "old_price": null,
-      "new_price": 12.45,
+      "old_price": 12.7,
+      "new_price": 13.19,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
+    },
+    {
+      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
+      "old_price": null,
+      "new_price": 30,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
     },
     {
       "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
