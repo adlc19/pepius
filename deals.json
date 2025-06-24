@@ -3655,14 +3655,6 @@
       "link": "https://www.amazon.fr/dp/B08Z8HXT4X?tag=pepius-21"
     },
     {
-      "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
-      "old_price": 39.9,
-      "new_price": 15.95,
-      "discount": 60,
-      "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
-    },
-    {
       "title": "Logitech G502 HERO Souris Gamer Filaire Haute Performance, Capteur Gaming HERO 25K, 25 600 PPP, RVB, Poids Ajustable, 11 Boutons Programmables, Mémoire Intégrée, PC/Mac - Noire : Logitech",
       "old_price": 89.99,
       "new_price": 39.9,
@@ -3767,6 +3759,14 @@
       "link": "https://www.amazon.fr/dp/B07X4995J3?tag=pepius-21"
     },
     {
+      "title": "UGREEN 65W Chargeur USB C Rapide 3 Ports Compatible avec iPhone 16 Plus Pro Max 15 14 13 12 11 MacBook M4 M3 M2 M1 Galaxy S24 Ultra Plus S23 A15 Pixel 9 8 7 6 iPad Pro Air Dell XPS 13 (Blanc)",
+      "old_price": 32.99,
+      "new_price": 24.74,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/418puNEUDXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09P647HJP?tag=pepius-21"
+    },
+    {
       "title": "KNIPEX Jeu de mini-pinces, 2 outils, comprend KNIPEX Cobra® XS et Pinces-clés XS, en pochette de ceinture à outils, clip ceinture, 00 20 72 V01",
       "old_price": 73.99,
       "new_price": 55.99,
@@ -3775,12 +3775,28 @@
       "link": "https://www.amazon.fr/dp/B0052DVYF0?tag=pepius-21"
     },
     {
+      "title": "Rowenta Turbo Silence Extreme Ventilateur sur pied, Puissant, Silencieux, Écoénergétique, Design, Timer 12h, Télécommande VU5690F0",
+      "old_price": 149.99,
+      "new_price": 116.7,
+      "discount": 22,
+      "image": "https://m.media-amazon.com/images/I/51MGzGXoZWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CT3F9H4T?tag=pepius-21"
+    },
+    {
       "title": "Beats Studio Buds - Écouteurs Totalement sans Fil avec réduction du Bruit - résistants à la Transpiration, compatibles avec Les appareils Apple et Android, Technologie Bluetooth® - Noir",
       "old_price": 99,
       "new_price": 79,
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/51qB1-Cs2vL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0979RDMR4?tag=pepius-21"
+    },
+    {
+      "title": "Tefal Pizza Pronto, Four à pizza maison, Four à pizza à gaz, Pierre rotative à 360° à l'intérieur, Pizza de 30 cm max, Cuisson Rapide, Application gratuite JM412010",
+      "old_price": 349.99,
+      "new_price": 284.99,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/61jIE-2zOWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CW22KXXH?tag=pepius-21"
     },
     {
       "title": "Beurer BR 60 Appareil thermique électronique pour soulager les piqûres de moustiques et d’insectes, sans substances chimiques, apaise démangeaisons et gonflements",
@@ -3799,6 +3815,22 @@
       "link": "https://www.amazon.fr/dp/B0815XFSGK?tag=pepius-21"
     },
     {
+      "title": "by Amazon Select Café en grains du Brésil, Torréfaction Moyenne, 1 kg (2 lot de 500g) - Certifié Rainforest Alliance",
+      "old_price": 13.81,
+      "new_price": 12.43,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/71V9Uk-3OCL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08FRSX4F5?tag=pepius-21"
+    },
+    {
+      "title": "Patriot Viper Xtreme 5 DDR5 RAM 48 Go (2X24 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX548G60C30K",
+      "old_price": 137.99,
+      "new_price": 129.99,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/71qaeUlF4sL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
+    },
+    {
       "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
       "old_price": 30,
       "new_price": 28.12,
@@ -3815,9 +3847,25 @@
       "link": "https://www.amazon.fr/dp/B08G4D7BRH?tag=pepius-21"
     },
     {
+      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
+      "old_price": null,
+      "new_price": 22.5,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
+    },
+    {
+      "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
+      "old_price": null,
+      "new_price": 10.57,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
+    },
+    {
       "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 18.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
@@ -3839,6 +3887,14 @@
       "link": "https://www.amazon.fr/dp/B0BPSTK5XZ?tag=pepius-21"
     },
     {
+      "title": "INIU Batterie Externe, Ultra Petit 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 Pro Max Mini Samsung iPad",
+      "old_price": null,
+      "new_price": 29.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71czaSLpZ9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DC93Z911?tag=pepius-21"
+    },
+    {
       "title": "meross Interrupteur Connecté Matter (FIL NEUTRE REQUIS) - Suivi de Consommation d'Énergie et Matter Simple Setup (MSS), Commutateur WiFi Compatible avec Apple Home, Alexa et Google Home",
       "old_price": null,
       "new_price": 14.99,
@@ -3857,7 +3913,7 @@
     {
       "title": "BULLDOG Gel Douche Original",
       "old_price": null,
-      "new_price": 28.18,
+      "new_price": 22.14,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/617wdpOMAzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
