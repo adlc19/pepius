@@ -3703,6 +3703,14 @@
       "link": "https://www.amazon.fr/dp/B0CMHMLPND?tag=pepius-21"
     },
     {
+      "title": "Philips Series 5000 - Tondeuse tout-en-un, tondeuse multistyle 12 en 1 pour le visage, la tête et le corps, un seul outil complet et 14 hauteurs de coupe (de 0,5 à 16 mm) (modèle MG5950/15)",
+      "old_price": 64.99,
+      "new_price": 39.99,
+      "discount": 38,
+      "image": "https://m.media-amazon.com/images/I/71SBbVQyVqL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CG6T6QXK?tag=pepius-21"
+    },
+    {
       "title": "Volam Ecran Carplay Voiture avec Carplay sans Fil Android Auto,7 Pouces Ecran Tactile, Lien Miroir, Navigation, Siri, G00gle Assistant Vocal, Bluetooth 5.0, Aux, FM",
       "old_price": 89.99,
       "new_price": 59.75,
@@ -3799,14 +3807,6 @@
       "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
     },
     {
-      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
-      "old_price": 30,
-      "new_price": 28.12,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
-    },
-    {
       "title": "BONTEC Montage au Sol Support TV sur Pied pour 30-70 Pouces Téléviseurs Incurvés Plats LED OLED LCD jusqu'à 40 kg, Pivotant Hauteur Réglable avec 2 Etagères, Max VESA 600x400 mm",
       "old_price": 49.72,
       "new_price": 47.23,
@@ -3815,12 +3815,12 @@
       "link": "https://www.amazon.fr/dp/B08G4D7BRH?tag=pepius-21"
     },
     {
-      "title": "Gants de Barbecue, Gants Four Anti Chaleur Jusqu'à 800°C, Gant Barbecue Résistant à la Chaleur, Gants de Cuisine Antidérapants pour BBQ, la Cuisson, Grill et Cheminée, Rouge",
-      "old_price": 8.99,
-      "new_price": 8.54,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/815MpoURs7L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DG5HTPCF?tag=pepius-21"
+      "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
+      "old_price": null,
+      "new_price": 18.97,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
     },
     {
       "title": "Tommy Hilfiger TJM Original T-Shirt À Col en V en Jersey Tops en Tricot S/S Homme",
@@ -3905,10 +3905,18 @@
     {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
       "old_price": 12.63,
-      "new_price": 12.63,
+      "new_price": 12.94,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
+    },
+    {
+      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
+      "old_price": null,
+      "new_price": 30,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
     },
     {
       "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
@@ -4029,14 +4037,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81JsWu1lIeL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08D69T1BP?tag=pepius-21"
-    },
-    {
-      "title": "Amazon.fr : TotalEnergies Quartz Ineo Long Life 5W-30, Huile moteur essence et Diesel, 5 litres",
-      "old_price": null,
-      "new_price": 35.63,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81TzzSRebrL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C9N2JRH6?tag=pepius-21"
     }
   ]
 }
