@@ -3711,14 +3711,6 @@
       "link": "https://www.amazon.fr/dp/B0CMHMLPND?tag=pepius-21"
     },
     {
-      "title": "Baseus EnerGeek Powerbank 145W 20800mAh, Batterie Externe Charge Rapide avec 2X USB-C PD 3.0 100W Max, Affichage Intelligent, Compatible avec MacBook Pro, Dell, HP, SteamDeck, iPhone 16/15/14, Samsung",
-      "old_price": 89.99,
-      "new_price": 53.19,
-      "discount": 41,
-      "image": "https://m.media-amazon.com/images/I/61wp-jPYILL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DTHYHKP7?tag=pepius-21"
-    },
-    {
       "title": "Volam Ecran Carplay Voiture avec Carplay sans Fil Android Auto,7 Pouces Ecran Tactile, Lien Miroir, Navigation, Siri, G00gle Assistant Vocal, Bluetooth 5.0, Aux, FM",
       "old_price": 89.99,
       "new_price": 59.75,
@@ -3757,6 +3749,14 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/716PqHo5s3L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F1MR5HD3?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 2,5 cm Cuir, Marron (Cognac), 90 cm",
+      "old_price": 49.9,
+      "new_price": 34.95,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/61HZiBB+b7L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CD6?tag=pepius-21"
     },
     {
       "title": "GROHE Blue Poubelle de Cuisine, Tri sélectif, Double Compartiment 2X15L, Installation au sol derrière une porte battante d'au moins 30cm, Compatible avec GROHE Blue Home, Gris, 40855000",
@@ -3865,10 +3865,18 @@
     {
       "title": "BULLDOG Gel Douche Original",
       "old_price": null,
-      "new_price": 8.77,
+      "new_price": 13.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/617wdpOMAzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
+    },
+    {
+      "title": "Levi's SS Original Housemark Tee T-Shirt Homme",
+      "old_price": null,
+      "new_price": 13.5,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0897XVL4X?tag=pepius-21"
     },
     {
       "title": "Anker Chargeur USB C Rapide 45 W,Chargeur iPhone Samsung Charge Rapide avec câble USB C,Compatible PPS,pour Samsung Galaxy S24 Ultra/S24/S23+/S23/S22/Note20,iPhone 16/16 Pro,Pixel,et Bien Plus Encore",
@@ -3877,6 +3885,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cSH3gMH1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CNGTMMF4?tag=pepius-21"
+    },
+    {
+      "title": "Crocs Flip Tongues Mixte",
+      "old_price": null,
+      "new_price": 13.64,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41qwWIKMzoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJXQ29YS?tag=pepius-21"
     },
     {
       "title": "ERICKHILL Thermomètre infrarouge -50 ℃ ~ 600 ℃ Pistolet de température laser numérique sans contact Écran LCD, émissivité réglable – Convient pour cuisine/barbecue, avec aiguille de mesure de viande",
@@ -3889,7 +3905,7 @@
     {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
       "old_price": null,
-      "new_price": 12.91,
+      "new_price": 12.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
@@ -3929,7 +3945,7 @@
     {
       "title": "Mixa Solaire Peau Sensible - Spray Solaire Très Haute Protection SPF50+ UVA, UVA longs, UVB - Peaux Fragiles Enfants - Résistant à l'Eau - Anti-sable - Hypoallergénique, Sans Parfum - 150ml (Lot de 3)",
       "old_price": null,
-      "new_price": 18.74,
+      "new_price": 24.15,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71gZRx1qMVL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CZF7MSQ3?tag=pepius-21"
@@ -3953,7 +3969,7 @@
     {
       "title": "Tasse Super Mario Boîte Cadeau Céramique",
       "old_price": null,
-      "new_price": 13.39,
+      "new_price": 17.2,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71MgsxRbg0L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B085QN64XP?tag=pepius-21"
@@ -3967,12 +3983,36 @@
       "link": "https://www.amazon.fr/dp/B0DM65BYG8?tag=pepius-21"
     },
     {
+      "title": "Levi's Lvg SS Batwing Tee T-Shirt Fille",
+      "old_price": null,
+      "new_price": 18,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51V09-pa9pL._AC_SL1001_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CHKHWVN4?tag=pepius-21"
+    },
+    {
       "title": "ACEMAGIC W1 Mini PC - AMD Ryzen 7 8745HS(8C/16T, jusqu'à 4,9 GHz)，32GB DDR5 1TB NVMe SSD Mini Ordinateur de Bureau, AMD Radeon 780M, 8K HD Vision, WiFi 6, BT 5.2, Win 11 Pro, VESA Supporté",
       "old_price": null,
       "new_price": 699.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51VeHk66HOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F5Q2D7GP?tag=pepius-21"
+    },
+    {
+      "title": "Baseus EnerGeek Powerbank 145W 20800mAh, Batterie Externe Charge Rapide avec 2X USB-C PD 3.0 100W Max, Affichage Intelligent, Compatible avec MacBook Pro, Dell, HP, SteamDeck, iPhone 16/15/14, Samsung",
+      "old_price": null,
+      "new_price": 53.19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61wp-jPYILL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DTHYHKP7?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Ess No. 1 Logo Hoodie FL Sweats à Capuche Homme (Lot de 1)",
+      "old_price": null,
+      "new_price": 20,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51GXGvUQIzL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D2R6DDCB?tag=pepius-21"
     },
     {
       "title": "Xbox Series X",
@@ -3997,6 +4037,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81TzzSRebrL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C9N2JRH6?tag=pepius-21"
+    },
+    {
+      "title": "TOMMY HILFIGER Pullover Sweater Homme",
+      "old_price": null,
+      "new_price": 49.6,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61kdK2NImiL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HGMMFC?tag=pepius-21"
     }
   ]
 }
