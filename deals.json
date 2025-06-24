@@ -3783,14 +3783,6 @@
       "link": "https://www.amazon.fr/dp/B0CW22KXXH?tag=pepius-21"
     },
     {
-      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
-      "old_price": 30,
-      "new_price": 24.79,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
-    },
-    {
       "title": "Beurer BR 60 Appareil thermique électronique pour soulager les piqûres de moustiques et d’insectes, sans substances chimiques, apaise démangeaisons et gonflements",
       "old_price": 23.74,
       "new_price": 19.99,
@@ -3815,20 +3807,20 @@
       "link": "https://www.amazon.fr/dp/B08G4D7BRH?tag=pepius-21"
     },
     {
+      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
+      "old_price": 12.63,
+      "new_price": 12,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
+    },
+    {
       "title": "Gants de Barbecue, Gants Four Anti Chaleur Jusqu'à 800°C, Gant Barbecue Résistant à la Chaleur, Gants de Cuisine Antidérapants pour BBQ, la Cuisson, Grill et Cheminée, Rouge",
       "old_price": 8.99,
       "new_price": 8.54,
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/815MpoURs7L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DG5HTPCF?tag=pepius-21"
-    },
-    {
-      "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
-      "old_price": null,
-      "new_price": 18.97,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
     },
     {
       "title": "Tommy Hilfiger TJM Original T-Shirt À Col en V en Jersey Tops en Tricot S/S Homme",
@@ -3911,12 +3903,12 @@
       "link": "https://www.amazon.fr/dp/B0C84XRCZ6?tag=pepius-21"
     },
     {
-      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
+      "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
       "old_price": null,
-      "new_price": 13.19,
+      "new_price": 30,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/71OyN2k763L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07822P8QR?tag=pepius-21"
     },
     {
       "title": "HUB USB-C HDMI 4K Ultra HD 6-en-1 - Adaptateur Port USB 3.0/2.0, Carte SD/Micro SD USB Alimenté Thunderbolt 3 Rapide - Daffodil HUB05 - pour Macbook Chromebook Surface Android Projecteur Windows Dex",
@@ -3937,7 +3929,7 @@
     {
       "title": "Stanley Stmt0-74101 Composition d'Outils mix Dans Un Sac Souple - mesure - marteau - Tournevis Porte-Embouts - Tournevis de Précision - Pinces - Niveau… - Dimensions : 33 x 20 x 16.5 cm - 38 Pièces",
       "old_price": null,
-      "new_price": 37.9,
+      "new_price": 16.7,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71XIhobyzjL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B01LZU2OJM?tag=pepius-21"
