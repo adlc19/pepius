@@ -4081,6 +4081,14 @@
       "link": "https://www.amazon.fr/dp/B08Z8HXT4X?tag=pepius-21"
     },
     {
+      "title": "Intex matelas gonflable classic downy - 2 pers",
+      "old_price": 17.99,
+      "new_price": 9,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
+    },
+    {
       "title": "Onherm Niveau Laser Autonivelant, 30m Laser Vert, 4 niveaux de luminosité Laser de Chantier, Horizontal et Vertical Laser Croisé pour Décoration intérieure et Construction, Support Magnétique 360°",
       "old_price": 39.99,
       "new_price": 19.99,
@@ -4135,14 +4143,6 @@
       "discount": 32,
       "image": "https://m.media-amazon.com/images/I/61PmqFLVVTL._AC_SL1413_.jpg",
       "link": "https://www.amazon.fr/dp/B0F6V239N4?tag=pepius-21"
-    },
-    {
-      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
-      "old_price": 1.57,
-      "new_price": 1.09,
-      "discount": 31,
-      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
       "title": "AFERIY Generateur Electrique Portable 100W, 99.2Wh/31000mAh, Charge Rapide Dual USB-C PD3.0, Charge Solaire, Protection Sécurité 6-en-1, Idéale pour les Voyages, le Camping et les Urgences, Noir",
@@ -4249,20 +4249,20 @@
       "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
     },
     {
-      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
-      "old_price": 12.7,
-      "new_price": 12,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
-    },
-    {
       "title": "BONTEC Montage au Sol Support TV sur Pied pour 30-70 Pouces Téléviseurs Incurvés Plats LED OLED LCD jusqu'à 40 kg, Pivotant Hauteur Réglable avec 2 Etagères, Max VESA 600x400 mm",
       "old_price": 49.72,
       "new_price": 47.23,
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/61yZ+k8HYOS._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08G4D7BRH?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 2,5 cm Cuir, Marron (Cognac), 90 cm",
+      "old_price": 19.94,
+      "new_price": 18.93,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/61HZiBB+b7L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CD6?tag=pepius-21"
     },
     {
       "title": "Crocs Frozen Olaf Lined Classic Clog K Sabot Mixte Enfant",
@@ -4273,12 +4273,28 @@
       "link": "https://www.amazon.fr/dp/B0D6YWB3Q5?tag=pepius-21"
     },
     {
+      "title": "JACK & JONES Jacben Solid Trunks Lot de 5 Boxers 3 Homme",
+      "old_price": null,
+      "new_price": 24.46,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CKXloJHKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4261F51?tag=pepius-21"
+    },
+    {
       "title": "Tommy Jeans Femme Tjw Linear Logo 6 Panel Aw0aw16868 Capuchon, Blue (Cloudy Blue), Taille Unique EU",
       "old_price": null,
       "new_price": 29.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71dBhqTQnHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DK1SH817?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger T- Shirt S/S Homme",
+      "old_price": null,
+      "new_price": 19.94,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61YR4uX6KML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HJMSYD?tag=pepius-21"
     },
     {
       "title": "Maped Kidi Cut Security Ciseaux de Sécurité 12cm pour Bébé Dès 2 ans Découpe facile Bouts Ronds et Lames en Fibre de verre - Droitiers et Gauchers - Blanc/Turquoise",
@@ -4289,9 +4305,17 @@
       "link": "https://www.amazon.fr/dp/B001ALQY30?tag=pepius-21"
     },
     {
+      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
+      "old_price": null,
+      "new_price": 22.5,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
+    },
+    {
       "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
       "old_price": null,
-      "new_price": 17.29,
+      "new_price": 14.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
@@ -4299,10 +4323,26 @@
     {
       "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
       "old_price": null,
-      "new_price": 18.97,
+      "new_price": 99.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger TJM Original T-Shirt À Col en V en Jersey Tops en Tricot S/S Homme",
+      "old_price": null,
+      "new_price": 15.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81fz1W9XbKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07772LRRW?tag=pepius-21"
+    },
+    {
+      "title": "adidas Think Linear Ankle Socks 3 Pairs Socks Mixte (lot de 1)",
+      "old_price": null,
+      "new_price": 5.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/716qPPAFCTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BPSTK5XZ?tag=pepius-21"
     },
     {
       "title": "INIU Batterie Externe, Ultra Petit 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 Pro Max Mini Samsung iPad",
@@ -4337,6 +4377,14 @@
       "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
     },
     {
+      "title": "Levi's SS Original Housemark Tee T-Shirt Homme",
+      "old_price": null,
+      "new_price": 20.3,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0897XVL4X?tag=pepius-21"
+    },
+    {
       "title": "Anker Chargeur USB C Rapide 45 W,Chargeur iPhone Samsung Charge Rapide avec câble USB C,Compatible PPS,pour Samsung Galaxy S24 Ultra/S24/S23+/S23/S22/Note20,iPhone 16/16 Pro,Pixel,et Bien Plus Encore",
       "old_price": null,
       "new_price": 29.99,
@@ -4345,12 +4393,28 @@
       "link": "https://www.amazon.fr/dp/B0CNGTMMF4?tag=pepius-21"
     },
     {
+      "title": "Crocs Flip Tongues Mixte",
+      "old_price": null,
+      "new_price": 12.28,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41qwWIKMzoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJXQ29YS?tag=pepius-21"
+    },
+    {
       "title": "ERICKHILL Thermomètre infrarouge -50 ℃ ~ 600 ℃ Pistolet de température laser numérique sans contact Écran LCD, émissivité réglable – Convient pour cuisine/barbecue, avec aiguille de mesure de viande",
       "old_price": null,
       "new_price": 23.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/718iD4s-dTL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C84XRCZ6?tag=pepius-21"
+    },
+    {
+      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
+      "old_price": null,
+      "new_price": 12.45,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
     },
     {
       "title": "BIC 4 Couleurs Sun Stylos-Bille Rétractables Pointe Moyenne (1,0 mm) - Encres Fantaisie, Boîte de 12",
@@ -4399,14 +4463,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/91r0dvXhNGL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/1526626586?tag=pepius-21"
-    },
-    {
-      "title": "MAYLINE Pince à sertir professionnelle RJ45 avec connecteur Cat6 RJ45 Outils Kit Réseau, Entretien du Kit LAN Testeur à sertir Sertissage pour câble réseau (blanc)",
-      "old_price": null,
-      "new_price": 36.02,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81cIa423kcL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08SWP7PJ8?tag=pepius-21"
     }
   ]
 }
