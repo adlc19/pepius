@@ -4089,14 +4089,6 @@
       "link": "https://www.amazon.fr/dp/B0DFCKP175?tag=pepius-21"
     },
     {
-      "title": "Spray antiseptique incolore Mercurochrome - 100 ml",
-      "old_price": 3.75,
-      "new_price": 1.96,
-      "discount": 48,
-      "image": "https://m.media-amazon.com/images/I/71QV7kfoSHL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B001AO2MNS?tag=pepius-21"
-    },
-    {
       "title": "Playstation Bloodborne HITS",
       "old_price": 19.99,
       "new_price": 12.09,
@@ -4225,6 +4217,14 @@
       "link": "https://www.amazon.fr/dp/B0815XFSGK?tag=pepius-21"
     },
     {
+      "title": "Nothing Ear (a) ecouteurs Bluetooth sans Fil avec Intégration de ChatGPT, Réduction Active du Bruit, Algorithme Bass Enhance et Jusqu’à 42,5 Heures d’écoute - Blanc",
+      "old_price": 79,
+      "new_price": 69.95,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/71oK0nwUZML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXPRHTNB?tag=pepius-21"
+    },
+    {
       "title": "Rowenta Turbo Silence Extreme Ventilateur pied 40 cm, Puissant, Flux d’air 72 m3/min, 45 dB(A), Oscillation automatique, Orientation réglable, Grille ultra-sécurisée VU5640F2",
       "old_price": 89.99,
       "new_price": 79.99,
@@ -4257,20 +4257,44 @@
       "link": "https://www.amazon.fr/dp/B08G4D7BRH?tag=pepius-21"
     },
     {
-      "title": "Kingdom Come : Deliverance II ( PlayStation 5 )",
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 2,5 cm Cuir, Marron (Cognac), 90 cm",
+      "old_price": 19.94,
+      "new_price": 18.93,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/61HZiBB+b7L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CD6?tag=pepius-21"
+    },
+    {
+      "title": "Crocs Frozen Olaf Lined Classic Clog K Sabot Mixte Enfant",
       "old_price": null,
-      "new_price": 50,
+      "new_price": 11.82,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81aBE4if5eL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D35Z5PCX?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/41UDxps+jDL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6YWB3Q5?tag=pepius-21"
+    },
+    {
+      "title": "JACK & JONES Jacben Solid Trunks Lot de 5 Boxers 3 Homme",
+      "old_price": null,
+      "new_price": 24.46,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CKXloJHKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4261F51?tag=pepius-21"
     },
     {
       "title": "Tommy Jeans Femme Tjw Linear Logo 6 Panel Aw0aw16868 Capuchon, Blue (Cloudy Blue), Taille Unique EU",
       "old_price": null,
-      "new_price": 30.01,
+      "new_price": 29.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71dBhqTQnHL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DK1SH817?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger T- Shirt S/S Homme",
+      "old_price": null,
+      "new_price": 19.94,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61YR4uX6KML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HJMSYD?tag=pepius-21"
     },
     {
       "title": "Maped Kidi Cut Security Ciseaux de Sécurité 12cm pour Bébé Dès 2 ans Découpe facile Bouts Ronds et Lames en Fibre de verre - Droitiers et Gauchers - Blanc/Turquoise",
@@ -4289,17 +4313,9 @@
       "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
-      "title": "by Amazon Select Café en grains du Brésil, Torréfaction Moyenne, 1 kg (2 lot de 500g) - Certifié Rainforest Alliance",
-      "old_price": null,
-      "new_price": 16.5,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71V9Uk-3OCL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08FRSX4F5?tag=pepius-21"
-    },
-    {
       "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
       "old_price": null,
-      "new_price": 10.57,
+      "new_price": 29.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
@@ -4307,10 +4323,26 @@
     {
       "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
       "old_price": null,
-      "new_price": 39.99,
+      "new_price": 30,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger TJM Original T-Shirt À Col en V en Jersey Tops en Tricot S/S Homme",
+      "old_price": null,
+      "new_price": 15.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81fz1W9XbKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07772LRRW?tag=pepius-21"
+    },
+    {
+      "title": "adidas Think Linear Ankle Socks 3 Pairs Socks Mixte (lot de 1)",
+      "old_price": null,
+      "new_price": 5.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/716qPPAFCTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BPSTK5XZ?tag=pepius-21"
     },
     {
       "title": "INIU Batterie Externe, Ultra Petit 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 Pro Max Mini Samsung iPad",
@@ -4339,10 +4371,18 @@
     {
       "title": "BULLDOG Gel Douche Original",
       "old_price": null,
-      "new_price": 22.32,
+      "new_price": 22.14,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/617wdpOMAzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07WQJK5VW?tag=pepius-21"
+    },
+    {
+      "title": "Levi's SS Original Housemark Tee T-Shirt Homme",
+      "old_price": null,
+      "new_price": 20.3,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/714LABt975L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0897XVL4X?tag=pepius-21"
     },
     {
       "title": "Anker Chargeur USB C Rapide 45 W,Chargeur iPhone Samsung Charge Rapide avec câble USB C,Compatible PPS,pour Samsung Galaxy S24 Ultra/S24/S23+/S23/S22/Note20,iPhone 16/16 Pro,Pixel,et Bien Plus Encore",
@@ -4351,6 +4391,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71cSH3gMH1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CNGTMMF4?tag=pepius-21"
+    },
+    {
+      "title": "Crocs Flip Tongues Mixte",
+      "old_price": null,
+      "new_price": 12.28,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41qwWIKMzoL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CJXQ29YS?tag=pepius-21"
     },
     {
       "title": "ERICKHILL Thermomètre infrarouge -50 ℃ ~ 600 ℃ Pistolet de température laser numérique sans contact Écran LCD, émissivité réglable – Convient pour cuisine/barbecue, avec aiguille de mesure de viande",
@@ -4363,7 +4411,7 @@
     {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
       "old_price": null,
-      "new_price": 12.85,
+      "new_price": 12.93,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
