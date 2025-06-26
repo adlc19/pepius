@@ -4408,5 +4408,343 @@
       "image": "https://m.media-amazon.com/images/I/91r0dvXhNGL._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/1526626586?tag=pepius-21"
     }
+  ],
+  "2025-06-26": [
+    {
+      "title": "Onherm Niveau Laser Autonivelant, 30m Laser Vert, 4 niveaux de luminosité Laser de Chantier, Horizontal et Vertical Laser Croisé pour Décoration intérieure et Construction, Support Magnétique 360°",
+      "old_price": 39.99,
+      "new_price": 19.99,
+      "discount": 50,
+      "image": "https://m.media-amazon.com/images/I/711GJxW5i-L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DFCKP175?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : Bosch Balais d'Essuie–Glace Plats Aerotwin Retrofit AR801S, Longueur: 600mm/530mm – 1 Paire de Balais avant",
+      "old_price": 29.85,
+      "new_price": 16.5,
+      "discount": 45,
+      "image": "https://m.media-amazon.com/images/I/71jjjSIr8jL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B002FUFMHE?tag=pepius-21"
+    },
+    {
+      "title": "Compilation Riders Republic + Immortals Fenyx Rising FRA PS5",
+      "old_price": 29.99,
+      "new_price": 16.8,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/81WF4d6WTQL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BZQLMTCN?tag=pepius-21"
+    },
+    {
+      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
+      "old_price": 57.53,
+      "new_price": 32,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
+    },
+    {
+      "title": "Tomb Raider 1-3 Remastered Starring Lara Croft - PS5",
+      "old_price": 34.99,
+      "new_price": 19.99,
+      "discount": 43,
+      "image": "https://m.media-amazon.com/images/I/81DvSxJ7oTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4QSJQPP?tag=pepius-21"
+    },
+    {
+      "title": "Philips Series 5000 - Tondeuse tout-en-un, tondeuse multistyle 12 en 1 pour le visage, la tête et le corps, un seul outil complet et 14 hauteurs de coupe (de 0,5 à 16 mm) (modèle MG5950/15)",
+      "old_price": 64.99,
+      "new_price": 39.99,
+      "discount": 38,
+      "image": "https://m.media-amazon.com/images/I/71SBbVQyVqL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CG6T6QXK?tag=pepius-21"
+    },
+    {
+      "title": "HARIBO - Cola Mistral Pik - Bonbons Piquants Sans Colorants Artificiels & Sans Gélatine - Sachet Vrac 2 kg",
+      "old_price": 16.9,
+      "new_price": 11.83,
+      "discount": 30,
+      "image": "https://m.media-amazon.com/images/I/91DaxHISaiL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B008UTP8UK?tag=pepius-21"
+    },
+    {
+      "title": "Alan Wake 2 Deluxe Edition - PS5",
+      "old_price": 59.99,
+      "new_price": 44.99,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/81l8lcALU3L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D66D7J5R?tag=pepius-21"
+    },
+    {
+      "title": "Beats Studio Buds - Écouteurs Totalement sans Fil avec réduction du Bruit - résistants à la Transpiration, compatibles avec Les appareils Apple et Android, Technologie Bluetooth® - Noir",
+      "old_price": 99,
+      "new_price": 79,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/51qB1-Cs2vL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0979RDMR4?tag=pepius-21"
+    },
+    {
+      "title": "Tefal Pizza Pronto, Four à pizza maison, Four à pizza à gaz, Pierre rotative à 360° à l'intérieur, Pizza de 30 cm max, Cuisson Rapide, Application gratuite JM412010",
+      "old_price": 349.99,
+      "new_price": 284.99,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/61jIE-2zOWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CW22KXXH?tag=pepius-21"
+    },
+    {
+      "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go ; Lumière stellaire",
+      "old_price": 1199,
+      "new_price": 999,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/71pP5fnB9GL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZDX2ZJS?tag=pepius-21"
+    },
+    {
+      "title": "Beurer BR 60 Dispositif soulageant les piqûres et morsures d'insectes, stylo réduit la démangeasion et le gonflement, anti moustique, sans substance chimique, petit et pratique",
+      "old_price": 23.74,
+      "new_price": 19.99,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/71vBNHwEJmL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B089GRH43R?tag=pepius-21"
+    },
+    {
+      "title": "Nothing Ear (a) ecouteurs Bluetooth sans Fil avec Intégration de ChatGPT, Réduction Active du Bruit, Algorithme Bass Enhance et Jusqu’à 42,5 Heures d’écoute - Blanc",
+      "old_price": 79,
+      "new_price": 69,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/71oK0nwUZML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXPRHTNB?tag=pepius-21"
+    },
+    {
+      "title": "AMD Ryzen 7 5800X Processeur (8 Cœurs/16 Threads, 105W TDP, Socket AM4, 36 Mo Cache, jusqu'à 4,7 Ghz Fréquence Boost, sans Ventilateur)",
+      "old_price": 164.9,
+      "new_price": 144,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0815XFSGK?tag=pepius-21"
+    },
+    {
+      "title": "VASAGLE Kailyn Collection - Meuble TV Suspendu, Support Télé Mural, Étagère Murale pour Salon, Adapté à Divers Téléviseurs, Table de Salon, Style Moderne, 147 x 35 x 30 cm, Blanc Neige LTV133W01",
+      "old_price": 89.99,
+      "new_price": 79.99,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/51WvZbrFWLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DL5L8P44?tag=pepius-21"
+    },
+    {
+      "title": "Rowenta Turbo Silence Extreme Ventilateur pied 40 cm, Puissant, Flux d’air 72 m3/min, 45 dB(A), Oscillation automatique, Orientation réglable, Grille ultra-sécurisée VU5640F2",
+      "old_price": 89.99,
+      "new_price": 79.99,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/61oSO4OmoBL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B01891LZBY?tag=pepius-21"
+    },
+    {
+      "title": "FLOR DE CAÑA 12 ANS - Rhum Vieux - Nicaragua - 40% - 70 cl",
+      "old_price": 31.44,
+      "new_price": 28.37,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/81YlQ2zfaGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BYF8G6H8?tag=pepius-21"
+    },
+    {
+      "title": "Tefal Couteau de cuisine Santoku 16,5 cm, Multiusages, Aiguiseur intégré, Technologie exclusive de verrouillage, Acier inoxydable allemand, Affûtage optimal, Etui innovant, Ever Sharp K2579024",
+      "old_price": 18.27,
+      "new_price": 16.99,
+      "discount": 7,
+      "image": "https://m.media-amazon.com/images/I/61jYQRzPYAL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09WB3724P?tag=pepius-21"
+    },
+    {
+      "title": "Rowenta Turbo Silence Extreme Ventilateur sur pied, Puissant, Silencieux, Écoénergétique, Design, Timer 12h, Télécommande VU5690F0",
+      "old_price": 108,
+      "new_price": 99.99,
+      "discount": 7,
+      "image": "https://m.media-amazon.com/images/I/51MGzGXoZWL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CT3F9H4T?tag=pepius-21"
+    },
+    {
+      "title": "AFERIY Generateur Electrique Portable 100W, 99.2Wh/31000mAh, Charge Rapide Dual USB-C PD3.0, Charge Solaire, Protection Sécurité 6-en-1, Idéale pour les Voyages, le Camping et les Urgences, Noir",
+      "old_price": 149.99,
+      "new_price": 139,
+      "discount": 7,
+      "image": "https://m.media-amazon.com/images/I/716PqHo5s3L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F1MR5HD3?tag=pepius-21"
+    },
+    {
+      "title": "Patriot Viper Xtreme 5 DDR5 RAM 48 Go (2X24 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX548G60C30K",
+      "old_price": 137.99,
+      "new_price": 129.99,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/71qaeUlF4sL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCK2YQRH?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 3,5 cm Boucle Ardillon",
+      "old_price": null,
+      "new_price": 9.56,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71tQetW+mTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CP5?tag=pepius-21"
+    },
+    {
+      "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
+      "old_price": null,
+      "new_price": 55.89,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
+    },
+    {
+      "title": "Tefal Primary Poêle inox 24 cm, Garantie 10 ans, Acier inoxydable de première qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080404",
+      "old_price": null,
+      "new_price": 34.29,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61XBSzFx3bL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08XXZKN6Z?tag=pepius-21"
+    },
+    {
+      "title": "The Chronic: Dr. Dre, Dr. Dre",
+      "old_price": null,
+      "new_price": 37.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51ZtnY1CyAL._SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BTHXJ8ZW?tag=pepius-21"
+    },
+    {
+      "title": "Tefal Virtuoso Poêle Wok 28 cm, Garantie 10 ans, Induction, Acier inoxydable de qualité premium, Surface non revêtue, Saisie parfaite, Compatible four et lave-vaisselle E4921925",
+      "old_price": 54.99,
+      "new_price": 63,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51BINz5eoeL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09WMXY228?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Jeans TJM Slim 2Pack L/S Ext Dm0Dm22148 T-Shirt, Multi (Dark Night Navy/Ecru), XXL Homme",
+      "old_price": null,
+      "new_price": 58.72,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61T5DZFsnlL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK28P5CF?tag=pepius-21"
+    },
+    {
+      "title": "GOODYEAR 225/40 R18 92Y EAGLE F1 (ASYMMETRIC) 5 MFS",
+      "old_price": null,
+      "new_price": 72.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/517hveDwc2L._AC_SL1024_.jpg",
+      "link": "https://www.amazon.fr/dp/B07NCX1FBD?tag=pepius-21"
+    },
+    {
+      "title": "Calvin Klein Coffre Homme",
+      "old_price": null,
+      "new_price": 17.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71U0vqJvShL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7QFK87P?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Claquettes Homme Print Tumble avec Logo",
+      "old_price": null,
+      "new_price": 17.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/614t3RNNABL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK253X4R?tag=pepius-21"
+    },
+    {
+      "title": "Intex matelas gonflable classic downy - 2 pers",
+      "old_price": null,
+      "new_price": 76.49,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
+    },
+    {
+      "title": "Crocs Frozen Olaf Lined Classic Clog K Sabot Mixte Enfant",
+      "old_price": null,
+      "new_price": 12.88,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41UDxps+jDL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6YWB3Q5?tag=pepius-21"
+    },
+    {
+      "title": "JACK & JONES Jacben Solid Trunks Lot de 5 Boxers 3 Homme",
+      "old_price": null,
+      "new_price": 24.46,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CKXloJHKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4261F51?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Jeans Femme Tjw Linear Logo 6 Panel Aw0aw16868 Capuchon, Blue (Cloudy Blue), Taille Unique EU",
+      "old_price": null,
+      "new_price": 29.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71dBhqTQnHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK1SH817?tag=pepius-21"
+    },
+    {
+      "title": "Philips Hue White & Color Ambiance, ruban LED couleur intérieur, V4, base, extensible, compatible Bluetooth, fonctionne avec Alexa, Google Assistant et Apple Homekit",
+      "old_price": null,
+      "new_price": 21.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71qYyT9XZmL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B088RX9CSZ?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger T- Shirt S/S Homme",
+      "old_price": null,
+      "new_price": 19.94,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61YR4uX6KML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HJMSYD?tag=pepius-21"
+    },
+    {
+      "title": "Maped Kidi Cut Security Ciseaux de Sécurité 12cm pour Bébé Dès 2 ans Découpe facile Bouts Ronds et Lames en Fibre de verre - Droitiers et Gauchers - Blanc/Turquoise",
+      "old_price": null,
+      "new_price": 2.66,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61xX1eyRE6L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B001ALQY30?tag=pepius-21"
+    },
+    {
+      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
+      "old_price": null,
+      "new_price": 22.5,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
+    },
+    {
+      "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
+      "old_price": null,
+      "new_price": 17.29,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
+    },
+    {
+      "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
+      "old_price": null,
+      "new_price": 49.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger TJM Original T-Shirt À Col en V en Jersey Tops en Tricot S/S Homme",
+      "old_price": null,
+      "new_price": 15.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81fz1W9XbKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07772LRRW?tag=pepius-21"
+    },
+    {
+      "title": "adidas Think Linear Ankle Socks 3 Pairs Socks Mixte (lot de 1)",
+      "old_price": null,
+      "new_price": 5.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/716qPPAFCTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BPSTK5XZ?tag=pepius-21"
+    }
   ]
 }
