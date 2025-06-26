@@ -4467,6 +4467,14 @@
       "link": "https://www.amazon.fr/dp/B0D4QSJQPP?tag=pepius-21"
     },
     {
+      "title": "Tefal Hachoir manuel 5 secondes 900 ml Plus lames, Purée, Hacher, Découper, Mixer, Légumes et viandes, Noix, Oignons, Lames en acier inoxydable, Rapidité et facilité K1321324",
+      "old_price": 25.29,
+      "new_price": 14.95,
+      "discount": 41,
+      "image": "https://m.media-amazon.com/images/I/51tsKHf5jcL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B07KYWX474?tag=pepius-21"
+    },
+    {
       "title": "Philips Series 5000 - Tondeuse tout-en-un, tondeuse multistyle 12 en 1 pour le visage, la tête et le corps, un seul outil complet et 14 hauteurs de coupe (de 0,5 à 16 mm) (modèle MG5950/15)",
       "old_price": 64.99,
       "new_price": 39.99,
@@ -4493,8 +4501,8 @@
     {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go ; Lumière stellaire",
       "old_price": 1199,
-      "new_price": 999,
-      "discount": 17,
+      "new_price": 1027.84,
+      "discount": 14,
       "image": "https://m.media-amazon.com/images/I/71pP5fnB9GL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DZDX2ZJS?tag=pepius-21"
     },
@@ -4571,20 +4579,36 @@
       "link": "https://www.amazon.fr/dp/B09MJ3GKMK?tag=pepius-21"
     },
     {
+      "title": "Tommy Hilfiger Homme Th Hi Vulc Core Low LTH II Ess Fm0fm05511 Bas",
+      "old_price": null,
+      "new_price": 49.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41dfd1MIqXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22VH16?tag=pepius-21"
+    },
+    {
+      "title": "New Era 59Fifty Cap - MLB Black Chicago White Sox : New Era",
+      "old_price": null,
+      "new_price": 30,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41pz95n22SL._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJKLPNSX?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 3,5 cm Boucle Ardillon",
+      "old_price": null,
+      "new_price": 9.56,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71tQetW+mTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CP5?tag=pepius-21"
+    },
+    {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
       "old_price": null,
       "new_price": 55.89,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
-    },
-    {
-      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
-      "old_price": 137.28,
-      "new_price": 137.28,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
     },
     {
       "title": "Tefal Primary Poêle inox 24 cm, Garantie 10 ans, Acier inoxydable de première qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080404",
@@ -4611,12 +4635,36 @@
       "link": "https://www.amazon.fr/dp/B09WMXY228?tag=pepius-21"
     },
     {
+      "title": "Tommy Jeans TJM Slim 2Pack L/S Ext Dm0Dm22148 T-Shirt, Multi (Dark Night Navy/Ecru), XXL Homme",
+      "old_price": null,
+      "new_price": 58.72,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61T5DZFsnlL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK28P5CF?tag=pepius-21"
+    },
+    {
       "title": "GOODYEAR 225/40 R18 92Y EAGLE F1 (ASYMMETRIC) 5 MFS",
       "old_price": null,
       "new_price": 72.96,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/517hveDwc2L._AC_SL1024_.jpg",
       "link": "https://www.amazon.fr/dp/B07NCX1FBD?tag=pepius-21"
+    },
+    {
+      "title": "Calvin Klein Coffre Homme",
+      "old_price": null,
+      "new_price": 17.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71U0vqJvShL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7QFK87P?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Claquettes Homme Print Tumble avec Logo",
+      "old_price": null,
+      "new_price": 17.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/614t3RNNABL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK253X4R?tag=pepius-21"
     },
     {
       "title": "adidas Unisex ADULTWOMEN SS EURO25 Club Ball",
@@ -4643,12 +4691,44 @@
       "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
     },
     {
+      "title": "Crocs Frozen Olaf Lined Classic Clog K Sabot Mixte Enfant",
+      "old_price": null,
+      "new_price": 12.88,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41UDxps+jDL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6YWB3Q5?tag=pepius-21"
+    },
+    {
+      "title": "JACK & JONES Jacben Solid Trunks Lot de 5 Boxers 3 Homme",
+      "old_price": null,
+      "new_price": 24.46,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CKXloJHKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4261F51?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Jeans Femme Tjw Linear Logo 6 Panel Aw0aw16868 Capuchon, Blue (Cloudy Blue), Taille Unique EU",
+      "old_price": null,
+      "new_price": 29.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71dBhqTQnHL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK1SH817?tag=pepius-21"
+    },
+    {
       "title": "Philips Hue White & Color Ambiance, ruban LED couleur intérieur, V4, base, extensible, compatible Bluetooth, fonctionne avec Alexa, Google Assistant et Apple Homekit",
       "old_price": null,
       "new_price": 21.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71qYyT9XZmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B088RX9CSZ?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger T- Shirt S/S Homme",
+      "old_price": null,
+      "new_price": 19.94,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61YR4uX6KML._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7HJMSYD?tag=pepius-21"
     },
     {
       "title": "Maped Kidi Cut Security Ciseaux de Sécurité 12cm pour Bébé Dès 2 ans Découpe facile Bouts Ronds et Lames en Fibre de verre - Droitiers et Gauchers - Blanc/Turquoise",
@@ -4667,20 +4747,20 @@
       "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
-      "title": "Bodum Melior 12057-16-451B Gourde Isotherme en inox brillant à Double Paroi, 0,5 l, Dark Roast",
-      "old_price": null,
-      "new_price": 17.29,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51wI2hVgwOL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B071Z2PNVM?tag=pepius-21"
-    },
-    {
       "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
       "old_price": null,
       "new_price": 18.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger TJM Original T-Shirt À Col en V en Jersey Tops en Tricot S/S Homme",
+      "old_price": null,
+      "new_price": 15.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81fz1W9XbKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07772LRRW?tag=pepius-21"
     }
   ]
 }
