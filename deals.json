@@ -4435,14 +4435,6 @@
       "link": "https://www.amazon.fr/dp/B07DPS1CW9?tag=pepius-21"
     },
     {
-      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
-      "old_price": 57.53,
-      "new_price": 28.39,
-      "discount": 51,
-      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
-    },
-    {
       "title": "Amazon.fr : Bosch Balais d'Essuie–Glace Plats Aerotwin Retrofit AR801S, Longueur: 600mm/530mm – 1 Paire de Balais avant",
       "old_price": 29.85,
       "new_price": 16.5,
@@ -4457,6 +4449,14 @@
       "discount": 44,
       "image": "https://m.media-amazon.com/images/I/81WF4d6WTQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BZQLMTCN?tag=pepius-21"
+    },
+    {
+      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
+      "old_price": 57.53,
+      "new_price": 32,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
     },
     {
       "title": "Tomb Raider 1-3 Remastered Starring Lara Croft - PS5",
@@ -4725,7 +4725,7 @@
     {
       "title": "Maped Kidi Cut Security Ciseaux de Sécurité 12cm pour Bébé Dès 2 ans Découpe facile Bouts Ronds et Lames en Fibre de verre - Droitiers et Gauchers - Blanc/Turquoise",
       "old_price": null,
-      "new_price": 2.66,
+      "new_price": 1.44,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61xX1eyRE6L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B001ALQY30?tag=pepius-21"
@@ -4749,7 +4749,7 @@
     {
       "title": "Megableu - Puzzle 3D PSG - Stade de Foot Parc des Princes - 111 Pièces Numérotées - LED Intégrées - A Monter Stade du Paris Saint-Germain sans Colle - pour Enfants dès 7 Ans - en Français",
       "old_price": null,
-      "new_price": 99.95,
+      "new_price": 18.97,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71LBfTiz7ZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09XLYZC1Q?tag=pepius-21"
