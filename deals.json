@@ -4885,6 +4885,14 @@
       "link": "https://www.amazon.fr/dp/B0D66D7J5R?tag=pepius-21"
     },
     {
+      "title": "CORSAIR RS120 ARGB 120mm Ventilateurs PWM – Connexion Daisy-Chain – Faible Bruit – Roulement à Dôme Magnétique – Paquet Triple – Noir",
+      "old_price": 49.9,
+      "new_price": 39.74,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/71hJ8-3pfXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D49Q4CGM?tag=pepius-21"
+    },
+    {
       "title": "Mafia: The Old Country PS5",
       "old_price": 49.99,
       "new_price": 39.99,
@@ -4899,6 +4907,14 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/51ZtnY1CyAL._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0BTHXJ8ZW?tag=pepius-21"
+    },
+    {
+      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
+      "old_price": 139.9,
+      "new_price": 115.24,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
     },
     {
       "title": "TUNIC - Switch",
@@ -4949,6 +4965,14 @@
       "link": "https://www.amazon.fr/dp/B008UTPEWC?tag=pepius-21"
     },
     {
+      "title": "Calvin Klein Men's Trunk 3PK, Black, M",
+      "old_price": 19.76,
+      "new_price": 17.96,
+      "discount": 9,
+      "image": "https://m.media-amazon.com/images/I/7134h2btm0L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D87SPC8B?tag=pepius-21"
+    },
+    {
       "title": "Apple iPhone 16 (128 Go) - Outremer",
       "old_price": 866,
       "new_price": 799,
@@ -4979,14 +5003,6 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/71aHvYUgX1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKFMSMYK?tag=pepius-21"
-    },
-    {
-      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
-      "old_price": 139.9,
-      "new_price": 133.46,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
     },
     {
       "title": "Philips Hue White & Color Ambiance Ampoules LED Connectées E27, équivalent 60W, 800 lumen, Compatible Bluetooth, pack de 2, fonctionne avec Alexa, Google Assistant et Apple Homekit",
@@ -5119,7 +5135,7 @@
     {
       "title": "Calvin Klein Coffre Homme",
       "old_price": null,
-      "new_price": 44.9,
+      "new_price": 17.96,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71U0vqJvShL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D7QFK87P?tag=pepius-21"
@@ -5151,7 +5167,7 @@
     {
       "title": "Intex matelas gonflable classic downy - 2 pers",
       "old_price": null,
-      "new_price": 76.49,
+      "new_price": 162,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
