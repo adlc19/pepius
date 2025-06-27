@@ -4869,12 +4869,28 @@
       "link": "https://www.amazon.fr/dp/B0D66D7J5R?tag=pepius-21"
     },
     {
+      "title": "Mafia: The Old Country PS5",
+      "old_price": 49.99,
+      "new_price": 39.99,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/81LEDWPuyTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F8C1XMKS?tag=pepius-21"
+    },
+    {
       "title": "The Chronic: Dr. Dre, Dr. Dre",
       "old_price": 36.26,
       "new_price": 28.85,
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/51ZtnY1CyAL._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0BTHXJ8ZW?tag=pepius-21"
+    },
+    {
+      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
+      "old_price": 139.9,
+      "new_price": 115.24,
+      "discount": 18,
+      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
     },
     {
       "title": "TUNIC - Switch",
@@ -4949,20 +4965,20 @@
       "link": "https://www.amazon.fr/dp/B09WB3724P?tag=pepius-21"
     },
     {
-      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
-      "old_price": 139.9,
-      "new_price": 132.11,
-      "discount": 6,
-      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
-    },
-    {
       "title": "AMD RYZEN ™ 7 9800X3D 8 Coeurs/16 Threads débridés, Architecture Zen 5, 104 Mo Cache, 120W TDP, Jusqu'a 5.2 Ghz Frequence Boost, Socket AM5, Ventilateur Non Inclus",
       "old_price": 529,
       "new_price": 513.98,
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/71aHvYUgX1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKFMSMYK?tag=pepius-21"
+    },
+    {
+      "title": "Philips Hue White & Color Ambiance Ampoules LED Connectées E27, équivalent 60W, 800 lumen, Compatible Bluetooth, pack de 2, fonctionne avec Alexa, Google Assistant et Apple Homekit",
+      "old_price": null,
+      "new_price": 23.77,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ebCC+T3GL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B099NRDQL4?tag=pepius-21"
     },
     {
       "title": "AOC Nouveau PC Portable 2025, écran 16,10 Pouces, Boîtier en métal rétroéclairé, Ordinateur Portable AMD Ryzen 7 5700U (8C/16T, jusqu'à 4,30 GHz),16 Go DDR4, 512 Go SSD M.2, WiFi 6,Type-C",
@@ -4981,12 +4997,76 @@
       "link": "https://www.amazon.fr/dp/B0DZ772DS5?tag=pepius-21"
     },
     {
+      "title": "Salomon Mixte XA Pro V8 Chaussures de randonnée",
+      "old_price": null,
+      "new_price": 33.55,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81yWaN2RzjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6V6T5G2?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Sweat à Capuche Homme Brand Love en Coton",
+      "old_price": null,
+      "new_price": 89.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71LIlp6yDIL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22N8F9?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Homme Hilfiger H Padded Beach Sandal Fm0fm05536 Tongs",
+      "old_price": null,
+      "new_price": 35.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51tvUK9nqgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK26ZJVJ?tag=pepius-21"
+    },
+    {
+      "title": "Columbia Csc Basic Logo Short Sleeve T-Shirt à Manches Courtes Homme (Lot de 1)",
+      "old_price": null,
+      "new_price": 10.8,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71IW6WarLrL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4F855G8?tag=pepius-21"
+    },
+    {
+      "title": "TOMMY HILFIGER Homme Th Hi Vulc Low Core Canvas Fm0fm05396 Bas",
+      "old_price": null,
+      "new_price": 22.37,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616weyk3EUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7J5MM9P?tag=pepius-21"
+    },
+    {
       "title": "Mars Gaming MMPXL, Tapis de Souris Noir, XL",
       "old_price": null,
       "new_price": 7.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71f3Y3SotQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09MJ3GKMK?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Homme Th Hi Vulc Core Low LTH II Ess Fm0fm05511 Bas",
+      "old_price": null,
+      "new_price": 49.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41dfd1MIqXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22VH16?tag=pepius-21"
+    },
+    {
+      "title": "New Era 59Fifty Cap - MLB Black Chicago White Sox : New Era",
+      "old_price": null,
+      "new_price": 23,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41pz95n22SL._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJKLPNSX?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 3,5 cm Boucle Ardillon",
+      "old_price": null,
+      "new_price": 9.56,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71tQetW+mTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CP5?tag=pepius-21"
     },
     {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
@@ -5013,12 +5093,36 @@
       "link": "https://www.amazon.fr/dp/B09WMXY228?tag=pepius-21"
     },
     {
+      "title": "Tommy Jeans TJM Slim 2Pack L/S Ext Dm0Dm22148 T-Shirt, Multi (Dark Night Navy/Ecru), XXL Homme",
+      "old_price": null,
+      "new_price": 58.72,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61T5DZFsnlL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK28P5CF?tag=pepius-21"
+    },
+    {
       "title": "GOODYEAR 225/40 R18 92Y EAGLE F1 (ASYMMETRIC) 5 MFS",
       "old_price": null,
       "new_price": 72.96,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/517hveDwc2L._AC_SL1024_.jpg",
       "link": "https://www.amazon.fr/dp/B07NCX1FBD?tag=pepius-21"
+    },
+    {
+      "title": "Calvin Klein Coffre Homme",
+      "old_price": null,
+      "new_price": 44.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71U0vqJvShL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7QFK87P?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Claquettes Homme Print Tumble avec Logo",
+      "old_price": null,
+      "new_price": 17.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/614t3RNNABL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK253X4R?tag=pepius-21"
     },
     {
       "title": "adidas Unisex ADULTWOMEN SS EURO25 Club Ball",
@@ -5039,7 +5143,7 @@
     {
       "title": "Intex matelas gonflable classic downy - 2 pers",
       "old_price": null,
-      "new_price": 162,
+      "new_price": 76.49,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
