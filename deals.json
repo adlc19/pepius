@@ -4901,14 +4901,6 @@
       "link": "https://www.amazon.fr/dp/B0BTHXJ8ZW?tag=pepius-21"
     },
     {
-      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
-      "old_price": 139.9,
-      "new_price": 115.24,
-      "discount": 18,
-      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
-    },
-    {
       "title": "TUNIC - Switch",
       "old_price": 29.99,
       "new_price": 24.99,
@@ -4987,6 +4979,14 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/71aHvYUgX1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKFMSMYK?tag=pepius-21"
+    },
+    {
+      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
+      "old_price": 139.9,
+      "new_price": 133.46,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
     },
     {
       "title": "Philips Hue White & Color Ambiance Ampoules LED Connectées E27, équivalent 60W, 800 lumen, Compatible Bluetooth, pack de 2, fonctionne avec Alexa, Google Assistant et Apple Homekit",
@@ -5151,7 +5151,7 @@
     {
       "title": "Intex matelas gonflable classic downy - 2 pers",
       "old_price": null,
-      "new_price": 162,
+      "new_price": 76.49,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
