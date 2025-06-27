@@ -4789,6 +4789,14 @@
       "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
     },
     {
+      "title": "Duralex Picardie Lot de 6 verres Transparent 25 cl",
+      "old_price": 14.99,
+      "new_price": 8.3,
+      "discount": 45,
+      "image": "https://m.media-amazon.com/images/I/61mEoFae+qL._AC_SL1261_.jpg",
+      "link": "https://www.amazon.fr/dp/B0017LR21Q?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr : Bosch Balais d'Essuie–Glace Plats Aerotwin Retrofit AR801S, Longueur: 600mm/530mm – 1 Paire de Balais avant",
       "old_price": 29.85,
       "new_price": 16.5,
@@ -4861,6 +4869,14 @@
       "link": "https://www.amazon.fr/dp/B0BTHXJ8ZW?tag=pepius-21"
     },
     {
+      "title": "TUNIC - Switch",
+      "old_price": 29.99,
+      "new_price": 24.99,
+      "discount": 17,
+      "image": "https://m.media-amazon.com/images/I/61SK7GoGS0L._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BXSJV991?tag=pepius-21"
+    },
+    {
       "title": "Weber Briquettes (8kg), pour une combustion longue et constante, idéales pour griller longuement les aliments, bois 100% naturel, produit de l'UE, obtenu de manière durable, certifié FSC (17591)",
       "old_price": 17.99,
       "new_price": 14.99,
@@ -4927,8 +4943,8 @@
     {
       "title": "AMD RYZEN ™ 7 9800X3D 8 Coeurs/16 Threads débridés, Architecture Zen 5, 104 Mo Cache, 120W TDP, Jusqu'a 5.2 Ghz Frequence Boost, Socket AM5, Ventilateur Non Inclus",
       "old_price": 529,
-      "new_price": 504.18,
-      "discount": 5,
+      "new_price": 499,
+      "discount": 6,
       "image": "https://m.media-amazon.com/images/I/71aHvYUgX1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKFMSMYK?tag=pepius-21"
     },
@@ -4941,12 +4957,76 @@
       "link": "https://www.amazon.fr/dp/B0DZ772DS5?tag=pepius-21"
     },
     {
+      "title": "Salomon Mixte XA Pro V8 Chaussures de randonnée",
+      "old_price": null,
+      "new_price": 33.55,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81yWaN2RzjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6V6T5G2?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Sweat à Capuche Homme Brand Love en Coton",
+      "old_price": null,
+      "new_price": 89.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71LIlp6yDIL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22N8F9?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Homme Hilfiger H Padded Beach Sandal Fm0fm05536 Tongs",
+      "old_price": null,
+      "new_price": 35.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51tvUK9nqgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK26ZJVJ?tag=pepius-21"
+    },
+    {
+      "title": "Columbia Csc Basic Logo Short Sleeve T-Shirt à Manches Courtes Homme (Lot de 1)",
+      "old_price": null,
+      "new_price": 10.8,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71IW6WarLrL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4F855G8?tag=pepius-21"
+    },
+    {
+      "title": "TOMMY HILFIGER Homme Th Hi Vulc Low Core Canvas Fm0fm05396 Bas",
+      "old_price": null,
+      "new_price": 22.37,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/616weyk3EUL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7J5MM9P?tag=pepius-21"
+    },
+    {
       "title": "Mars Gaming MMPXL, Tapis de Souris Noir, XL",
       "old_price": null,
       "new_price": 7.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71f3Y3SotQL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09MJ3GKMK?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Homme Th Hi Vulc Core Low LTH II Ess Fm0fm05511 Bas",
+      "old_price": null,
+      "new_price": 49.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41dfd1MIqXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22VH16?tag=pepius-21"
+    },
+    {
+      "title": "New Era 59Fifty Cap - MLB Black Chicago White Sox : New Era",
+      "old_price": null,
+      "new_price": 23,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41pz95n22SL._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJKLPNSX?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Ceinture Femme Essential Effortless 3,5 cm Boucle Ardillon",
+      "old_price": null,
+      "new_price": 9.56,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71tQetW+mTL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7H99CP5?tag=pepius-21"
     },
     {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
@@ -4973,12 +5053,36 @@
       "link": "https://www.amazon.fr/dp/B09WMXY228?tag=pepius-21"
     },
     {
+      "title": "Tommy Jeans TJM Slim 2Pack L/S Ext Dm0Dm22148 T-Shirt, Multi (Dark Night Navy/Ecru), XXL Homme",
+      "old_price": null,
+      "new_price": 58.72,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61T5DZFsnlL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK28P5CF?tag=pepius-21"
+    },
+    {
       "title": "GOODYEAR 225/40 R18 92Y EAGLE F1 (ASYMMETRIC) 5 MFS",
       "old_price": null,
       "new_price": 72.96,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/517hveDwc2L._AC_SL1024_.jpg",
       "link": "https://www.amazon.fr/dp/B07NCX1FBD?tag=pepius-21"
+    },
+    {
+      "title": "Calvin Klein Coffre Homme",
+      "old_price": null,
+      "new_price": 44.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71U0vqJvShL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7QFK87P?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Claquettes Homme Print Tumble avec Logo",
+      "old_price": null,
+      "new_price": 17.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/614t3RNNABL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK253X4R?tag=pepius-21"
     },
     {
       "title": "adidas Unisex ADULTWOMEN SS EURO25 Club Ball",
@@ -5003,6 +5107,22 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
+    },
+    {
+      "title": "Crocs Frozen Olaf Lined Classic Clog K Sabot Mixte Enfant",
+      "old_price": null,
+      "new_price": 12.88,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41UDxps+jDL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6YWB3Q5?tag=pepius-21"
+    },
+    {
+      "title": "JACK & JONES Jacben Solid Trunks Lot de 5 Boxers 3 Homme",
+      "old_price": null,
+      "new_price": 23.86,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71CKXloJHKL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D4261F51?tag=pepius-21"
     }
   ]
 }
