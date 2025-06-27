@@ -4749,6 +4749,14 @@
   ],
   "2025-06-27": [
     {
+      "title": "Logitech Desk Mat - Studio Series, Large Tapis de Bureau Multifonctionnel et Etendu, Protection Bureau avec Base Anti-Dérapage, Design Durable et Imperméable - Gris",
+      "old_price": 21.99,
+      "new_price": 7.49,
+      "discount": 66,
+      "image": "https://m.media-amazon.com/images/I/510xGGdgocL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07W5JK3Z2?tag=pepius-21"
+    },
+    {
       "title": "Salomon Quicklace Kit, Kit d'entretien des Chaussures Mixte, FTW Silver/Black/Black, NS",
       "old_price": 10,
       "new_price": 4,
@@ -4803,14 +4811,6 @@
       "discount": 45,
       "image": "https://m.media-amazon.com/images/I/71jjjSIr8jL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002FUFMHE?tag=pepius-21"
-    },
-    {
-      "title": "Compilation Riders Republic + Immortals Fenyx Rising FRA PS5",
-      "old_price": 29.99,
-      "new_price": 16.8,
-      "discount": 44,
-      "image": "https://m.media-amazon.com/images/I/81WF4d6WTQL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BZQLMTCN?tag=pepius-21"
     },
     {
       "title": "Tomb Raider 1-3 Remastered Starring Lara Croft - PS5",
@@ -4885,14 +4885,6 @@
       "link": "https://www.amazon.fr/dp/B01F10ERPW?tag=pepius-21"
     },
     {
-      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
-      "old_price": 139.9,
-      "new_price": 117.6,
-      "discount": 16,
-      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
-    },
-    {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go ; Lumière stellaire",
       "old_price": 1199,
       "new_price": 1027.84,
@@ -4925,6 +4917,14 @@
       "link": "https://www.amazon.fr/dp/B008UTPEWC?tag=pepius-21"
     },
     {
+      "title": "Apple iPhone 16 (128 Go) - Outremer",
+      "old_price": 866,
+      "new_price": 799,
+      "discount": 8,
+      "image": "https://m.media-amazon.com/images/I/712Pyq1hPfL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGJ2N566?tag=pepius-21"
+    },
+    {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Minuit",
       "old_price": 1081,
       "new_price": 999,
@@ -4941,12 +4941,28 @@
       "link": "https://www.amazon.fr/dp/B09WB3724P?tag=pepius-21"
     },
     {
+      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
+      "old_price": 139.9,
+      "new_price": 129.95,
+      "discount": 7,
+      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
+    },
+    {
       "title": "AMD RYZEN ™ 7 9800X3D 8 Coeurs/16 Threads débridés, Architecture Zen 5, 104 Mo Cache, 120W TDP, Jusqu'a 5.2 Ghz Frequence Boost, Socket AM5, Ventilateur Non Inclus",
       "old_price": 529,
       "new_price": 513.98,
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/71aHvYUgX1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKFMSMYK?tag=pepius-21"
+    },
+    {
+      "title": "AOC Nouveau PC Portable 2025, écran 16,10 Pouces, Boîtier en métal rétroéclairé, Ordinateur Portable AMD Ryzen 7 5700U (8C/16T, jusqu'à 4,30 GHz),16 Go DDR4, 512 Go SSD M.2, WiFi 6,Type-C",
+      "old_price": null,
+      "new_price": 442.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71TBkhWH8AL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DRHZQT7G?tag=pepius-21"
     },
     {
       "title": "Apple iPad Air 11 Pouces avec Puce M3 : Apple Intelligence, écran Liquid Retina, 128 Go, caméras Avant/arrière 12 Mpx, Wi-FI 6E, Touch ID, autonomie d’Une journée – Lumière stellaire",
@@ -5103,7 +5119,7 @@
     {
       "title": "Intex matelas gonflable classic downy - 2 pers",
       "old_price": null,
-      "new_price": 162,
+      "new_price": 76.49,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61xGwTN2pvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07LH4KW3P?tag=pepius-21"
