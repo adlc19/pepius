@@ -5271,14 +5271,6 @@
       "link": "https://www.amazon.fr/dp/B0017LR21Q?tag=pepius-21"
     },
     {
-      "title": "Amazon.fr : Bosch Balais d'Essuie–Glace Plats Aerotwin Retrofit AR801S, Longueur: 600mm/530mm – 1 Paire de Balais avant",
-      "old_price": 29.85,
-      "new_price": 16.5,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/71jjjSIr8jL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B002FUFMHE?tag=pepius-21"
-    },
-    {
       "title": "Compilation Riders Republic + Immortals Fenyx Rising FRA PS5",
       "old_price": 29.99,
       "new_price": 16.8,
@@ -5301,6 +5293,14 @@
       "discount": 43,
       "image": "https://m.media-amazon.com/images/I/81DvSxJ7oTL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4QSJQPP?tag=pepius-21"
+    },
+    {
+      "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 2 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S2T0BW",
+      "old_price": 204.99,
+      "new_price": 118.99,
+      "discount": 42,
+      "image": "https://m.media-amazon.com/images/I/71OeLBt2mgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGHB9V34?tag=pepius-21"
     },
     {
       "title": "Tefal Hachoir manuel 5 secondes 900 ml Plus lames, Purée, Hacher, Découper, Mixer, Légumes et viandes, Noix, Oignons, Lames en acier inoxydable, Rapidité et facilité K1321324",
@@ -5413,14 +5413,6 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/81UW97tMNrL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B008UTPEWC?tag=pepius-21"
-    },
-    {
-      "title": "Apple iPhone 16 (128 Go) - Outremer",
-      "old_price": 866,
-      "new_price": 799,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/712Pyq1hPfL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGJ2N566?tag=pepius-21"
     },
     {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Minuit",
@@ -5581,6 +5573,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71xHPEKUwUL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B6XJJRZ3?tag=pepius-21"
+    },
+    {
+      "title": "CORSAIR Nautilus 360 RS ARGB Refroidisseur Liquide pour CPU – 360mm AIO – Faible Bruit – Connexion Directe de Carte Mère – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RS120 ARGB Ventilateurs Inclus – Noir",
+      "old_price": 137.55,
+      "new_price": 137.55,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71rD5Q7LtLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DF7C4YPQ?tag=pepius-21"
     },
     {
       "title": "Tefal Primary Poêle inox 24 cm, Garantie 10 ans, Acier inoxydable de première qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080404",
