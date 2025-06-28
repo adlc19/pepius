@@ -5239,14 +5239,6 @@
       "link": "https://www.amazon.fr/dp/B084BQ87T1?tag=pepius-21"
     },
     {
-      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
-      "old_price": 57.53,
-      "new_price": 27.67,
-      "discount": 52,
-      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
-    },
-    {
       "title": "DURACELL Plus Piles AAA (Lot de 24) – Piles Alcalines 1,5 V–Durent jusqu’à 100 % plus longtemps grâce aux Actifs POWER BOOST–Fiable pour vos Appareils du Quotidien–Emballage 0 % Plastique–LR03 MN2400",
       "old_price": 22.99,
       "new_price": 12.34,
@@ -5269,6 +5261,22 @@
       "discount": 45,
       "image": "https://m.media-amazon.com/images/I/61mEoFae+qL._AC_SL1261_.jpg",
       "link": "https://www.amazon.fr/dp/B0017LR21Q?tag=pepius-21"
+    },
+    {
+      "title": "Compilation Riders Republic + Immortals Fenyx Rising FRA PS5",
+      "old_price": 29.99,
+      "new_price": 16.8,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/81WF4d6WTQL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BZQLMTCN?tag=pepius-21"
+    },
+    {
+      "title": "DYMO Étiqueteuse LabelManager 160 - Clavier AZERTY - Imprimante Portable d'Étiquettes Autocollantes",
+      "old_price": 57.53,
+      "new_price": 32,
+      "discount": 44,
+      "image": "https://m.media-amazon.com/images/I/81tj+Lwv6RL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BLGQFWPM?tag=pepius-21"
     },
     {
       "title": "Cult of the Lamb - Switch",
@@ -5301,6 +5309,14 @@
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/51tsKHf5jcL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B07KYWX474?tag=pepius-21"
+    },
+    {
+      "title": "GROHE Vitalio Start 110, Pommeau de Douche Rond 11cm 2 Jets (Pluie/Stimulant), Economie d'Eau, Sélection Facile, Procédé Anti-Calcaire, Chromé, 27946001",
+      "old_price": 19.99,
+      "new_price": 11.97,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/71Guh+WLRdL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CN4NGV5W?tag=pepius-21"
     },
     {
       "title": "Lenovo IdeaPad Slim 3 15IRH10 - Ordinateur Portable 15.3'' WUXGA (Intel Core i5-13420H, RAM 16Go, SSD 512Go, Intel UHD Graphics, Windows 11 Home) Clavier AZERTY Français - Gris",
@@ -5375,22 +5391,6 @@
       "link": "https://www.amazon.fr/dp/B008UTPEWC?tag=pepius-21"
     },
     {
-      "title": "Apple iPhone 16 (128 Go) - Outremer",
-      "old_price": 866,
-      "new_price": 799,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/712Pyq1hPfL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGJ2N566?tag=pepius-21"
-    },
-    {
-      "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Minuit",
-      "old_price": 1081,
-      "new_price": 999,
-      "discount": 8,
-      "image": "https://m.media-amazon.com/images/I/71sQdN4lfYL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DZDQ7SQK?tag=pepius-21"
-    },
-    {
       "title": "Tefal Couteau de cuisine Santoku 16,5 cm, Multiusages, Aiguiseur intégré, Technologie exclusive de verrouillage, Acier inoxydable allemand, Affûtage optimal, Etui innovant, Ever Sharp K2579024",
       "old_price": 18.27,
       "new_price": 16.99,
@@ -5405,14 +5405,6 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/71aHvYUgX1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DKFMSMYK?tag=pepius-21"
-    },
-    {
-      "title": "Tommy Hilfiger Homme Th Hi Vulc Core Low II Slipon Fm0fm05514 Bas",
-      "old_price": null,
-      "new_price": 31.96,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71Am82AEWIL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DK28595W?tag=pepius-21"
     },
     {
       "title": "INIU Batterie Externe, 22.5W 10000mAh Power Bank, Batterie Portable USB C Input & Output PD3.0 QC4.0 Charge Rapide Powerbank Compatible avec iPhone 16 15 14 13 12 Pro Max Plus Samsung iPad Pro etc",
@@ -5445,6 +5437,22 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71TBkhWH8AL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DRHZQT7G?tag=pepius-21"
+    },
+    {
+      "title": "Apple iPhone 16 (128 Go) - Outremer",
+      "old_price": null,
+      "new_price": 799,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/712Pyq1hPfL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGJ2N566?tag=pepius-21"
+    },
+    {
+      "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Minuit",
+      "old_price": null,
+      "new_price": 999,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71sQdN4lfYL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZDQ7SQK?tag=pepius-21"
     },
     {
       "title": "Mars Gaming MMPXL, Tapis de Souris Noir, XL",
