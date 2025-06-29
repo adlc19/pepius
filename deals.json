@@ -5545,14 +5545,6 @@
       "link": "https://www.amazon.fr/dp/B098FJ6LXB?tag=pepius-21"
     },
     {
-      "title": "SINTOBOIS - Pâte à Bois Charges Lourdes - Reconstitue les Parties Manquantes - Passages Fréquents et Charges Lourdes - Intérieur et Extérieur - Sec en 20min - Chêne - Technique Professionnelle - 190g",
-      "old_price": 17,
-      "new_price": 7.6,
-      "discount": 55,
-      "image": "https://m.media-amazon.com/images/I/71vHL1SzNwL._SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B073RP3Q5K?tag=pepius-21"
-    },
-    {
       "title": "Max Payne 2: The Fall of Max Payne [Code Jeu PC - Steam]",
       "old_price": 10,
       "new_price": 4.49,
@@ -5575,6 +5567,14 @@
       "discount": 54,
       "image": "https://m.media-amazon.com/images/I/71H+oXMJN6L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B084BQ87T1?tag=pepius-21"
+    },
+    {
+      "title": "SINTOBOIS - Pâte à Bois Charges Lourdes - Reconstitue les Parties Manquantes - Passages Fréquents et Charges Lourdes - Intérieur et Extérieur - Sec en 20min - Chêne - Technique Professionnelle - 190g",
+      "old_price": 17,
+      "new_price": 8,
+      "discount": 53,
+      "image": "https://m.media-amazon.com/images/I/71vHL1SzNwL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B073RP3Q5K?tag=pepius-21"
     },
     {
       "title": "DURACELL Plus Piles AAA (Lot de 24) – Piles Alcalines 1,5 V–Durent jusqu’à 100 % plus longtemps grâce aux Actifs POWER BOOST–Fiable pour vos Appareils du Quotidien–Emballage 0 % Plastique–LR03 MN2400",
@@ -5967,22 +5967,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71IW6WarLrL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4F855G8?tag=pepius-21"
-    },
-    {
-      "title": "TOMMY HILFIGER Homme Th Hi Vulc Low Core Canvas Fm0fm05396 Bas",
-      "old_price": null,
-      "new_price": 22.37,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/616weyk3EUL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D7J5MM9P?tag=pepius-21"
-    },
-    {
-      "title": "Mars Gaming MMPXL, Tapis de Souris Noir, XL",
-      "old_price": null,
-      "new_price": 17.66,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71f3Y3SotQL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09MJ3GKMK?tag=pepius-21"
     }
   ]
 }
