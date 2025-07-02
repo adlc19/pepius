@@ -6011,6 +6011,14 @@
       "link": "https://www.amazon.fr/dp/B0CZXXM598?tag=pepius-21"
     },
     {
+      "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
+      "old_price": 12.99,
+      "new_price": 4.99,
+      "discount": 62,
+      "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
+    },
+    {
       "title": "Bestway LAY-Z-SPA Bâche de piscine et accessoires Beige",
       "old_price": 39.95,
       "new_price": 17.16,
@@ -6145,6 +6153,14 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/61P+L1WVpEL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09N7GBL5W?tag=pepius-21"
+    },
+    {
+      "title": "TAURUS - Ventilateur Sur Pied Boreal 16CR Silence 30W | 12 Vitesses | Ultra-silencieux | Modes Normal/Brise/Nuit | 5 Pales | Oscillant | Hauteur Réglable | Télécommande | Écran Digital | Noir",
+      "old_price": 99,
+      "new_price": 69.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/61DXwjShd4L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6VXF6J4?tag=pepius-21"
     },
     {
       "title": "Xbox Manette sans Fil - Elite Series 2 – Core (Rouge) Series X, Series S, One, Windows 10 & 11, Android et iOS",
@@ -6299,14 +6315,6 @@
       "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
     },
     {
-      "title": "Manette Pro Controller Nintendo Switch 2",
-      "old_price": 89.99,
-      "new_price": 79.9,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
-    },
-    {
       "title": "Pro Breeze Ventilateur sur Pied Hybride 109 cm Silencieux 29 dB avec Télécommande, Oscillation 135°/100°, 9 Vitesses, Écran LED, Minuterie 9h – Éco-énergétique, Idéal Pour Chambre, Salon, Bureau",
       "old_price": 129.99,
       "new_price": 119.99,
@@ -6339,28 +6347,12 @@
       "link": "https://www.amazon.fr/dp/B0BV6JGPTG?tag=pepius-21"
     },
     {
-      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
-      "old_price": 12.66,
-      "new_price": 12,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
-      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
-    },
-    {
       "title": "Vidéoprojecteur avec Son JBL 16W, 33000 Lumens Yaber Projecteur Video Auto Focus, Videoprojecteur Portable WiFi6 Bluetooth Courte Focale, Rétroprojecteur Extérieur Natif 1080P, HDMI/USB",
       "old_price": null,
       "new_price": 239.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Rbo7T0GtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFQ6B5J4?tag=pepius-21"
-    },
-    {
-      "title": "LG UltraGear™ 27GX790A-B Ecran PC Gaming OLED 27\" - dalle OLED résolution QHD (2560x1440), 0.03 ms GtG 480Hz, DisplayHDR™ TrueBlack 400, DCI-P3 98.5% (CIE1976), AMD FreeSync Premium Pro, NVIDIA G-Sync",
-      "old_price": null,
-      "new_price": 579,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zsDZ2kC+L._AC_SL1334_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DYVNZR13?tag=pepius-21"
     },
     {
       "title": "Pokémon Figurine Ectoplasma Select en Vinyle - Figurine de 10 cm fabriquée en Vinyle de Haute qualité",
@@ -6373,7 +6365,7 @@
     {
       "title": "Majorette - Grand Series - Mercedes Sprinter DHL - 15cm (Echelle 1/43ème) - Sons et Lumières - Dès 3 Ans - 213742000 : Majorette",
       "old_price": null,
-      "new_price": 36.87,
+      "new_price": 13.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51nUaQCkRIL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0B4JVHSZR?tag=pepius-21"
@@ -6395,12 +6387,20 @@
       "link": "https://www.amazon.fr/dp/B0D91VHHWC?tag=pepius-21"
     },
     {
-      "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
+      "title": "Manette Pro Controller Nintendo Switch 2",
       "old_price": null,
-      "new_price": 0.75,
+      "new_price": 19.79,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
+    },
+    {
+      "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
+      "old_price": 12.66,
+      "new_price": 13.43,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
     },
     {
       "title": "MySims : Collection cosy Switch / Switch 2 | Jeu Vidéo | Français",
