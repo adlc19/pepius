@@ -6003,14 +6003,6 @@
       "link": "https://www.amazon.fr/dp/B0007XC2RO?tag=pepius-21"
     },
     {
-      "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
-      "old_price": 12.99,
-      "new_price": 4.99,
-      "discount": 62,
-      "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
-    },
-    {
       "title": "Bestway LAY-Z-SPA Bâche de piscine et accessoires Beige",
       "old_price": 39.95,
       "new_price": 17.16,
@@ -6045,7 +6037,7 @@
     {
       "title": "HPColor LaserJet Pro 3302fdw,Imprimante multifonction,Laser couleur,Impression, copie, scan, fax, Recto-Verso automatique,WiFi,Chargeur automatique de documents, jusqu'à 25 ppm,Bleu Noire er Blanche",
       "old_price": 559.9,
-      "new_price": 316.61,
+      "new_price": 317.75,
       "discount": 43,
       "image": "https://m.media-amazon.com/images/I/71pm9lHb64L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CWGQ3V2K?tag=pepius-21"
@@ -6155,6 +6147,14 @@
       "link": "https://www.amazon.fr/dp/B0D6VXF6J4?tag=pepius-21"
     },
     {
+      "title": "Xbox Manette sans Fil - Elite Series 2 – Core (Rouge) Series X, Series S, One, Windows 10 & 11, Android et iOS",
+      "old_price": 139.99,
+      "new_price": 99.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/711Tq3iGFQL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BXZY4D6H?tag=pepius-21"
+    },
+    {
       "title": "Amazon Basics Lot de 24 piles AA NiMH rechargeables, 2 000 mAh, rechargeables jusqu'à 1 000 fois, préchargées",
       "old_price": 23.43,
       "new_price": 16.59,
@@ -6179,12 +6179,12 @@
       "link": "https://www.amazon.fr/dp/B0BGPLL3D6?tag=pepius-21"
     },
     {
-      "title": "Xbox Manette sans Fil - Elite Series 2 – Core (Rouge) Series X, Series S, One, Windows 10 & 11, Android et iOS",
-      "old_price": 139.99,
-      "new_price": 106.6,
-      "discount": 24,
-      "image": "https://m.media-amazon.com/images/I/711Tq3iGFQL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BXZY4D6H?tag=pepius-21"
+      "title": "CORSAIR SF750 (2024) Alimentation ATX Entièrement Modulaire à Faible Bruit 80 Plus Platinum – Compatible ATX 3.1 – Compatible PCIe 5.1 – Support SFX-to-ATX Inclus – Noir",
+      "old_price": 179.9,
+      "new_price": 139.64,
+      "discount": 22,
+      "image": "https://m.media-amazon.com/images/I/81gn3wwCOBL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D5HY3F9X?tag=pepius-21"
     },
     {
       "title": "Dragon Age: The Veilguard Standard Edition PS5 | Jeu Vidéo | Français",
@@ -6243,17 +6243,9 @@
       "link": "https://www.amazon.fr/dp/B07NX17HT5?tag=pepius-21"
     },
     {
-      "title": "Philips Ventilateur sur pied Série 3000. Puissant et ultra-silencieux. Technologie SilentWings. 19 dB. Ventilateur de Table/sur Pied. Inclinable et Rotatif. Contrôle par App. Noir (CX3550/01)",
-      "old_price": 99.99,
-      "new_price": 79.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/61hAfu2QYuL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CYTKSFMN?tag=pepius-21"
-    },
-    {
       "title": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF 16G Carte Graphique - 16 Go GDDR7, 256 Bits, PCI-E 5.0, 2497 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLSS 4, GV-N507TWF3OC-16GD",
       "old_price": 1099,
-      "new_price": 884.84,
+      "new_price": 884.83,
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71aujv61egL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DTGNB9Q5?tag=pepius-21"
@@ -6387,9 +6379,17 @@
       "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
     },
     {
+      "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
+      "old_price": null,
+      "new_price": 16.66,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
+    },
+    {
       "title": "SanDisk 64 Go Extreme PRO microSDXC carte + adaptateur SD + RescuePro Deluxe jusqu'à 200 Mo/s avec des performances applicatives A2 UHS-I Class 10 U3 V30",
       "old_price": null,
-      "new_price": 13.72,
+      "new_price": 13.82,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61JklAbgXNL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09X7BYSFG?tag=pepius-21"
