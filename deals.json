@@ -6477,14 +6477,6 @@
       "link": "https://www.amazon.fr/dp/B08R3YY5ZJ?tag=pepius-21"
     },
     {
-      "title": "Bestway LAY-Z-SPA Bâche de piscine et accessoires Beige",
-      "old_price": 39.95,
-      "new_price": 17.16,
-      "discount": 57,
-      "image": "https://m.media-amazon.com/images/I/719lH1W5V5L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08CB36DY9?tag=pepius-21"
-    },
-    {
       "title": "Sony Barre de son TV 5.1 HT-S20R Dolby Surround avec caisson de basses filaire et haut-parleurs arrière, noir",
       "old_price": 299.9,
       "new_price": 135.03,
@@ -6579,6 +6571,14 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/71kBEpj5ygL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08FJ7XY3B?tag=pepius-21"
+    },
+    {
+      "title": "TAURUS - Ventilateur Sur Pied Boreal 16CR Silence 30W | 12 Vitesses | Ultra-silencieux | Modes Normal/Brise/Nuit | 5 Pales | Oscillant | Hauteur Réglable | Télécommande | Écran Digital | Noir",
+      "old_price": 99,
+      "new_price": 69.99,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/61DXwjShd4L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D6VXF6J4?tag=pepius-21"
     },
     {
       "title": "Xiaomi Redmi 13 128GB Midnight Black",
@@ -6765,14 +6765,6 @@
       "link": "https://www.amazon.fr/dp/B0BV6JGPTG?tag=pepius-21"
     },
     {
-      "title": "adidas Mixte Adilette Shower Slides TOBOGGANS",
-      "old_price": null,
-      "new_price": 14,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41FvUkeLVtL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B09NJPBJ7B?tag=pepius-21"
-    },
-    {
       "title": "Civilization VII - Édition Deluxe PS5 Golden Joystick Nominee",
       "old_price": null,
       "new_price": 49.99,
@@ -6837,6 +6829,14 @@
       "link": "https://www.amazon.fr/dp/B0B9FLSMDG?tag=pepius-21"
     },
     {
+      "title": "Majorette - Grand Series - Mercedes Sprinter DHL - 15cm (Echelle 1/43ème) - Sons et Lumières - Dès 3 Ans - 213742000 : Majorette",
+      "old_price": null,
+      "new_price": 22.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51nUaQCkRIL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B4JVHSZR?tag=pepius-21"
+    },
+    {
       "title": "Motorola Moto G05 6.67\" 4/128GB 5200mAh 50MP Android 15 Verde Libre",
       "old_price": null,
       "new_price": 84.55,
@@ -6863,7 +6863,7 @@
     {
       "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
       "old_price": null,
-      "new_price": 3.72,
+      "new_price": 15.6,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
