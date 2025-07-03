@@ -6693,6 +6693,14 @@
       "link": "https://www.amazon.fr/dp/B0DK3ZCSRH?tag=pepius-21"
     },
     {
+      "title": "Oral-B Dentifrice Pro-Expert Advanced Science Extra Blanchissant 12 x 75 ml",
+      "old_price": 16.73,
+      "new_price": 14.1,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/81Nr-nJgOwL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09B55X112?tag=pepius-21"
+    },
+    {
       "title": "Amazon Basics Couvercles Verrouillables en Verre Étanches, Récipients de Conservation des Aliments, Ensemble de 20 Pièces, 10 Bases et 10 Couvercles en Plastique, Transparent, Bleu, Sans BPA",
       "old_price": 40.24,
       "new_price": 33.94,
@@ -6755,14 +6763,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71lYGSx9bIL._AC_SL1080_.jpg",
       "link": "https://www.amazon.fr/dp/B07VGGLB2W?tag=pepius-21"
-    },
-    {
-      "title": "Amazon Essentials Short Chino Coupe Classique, Entrejambe 18 cm Homme",
-      "old_price": null,
-      "new_price": 19,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71N-5w9QU0L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07FHBJFL3?tag=pepius-21"
     },
     {
       "title": "SABRENT Boitier Disque Dur Externe, USB-C Station d'accueil pour Disque Dur HDD/SATA 3.5\"/2.5\" & Boitier SSD M2 NVMe avec Fonction de Clonage Hors Ligne – Adaptateur SATA USB Intégré (DS-UFNC)",
@@ -6863,7 +6863,7 @@
     {
       "title": "MySims : Collection cosy Switch / Switch 2 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 22.99,
+      "new_price": 29.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81tG17Bj6FL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFD2ML75?tag=pepius-21"
