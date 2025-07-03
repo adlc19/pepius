@@ -6557,7 +6557,7 @@
       "link": "https://www.amazon.fr/dp/B0BW191ZYH?tag=pepius-21"
     },
     {
-      "title": "HPColor LaserJet Pro 3302fdw,Imprimante multifonction,Laser couleur,Impression, copie, scan, fax, Recto-Verso automatique,WiFi,Chargeur automatique de documents, jusqu'à 25 ppm,Bleu Noire er Blanche",
+      "title": "HP Color LaserJet Pro 3302fdw, Imprimante multifunction A4, Recto/verso automatique couleur, 25 ppm, USB, Wi-Fi, Fax, Copie, ADF, HP Smart, Bleue",
       "old_price": 559.9,
       "new_price": 340.5,
       "discount": 39,
@@ -6733,14 +6733,6 @@
       "link": "https://www.amazon.fr/dp/B0DP213JFW?tag=pepius-21"
     },
     {
-      "title": "Amazon Basics Lot de 16 piles rechargeables AAA NiMH haute capacité, 850 mAh, rechargeables jusqu'à 500 fois, préchargées",
-      "old_price": 14.12,
-      "new_price": 11.28,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/717V4ZILKiS._AC_SL1299_.jpg",
-      "link": "https://www.amazon.fr/dp/B07NX17HT5?tag=pepius-21"
-    },
-    {
       "title": "ECOVACS T50 Omni Aspirateur Robot avec Station, Puissance 15000Pa amélioré par T30 Pro Omni, Brosse latérale et serpillière Extensibles, ZeroTangle 2.0, AIVI 3D 2.0, Lavage à l'eau Chaude 75℃, Blanc",
       "old_price": 599,
       "new_price": 485,
@@ -6773,20 +6765,20 @@
       "link": "https://www.amazon.fr/dp/B073ZRS74L?tag=pepius-21"
     },
     {
+      "title": "SAMSUNG Galaxy SmartTag 2 EI-T5600 4 per Pack 2X Black+ White Article Recherche Graphite, Blanc",
+      "old_price": 71,
+      "new_price": 60.25,
+      "discount": 15,
+      "image": "https://m.media-amazon.com/images/I/61btyAo4j+L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CG77NW4M?tag=pepius-21"
+    },
+    {
       "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
       "old_price": 305.32,
       "new_price": 265,
       "discount": 13,
       "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
-    },
-    {
-      "title": "Manette Pro Controller Nintendo Switch 2",
-      "old_price": 89.99,
-      "new_price": 79.9,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
     },
     {
       "title": "DREAME H12 Pro FlexReach Aspirateur Laveur, portée à Plat à 180°, séchage 5 Min, Aspiration 18 kPa, Lavage à Chaud à 90 °C, Nettoyage Deux Bords, 50 Minutes de Nettoyage",
@@ -6903,7 +6895,7 @@
     {
       "title": "Majorette - Grand Series - Mercedes Sprinter DHL - 15cm (Echelle 1/43ème) - Sons et Lumières - Dès 3 Ans - 213742000 : Majorette",
       "old_price": null,
-      "new_price": 61.99,
+      "new_price": 44.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51nUaQCkRIL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0B4JVHSZR?tag=pepius-21"
@@ -6939,6 +6931,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/713VW6T+LmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
+    },
+    {
+      "title": "Manette Pro Controller Nintendo Switch 2",
+      "old_price": null,
+      "new_price": 19.79,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
     },
     {
       "title": "Tommy Hilfiger Tripack Boxers Coton",
@@ -6999,7 +6999,7 @@
     {
       "title": "MySims : Collection cosy Switch / Switch 2 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 22.99,
+      "new_price": 19.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81tG17Bj6FL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFD2ML75?tag=pepius-21"
@@ -7007,7 +7007,7 @@
     {
       "title": "PANDORA Bague pour femme Disney Princesse Ariel Coquillage Argent 193654C01",
       "old_price": null,
-      "new_price": 62.88,
+      "new_price": 62.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gtXZxuvTL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DSLLPJWN?tag=pepius-21"
