@@ -6461,14 +6461,6 @@
   ],
   "2025-07-03": [
     {
-      "title": "Intex Rustine de réparation 59631NP Transparent 49 x 49 x 0,2 cm 59631NP",
-      "old_price": 3.89,
-      "new_price": 0.55,
-      "discount": 86,
-      "image": "https://m.media-amazon.com/images/I/61VrIrZVP-L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0007XC2RO?tag=pepius-21"
-    },
-    {
       "title": "Star Wars Outlaws - Edition Gold (inclut le Season Pass et un Early access) - [PlayStation 5]",
       "old_price": 80,
       "new_price": 28.8,
@@ -6621,14 +6613,6 @@
       "link": "https://www.amazon.fr/dp/B08FJ7XY3B?tag=pepius-21"
     },
     {
-      "title": "Active Era Sac de Couchage Rectangulaire 3-4 Saisons 0-15°C avec Sac de Compression pour Adultes et Enfants - Duvet Léger, Chaud, Imperméable, Jumelable - Noir",
-      "old_price": 42.99,
-      "new_price": 29.99,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/61P+L1WVpEL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09N7GBL5W?tag=pepius-21"
-    },
-    {
       "title": "Xbox Manette sans Fil - Elite Series 2 – Core (Rouge) Series X, Series S, One, Windows 10 & 11, Android et iOS",
       "old_price": 139.99,
       "new_price": 99.99,
@@ -6659,6 +6643,14 @@
       "discount": 26,
       "image": "https://m.media-amazon.com/images/I/61bAxhVjxML._AC_SL1268_.jpg",
       "link": "https://www.amazon.fr/dp/B0D4SSH1FX?tag=pepius-21"
+    },
+    {
+      "title": "Active Era Sac de Couchage Rectangulaire 3-4 Saisons 0-15°C avec Sac de Compression pour Adultes et Enfants - Duvet Léger, Chaud, Imperméable, Jumelable - Noir",
+      "old_price": 42.99,
+      "new_price": 32.24,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/61P+L1WVpEL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09N7GBL5W?tag=pepius-21"
     },
     {
       "title": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF 16G Carte Graphique - 16 Go GDDR7, 256 Bits, PCI-E 5.0, 2497 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLSS 4, GV-N507TWF3OC-16GD",
@@ -6717,14 +6709,6 @@
       "link": "https://www.amazon.fr/dp/B07NX17HT5?tag=pepius-21"
     },
     {
-      "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
-      "old_price": 326,
-      "new_price": 265,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
-    },
-    {
       "title": "ECOVACS T50 Omni Aspirateur Robot avec Station, Puissance 15000Pa amélioré par T30 Pro Omni, Brosse latérale et serpillière Extensibles, ZeroTangle 2.0, AIVI 3D 2.0, Lavage à l'eau Chaude 75℃, Blanc",
       "old_price": 599,
       "new_price": 485,
@@ -6741,14 +6725,6 @@
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
     },
     {
-      "title": "PERFO BURINEUR SDS+18V (machine nue) - DHR243Z",
-      "old_price": 240.1,
-      "new_price": 199.3,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/713VW6T+LmL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
-    },
-    {
       "title": "Apple iPad 10,9 Pouces (Wi-FI, 256 Go) - Jaune (10e génération)",
       "old_price": 459,
       "new_price": 379,
@@ -6763,6 +6739,14 @@
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/71J51yG6C6L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B073ZRS74L?tag=pepius-21"
+    },
+    {
+      "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
+      "old_price": 305.32,
+      "new_price": 265,
+      "discount": 13,
+      "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
     },
     {
       "title": "DREAME H12 Pro FlexReach Aspirateur Laveur, portée à Plat à 180°, séchage 5 Min, Aspiration 18 kPa, Lavage à Chaud à 90 °C, Nettoyage Deux Bords, 50 Minutes de Nettoyage",
@@ -6795,6 +6779,14 @@
       "discount": 3,
       "image": "https://m.media-amazon.com/images/I/81gn3wwCOBL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D5HY3F9X?tag=pepius-21"
+    },
+    {
+      "title": "Amazon Essentials Short Chino Coupe Classique, Entrejambe 18 cm Homme",
+      "old_price": null,
+      "new_price": 13.29,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71N-5w9QU0L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07FHBJFL3?tag=pepius-21"
     },
     {
       "title": "SABRENT Boitier Disque Dur Externe, USB-C Station d'accueil pour Disque Dur HDD/SATA 3.5\"/2.5\" & Boitier SSD M2 NVMe avec Fonction de Clonage Hors Ligne – Adaptateur SATA USB Intégré (DS-UFNC)",
@@ -6861,9 +6853,17 @@
       "link": "https://www.amazon.fr/dp/B0D91VHHWC?tag=pepius-21"
     },
     {
+      "title": "PERFO BURINEUR SDS+18V (machine nue) - DHR243Z",
+      "old_price": null,
+      "new_price": 199.3,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/713VW6T+LmL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
+    },
+    {
       "title": "Manette Pro Controller Nintendo Switch 2",
       "old_price": null,
-      "new_price": 29.99,
+      "new_price": 19.79,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
@@ -6871,7 +6871,7 @@
     {
       "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
       "old_price": null,
-      "new_price": 16.66,
+      "new_price": 7.33,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
@@ -6887,7 +6887,7 @@
     {
       "title": "MySims : Collection cosy Switch / Switch 2 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 19.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81tG17Bj6FL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFD2ML75?tag=pepius-21"
