@@ -6717,6 +6717,14 @@
       "link": "https://www.amazon.fr/dp/B07NX17HT5?tag=pepius-21"
     },
     {
+      "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
+      "old_price": 326,
+      "new_price": 265,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
+    },
+    {
       "title": "ECOVACS T50 Omni Aspirateur Robot avec Station, Puissance 15000Pa amélioré par T30 Pro Omni, Brosse latérale et serpillière Extensibles, ZeroTangle 2.0, AIVI 3D 2.0, Lavage à l'eau Chaude 75℃, Blanc",
       "old_price": 599,
       "new_price": 485,
@@ -6731,14 +6739,6 @@
       "discount": 19,
       "image": "https://m.media-amazon.com/images/I/71zi+tZvEtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BLZVFJM1?tag=pepius-21"
-    },
-    {
-      "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
-      "old_price": 326,
-      "new_price": 270,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
     },
     {
       "title": "PERFO BURINEUR SDS+18V (machine nue) - DHR243Z",
@@ -6863,7 +6863,7 @@
     {
       "title": "Manette Pro Controller Nintendo Switch 2",
       "old_price": null,
-      "new_price": 19.79,
+      "new_price": 29.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
@@ -6887,7 +6887,7 @@
     {
       "title": "MySims : Collection cosy Switch / Switch 2 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 19.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81tG17Bj6FL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFD2ML75?tag=pepius-21"
