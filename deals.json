@@ -6509,6 +6509,14 @@
       "link": "https://www.amazon.fr/dp/B0F8TTS9SH?tag=pepius-21"
     },
     {
+      "title": "PEUGEOT - Moulin à Poivre Bistro 10 cm - Réglage Classique - En Bois Labellisé PEFC - Fabrication Française - Couleur : Chocolat",
+      "old_price": 26.9,
+      "new_price": 12.5,
+      "discount": 54,
+      "image": "https://m.media-amazon.com/images/I/61ZU1+efajL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B000P1Q39G?tag=pepius-21"
+    },
+    {
       "title": "Logitech G29 Driving Volant de Course en Cuir avec Pédales, Retour de Force Réaliste, Palettes Volant en Acier Inoxydable, Rotation à 900°, Prise EU, PS5, PS4, PC, Mac - Noir",
       "old_price": 419,
       "new_price": 199.99,
@@ -6651,14 +6659,6 @@
       "discount": 27,
       "image": "https://m.media-amazon.com/images/I/81NKxui+ilL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07NXG4NV9?tag=pepius-21"
-    },
-    {
-      "title": "Xiaomi Redmi 13 128GB Midnight Black",
-      "old_price": 130.65,
-      "new_price": 96.62,
-      "discount": 26,
-      "image": "https://m.media-amazon.com/images/I/61bAxhVjxML._AC_SL1268_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D4SSH1FX?tag=pepius-21"
     },
     {
       "title": "Active Era Sac de Couchage Rectangulaire 3-4 Saisons 0-15°C avec Sac de Compression pour Adultes et Enfants - Duvet Léger, Chaud, Imperméable, Jumelable - Noir",
@@ -6805,14 +6805,6 @@
       "link": "https://www.amazon.fr/dp/B07FHBJFL3?tag=pepius-21"
     },
     {
-      "title": "Corsair 5000D Airflow Moyen-Tour en Verre Trempé Boîtier (Panneau Avant à Flux d’air Élevé, Système de Câbles, Deux Ventilateurs de 120 mm Inclus, Mère avec Supports pour Ventilateur) Blanc",
-      "old_price": null,
-      "new_price": 119.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81kEzHfNFxL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08M48QY16?tag=pepius-21"
-    },
-    {
       "title": "PUMA Ess No. 1 Logo Hoodie TR Sweats à Capuche Homme (Lot de 1)",
       "old_price": null,
       "new_price": 25,
@@ -6919,7 +6911,7 @@
     {
       "title": "PERFO BURINEUR SDS+18V (machine nue) - DHR243Z",
       "old_price": null,
-      "new_price": 199.3,
+      "new_price": 209.9,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/713VW6T+LmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
@@ -6991,18 +6983,10 @@
     {
       "title": "MySims : Collection cosy Switch / Switch 2 | Jeu Vidéo | Français",
       "old_price": null,
-      "new_price": 49.99,
+      "new_price": 19.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81tG17Bj6FL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFD2ML75?tag=pepius-21"
-    },
-    {
-      "title": "PANDORA Bague pour femme Disney Princesse Ariel Coquillage Argent 193654C01",
-      "old_price": null,
-      "new_price": 62.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61gtXZxuvTL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DSLLPJWN?tag=pepius-21"
     }
   ]
 }
