@@ -7087,14 +7087,6 @@
       "link": "https://www.amazon.fr/dp/B0DVH26B71?tag=pepius-21"
     },
     {
-      "title": "Manette Pro Controller Nintendo Switch 2",
-      "old_price": 89.99,
-      "new_price": 79.9,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
-    },
-    {
       "title": "ORICO SSD Industriel M.2 NVMe 2To, Jusqu'à 7450 Mo/s, PCIe 4.0 SSD M2 avec TLC 3D NAND et Dissipateur Thermique Innovant, pour Edge Computing, PC Industriel, Ordinateur Portable et PS5 - IG740PRO",
       "old_price": 139.99,
       "new_price": 129.99,
@@ -7193,7 +7185,7 @@
     {
       "title": "adidas Mixte Adilette Shower Slides TOBOGGANS",
       "old_price": null,
-      "new_price": 14,
+      "new_price": 22.39,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41FvUkeLVtL._AC_SL1100_.jpg",
       "link": "https://www.amazon.fr/dp/B09NJPBJ7B?tag=pepius-21"
@@ -7327,20 +7319,20 @@
       "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
     },
     {
+      "title": "Manette Pro Controller Nintendo Switch 2",
+      "old_price": null,
+      "new_price": 19.79,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
+    },
+    {
       "title": "Tommy Hilfiger Tripack Boxers Coton",
       "old_price": null,
       "new_price": 23.94,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71qulHg8tvL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CSFP59L2?tag=pepius-21"
-    },
-    {
-      "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
-      "old_price": null,
-      "new_price": 21.91,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/713Yr+IW48L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07DMBTS83?tag=pepius-21"
     }
   ]
 }
