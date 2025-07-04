@@ -6935,14 +6935,6 @@
       "link": "https://www.amazon.fr/dp/B0CG77NW4M?tag=pepius-21"
     },
     {
-      "title": "PEUGEOT - Moulin à Poivre Bistro 10 cm - Réglage Classique - En Bois Labellisé PEFC - Fabrication Française - Couleur : Chocolat",
-      "old_price": 26.9,
-      "new_price": 12.5,
-      "discount": 54,
-      "image": "https://m.media-amazon.com/images/I/61ZU1+efajL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B000P1Q39G?tag=pepius-21"
-    },
-    {
       "title": "Civilization VII - Édition Deluxe PS5 Golden Joystick Nominee",
       "old_price": 99.99,
       "new_price": 49.99,
@@ -6983,14 +6975,6 @@
       "link": "https://www.amazon.fr/dp/B00Y0PP7B8?tag=pepius-21"
     },
     {
-      "title": "O'doe Vaisselle Bebe | Set Repas Bebe 1er Age 17 Pièces – Coffret Repas Bebe avec Bol Silicone à Ventouse, Cuillères, Tasses, Bavoirs, Assiettes – Set Repas Bébé Complet | Coffrets Repas LED",
-      "old_price": 54.41,
-      "new_price": 29.99,
-      "discount": 45,
-      "image": "https://m.media-amazon.com/images/I/71QSyIqrNyL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BW191ZYH?tag=pepius-21"
-    },
-    {
       "title": "Beka 12068394 Chef Poêle à frire en acier inoxydable 28 cm, Argenté",
       "old_price": 89,
       "new_price": 49.99,
@@ -7029,6 +7013,14 @@
       "discount": 30,
       "image": "https://m.media-amazon.com/images/I/71kBEpj5ygL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08FJ7XY3B?tag=pepius-21"
+    },
+    {
+      "title": "Samsung Galaxy S25, Smartphone Android 5G avec Galaxy AI, 128 Go, Chargeur secteur rapide 25W inclus, Smartphone déverrouillé, Bleu Nuit, Version FR",
+      "old_price": 852,
+      "new_price": 602,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/61wdfu4uEqL._AC_SL1495_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNZJCZ4P?tag=pepius-21"
     },
     {
       "title": "TAURUS - Ventilateur Sur Pied Boreal 16CR Silence 30W | 12 Vitesses | Ultra-silencieux | Modes Normal/Brise/Nuit | 5 Pales | Oscillant | Hauteur Réglable | Télécommande | Écran Digital | Noir",
@@ -7093,14 +7085,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/61jv5GCJdEL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DVH26B71?tag=pepius-21"
-    },
-    {
-      "title": "Manette Pro Controller Nintendo Switch 2",
-      "old_price": 89.99,
-      "new_price": 79.9,
-      "discount": 11,
-      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
     },
     {
       "title": "ORICO SSD Industriel M.2 NVMe 2To, Jusqu'à 7450 Mo/s, PCIe 4.0 SSD M2 avec TLC 3D NAND et Dissipateur Thermique Innovant, pour Edge Computing, PC Industriel, Ordinateur Portable et PS5 - IG740PRO",
@@ -7207,14 +7191,6 @@
       "link": "https://www.amazon.fr/dp/B0BX4LSHS4?tag=pepius-21"
     },
     {
-      "title": "Pro Breeze Ventilateur sur Pied Hybride 109 cm Silencieux 29 dB avec Télécommande, Oscillation 135°/100°, 9 Vitesses, Écran LED, Minuterie 9h – Éco-énergétique, Idéal Pour Chambre, Salon, Bureau",
-      "old_price": null,
-      "new_price": 119.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61f+2rnZ2WL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DMPJR9KY?tag=pepius-21"
-    },
-    {
       "title": "Vidéoprojecteur avec Son JBL 16W, 33000 Lumens Yaber Projecteur Video Auto Focus, Videoprojecteur Portable WiFi6 Bluetooth Courte Focale, Rétroprojecteur Extérieur Natif 1080P, HDMI/USB",
       "old_price": null,
       "new_price": 239.99,
@@ -7241,7 +7217,7 @@
     {
       "title": "Majorette - Grand Series - Mercedes Sprinter DHL - 15cm (Echelle 1/43ème) - Sons et Lumières - Dès 3 Ans - 213742000 : Majorette",
       "old_price": null,
-      "new_price": 22.99,
+      "new_price": 49.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51nUaQCkRIL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0B4JVHSZR?tag=pepius-21"
@@ -7269,6 +7245,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/713VW6T+LmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
+    },
+    {
+      "title": "Manette Pro Controller Nintendo Switch 2",
+      "old_price": null,
+      "new_price": 19.79,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
     },
     {
       "title": "Guzzini 29260252 Lot 3 Récipients A/Couvercle Everywhere, Multicolore",
