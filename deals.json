@@ -6935,6 +6935,14 @@
       "link": "https://www.amazon.fr/dp/B0CG77NW4M?tag=pepius-21"
     },
     {
+      "title": "PEUGEOT - Moulin à Poivre Bistro 10 cm - Réglage Classique - En Bois Labellisé PEFC - Fabrication Française - Couleur : Chocolat",
+      "old_price": 26.9,
+      "new_price": 12.5,
+      "discount": 54,
+      "image": "https://m.media-amazon.com/images/I/61ZU1+efajL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B000P1Q39G?tag=pepius-21"
+    },
+    {
       "title": "Civilization VII - Édition Deluxe PS5 Golden Joystick Nominee",
       "old_price": 99.99,
       "new_price": 49.99,
@@ -7047,14 +7055,6 @@
       "link": "https://www.amazon.fr/dp/B0D4SSH1FX?tag=pepius-21"
     },
     {
-      "title": "DEWALT - Multicutter 18v - 35 accessoires - 3 positions de réglage de la butée de profondeur - changement de lame facile - livré sans batterie ni chargeur - DCS356NT-XJ",
-      "old_price": 196.8,
-      "new_price": 148.48,
-      "discount": 25,
-      "image": "https://m.media-amazon.com/images/I/71oDDtpTcEL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07YMWQKH7?tag=pepius-21"
-    },
-    {
       "title": "Moulinex Multicook & Fry, multicuiseur et air fryer intégré, 12programmes, Cuisson sur 2 niveaux, Départ différé, Capacité 6L, Gris Hippo, MZ730BF0",
       "old_price": 194.99,
       "new_price": 149.99,
@@ -7089,7 +7089,7 @@
     {
       "title": "MSI B650 GAMING PLUS WIFI Carte mère, ATX - Pour processeurs AMD Ryzen 9000, 8000 & 7000, AM5 - VRM double rail 14+2 phases, DDR5 6400+MHz/OC, 2 x PCIe 4.0 x16, 2 x M.2 Gen4, Wi-Fi 6E",
       "old_price": 193,
-      "new_price": 159.93,
+      "new_price": 159.95,
       "discount": 17,
       "image": "https://m.media-amazon.com/images/I/81LcEW6JabL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C3R2TXHJ?tag=pepius-21"
@@ -7161,10 +7161,18 @@
     {
       "title": "Stanley 2-65-005 Tournevis Cushion Grip Jeu de 10 pièces",
       "old_price": null,
-      "new_price": 63.36,
+      "new_price": 3.65,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81QaT1OcJgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002V4ZGUM?tag=pepius-21"
+    },
+    {
+      "title": "DEWALT - Multicutter 18v - 35 accessoires - 3 positions de réglage de la butée de profondeur - changement de lame facile - livré sans batterie ni chargeur - DCS356NT-XJ",
+      "old_price": null,
+      "new_price": 148.48,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71oDDtpTcEL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07YMWQKH7?tag=pepius-21"
     },
     {
       "title": "MSI MPG 271QRX QD-OLED écran Gaming 26.5 Pouces WQHD - Dalle Quantum Dot OLED 2560 x 1440, 360Hz / 0,03ms, 99% DCI-P3, ΔE≤2, DisplayHDR True Black 400 - KVM, RGB, DP 1.4a, HDMI 2.1, USB Type-C",
@@ -7271,6 +7279,14 @@
       "link": "https://www.amazon.fr/dp/B0DFQ6B5J4?tag=pepius-21"
     },
     {
+      "title": "LG UltraGear™ 27GX790A-B Ecran PC Gaming OLED 27\" - dalle OLED résolution QHD (2560x1440), 0.03 ms GtG 480Hz, DisplayHDR™ TrueBlack 400, DCI-P3 98.5% (CIE1976), AMD FreeSync Premium Pro, NVIDIA G-Sync",
+      "old_price": null,
+      "new_price": 779,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61zsDZ2kC+L._AC_SL1334_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DYVNZR13?tag=pepius-21"
+    },
+    {
       "title": "Pokémon Figurine Ectoplasma Select en Vinyle - Figurine de 10 cm fabriquée en Vinyle de Haute qualité",
       "old_price": null,
       "new_price": 8.99,
@@ -7285,6 +7301,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61yOPaHNqGL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B075NMNVQ3?tag=pepius-21"
+    },
+    {
+      "title": "Majorette - Grand Series - Mercedes Sprinter DHL - 15cm (Echelle 1/43ème) - Sons et Lumières - Dès 3 Ans - 213742000 : Majorette",
+      "old_price": null,
+      "new_price": 22.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51nUaQCkRIL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0B4JVHSZR?tag=pepius-21"
     },
     {
       "title": "Motorola Moto G05 6.67\" 4/128GB 5200mAh 50MP Android 15 Verde Libre",
