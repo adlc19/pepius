@@ -6983,14 +6983,6 @@
       "link": "https://www.amazon.fr/dp/B08P6T3K3S?tag=pepius-21"
     },
     {
-      "title": "Citizen Automatic Watch NY0120-01ZE",
-      "old_price": 269,
-      "new_price": 182.92,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/81lf+b9QhyL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CCP3THP9?tag=pepius-21"
-    },
-    {
       "title": "HORI Split Pad Pro (Noir) Manette mode portable pour Nintendo Switch et Nintendo Switch modèle OLED - Licence officielle Nintendo",
       "old_price": 49.99,
       "new_price": 34.99,
@@ -7055,14 +7047,6 @@
       "link": "https://www.amazon.fr/dp/B0DQ5WMN4H?tag=pepius-21"
     },
     {
-      "title": "Citizen Automatic Watch NK5010-01H",
-      "old_price": 359,
-      "new_price": 287.2,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/71-xHvSKCjL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZGVV4LZ?tag=pepius-21"
-    },
-    {
       "title": "MSI B650 GAMING PLUS WIFI Carte mère, ATX - Pour processeurs AMD Ryzen 9000, 8000 & 7000, AM5 - VRM double rail 14+2 phases, DDR5 6400+MHz/OC, 2 x PCIe 4.0 x16, 2 x M.2 Gen4, Wi-Fi 6E",
       "old_price": 193,
       "new_price": 159.93,
@@ -7085,6 +7069,14 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/61jv5GCJdEL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DVH26B71?tag=pepius-21"
+    },
+    {
+      "title": "Manette Pro Controller Nintendo Switch 2",
+      "old_price": 89.99,
+      "new_price": 79.9,
+      "discount": 11,
+      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
     },
     {
       "title": "ORICO SSD Industriel M.2 NVMe 2To, Jusqu'à 7450 Mo/s, PCIe 4.0 SSD M2 avec TLC 3D NAND et Dissipateur Thermique Innovant, pour Edge Computing, PC Industriel, Ordinateur Portable et PS5 - IG740PRO",
@@ -7119,6 +7111,14 @@
       "link": "https://www.amazon.fr/dp/B0D5HY3F9X?tag=pepius-21"
     },
     {
+      "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
+      "old_price": null,
+      "new_price": 78.78,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71YAyith37L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09QV692XY?tag=pepius-21"
+    },
+    {
       "title": "TECURS Clavier Gamer Mécanique sans Fil TKL AZERTY, Programmable Clavier Gaming RGB Filaire/Bluetooth/2.4Ghz, Clavier de Jeu 80% Switch Rouge pour PC Win/Mac/Android/iOS",
       "old_price": null,
       "new_price": 49.99,
@@ -7145,7 +7145,7 @@
     {
       "title": "Stanley 2-65-005 Tournevis Cushion Grip Jeu de 10 pièces",
       "old_price": null,
-      "new_price": 3.65,
+      "new_price": 1.15,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81QaT1OcJgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002V4ZGUM?tag=pepius-21"
@@ -7161,7 +7161,7 @@
     {
       "title": "MSI MPG 271QRX QD-OLED écran Gaming 26.5 Pouces WQHD - Dalle Quantum Dot OLED 2560 x 1440, 360Hz / 0,03ms, 99% DCI-P3, ΔE≤2, DisplayHDR True Black 400 - KVM, RGB, DP 1.4a, HDMI 2.1, USB Type-C",
       "old_price": null,
-      "new_price": 179.99,
+      "new_price": 799,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/816Cuu8XRzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CP49LW25?tag=pepius-21"
@@ -7173,22 +7173,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71kfah12sNL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DYF5681J?tag=pepius-21"
-    },
-    {
-      "title": "Tommy Hilfiger Homme Icon Court Pinperf LTH Fm0fm05483 Bas",
-      "old_price": null,
-      "new_price": 49,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51flBcRPMjL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D7J5362F?tag=pepius-21"
-    },
-    {
-      "title": "adidas Mixte Adilette Shower Slides TOBOGGANS",
-      "old_price": null,
-      "new_price": 22.39,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41FvUkeLVtL._AC_SL1100_.jpg",
-      "link": "https://www.amazon.fr/dp/B09NJPBJ7B?tag=pepius-21"
     },
     {
       "title": "Patriot Viper Xtreme 5 DDR5 RAM 32 Go (2X16 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX532G60C30K",
@@ -7207,22 +7191,6 @@
       "link": "https://www.amazon.fr/dp/B07VGGLB2W?tag=pepius-21"
     },
     {
-      "title": "Amazon Essentials Short Chino Coupe Classique, Entrejambe 18 cm Homme",
-      "old_price": null,
-      "new_price": 13.29,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81olia1cLwL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07F2KH2VB?tag=pepius-21"
-    },
-    {
-      "title": "PUMA Ess No. 1 Logo Hoodie TR Sweats à Capuche Homme (Lot de 1)",
-      "old_price": null,
-      "new_price": 25,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61laSMjbDBL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D2R66R2K?tag=pepius-21"
-    },
-    {
       "title": "SABRENT Boitier Disque Dur Externe, USB-C Station d'accueil pour Disque Dur HDD/SATA 3.5\"/2.5\" & Boitier SSD M2 NVMe avec Fonction de Clonage Hors Ligne – Adaptateur SATA USB Intégré (DS-UFNC)",
       "old_price": null,
       "new_price": 89.99,
@@ -7231,20 +7199,12 @@
       "link": "https://www.amazon.fr/dp/B0BX4LSHS4?tag=pepius-21"
     },
     {
-      "title": "PUMA Mixte Shuffle Basket",
+      "title": "Pro Breeze Ventilateur sur Pied Hybride 109 cm Silencieux 29 dB avec Télécommande, Oscillation 135°/100°, 9 Vitesses, Écran LED, Minuterie 9h – Éco-énergétique, Idéal Pour Chambre, Salon, Bureau",
       "old_price": null,
-      "new_price": 38.99,
+      "new_price": 119.99,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61m7tkWyisL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B088RHD9WW?tag=pepius-21"
-    },
-    {
-      "title": "PUMA Mixte Club II Era Suede Basket",
-      "old_price": null,
-      "new_price": 34.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51dkWbQ-sJL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DJ9MBH4W?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/61f+2rnZ2WL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DMPJR9KY?tag=pepius-21"
     },
     {
       "title": "Vidéoprojecteur avec Son JBL 16W, 33000 Lumens Yaber Projecteur Video Auto Focus, Videoprojecteur Portable WiFi6 Bluetooth Courte Focale, Rétroprojecteur Extérieur Natif 1080P, HDMI/USB",
@@ -7255,28 +7215,12 @@
       "link": "https://www.amazon.fr/dp/B0DFQ6B5J4?tag=pepius-21"
     },
     {
-      "title": "LG UltraGear™ 27GX790A-B Ecran PC Gaming OLED 27\" - dalle OLED résolution QHD (2560x1440), 0.03 ms GtG 480Hz, DisplayHDR™ TrueBlack 400, DCI-P3 98.5% (CIE1976), AMD FreeSync Premium Pro, NVIDIA G-Sync",
-      "old_price": null,
-      "new_price": 779,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zsDZ2kC+L._AC_SL1334_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DYVNZR13?tag=pepius-21"
-    },
-    {
       "title": "Pokémon Figurine Ectoplasma Select en Vinyle - Figurine de 10 cm fabriquée en Vinyle de Haute qualité",
       "old_price": null,
       "new_price": 8.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/718SFkw7caL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0B9FLSMDG?tag=pepius-21"
-    },
-    {
-      "title": "Levi's Free Metal Ceinture Homme",
-      "old_price": null,
-      "new_price": 18,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61yOPaHNqGL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B075NMNVQ3?tag=pepius-21"
     },
     {
       "title": "Majorette - Grand Series - Mercedes Sprinter DHL - 15cm (Echelle 1/43ème) - Sons et Lumières - Dès 3 Ans - 213742000 : Majorette",
@@ -7303,36 +7247,12 @@
       "link": "https://www.amazon.fr/dp/B0D91VHHWC?tag=pepius-21"
     },
     {
-      "title": "Montre FESTINA pour Homme F20445/7 Multifuncion Boîtier en Acier Inoxydable Gris Bracelet en Acier Inoxydable Gris",
-      "old_price": null,
-      "new_price": 99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71lvbhx0lbL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CSZ5CS13?tag=pepius-21"
-    },
-    {
       "title": "PERFO BURINEUR SDS+18V (machine nue) - DHR243Z",
       "old_price": null,
       "new_price": 198.01,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/713VW6T+LmL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B00HOD3AJY?tag=pepius-21"
-    },
-    {
-      "title": "Manette Pro Controller Nintendo Switch 2",
-      "old_price": null,
-      "new_price": 19.79,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61i4WR7HNFL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0F3JR79YY?tag=pepius-21"
-    },
-    {
-      "title": "Tommy Hilfiger Tripack Boxers Coton",
-      "old_price": null,
-      "new_price": 23.94,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71qulHg8tvL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CSFP59L2?tag=pepius-21"
     }
   ]
 }
