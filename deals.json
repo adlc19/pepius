@@ -7273,6 +7273,14 @@
   ],
   "2025-07-05": [
     {
+      "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
+      "old_price": 17.99,
+      "new_price": 3.27,
+      "discount": 82,
+      "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr : Bosch P7025 - Filtre à huile auto",
       "old_price": 10.81,
       "new_price": 2.9,
@@ -7311,6 +7319,14 @@
       "discount": 57,
       "image": "https://m.media-amazon.com/images/I/71AXSjKr71L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08R3YY5ZJ?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : Bosch M2012 - Filtre d'habitacle standard - filtre à poussière et à pollen",
+      "old_price": 8.8,
+      "new_price": 3.9,
+      "discount": 56,
+      "image": "https://m.media-amazon.com/images/I/71pv+lm8ooL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00C7WQ3QE?tag=pepius-21"
     },
     {
       "title": "GROHE Vitalio Start 100 Pommeau de douche 2 jets, Buses anticalcaire, Anneau antichoc, Installation simple et nettoyage rapide, Chromé, 27946000 (Import Allemagne)",
@@ -7521,17 +7537,9 @@
       "link": "https://www.amazon.fr/dp/B0C69JR4HW?tag=pepius-21"
     },
     {
-      "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
-      "old_price": null,
-      "new_price": 7,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
-    },
-    {
       "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
       "old_price": null,
-      "new_price": 79.99,
+      "new_price": 158.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71YAyith37L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09QV692XY?tag=pepius-21"
@@ -7579,7 +7587,7 @@
     {
       "title": "MSI MPG 271QRX QD-OLED écran Gaming 26.5 Pouces WQHD - Dalle Quantum Dot OLED 2560 x 1440, 360Hz / 0,03ms, 99% DCI-P3, ΔE≤2, DisplayHDR True Black 400 - KVM, RGB, DP 1.4a, HDMI 2.1, USB Type-C",
       "old_price": null,
-      "new_price": 229.99,
+      "new_price": 899.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/816Cuu8XRzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CP49LW25?tag=pepius-21"
@@ -7623,14 +7631,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61Rbo7T0GtL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFQ6B5J4?tag=pepius-21"
-    },
-    {
-      "title": "LG UltraGear™ 27GX790A-B Ecran PC Gaming OLED 27\" - dalle OLED résolution QHD (2560x1440), 0.03 ms GtG 480Hz, DisplayHDR™ TrueBlack 400, DCI-P3 98.5% (CIE1976), AMD FreeSync Premium Pro, NVIDIA G-Sync",
-      "old_price": null,
-      "new_price": 779,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61zsDZ2kC+L._AC_SL1334_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DYVNZR13?tag=pepius-21"
     }
   ]
 }
