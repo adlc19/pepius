@@ -7273,14 +7273,6 @@
   ],
   "2025-07-05": [
     {
-      "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
-      "old_price": 17.99,
-      "new_price": 3.27,
-      "discount": 82,
-      "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
-    },
-    {
       "title": "Amazon.fr : Bosch P7025 - Filtre à huile auto",
       "old_price": 10.81,
       "new_price": 2.9,
@@ -7289,28 +7281,12 @@
       "link": "https://www.amazon.fr/dp/B00BHINB78?tag=pepius-21"
     },
     {
-      "title": "Star Wars Outlaws - Edition Gold (inclut le Season Pass et un Early access) - [PlayStation 5]",
-      "old_price": 80,
-      "new_price": 28.8,
-      "discount": 64,
-      "image": "https://m.media-amazon.com/images/I/81fxFjWDByL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CZXXM598?tag=pepius-21"
-    },
-    {
       "title": "Eastpak PADDED PAK'R Sac à Dos, 24 L - Pink Escape (Rose)",
       "old_price": 55,
       "new_price": 22,
       "discount": 60,
       "image": "https://m.media-amazon.com/images/I/818BDLgmsRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08L8BJX9T?tag=pepius-21"
-    },
-    {
-      "title": "Qui Veut Gagner des Millions (Nintendo Switch)",
-      "old_price": 11.69,
-      "new_price": 4.95,
-      "discount": 58,
-      "image": "https://m.media-amazon.com/images/I/81DGF-SF0jL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B08H2LGDF4?tag=pepius-21"
     },
     {
       "title": "Trust Gaming Clavier Gamer TKL RGB GXT 833 Thado Clavier Filaire Compact (20% Plus Petit), Éclairage LED Multicolore, AZERTY Français, USB Plug & Play, PC/Ordinateur Portable - Noir",
@@ -7411,7 +7387,7 @@
     {
       "title": "American Tourister Soundbox - Spinner L, Valise, 77cm, 110 L, Noir (Bass Black)",
       "old_price": 199.95,
-      "new_price": 126.74,
+      "new_price": 126.87,
       "discount": 37,
       "image": "https://m.media-amazon.com/images/I/81zaxhWTQaL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B06Y3FD2KQ?tag=pepius-21"
@@ -7481,6 +7457,14 @@
       "link": "https://www.amazon.fr/dp/B001GLID4M?tag=pepius-21"
     },
     {
+      "title": "Fairy Original Tablettes Lave-vaisselle All In One, Regular, 116 Capsules, Efficaces Même Sur La Graisse Incrustée",
+      "old_price": 17.5,
+      "new_price": 14.24,
+      "discount": 19,
+      "image": "https://m.media-amazon.com/images/I/81MWHk1461L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DXF4QFNZ?tag=pepius-21"
+    },
+    {
       "title": "MSI B650 GAMING PLUS WIFI Carte mère, ATX - Pour processeurs AMD Ryzen 9000, 8000 & 7000, AM5 - VRM double rail 14+2 phases, DDR5 6400+MHz/OC, 2 x PCIe 4.0 x16, 2 x M.2 Gen4, Wi-Fi 6E",
       "old_price": 193,
       "new_price": 159.93,
@@ -7529,17 +7513,33 @@
       "link": "https://www.amazon.fr/dp/B0BJTKYLCB?tag=pepius-21"
     },
     {
+      "title": "Qui Veut Gagner des Millions (Nintendo Switch)",
+      "old_price": null,
+      "new_price": 35.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81DGF-SF0jL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B08H2LGDF4?tag=pepius-21"
+    },
+    {
       "title": "Integral V Série 4TB SATA III 2.5 Internal SSD, jusqu'à 550 Mo/s Lecture 480 Mo/s Écriture",
       "old_price": null,
-      "new_price": 156.59,
+      "new_price": 202.83,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/619brZNz0TL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C69JR4HW?tag=pepius-21"
     },
     {
+      "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
+      "old_price": null,
+      "new_price": 15.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
+    },
+    {
       "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
       "old_price": null,
-      "new_price": 158.99,
+      "new_price": 214.02,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71YAyith37L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09QV692XY?tag=pepius-21"
@@ -7571,7 +7571,7 @@
     {
       "title": "Stanley 2-65-005 Tournevis Cushion Grip Jeu de 10 pièces",
       "old_price": null,
-      "new_price": 1.15,
+      "new_price": 3.65,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81QaT1OcJgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002V4ZGUM?tag=pepius-21"
@@ -7579,7 +7579,7 @@
     {
       "title": "DEWALT - Multicutter 18v - 35 accessoires - 3 positions de réglage de la butée de profondeur - changement de lame facile - livré sans batterie ni chargeur - DCS356NT-XJ",
       "old_price": null,
-      "new_price": 149,
+      "new_price": 148.48,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71oDDtpTcEL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07YMWQKH7?tag=pepius-21"
