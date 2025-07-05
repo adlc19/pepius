@@ -7473,20 +7473,20 @@
       "link": "https://www.amazon.fr/dp/B0C3R2TXHJ?tag=pepius-21"
     },
     {
-      "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
-      "old_price": 302.17,
-      "new_price": 265,
-      "discount": 12,
-      "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
-    },
-    {
       "title": "MOVA 600 Kit avec 81 Lames, Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 600 m², évitement Intelligent des Obstacles. Contrôle Via App, Coupe en U, alertes de sécurité.",
       "old_price": 899,
       "new_price": 799,
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/61jv5GCJdEL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DVH26B71?tag=pepius-21"
+    },
+    {
+      "title": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
+      "old_price": 293.66,
+      "new_price": 265,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/61ISSSA+x+L._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B0815Y8J9N?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : VALEO Silencio Balai d'essuie glace VF480 574680 Longueur avant: 750mm / 650mm Quantité Set 2 unités (pour véhicules d'entraînement à gauche et à droite)",
@@ -7539,7 +7539,7 @@
     {
       "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
       "old_price": null,
-      "new_price": 15.99,
+      "new_price": 29.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
