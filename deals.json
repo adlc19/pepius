@@ -7369,14 +7369,6 @@
       "link": "https://www.amazon.fr/dp/B004I5CUHO?tag=pepius-21"
     },
     {
-      "title": "Amazon.fr : Bosch Rear H306 - Excellent Nettoyage - Balai d'essuie-glace de Remplacement pour Pare-Brise Arrière - Vendu à l'unité, 300mm",
-      "old_price": 8.5,
-      "new_price": 4.9,
-      "discount": 42,
-      "image": "https://m.media-amazon.com/images/I/51UG47m4-wL._AC_SL1470_.jpg",
-      "link": "https://www.amazon.fr/dp/B0098OGVMA?tag=pepius-21"
-    },
-    {
       "title": "Philips GoZero ADD4902WH/10 Machine à Soda, Sans BPA, 1 l, blanc",
       "old_price": 64.99,
       "new_price": 39.99,
@@ -7407,6 +7399,14 @@
       "discount": 34,
       "image": "https://m.media-amazon.com/images/I/71RMsYKPevL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002ZRQ4NS?tag=pepius-21"
+    },
+    {
+      "title": "MSI MAG 275QF Écran Gaming 27\" WQHD - Dalle Rapid IPS 2560 x 1440, 180 Hz / 0,5 ms (GtG, Min.), Gamme de Couleurs sRGB 101%, AMD FreeSync, HDR Ready - DisplayPort 1.4, HDMI 2.0b (WQHD 144Hz)",
+      "old_price": 279.99,
+      "new_price": 189.99,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/71zgCw4qNCL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D1R9TMX7?tag=pepius-21"
     },
     {
       "title": "Edge of Eternity (PS5)",
@@ -7513,6 +7513,14 @@
       "link": "https://www.amazon.fr/dp/B0BJTKYLCB?tag=pepius-21"
     },
     {
+      "title": "adidas Femme Grand Court Base 00s Shoes Chaussures, EU",
+      "old_price": null,
+      "new_price": 23.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61LkGsdY7tL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK524Q42?tag=pepius-21"
+    },
+    {
       "title": "Qui Veut Gagner des Millions (Nintendo Switch)",
       "old_price": null,
       "new_price": 35.99,
@@ -7523,7 +7531,7 @@
     {
       "title": "Integral V Série 4TB SATA III 2.5 Internal SSD, jusqu'à 550 Mo/s Lecture 480 Mo/s Écriture",
       "old_price": null,
-      "new_price": 202.83,
+      "new_price": 219.54,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/619brZNz0TL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C69JR4HW?tag=pepius-21"
@@ -7535,6 +7543,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
       "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
+    },
+    {
+      "title": "Amazon.fr : Bosch Rear H306 - Excellent Nettoyage - Balai d'essuie-glace de Remplacement pour Pare-Brise Arrière - Vendu à l'unité, 300mm",
+      "old_price": null,
+      "new_price": 10.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51UG47m4-wL._AC_SL1470_.jpg",
+      "link": "https://www.amazon.fr/dp/B0098OGVMA?tag=pepius-21"
     },
     {
       "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
@@ -7623,14 +7639,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71CLOwQRQbL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BX4LSHS4?tag=pepius-21"
-    },
-    {
-      "title": "Vidéoprojecteur avec Son JBL 16W, 33000 Lumens Yaber Projecteur Video Auto Focus, Videoprojecteur Portable WiFi6 Bluetooth Courte Focale, Rétroprojecteur Extérieur Natif 1080P, HDMI/USB",
-      "old_price": null,
-      "new_price": 239.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61Rbo7T0GtL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DFQ6B5J4?tag=pepius-21"
     }
   ]
 }
