@@ -7369,6 +7369,14 @@
       "link": "https://www.amazon.fr/dp/B004I5CUHO?tag=pepius-21"
     },
     {
+      "title": "MVS Mini Borne Arcade - SNK",
+      "old_price": 99.99,
+      "new_price": 59.99,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/71w2jd-EiXL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CS2VXZ43?tag=pepius-21"
+    },
+    {
       "title": "Philips GoZero ADD4902WH/10 Machine à Soda, Sans BPA, 1 l, blanc",
       "old_price": 64.99,
       "new_price": 39.99,
@@ -7423,6 +7431,14 @@
       "discount": 32,
       "image": "https://m.media-amazon.com/images/I/81eWNwSJwZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09HCTH4RF?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Automatic Watch NY0120-01ZE",
+      "old_price": 269,
+      "new_price": 182.92,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/81lf+b9QhyL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCP3THP9?tag=pepius-21"
     },
     {
       "title": "HORI Split Pad Pro (Noir) Manette mode portable pour Nintendo Switch et Nintendo Switch modèle OLED - Licence officielle Nintendo",
@@ -7529,6 +7545,14 @@
       "link": "https://www.amazon.fr/dp/B0DK22WWN8?tag=pepius-21"
     },
     {
+      "title": "adidas Femme Grand Court Base 00s Shoes Chaussures, EU",
+      "old_price": null,
+      "new_price": 23.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61LkGsdY7tL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK524Q42?tag=pepius-21"
+    },
+    {
       "title": "Qui Veut Gagner des Millions (Nintendo Switch)",
       "old_price": null,
       "new_price": 35.99,
@@ -7561,9 +7585,17 @@
       "link": "https://www.amazon.fr/dp/B0098OGVMA?tag=pepius-21"
     },
     {
+      "title": "Levi's Classic Chaussettes (Lot de 3) Mixte",
+      "old_price": null,
+      "new_price": 10.19,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/A1knvo1A9DL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BQW7V4HN?tag=pepius-21"
+    },
+    {
       "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
       "old_price": null,
-      "new_price": 214.02,
+      "new_price": 55.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71YAyith37L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09QV692XY?tag=pepius-21"
@@ -7625,6 +7657,22 @@
       "link": "https://www.amazon.fr/dp/B0DYF5681J?tag=pepius-21"
     },
     {
+      "title": "Tommy Hilfiger Homme Icon Court Pinperf LTH Fm0fm05483 Bas",
+      "old_price": null,
+      "new_price": 72.89,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51flBcRPMjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D7J5362F?tag=pepius-21"
+    },
+    {
+      "title": "adidas Mixte Adilette Shower Slides TOBOGGANS",
+      "old_price": null,
+      "new_price": 14,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/41FvUkeLVtL._AC_SL1100_.jpg",
+      "link": "https://www.amazon.fr/dp/B09NJPBJ7B?tag=pepius-21"
+    },
+    {
       "title": "Patriot Viper Xtreme 5 DDR5 RAM 32 Go (2X16 Go) 6000MT/s CL30 UDIMM Desktop Gaming Memory Kit - PVX532G60C30K",
       "old_price": null,
       "new_price": 95.99,
@@ -7641,12 +7689,44 @@
       "link": "https://www.amazon.fr/dp/B07VGGLB2W?tag=pepius-21"
     },
     {
+      "title": "Amazon Essentials Short Chino Coupe Classique, Entrejambe 18 cm Homme",
+      "old_price": null,
+      "new_price": 13.29,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81olia1cLwL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07F2KH2VB?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Ess No. 1 Logo Hoodie TR Sweats à Capuche Homme (Lot de 1)",
+      "old_price": null,
+      "new_price": 25,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61laSMjbDBL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D2R66R2K?tag=pepius-21"
+    },
+    {
       "title": "SABRENT Boitier Disque Dur Externe, USB-C Station d'accueil pour Disque Dur HDD/SATA 3.5\"/2.5\" & Boitier SSD M2 NVMe avec Fonction de Clonage Hors Ligne – Adaptateur SATA USB Intégré (DS-UFNC)",
       "old_price": null,
       "new_price": 89.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71CLOwQRQbL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BX4LSHS4?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Mixte Shuffle Basket",
+      "old_price": null,
+      "new_price": 35.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61m7tkWyisL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B088RHD9WW?tag=pepius-21"
+    },
+    {
+      "title": "PUMA Mixte Club II Era Suede Basket",
+      "old_price": null,
+      "new_price": 34.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51dkWbQ-sJL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DJ9MBH4W?tag=pepius-21"
     }
   ]
 }
