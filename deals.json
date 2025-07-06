@@ -7651,6 +7651,14 @@
   ],
   "2025-07-06": [
     {
+      "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
+      "old_price": 17.99,
+      "new_price": 3.27,
+      "discount": 82,
+      "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
+      "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr : Bosch P7025 - Filtre à huile auto",
       "old_price": 10.81,
       "new_price": 2.9,
@@ -7673,6 +7681,14 @@
       "discount": 60,
       "image": "https://m.media-amazon.com/images/I/818BDLgmsRL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08L8BJX9T?tag=pepius-21"
+    },
+    {
+      "title": "LEGRAND | Multipack Dooxie 6 Interrupteurs Va-Et-Vient, Blanc Composable, Montage Encastré, Matériau Thermoplastique, Finition Brillante",
+      "old_price": 44.69,
+      "new_price": 18.83,
+      "discount": 58,
+      "image": "https://m.media-amazon.com/images/I/81HxnXS8BqL._SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07M9SQ77S?tag=pepius-21"
     },
     {
       "title": "SAMSUNG Galaxy SmartTag 2 EI-T5600 4 per Pack 2X Black+ White Article Recherche Graphite, Blanc",
@@ -7737,6 +7753,14 @@
       "discount": 43,
       "image": "https://m.media-amazon.com/images/I/51BJn+IL-iL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07ZKZXM4B?tag=pepius-21"
+    },
+    {
+      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
+      "old_price": 1.57,
+      "new_price": 1.01,
+      "discount": 36,
+      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
       "title": "American Tourister Soundbox - Spinner L, Valise, 77cm, 110 L, Noir (Bass Black)",
@@ -7867,20 +7891,20 @@
       "link": "https://www.amazon.fr/dp/B0DP643GFH?tag=pepius-21"
     },
     {
+      "title": "origimagic Mini PC N2 PRO, Ryzen 7 6800H (jusqu'à 4,7 GHz), 32 Go de RAM DDR5, 512 Go de SSD, Mini PC OS 11, WiFi 6E | BT5.2 | USB 4 x 2 | Quad Display 4K | Maison, bureau et affaires",
+      "old_price": null,
+      "new_price": 409.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71k8RaMbjcL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNDSP6ML?tag=pepius-21"
+    },
+    {
       "title": "ORICO SSD Externe 512Go, Disque Dur Externe SSD USB3.2 Gen2 Jusqu'à 1050 Mo/s, Double USB C & A External Solid State Drive de PC Mobile Ordinateur Photos Vidéo MacBook Pro Air et Plus OG201",
       "old_price": null,
       "new_price": 69.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61+x8OS0+sL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DRVJ4JG1?tag=pepius-21"
-    },
-    {
-      "title": "Nike M NK Club SS Polo Pique Shirt Homme",
-      "old_price": null,
-      "new_price": 19.95,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61RZzMPsa7L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CSDR6B78?tag=pepius-21"
     },
     {
       "title": "MVS Mini Borne Arcade - SNK",
@@ -7905,14 +7929,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/619brZNz0TL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C69JR4HW?tag=pepius-21"
-    },
-    {
-      "title": "WENKO Distributeur Liquide Vaisselle, Distributeur Liquide Vaisselle Porte éponge, Festival, Gris, capacité de 380 ML, 10 x 18 x 10 cm",
-      "old_price": null,
-      "new_price": 15.99,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/41rX4RQs7tL._AC_SL1280_.jpg",
-      "link": "https://www.amazon.fr/dp/B007JU1KDA?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : Bosch Rear H306 - Excellent Nettoyage - Balai d'essuie-glace de Remplacement pour Pare-Brise Arrière - Vendu à l'unité, 300mm",
@@ -7957,7 +7973,7 @@
     {
       "title": "Stanley 2-65-005 Tournevis Cushion Grip Jeu de 10 pièces",
       "old_price": null,
-      "new_price": 63.36,
+      "new_price": 1.15,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81QaT1OcJgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002V4ZGUM?tag=pepius-21"
