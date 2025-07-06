@@ -7755,14 +7755,6 @@
       "link": "https://www.amazon.fr/dp/B07ZKZXM4B?tag=pepius-21"
     },
     {
-      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
-      "old_price": 1.57,
-      "new_price": 1.01,
-      "discount": 36,
-      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
-    },
-    {
       "title": "American Tourister Soundbox - Spinner L, Valise, 77cm, 110 L, Noir (Bass Black)",
       "old_price": 199.95,
       "new_price": 127.03,
@@ -7907,12 +7899,36 @@
       "link": "https://www.amazon.fr/dp/B0DP643GFH?tag=pepius-21"
     },
     {
+      "title": "Amazon.fr : Bosch Balais d'Essuie–Glace Plats Aerotwin Retrofit AR654S, Longueur: 650mm/340mm – 1 Paire de Balais avant",
+      "old_price": null,
+      "new_price": 23.9,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/517k8pZsKbL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B0068M0UE0?tag=pepius-21"
+    },
+    {
+      "title": "LISEN Batterie Externe Magsafe iPhone,0.8 CM Ultra Slim Batterie Magsafe Magnetique 5,000mAh Mini Power Bank pour iPhone,Cadeau Homme Voyage Mini Externe Induction pour iPhone 16/15/14/13/12 Pro Max",
+      "old_price": null,
+      "new_price": 29.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ULIw0J4gL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DMFHZ7M2?tag=pepius-21"
+    },
+    {
       "title": "origimagic Mini PC N2 PRO, Ryzen 7 6800H (jusqu'à 4,7 GHz), 32 Go de RAM DDR5, 512 Go de SSD, Mini PC OS 11, WiFi 6E | BT5.2 | USB 4 x 2 | Quad Display 4K | Maison, bureau et affaires",
       "old_price": null,
       "new_price": 409.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71k8RaMbjcL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNDSP6ML?tag=pepius-21"
+    },
+    {
+      "title": "Bosch Accessories 2608603165 Disque à tronçonner à moyeu plat standard for metal A 60 T BF 125 mm 22,23 mm 1,6 mm Gris",
+      "old_price": null,
+      "new_price": 22.5,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/81zQRciOhnL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
       "title": "ORICO SSD Externe 512Go, Disque Dur Externe SSD USB3.2 Gen2 Jusqu'à 1050 Mo/s, Double USB C & A External Solid State Drive de PC Mobile Ordinateur Photos Vidéo MacBook Pro Air et Plus OG201",
@@ -7989,7 +8005,7 @@
     {
       "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
       "old_price": null,
-      "new_price": 214.02,
+      "new_price": 78.78,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71YAyith37L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09QV692XY?tag=pepius-21"
@@ -8021,7 +8037,7 @@
     {
       "title": "Stanley 2-65-005 Tournevis Cushion Grip Jeu de 10 pièces",
       "old_price": null,
-      "new_price": 1.15,
+      "new_price": 14.49,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81QaT1OcJgL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B002V4ZGUM?tag=pepius-21"
@@ -8081,14 +8097,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71lYGSx9bIL._AC_SL1080_.jpg",
       "link": "https://www.amazon.fr/dp/B07VGGLB2W?tag=pepius-21"
-    },
-    {
-      "title": "Amazon Essentials Short Chino Coupe Classique, Entrejambe 18 cm Homme",
-      "old_price": null,
-      "new_price": 13.29,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/81olia1cLwL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B07F2KH2VB?tag=pepius-21"
     }
   ]
 }
