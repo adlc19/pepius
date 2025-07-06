@@ -7739,6 +7739,14 @@
       "link": "https://www.amazon.fr/dp/B07ZKZXM4B?tag=pepius-21"
     },
     {
+      "title": "Samsung Galaxy Tab A9+ Tablette Android, 64 Go de Stockage, Grand écran de 11\", Wifi, Son 3D, Argent (version FR)",
+      "old_price": 259.9,
+      "new_price": 167.2,
+      "discount": 36,
+      "image": "https://m.media-amazon.com/images/I/61pP57YIJuL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CNGR8WBC?tag=pepius-21"
+    },
+    {
       "title": "American Tourister Soundbox - Spinner L, Valise, 77cm, 110 L, Noir (Bass Black)",
       "old_price": 199.95,
       "new_price": 127.16,
@@ -7837,18 +7845,10 @@
     {
       "title": "Fairy Original Tablettes Lave-vaisselle All In One, Regular, 116 Capsules, Efficaces Même Sur La Graisse Incrustée",
       "old_price": 17.5,
-      "new_price": 14.24,
-      "discount": 19,
+      "new_price": 14.99,
+      "discount": 14,
       "image": "https://m.media-amazon.com/images/I/81MWHk1461L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DXF4QFNZ?tag=pepius-21"
-    },
-    {
-      "title": "MSI B650 GAMING PLUS WIFI Carte mère, ATX - Pour processeurs AMD Ryzen 9000, 8000 & 7000, AM5 - VRM double rail 14+2 phases, DDR5 6400+MHz/OC, 2 x PCIe 4.0 x16, 2 x M.2 Gen4, Wi-Fi 6E",
-      "old_price": 193,
-      "new_price": 159.93,
-      "discount": 17,
-      "image": "https://m.media-amazon.com/images/I/81LcEW6JabL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0C3R2TXHJ?tag=pepius-21"
     },
     {
       "title": "MOVA 600 Kit avec 81 Lames, Robot Tondeuse Installation sans Fil, cartographie 3D-LiDAR jusqu'à 600 m², évitement Intelligent des Obstacles. Contrôle Via App, Coupe en U, alertes de sécurité.",
@@ -7857,14 +7857,6 @@
       "discount": 11,
       "image": "https://m.media-amazon.com/images/I/61jv5GCJdEL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DVH26B71?tag=pepius-21"
-    },
-    {
-      "title": "Samsung Galaxy Tab A9+ Tablette Android, 64 Go de Stockage, Grand écran de 11\", Wifi, Son 3D, Argent (version FR)",
-      "old_price": 154.99,
-      "new_price": 139.99,
-      "discount": 10,
-      "image": "https://m.media-amazon.com/images/I/61pP57YIJuL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CNGR8WBC?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : VALEO Silencio Balai d'essuie glace VF480 574680 Longueur avant: 750mm / 650mm Quantité Set 2 unités (pour véhicules d'entraînement à gauche et à droite)",
@@ -7881,6 +7873,14 @@
       "discount": 7,
       "image": "https://m.media-amazon.com/images/I/61F9Pl6d3qL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DP643GFH?tag=pepius-21"
+    },
+    {
+      "title": "Bundle of BULLDOG Gel Douche Original + BULLDOG Gel Douche Citron/Bergamote",
+      "old_price": null,
+      "new_price": 10.83,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61-nglffQWL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C59MMJFN?tag=pepius-21"
     },
     {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
