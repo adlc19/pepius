@@ -7803,14 +7803,6 @@
       "link": "https://www.amazon.fr/dp/B0D1R9TMX7?tag=pepius-21"
     },
     {
-      "title": "Citizen Automatic Watch NY0120-01ZE",
-      "old_price": 269,
-      "new_price": 182.92,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/81lf+b9QhyL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CCP3THP9?tag=pepius-21"
-    },
-    {
       "title": "ECOFLOW STREAM AC Pro, batterie capacité de 1,92 kWh, 100% compatible avec toutes les kit solaire avec batterie, Sortie 1200 W, extensible 11,52 kWh, Plug&Play, IP65, contrôle intelligent TOU et IA",
       "old_price": 999,
       "new_price": 713,
@@ -7833,14 +7825,6 @@
       "discount": 26,
       "image": "https://m.media-amazon.com/images/I/918kY8tkMLL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DFHM1SMF?tag=pepius-21"
-    },
-    {
-      "title": "Moulinex Multicook & Fry, multicuiseur et air fryer intégré, 12programmes, Cuisson sur 2 niveaux, Départ différé, Capacité 6L, Gris Hippo, MZ730BF0",
-      "old_price": 194.99,
-      "new_price": 149.99,
-      "discount": 23,
-      "image": "https://m.media-amazon.com/images/I/61WeSUe7h9L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DKFWYLMV?tag=pepius-21"
     },
     {
       "title": "EF EcoFlow STREAM Ultra Batterie de 1,92 kWh pour kit solaire, entrée solaire 2800 W (4 MPPT), ports CA doubles 2300 W, micro-onduleur intégré, extensible à 11,52 kWh, contrôle intelligent par IA",
@@ -7889,6 +7873,14 @@
       "discount": 7,
       "image": "https://m.media-amazon.com/images/I/61F9Pl6d3qL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DP643GFH?tag=pepius-21"
+    },
+    {
+      "title": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 4 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P4T0BW",
+      "old_price": null,
+      "new_price": 289.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71bZjd2aQJL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CBYZ6DD1?tag=pepius-21"
     },
     {
       "title": "Bundle of BULLDOG Gel Douche Original + BULLDOG Gel Douche Citron/Bergamote",
@@ -7973,7 +7965,7 @@
     {
       "title": "Tommy Hilfiger Femme Vulc Webbing Sneaker Fw0fw08903 Bas",
       "old_price": null,
-      "new_price": 43.96,
+      "new_price": 98.91,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51rX7l7wo7L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DK22WWN8?tag=pepius-21"
@@ -8029,7 +8021,7 @@
     {
       "title": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
       "old_price": null,
-      "new_price": 124.99,
+      "new_price": 78.78,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71YAyith37L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09QV692XY?tag=pepius-21"
