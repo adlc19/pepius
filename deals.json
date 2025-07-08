@@ -8183,7 +8183,7 @@
     {
       "title": "ASUS ROG XG349C - Ecran PC 34\" UWQHD - Dalle VA incurvée 1900R - 21:9 - 180Hz - 1ms - 3440x1440 - 400cd/m² - Display Port, HDMI, 2x USB 3.0 et 1x USB-C - Nvidia G-Sync - ELMB Sync - 135% sRGB - HDR",
       "old_price": 1099,
-      "new_price": 650,
+      "new_price": 652.6,
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/71JGg9349-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09641MM21?tag=pepius-21"
@@ -8229,6 +8229,14 @@
       "link": "https://www.amazon.fr/dp/B09T98J13X?tag=pepius-21"
     },
     {
+      "title": "HAWKERS Lunettes de soleil ONE POLARIZED pour hommes et femmes",
+      "old_price": 23.99,
+      "new_price": 15.12,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/51rip7l1xgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09XBP41VH?tag=pepius-21"
+    },
+    {
       "title": "ECOFLOW Station électrique portable RIVER 2 MAX avec Panneau solaire portable de 160W，sortie 1000 W avec X-boost, générateur solaire pour extérieur, camping-cars,domestique,balcon",
       "old_price": 739,
       "new_price": 468,
@@ -8243,6 +8251,14 @@
       "discount": 36,
       "image": "https://m.media-amazon.com/images/I/61pP57YIJuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CNGR8WBC?tag=pepius-21"
+    },
+    {
+      "title": "Eastpak TRANVERZ L Valise, 79 x 40 x 33 cm, 121 L - Black (Noir)",
+      "old_price": 135.77,
+      "new_price": 88.3,
+      "discount": 35,
+      "image": "https://m.media-amazon.com/images/I/71zBawqGx8L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0771NNH66?tag=pepius-21"
     },
     {
       "title": "Finish Quantum Infinity Shine Pastilles Lave-Vaisselle, Elimine Les Taches Tenaces, 166 Capsules",
@@ -8283,6 +8299,14 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/51SsRYxG9tL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B077TD1JRS?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Watch BN0157-11X",
+      "old_price": 259,
+      "new_price": 176.12,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/61AA+bHQHFL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09TB84BYC?tag=pepius-21"
     },
     {
       "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
@@ -8469,14 +8493,6 @@
       "link": "https://www.amazon.fr/dp/B09YXX31RC?tag=pepius-21"
     },
     {
-      "title": "Fairy Original Tablettes Lave-vaisselle All In One, Regular, 116 Capsules, Efficaces Même Sur La Graisse Incrustée",
-      "old_price": 17.5,
-      "new_price": 14.24,
-      "discount": 19,
-      "image": "https://m.media-amazon.com/images/I/81MWHk1461L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DXF4QFNZ?tag=pepius-21"
-    },
-    {
       "title": "eufy Security, eufy Camera Surveillance WiFi exterieure sans Fil Solaire SoloCam S220, résolution 2K, Compatibile avec Alexa, Wi-FI 2,4 GHz, sans Frais Mensuels",
       "old_price": 54.99,
       "new_price": 44.99,
@@ -8611,6 +8627,14 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/81-Q5nHxNnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C2CMLX86?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Automatic Watch NY0120-01EE",
+      "old_price": 269,
+      "new_price": 241,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/81jDLHndH9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCP1ZVWY?tag=pepius-21"
     },
     {
       "title": "Apple Watch Ultra 2 (49 mm GPS + Cellular) Montre de Sport connectée avec Boîtier en Titane Noir et Boucle Trail Noir (M/L). Suivi de l’activité, GPS Haute précision, Neutre en Carbone",
@@ -8805,6 +8829,14 @@
       "link": "https://www.amazon.fr/dp/B07RTCXGCL?tag=pepius-21"
     },
     {
+      "title": "Columbia Homme Trailstorm Ascend WP Chaussures de Trekking et de randonnée Taille Basse",
+      "old_price": null,
+      "new_price": 28.61,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61VyxJXIASL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BKZ2676W?tag=pepius-21"
+    },
+    {
       "title": "Qui Veut Gagner des Millions (Nintendo Switch)",
       "old_price": null,
       "new_price": 14.99,
@@ -8845,12 +8877,44 @@
       "link": "https://www.amazon.fr/dp/B0C3HV1VQ9?tag=pepius-21"
     },
     {
+      "title": "Puma Liga Shorts Core with Brief Slip-Homme-Pourpre",
+      "old_price": null,
+      "new_price": 7,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51XL1Lr+k6L._AC_SL1425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0781VC1QT?tag=pepius-21"
+    },
+    {
+      "title": "Helly Hansen Homme Veste Imperméable Seven J",
+      "old_price": null,
+      "new_price": 58.49,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71m0Tt1yMZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B06XHCS75W?tag=pepius-21"
+    },
+    {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
       "new_price": 45.06,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
+    },
+    {
+      "title": "Levi's 512 Slim Taper Jeans Homme : MainApps",
+      "old_price": null,
+      "new_price": 49.77,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/719dDiVf53L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNNY6S4N?tag=pepius-21"
+    },
+    {
+      "title": "adidas Entrada 22 Track Jacket TRACK TOP Mixte enfant",
+      "old_price": null,
+      "new_price": 11.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71ZQ96hIznL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09P44GJZ7?tag=pepius-21"
     },
     {
       "title": "Einhell Coupe-bordures sans fil GE-CT 18 Li Kit Power X-Change (18V, Diamètre de coupe lame 24 cm, 20 lames plastiques incluses) Livré avec Batterie 2,0 Ah et Chargeur",
@@ -8869,12 +8933,36 @@
       "link": "https://www.amazon.fr/dp/B0BXLX4DCZ?tag=pepius-21"
     },
     {
+      "title": "wearPro Lunettes de Soleil Homme Polarisées Pour Hommes et Femmes Protection Style Classique Lunettes Ultralégères Verres Anti-Reflets Conduite Pêche Sports Avec Lunettes de Soleil Noir",
+      "old_price": null,
+      "new_price": 15.32,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51jNd7rIlGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JYXY73?tag=pepius-21"
+    },
+    {
+      "title": "New Era 9Forty Adjustable Kids Casquette - New York Yankeesr : New Era",
+      "old_price": null,
+      "new_price": 22.45,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51wneTorZ9L._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B08YZ38M9N?tag=pepius-21"
+    },
+    {
       "title": "Samsung SSD Externe T7 2 To, Gris titane, MU-PC2T0T/WW, Vitesse de lecture/écriture jusqu'à 1050 Mo/s, Sécurisation par mot de passe",
       "old_price": null,
       "new_price": 139.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71qjKjVpV1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B087DFFJRD?tag=pepius-21"
+    },
+    {
+      "title": "adidas Homme Vs Pace 2.0 Shoes Chaussures",
+      "old_price": null,
+      "new_price": 33.25,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ir0SduwZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJL36H8H?tag=pepius-21"
     },
     {
       "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
@@ -8941,9 +9029,17 @@
       "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
+      "title": "Nike M NK Club SS Polo Pique Shirt Homme",
+      "old_price": null,
+      "new_price": 19.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61RZzMPsa7L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CSDR6B78?tag=pepius-21"
+    },
+    {
       "title": "Legend : Bob Marley, Bob Marley",
       "old_price": null,
-      "new_price": 26.99,
+      "new_price": 25.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gXKDEPmCL._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B000V7J82S?tag=pepius-21"
@@ -8955,6 +9051,22 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71w2jd-EiXL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CS2VXZ43?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Femme Vulc Webbing Sneaker Fw0fw08903 Bas",
+      "old_price": null,
+      "new_price": 98.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51rX7l7wo7L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22WWN8?tag=pepius-21"
+    },
+    {
+      "title": "adidas Femme Grand Court Base 00s Shoes Chaussures, EU",
+      "old_price": null,
+      "new_price": 26,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61LkGsdY7tL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK524Q42?tag=pepius-21"
     }
   ]
 }
