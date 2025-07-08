@@ -8207,7 +8207,7 @@
     {
       "title": "ASUS ROG XG349C - Ecran PC 34\" UWQHD - Dalle VA incurvée 1900R - 21:9 - 180Hz - 1ms - 3440x1440 - 400cd/m² - Display Port, HDMI, 2x USB 3.0 et 1x USB-C - Nvidia G-Sync - ELMB Sync - 135% sRGB - HDR",
       "old_price": 1099,
-      "new_price": 650,
+      "new_price": 648,
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/71JGg9349-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09641MM21?tag=pepius-21"
@@ -8269,6 +8269,14 @@
       "link": "https://www.amazon.fr/dp/B0CNGR8WBC?tag=pepius-21"
     },
     {
+      "title": "IELLO The Crew (VF) – Un Jeu coopératif où Chaque Membre Doit accomplir sa Mission ! Travaillez Ensemble pour réussir des Missions spatiales et surmontez Les Obstacles",
+      "old_price": 14.5,
+      "new_price": 9.59,
+      "discount": 34,
+      "image": "https://m.media-amazon.com/images/I/61-PEnb3ekL._AC_SL1200_.jpg",
+      "link": "https://www.amazon.fr/dp/B089YSRHZX?tag=pepius-21"
+    },
+    {
       "title": "The Crown of Wu Legend Edition - PS5",
       "old_price": 29.99,
       "new_price": 19.9,
@@ -8291,6 +8299,14 @@
       "discount": 33,
       "image": "https://m.media-amazon.com/images/I/51SsRYxG9tL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B077TD1JRS?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Watch BN0157-11X",
+      "old_price": 259,
+      "new_price": 176.12,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/61AA+bHQHFL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09TB84BYC?tag=pepius-21"
     },
     {
       "title": "Edge of Eternity (PS5)",
@@ -8427,6 +8443,14 @@
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/91Lm2sVFTYL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DNSY4PK1?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Automatic Watch NY0120-01EE",
+      "old_price": 269,
+      "new_price": 215.2,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/81jDLHndH9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCP1ZVWY?tag=pepius-21"
     },
     {
       "title": "MSI Modern 15 B7M-220FR : AMD Ryzen 7 7730U - 16GB LPDDR4 - SSD 512GB - AMD Radeon™ Graphics - 15, 6\" Full HD - Windows 11 Famille - Clavier Azerty retroéclairé",
@@ -8677,14 +8701,6 @@
       "link": "https://www.amazon.fr/dp/B0DFHM1SMF?tag=pepius-21"
     },
     {
-      "title": "LISEN Batterie Externe Magsafe iPhone,Cadeau Homme Femme 0.8 CM Ultra Slim Batterie Magsafe Magnetique 5,000mAh Mini Power Bank pour iPhone,Voyage Externe Induction pour iPhone 16/15/14/13/12 Pro Max",
-      "old_price": 25.64,
-      "new_price": 24.35,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/61ULIw0J4gL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DMFHZ7M2?tag=pepius-21"
-    },
-    {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Minuit",
       "old_price": 999,
       "new_price": 974,
@@ -8709,12 +8725,52 @@
       "link": "https://www.amazon.fr/dp/B0CCW4QZC2?tag=pepius-21"
     },
     {
+      "title": "Puma Liga Shorts Core with Brief Slip-Homme-Pourpre",
+      "old_price": null,
+      "new_price": 7,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51XL1Lr+k6L._AC_SL1425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0781VC1QT?tag=pepius-21"
+    },
+    {
+      "title": "Helly Hansen Homme Veste Imperméable Seven J",
+      "old_price": null,
+      "new_price": 58.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71m0Tt1yMZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B06XHCS75W?tag=pepius-21"
+    },
+    {
+      "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 2 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S2T0BW",
+      "old_price": null,
+      "new_price": 132.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71OeLBt2mgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DGHB9V34?tag=pepius-21"
+    },
+    {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
       "new_price": 41.94,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
+    },
+    {
+      "title": "Levi's 512 Slim Taper Jeans Homme : MainApps",
+      "old_price": null,
+      "new_price": 49.77,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/719dDiVf53L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNNY6S4N?tag=pepius-21"
+    },
+    {
+      "title": "adidas Entrada 22 Track Jacket TRACK TOP Mixte enfant",
+      "old_price": null,
+      "new_price": 11.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71ZQ96hIznL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09P44GJZ7?tag=pepius-21"
     },
     {
       "title": "Einhell Coupe-bordures sans fil GE-CT 18 Li Kit Power X-Change (18V, Diamètre de coupe lame 24 cm, 20 lames plastiques incluses) Livré avec Batterie 2,0 Ah et Chargeur",
@@ -8731,6 +8787,30 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51WuYAUmByL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0BXLX4DCZ?tag=pepius-21"
+    },
+    {
+      "title": "wearPro Lunettes de Soleil Homme Polarisées Pour Hommes et Femmes Protection Style Classique Lunettes Ultralégères Verres Anti-Reflets Conduite Pêche Sports Avec Lunettes de Soleil Noir",
+      "old_price": null,
+      "new_price": 15.32,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51jNd7rIlGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JYXY73?tag=pepius-21"
+    },
+    {
+      "title": "New Era 9Forty Adjustable Kids Casquette - New York Yankeesr : New Era",
+      "old_price": null,
+      "new_price": 22.45,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51wneTorZ9L._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B08YZ38M9N?tag=pepius-21"
+    },
+    {
+      "title": "adidas Homme Vs Pace 2.0 Shoes Chaussures",
+      "old_price": null,
+      "new_price": 33.25,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ir0SduwZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJL36H8H?tag=pepius-21"
     },
     {
       "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
@@ -8781,6 +8861,14 @@
       "link": "https://www.amazon.fr/dp/B0068M0UE0?tag=pepius-21"
     },
     {
+      "title": "LISEN Batterie Externe Magsafe iPhone,Cadeau Homme Femme 0.8 CM Ultra Slim Batterie Magsafe Magnetique 5,000mAh Mini Power Bank pour iPhone,Voyage Externe Induction pour iPhone 16/15/14/13/12 Pro Max",
+      "old_price": null,
+      "new_price": 29.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ULIw0J4gL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DMFHZ7M2?tag=pepius-21"
+    },
+    {
       "title": "origimagic Mini PC N2 PRO, Ryzen 7 6800H (jusqu'à 4,7 GHz), 32 Go de RAM DDR5, 512 Go de SSD, Mini PC OS 11, WiFi 6E | BT5.2 | USB 4 x 2 | Quad Display 4K | Maison, bureau et affaires",
       "old_price": null,
       "new_price": 409.99,
@@ -8797,6 +8885,14 @@
       "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
+      "title": "Nike M NK Club SS Polo Pique Shirt Homme",
+      "old_price": null,
+      "new_price": 19.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61RZzMPsa7L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CSDR6B78?tag=pepius-21"
+    },
+    {
       "title": "Legend : Bob Marley, Bob Marley",
       "old_price": null,
       "new_price": 25.99,
@@ -8811,6 +8907,22 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71w2jd-EiXL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CS2VXZ43?tag=pepius-21"
+    },
+    {
+      "title": "Tommy Hilfiger Femme Vulc Webbing Sneaker Fw0fw08903 Bas",
+      "old_price": null,
+      "new_price": 98.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51rX7l7wo7L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22WWN8?tag=pepius-21"
+    },
+    {
+      "title": "adidas Femme Grand Court Base 00s Shoes Chaussures, EU",
+      "old_price": null,
+      "new_price": 23.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61LkGsdY7tL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK524Q42?tag=pepius-21"
     },
     {
       "title": "Amazon.fr : Bosch M2012 - Filtre d'habitacle standard - filtre à poussière et à pollen",
