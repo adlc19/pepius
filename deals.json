@@ -8189,14 +8189,6 @@
       "link": "https://www.amazon.fr/dp/B0CJKTWTVT?tag=pepius-21"
     },
     {
-      "title": "HAWKERS Lunettes de soleil ONE POLARIZED pour hommes et femmes",
-      "old_price": 28.99,
-      "new_price": 15.12,
-      "discount": 48,
-      "image": "https://m.media-amazon.com/images/I/51rip7l1xgL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09XBP41VH?tag=pepius-21"
-    },
-    {
       "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 2 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S2T0BW",
       "old_price": 204.99,
       "new_price": 114.99,
@@ -8215,7 +8207,7 @@
     {
       "title": "ASUS ROG XG349C - Ecran PC 34\" UWQHD - Dalle VA incurvée 1900R - 21:9 - 180Hz - 1ms - 3440x1440 - 400cd/m² - Display Port, HDMI, 2x USB 3.0 et 1x USB-C - Nvidia G-Sync - ELMB Sync - 135% sRGB - HDR",
       "old_price": 1099,
-      "new_price": 647,
+      "new_price": 646.54,
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/71JGg9349-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09641MM21?tag=pepius-21"
@@ -8259,6 +8251,14 @@
       "discount": 38,
       "image": "https://m.media-amazon.com/images/I/81urcFZ+G3L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09T98J13X?tag=pepius-21"
+    },
+    {
+      "title": "HAWKERS Lunettes de soleil ONE POLARIZED pour hommes et femmes",
+      "old_price": 23.99,
+      "new_price": 15.12,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/51rip7l1xgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09XBP41VH?tag=pepius-21"
     },
     {
       "title": "ECOFLOW Station électrique portable RIVER 2 MAX avec Panneau solaire portable de 160W，sortie 1000 W avec X-boost, générateur solaire pour extérieur, camping-cars,domestique,balcon",
@@ -8315,14 +8315,6 @@
       "discount": 32,
       "image": "https://m.media-amazon.com/images/I/61AA+bHQHFL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B09TB84BYC?tag=pepius-21"
-    },
-    {
-      "title": "Edge of Eternity (PS5)",
-      "old_price": 24.99,
-      "new_price": 16.99,
-      "discount": 32,
-      "image": "https://m.media-amazon.com/images/I/81eWNwSJwZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09HCTH4RF?tag=pepius-21"
     },
     {
       "title": "FLEXISPOT Bureau Assis Debout Électrique, Cadre de Bureau Réglable en Hauteur en Acier avec Panneau de Contrôle Digital, Équippé du Système Anti-Collision, Blan",
@@ -8645,6 +8637,14 @@
       "link": "https://www.amazon.fr/dp/B0DRVJ4JG1?tag=pepius-21"
     },
     {
+      "title": "Logitech M240 Souris Bluetooth Sans fil, Compacte, Portable, Suivi fluide, Batterie 18 mois, Windows, macOS, ChromeOS, Convient à PC, Mac, Ordinateur portable, Tablettes - Graphite",
+      "old_price": 9.99,
+      "new_price": 9.49,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/51MV3ECR-RL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B07W6HCFYX?tag=pepius-21"
+    },
+    {
       "title": "Logitech Desk Mat - Studio Series, Large Tapis de Bureau Multifonctionnel et Etendu, Protection Bureau avec Base Anti-Dérapage, Design Durable et Imperméable - Gris",
       "old_price": 6.99,
       "new_price": 6.64,
@@ -8725,6 +8725,14 @@
       "link": "https://www.amazon.fr/dp/B0DZDQ7SQK?tag=pepius-21"
     },
     {
+      "title": "Meta Quest 3S 128 Go – Plongez dans la réalité Mixte – Casque Tout-en-Un – Essayez Meta Horizon+ sans Frais Pendant 3 Mois",
+      "old_price": null,
+      "new_price": 599.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61WXF7wg36L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09MJRPRR4?tag=pepius-21"
+    },
+    {
       "title": "Google Pixel 9 Pro XL – Smartphone Android débloqué avec Gemini, Triple Appareil Photo arrière, 24 Heures d'autonomie et écran Super Actua 6,8 Pouces – Noir Volcanique, 1TB + Case",
       "old_price": null,
       "new_price": 999,
@@ -8757,17 +8765,9 @@
       "link": "https://www.amazon.fr/dp/B06XHCS75W?tag=pepius-21"
     },
     {
-      "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
-      "old_price": null,
-      "new_price": 899,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61TiQ6wPvkL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CXDNFZLL?tag=pepius-21"
-    },
-    {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
-      "new_price": 42.46,
+      "new_price": 42.98,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
@@ -8839,7 +8839,7 @@
     {
       "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
       "old_price": null,
-      "new_price": 249.95,
+      "new_price": 249.94,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61FXhka8F4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B011N78DMA?tag=pepius-21"
