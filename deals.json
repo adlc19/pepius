@@ -8093,14 +8093,6 @@
   ],
   "2025-07-08": [
     {
-      "title": "Spigen Aqua Shield IPX6 Sac à Dos Etanche Lot de 20L et 2L - Mer Bleue",
-      "old_price": 31.99,
-      "new_price": 8.49,
-      "discount": 73,
-      "image": "https://m.media-amazon.com/images/I/61maryA4MNL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BZS5PT63?tag=pepius-21"
-    },
-    {
       "title": "Stanley 0-10-244 Couteau de sécurité de magasinier",
       "old_price": 7.9,
       "new_price": 2.39,
@@ -8139,22 +8131,6 @@
       "discount": 58,
       "image": "https://m.media-amazon.com/images/I/71bfzvclVfL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B07R4CNDRM?tag=pepius-21"
-    },
-    {
-      "title": "RYOBI - Coffret de 31 accessoires de vissage : 30 embouts PH/PZ/SL/HEX/TX sécurité + 1 porte-embout à fixation rapide 1/4'' - RAK31MSDI",
-      "old_price": 22.49,
-      "new_price": 9.9,
-      "discount": 56,
-      "image": "https://m.media-amazon.com/images/I/71yUou+bkjL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B077JDL869?tag=pepius-21"
-    },
-    {
-      "title": "Philips L'Or Barista Sublime, Machine à Café à Capsules, Piano Noir, Reconnaissance des Capsules Doubles, 1 ou 2 Tasses, Bac d'Égouttement Réglable (LM9012/60)",
-      "old_price": 99.99,
-      "new_price": 44.99,
-      "discount": 55,
-      "image": "https://m.media-amazon.com/images/I/61UX+C7ymZL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B09B166BMD?tag=pepius-21"
     },
     {
       "title": "BGS Diy 92146 | Coffret de douilles | 6,3 mm (1/4\") | 130 pièces",
@@ -8215,10 +8191,18 @@
     {
       "title": "ASUS ROG XG349C - Ecran PC 34\" UWQHD - Dalle VA incurvée 1900R - 21:9 - 180Hz - 1ms - 3440x1440 - 400cd/m² - Display Port, HDMI, 2x USB 3.0 et 1x USB-C - Nvidia G-Sync - ELMB Sync - 135% sRGB - HDR",
       "old_price": 1099,
-      "new_price": 650.3,
+      "new_price": 649,
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/71JGg9349-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09641MM21?tag=pepius-21"
+    },
+    {
+      "title": "COLGATE - Dentifrice Colgate Max Fresh Cristaux Fraîcheur - Dentifrice Haleine Fraîche - Tube Recyclable - Lot de 12 Tubes de Dentifrice de 75mL",
+      "old_price": 20.86,
+      "new_price": 12.49,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/9111x5yZpcL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BZDVMBH4?tag=pepius-21"
     },
     {
       "title": "Fairy Platinum Plus Tablettes Lave-Vaisselle Tout En 1 Citron, Pack Familial 125 Capsules (5x25), Technologie Anti-terne, Redonne l'Éclat d'Origine, Efficace en Cycles Courts, Prévient Le Calcaire",
@@ -8245,12 +8229,28 @@
       "link": "https://www.amazon.fr/dp/B07DP12RY3?tag=pepius-21"
     },
     {
+      "title": "Philips L'Or Barista Sublime, Machine à Café à Capsules, Piano Noir, Reconnaissance des Capsules Doubles, 1 ou 2 Tasses, Bac d'Égouttement Réglable (LM9012/60)",
+      "old_price": 99.99,
+      "new_price": 59.99,
+      "discount": 40,
+      "image": "https://m.media-amazon.com/images/I/61UX+C7ymZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09B166BMD?tag=pepius-21"
+    },
+    {
       "title": "ASUS ProArt PZ13 OLED; Copilot+ PC HT5306QA-LX012W 13 Pouces 3K PC Portable (Processeur Snapdragon X Plus X1P 42 100 3.4GHz, 16GB LPDDR5X RAM, 1TB M.2 NVMe 4.0 SSD, Windows 11 Home) - Clavier AZERTY",
       "old_price": 1299,
       "new_price": 799.99,
       "discount": 38,
       "image": "https://m.media-amazon.com/images/I/81urcFZ+G3L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09T98J13X?tag=pepius-21"
+    },
+    {
+      "title": "HAWKERS Lunettes de soleil ONE POLARIZED pour hommes et femmes",
+      "old_price": 23.99,
+      "new_price": 15.12,
+      "discount": 37,
+      "image": "https://m.media-amazon.com/images/I/51rip7l1xgL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09XBP41VH?tag=pepius-21"
     },
     {
       "title": "ECOFLOW Station électrique portable RIVER 2 MAX avec Panneau solaire portable de 160W，sortie 1000 W avec X-boost, générateur solaire pour extérieur, camping-cars,domestique,balcon",
@@ -8309,20 +8309,28 @@
       "link": "https://www.amazon.fr/dp/B0BSG18V32?tag=pepius-21"
     },
     {
+      "title": "Citizen Watch BN0157-11X",
+      "old_price": 259,
+      "new_price": 176.12,
+      "discount": 32,
+      "image": "https://m.media-amazon.com/images/I/61AA+bHQHFL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B09TB84BYC?tag=pepius-21"
+    },
+    {
+      "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
+      "old_price": 999,
+      "new_price": 689.99,
+      "discount": 31,
+      "image": "https://m.media-amazon.com/images/I/61TiQ6wPvkL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXDNFZLL?tag=pepius-21"
+    },
+    {
       "title": "FLEXISPOT Bureau Assis Debout Électrique, Cadre de Bureau Réglable en Hauteur en Acier avec Panneau de Contrôle Digital, Équippé du Système Anti-Collision, Blan",
       "old_price": 159.99,
       "new_price": 109.99,
       "discount": 31,
       "image": "https://m.media-amazon.com/images/I/71qLNVnCd2L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0D3Q89YP2?tag=pepius-21"
-    },
-    {
-      "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
-      "old_price": 999,
-      "new_price": 698.99,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/61TiQ6wPvkL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CXDNFZLL?tag=pepius-21"
     },
     {
       "title": "Tefal Ingenio Poignée Amovible Noire, Empilable, Amovible, Verrouillage Sécurité 3 Points, Garantie 10 Ans, Expertise L9863302",
@@ -8605,6 +8613,14 @@
       "link": "https://www.amazon.fr/dp/B072LQWSFF?tag=pepius-21"
     },
     {
+      "title": "XGIMI Horizon Ultra Videoprojecteur 4K Dolby Vision, Dual Light, ISA 3.0, 2300 Lumens ISO, Android TV 11, Haut-Parleurs 2x12w Harman Kardon, Zoom Optique, Cinéma Domestique, Wi-FI et Bluetooth",
+      "old_price": 1439,
+      "new_price": 1299,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/61F3zYqHqiL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CB3FN1FM?tag=pepius-21"
+    },
+    {
       "title": "Tapo 2K(3MP) Caméra Surveillance WiFi intérieure 360° C21A, Vision Nocturne, Notifications en Temps réel, Détection de Personne, Suivi de Mouvement, Télécommande, Compatible avec Alexa",
       "old_price": 19.99,
       "new_price": 17.99,
@@ -8619,6 +8635,14 @@
       "discount": 10,
       "image": "https://m.media-amazon.com/images/I/81-Q5nHxNnL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C2CMLX86?tag=pepius-21"
+    },
+    {
+      "title": "Citizen Automatic Watch NY0120-01EE",
+      "old_price": 269,
+      "new_price": 241,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/81jDLHndH9L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CCP1ZVWY?tag=pepius-21"
     },
     {
       "title": "Apple Watch Ultra 2 (49 mm GPS + Cellular) Montre de Sport connectée avec Boîtier en Titane Noir et Boucle Trail Noir (M/L). Suivi de l’activité, GPS Haute précision, Neutre en Carbone",
@@ -8749,6 +8773,14 @@
       "link": "https://www.amazon.fr/dp/B0DMFHZ7M2?tag=pepius-21"
     },
     {
+      "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go ; Lumière stellaire",
+      "old_price": 999,
+      "new_price": 974,
+      "discount": 3,
+      "image": "https://m.media-amazon.com/images/I/71pP5fnB9GL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZDX2ZJS?tag=pepius-21"
+    },
+    {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Minuit",
       "old_price": 999,
       "new_price": 974,
@@ -8775,7 +8807,7 @@
     {
       "title": "Meta Quest 3S 128 Go – Plongez dans la réalité Mixte – Casque Tout-en-Un – Essayez Meta Horizon+ sans Frais Pendant 3 Mois",
       "old_price": null,
-      "new_price": 599.99,
+      "new_price": 699.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61WXF7wg36L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09MJRPRR4?tag=pepius-21"
@@ -8797,12 +8829,44 @@
       "link": "https://www.amazon.fr/dp/B0CCW4QZC2?tag=pepius-21"
     },
     {
+      "title": "Puma Liga Shorts Core with Brief Slip-Homme-Pourpre",
+      "old_price": null,
+      "new_price": 7,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51XL1Lr+k6L._AC_SL1425_.jpg",
+      "link": "https://www.amazon.fr/dp/B0781VC1QT?tag=pepius-21"
+    },
+    {
+      "title": "Helly Hansen Homme Veste Imperméable Seven J",
+      "old_price": null,
+      "new_price": 58.49,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71m0Tt1yMZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B06XHCS75W?tag=pepius-21"
+    },
+    {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
       "new_price": 44.54,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
+    },
+    {
+      "title": "Levi's 512 Slim Taper Jeans Homme : MainApps",
+      "old_price": null,
+      "new_price": 49.77,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/719dDiVf53L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DNNY6S4N?tag=pepius-21"
+    },
+    {
+      "title": "adidas Entrada 22 Track Jacket TRACK TOP Mixte enfant",
+      "old_price": null,
+      "new_price": 11.96,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/71ZQ96hIznL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09P44GJZ7?tag=pepius-21"
     },
     {
       "title": "Einhell Coupe-bordures sans fil GE-CT 18 Li Kit Power X-Change (18V, Diamètre de coupe lame 24 cm, 20 lames plastiques incluses) Livré avec Batterie 2,0 Ah et Chargeur",
@@ -8821,6 +8885,22 @@
       "link": "https://www.amazon.fr/dp/B0BXLX4DCZ?tag=pepius-21"
     },
     {
+      "title": "wearPro Lunettes de Soleil Homme Polarisées Pour Hommes et Femmes Protection Style Classique Lunettes Ultralégères Verres Anti-Reflets Conduite Pêche Sports Avec Lunettes de Soleil Noir",
+      "old_price": null,
+      "new_price": 15.32,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51jNd7rIlGL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0F3JYXY73?tag=pepius-21"
+    },
+    {
+      "title": "New Era 9Forty Adjustable Kids Casquette - New York Yankeesr : New Era",
+      "old_price": null,
+      "new_price": 22.45,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51wneTorZ9L._AC_SL1050_.jpg",
+      "link": "https://www.amazon.fr/dp/B08YZ38M9N?tag=pepius-21"
+    },
+    {
       "title": "INIU Batterie Externe, 45W PD 10000mAh Power Bank avec USB C Câbles Intégrés, Batterie Portable USB C in&Out PD3.0 QC4.0 Charge Rapide Powerbank pour iPhone 16 15 14 13 12 Pro Max Mini Samsung etc",
       "old_price": 28.99,
       "new_price": 28.99,
@@ -8835,6 +8915,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71qjKjVpV1L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B087DFFJRD?tag=pepius-21"
+    },
+    {
+      "title": "adidas Homme Vs Pace 2.0 Shoes Chaussures",
+      "old_price": null,
+      "new_price": 33.25,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61ir0SduwZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BJL36H8H?tag=pepius-21"
     },
     {
       "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
@@ -8901,9 +8989,17 @@
       "link": "https://www.amazon.fr/dp/B00F11NP8W?tag=pepius-21"
     },
     {
+      "title": "Nike M NK Club SS Polo Pique Shirt Homme",
+      "old_price": null,
+      "new_price": 19.95,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61RZzMPsa7L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CSDR6B78?tag=pepius-21"
+    },
+    {
       "title": "Legend : Bob Marley, Bob Marley",
       "old_price": null,
-      "new_price": 25.99,
+      "new_price": 26.99,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61gXKDEPmCL._SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B000V7J82S?tag=pepius-21"
@@ -8917,6 +9013,22 @@
       "link": "https://www.amazon.fr/dp/B0CS2VXZ43?tag=pepius-21"
     },
     {
+      "title": "Tommy Hilfiger Femme Vulc Webbing Sneaker Fw0fw08903 Bas",
+      "old_price": null,
+      "new_price": 98.91,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/51rX7l7wo7L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK22WWN8?tag=pepius-21"
+    },
+    {
+      "title": "adidas Femme Grand Court Base 00s Shoes Chaussures, EU",
+      "old_price": null,
+      "new_price": 26,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61LkGsdY7tL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DK524Q42?tag=pepius-21"
+    },
+    {
       "title": "Amazon.fr : Bosch M2012 - Filtre d'habitacle standard - filtre à poussière et à pollen",
       "old_price": null,
       "new_price": 3.9,
@@ -8927,7 +9039,7 @@
     {
       "title": "Integral V Série 4TB SATA III 2.5 Internal SSD, jusqu'à 550 Mo/s Lecture 480 Mo/s Écriture",
       "old_price": null,
-      "new_price": 303.89,
+      "new_price": 246.49,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/619brZNz0TL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C69JR4HW?tag=pepius-21"
