@@ -8101,6 +8101,14 @@
       "link": "https://www.amazon.fr/dp/B00IDEDJWG?tag=pepius-21"
     },
     {
+      "title": "wolfcraft 3610000 - Serre-Joint à Vis SZ 80-150 mm - Saillie 80mm - Ouverture 150mm - Force de Serrage 240 kg",
+      "old_price": 15.99,
+      "new_price": 5.97,
+      "discount": 63,
+      "image": "https://m.media-amazon.com/images/I/51GTyWUCT9L._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B001S2R45I?tag=pepius-21"
+    },
+    {
       "title": "Puzzel Museum 1000 Stukjes Da Vinci Het Laatste Avondmaal Clementoni",
       "old_price": 14.5,
       "new_price": 5.75,
@@ -8183,7 +8191,7 @@
     {
       "title": "ASUS ROG XG349C - Ecran PC 34\" UWQHD - Dalle VA incurvée 1900R - 21:9 - 180Hz - 1ms - 3440x1440 - 400cd/m² - Display Port, HDMI, 2x USB 3.0 et 1x USB-C - Nvidia G-Sync - ELMB Sync - 135% sRGB - HDR",
       "old_price": 1099,
-      "new_price": 652.6,
+      "new_price": 648,
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/71JGg9349-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09641MM21?tag=pepius-21"
@@ -8429,28 +8437,12 @@
       "link": "https://www.amazon.fr/dp/B0F5B93DTV?tag=pepius-21"
     },
     {
-      "title": "MSI MAG 275QF Écran Gaming 27\" WQHD - Dalle Rapid IPS 2560 x 1440, 180 Hz / 0,5 ms (GtG, Min.), Gamme de Couleurs sRGB 101%, AMD FreeSync, HDR Ready - DisplayPort 1.4, HDMI 2.0b (WQHD 144Hz)",
-      "old_price": 189.99,
-      "new_price": 149.99,
-      "discount": 21,
-      "image": "https://m.media-amazon.com/images/I/71zgCw4qNCL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D1R9TMX7?tag=pepius-21"
-    },
-    {
       "title": "TR Frozen Notte 360 WHITE ARGB Refroidisseur de processeur à eau,Spécifications du refroidisseur de processeur 360 blanc,Ventilateurs doubles PWM,Roulements S-FDB V2,Convient pour AMD/AM4, AM5,LGA1851",
       "old_price": 65.9,
       "new_price": 52.72,
       "discount": 20,
       "image": "https://m.media-amazon.com/images/I/61UwCC+HQML._SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DC6D4KW9?tag=pepius-21"
-    },
-    {
-      "title": "AMD Ryzen 5 7600X Processeur (Integrated Radeon Graphique Intégré, 6 Coeurs/12 Threads, 105W TDP, Socket AM5, Cache 38MB, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
-      "old_price": 189,
-      "new_price": 151.99,
-      "discount": 20,
-      "image": "https://m.media-amazon.com/images/I/51m7L9bQI8L._AC_SL1080_.jpg",
-      "link": "https://www.amazon.fr/dp/B0BBJDS62N?tag=pepius-21"
     },
     {
       "title": "Xiaomi TV F Pro 75, 190 cm (75 Pouces), 4K UHD QLED, Smart TV, Fire TV, Contrôle Vocal Alexa, HDR10+, Mode Game Boost 120Hz, MEMC, 2Go+32Go, Compatible avec AirPlay",
@@ -8629,6 +8621,14 @@
       "link": "https://www.amazon.fr/dp/B0C2CMLX86?tag=pepius-21"
     },
     {
+      "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
+      "old_price": 224.99,
+      "new_price": 202.8,
+      "discount": 10,
+      "image": "https://m.media-amazon.com/images/I/61FXhka8F4L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B011N78DMA?tag=pepius-21"
+    },
+    {
       "title": "Citizen Automatic Watch NY0120-01EE",
       "old_price": 269,
       "new_price": 241,
@@ -8637,12 +8637,28 @@
       "link": "https://www.amazon.fr/dp/B0CCP1ZVWY?tag=pepius-21"
     },
     {
+      "title": "AMD Ryzen 5 7600X Processeur (Integrated Radeon Graphique Intégré, 6 Coeurs/12 Threads, 105W TDP, Socket AM5, Cache 38MB, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+      "old_price": 199,
+      "new_price": 183,
+      "discount": 8,
+      "image": "https://m.media-amazon.com/images/I/51m7L9bQI8L._AC_SL1080_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BBJDS62N?tag=pepius-21"
+    },
+    {
       "title": "Apple Watch Ultra 2 (49 mm GPS + Cellular) Montre de Sport connectée avec Boîtier en Titane Noir et Boucle Trail Noir (M/L). Suivi de l’activité, GPS Haute précision, Neutre en Carbone",
       "old_price": 799,
       "new_price": 739,
       "discount": 8,
       "image": "https://m.media-amazon.com/images/I/510xjVxfkBL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGJ5LDKY?tag=pepius-21"
+    },
+    {
+      "title": "UGREEN Station d'accueil et Support pour Mac Mini M4 et M4 Pro Docking Station Hub USB C avec Boîtier M.2 NVME SSD DisplayPort 4K 240Hz 144Hz 5 USB 3.2 4A1C 10Gbps Fente SD TF 3.5mm Aux",
+      "old_price": 74.99,
+      "new_price": 69.99,
+      "discount": 7,
+      "image": "https://m.media-amazon.com/images/I/61ry5CIzwjL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DSJ633D8?tag=pepius-21"
     },
     {
       "title": "Meta Quest 3S 128 Go – Plongez dans la réalité Mixte – Casque Tout-en-Un – Essayez Meta Horizon+ sans Frais Pendant 3 Mois",
@@ -8691,6 +8707,22 @@
       "discount": 6,
       "image": "https://m.media-amazon.com/images/I/61+x8OS0+sL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DRVJ4JG1?tag=pepius-21"
+    },
+    {
+      "title": "WD_BLACK SN7100 2 to NVMe SSD, Vitesse de Lecture/Écriture jusqu'à 7250/6900 MB/s, Next Gen TLC 3D NAND, Dashboard, jusqu'à 1,200 TBW, Parfaite avec Les Ordinateurs et systèmes Gaming Portables",
+      "old_price": 119.89,
+      "new_price": 113.89,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/516yn6znnLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DN6ZQ3PD?tag=pepius-21"
+    },
+    {
+      "title": "Suikoden 1 & 2 HD Remaster: Day 1 - Switch",
+      "old_price": 36.99,
+      "new_price": 34.99,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/918kY8tkMLL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DFHM1SMF?tag=pepius-21"
     },
     {
       "title": "Apple MacBook Air 13 Pouces Ordinateur Portable avec Puce M4 : Conçu pour Apple Intelligence, Écran Liquid Retina de 13,6 Pouces, Mémoire unifiée de 16 Go, Stockage SSD de 256 Go, Touch ID ; Ciel",
@@ -8773,14 +8805,6 @@
       "link": "https://www.amazon.fr/dp/B0DFQCTYT6?tag=pepius-21"
     },
     {
-      "title": "Suikoden 1 & 2 HD Remaster: Day 1 - Switch",
-      "old_price": 36.99,
-      "new_price": 34.99,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/918kY8tkMLL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DFHM1SMF?tag=pepius-21"
-    },
-    {
       "title": "LISEN Batterie Externe Magsafe iPhone,Cadeau Homme Femme 0.8 CM Ultra Slim Batterie Magsafe Magnetique 5,000mAh Mini Power Bank pour iPhone,Voyage Externe Induction pour iPhone 16/15/14/13/12 Pro Max",
       "old_price": 25.64,
       "new_price": 24.36,
@@ -8791,7 +8815,7 @@
     {
       "title": "Oral-B Pro Brossettes De Rechange Cross Action ORIGINALES, Lot de 12 Embouts Ronds, Noirs, Compatibles Avec Des Brosses Electriques Oral B Pro, Filaments Pour Eliminer La Plaque Dentaire, En Carton",
       "old_price": 45.89,
-      "new_price": 44.21,
+      "new_price": 43.99,
       "discount": 4,
       "image": "https://m.media-amazon.com/images/I/81fNM9gbTSL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BWNSM382?tag=pepius-21"
@@ -8863,7 +8887,7 @@
     {
       "title": "HITMAN World of Assassination (PlayStation 5)",
       "old_price": null,
-      "new_price": 35.77,
+      "new_price": 21.29,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/718NF+xMfuL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CCW4QZC2?tag=pepius-21"
@@ -8895,7 +8919,7 @@
     {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
-      "new_price": 45.06,
+      "new_price": 45.58,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
@@ -8963,14 +8987,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61ir0SduwZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0BJL36H8H?tag=pepius-21"
-    },
-    {
-      "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
-      "old_price": null,
-      "new_price": 249.94,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61FXhka8F4L._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B011N78DMA?tag=pepius-21"
     },
     {
       "title": "American Tourister Soundbox - Spinner M, Valise, 67cm, 81 L, Noir (Bass Black)",
@@ -9059,14 +9075,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51rX7l7wo7L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DK22WWN8?tag=pepius-21"
-    },
-    {
-      "title": "adidas Femme Grand Court Base 00s Shoes Chaussures, EU",
-      "old_price": null,
-      "new_price": 26,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/61LkGsdY7tL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DK524Q42?tag=pepius-21"
     }
   ]
 }
