@@ -8237,14 +8237,6 @@
       "link": "https://www.amazon.fr/dp/B07DP12RY3?tag=pepius-21"
     },
     {
-      "title": "10 Gousses de Vanille Bourbon de Madagascar - 14-16cm - Taille L - Planifolia \"Réserve Prestige\" - Qualité Premium - Charnues et Aromatiques - 100% Naturelles - Idéal pour Pâtisseries et Desserts",
-      "old_price": 11.9,
-      "new_price": 7.11,
-      "discount": 40,
-      "image": "https://m.media-amazon.com/images/I/81XqOKTz7IL._AC_SL1493_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DH2SM537?tag=pepius-21"
-    },
-    {
       "title": "ASUS ProArt PZ13 OLED; Copilot+ PC HT5306QA-LX012W 13 Pouces 3K PC Portable (Processeur Snapdragon X Plus X1P 42 100 3.4GHz, 16GB LPDDR5X RAM, 1TB M.2 NVMe 4.0 SSD, Windows 11 Home) - Clavier AZERTY",
       "old_price": 1299,
       "new_price": 799.99,
@@ -8371,6 +8363,14 @@
       "discount": 26,
       "image": "https://m.media-amazon.com/images/I/51JkKb30tcL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DP2321G5?tag=pepius-21"
+    },
+    {
+      "title": "10 Gousses de Vanille Bourbon de Madagascar - 14-16cm - Taille L - Planifolia \"Réserve Prestige\" - Qualité Premium - Charnues et Aromatiques - 100% Naturelles - Idéal pour Pâtisseries et Desserts",
+      "old_price": 11.9,
+      "new_price": 8.9,
+      "discount": 25,
+      "image": "https://m.media-amazon.com/images/I/81XqOKTz7IL._AC_SL1493_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DH2SM537?tag=pepius-21"
     },
     {
       "title": "F1 25 Standard Edition PS5 | Jeu Vidéo | Français",
@@ -8637,6 +8637,14 @@
       "link": "https://www.amazon.fr/dp/B0DRVJ4JG1?tag=pepius-21"
     },
     {
+      "title": "XGaming Écran PC Gamer Incurvé 27 Pouces 165Hz, QHD 2560x1440,Ecran pc incurvé 1500R, 1ms MPRT, sRGB 98%, HDR, FreeSync, Eye-Care,VESA, DP, HDMI,sans Haut-Parleur intégré",
+      "old_price": 117.32,
+      "new_price": 111.21,
+      "discount": 5,
+      "image": "https://m.media-amazon.com/images/I/71rbLBglFRL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CDXL85RL?tag=pepius-21"
+    },
+    {
       "title": "Logitech M240 Souris Bluetooth Sans fil, Compacte, Portable, Suivi fluide, Batterie 18 mois, Windows, macOS, ChromeOS, Convient à PC, Mac, Ordinateur portable, Tablettes - Graphite",
       "old_price": 9.99,
       "new_price": 9.49,
@@ -8759,10 +8767,18 @@
     {
       "title": "Helly Hansen Homme Veste Imperméable Seven J",
       "old_price": null,
-      "new_price": 58.99,
+      "new_price": 58.49,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71m0Tt1yMZL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B06XHCS75W?tag=pepius-21"
+    },
+    {
+      "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
+      "old_price": null,
+      "new_price": 899,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61TiQ6wPvkL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXDNFZLL?tag=pepius-21"
     },
     {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
