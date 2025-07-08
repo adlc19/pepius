@@ -8215,7 +8215,7 @@
     {
       "title": "ASUS ROG XG349C - Ecran PC 34\" UWQHD - Dalle VA incurvée 1900R - 21:9 - 180Hz - 1ms - 3440x1440 - 400cd/m² - Display Port, HDMI, 2x USB 3.0 et 1x USB-C - Nvidia G-Sync - ELMB Sync - 135% sRGB - HDR",
       "old_price": 1099,
-      "new_price": 646.54,
+      "new_price": 649,
       "discount": 41,
       "image": "https://m.media-amazon.com/images/I/71JGg9349-L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B09641MM21?tag=pepius-21"
@@ -8437,6 +8437,14 @@
       "link": "https://www.amazon.fr/dp/B0F5B93DTV?tag=pepius-21"
     },
     {
+      "title": "MSI MAG 275QF Écran Gaming 27\" WQHD - Dalle Rapid IPS 2560 x 1440, 180 Hz / 0,5 ms (GtG, Min.), Gamme de Couleurs sRGB 101%, AMD FreeSync, HDR Ready - DisplayPort 1.4, HDMI 2.0b (WQHD 144Hz)",
+      "old_price": 189.99,
+      "new_price": 149.99,
+      "discount": 21,
+      "image": "https://m.media-amazon.com/images/I/71zgCw4qNCL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0D1R9TMX7?tag=pepius-21"
+    },
+    {
       "title": "Xiaomi TV F Pro 75, 190 cm (75 Pouces), 4K UHD QLED, Smart TV, Fire TV, Contrôle Vocal Alexa, HDR10+, Mode Game Boost 120Hz, MEMC, 2Go+32Go, Compatible avec AirPlay",
       "old_price": 749,
       "new_price": 599,
@@ -8523,14 +8531,6 @@
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/51Qg-7aAz3L._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0CGF382KG?tag=pepius-21"
-    },
-    {
-      "title": "MSI MAG 275QF Écran Gaming 27\" WQHD - Dalle Rapid IPS 2560 x 1440, 180 Hz / 0,5 ms (GtG, Min.), Gamme de Couleurs sRGB 101%, AMD FreeSync, HDR Ready - DisplayPort 1.4, HDMI 2.0b (WQHD 144Hz)",
-      "old_price": 189.99,
-      "new_price": 159.99,
-      "discount": 16,
-      "image": "https://m.media-amazon.com/images/I/71zgCw4qNCL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0D1R9TMX7?tag=pepius-21"
     },
     {
       "title": "AMD Ryzen 9 9900X Processeur (Radeon Graphique Intégré, 12 Coeurs/24 Threads, 120W TDP, Socket AM5, Cache 76Mo, jusqu'à 5.6 GHz Fréquence Boost, Pas de Ventilateur)",
@@ -8635,6 +8635,14 @@
       "discount": 8,
       "image": "https://m.media-amazon.com/images/I/510xjVxfkBL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B0DGJ5LDKY?tag=pepius-21"
+    },
+    {
+      "title": "MSI Claw A1M-042FR : Intel Core Ultra 5 135H - 16GB LPDDR5 - SSD 512GB - Intel Arc Graphics - 7\" Full HD 120Hz Tactile 500Nits - Windows 11 Famille",
+      "old_price": 429,
+      "new_price": 399,
+      "discount": 7,
+      "image": "https://m.media-amazon.com/images/I/71FTVbCBOdL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CTKTM3ML?tag=pepius-21"
     },
     {
       "title": "Rowenta Turbo Swift Silence, Ventilateur sur pied, Rafraîchissement intense et silencieux, Oscillation multidirectionnelle, QV5041F0",
@@ -8967,7 +8975,7 @@
     {
       "title": "MVS Mini Borne Arcade - SNK",
       "old_price": null,
-      "new_price": 34.99,
+      "new_price": 39.53,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/71w2jd-EiXL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0CS2VXZ43?tag=pepius-21"
@@ -8999,7 +9007,7 @@
     {
       "title": "Qui Veut Gagner des Millions (Nintendo Switch)",
       "old_price": null,
-      "new_price": 14.9,
+      "new_price": 4.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/81DGF-SF0jL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08H2LGDF4?tag=pepius-21"
