@@ -8325,12 +8325,12 @@
       "link": "https://www.amazon.fr/dp/B0D3Q89YP2?tag=pepius-21"
     },
     {
-      "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
-      "old_price": 999,
-      "new_price": 699,
-      "discount": 30,
-      "image": "https://m.media-amazon.com/images/I/61TiQ6wPvkL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0CXDNFZLL?tag=pepius-21"
+      "title": "Tefal Ingenio Poignée Amovible Noire, Empilable, Amovible, Verrouillage Sécurité 3 Points, Garantie 10 Ans, Expertise L9863302",
+      "old_price": 15.39,
+      "new_price": 11,
+      "discount": 29,
+      "image": "https://m.media-amazon.com/images/I/61nrhw0b+1L._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B09TTP5B7W?tag=pepius-21"
     },
     {
       "title": "KLEENEX - Mouchoirs boîte maxi-pack Family (15 boites de 128 mouchoirs) - format idéal pour toute la famille - Fabriqué en France",
@@ -8621,6 +8621,14 @@
       "link": "https://www.amazon.fr/dp/B09KGX3MN4?tag=pepius-21"
     },
     {
+      "title": "Apple iPad avec Puce A16 : Écran Liquid Retina 11 Pouces, 128 Go, Wi-FI 6, caméras Avant/arrière 12 Mpx, Touch ID, autonomie d’Une journée – Rose",
+      "old_price": 379.99,
+      "new_price": 359,
+      "discount": 6,
+      "image": "https://m.media-amazon.com/images/I/61xD2n6ttEL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DZ75J2WS?tag=pepius-21"
+    },
+    {
       "title": "ORICO SSD Externe 512Go, Disque Dur Externe SSD USB3.2 Gen2 Jusqu'à 1050 Mo/s, Double USB C & A External Solid State Drive de PC Mobile Ordinateur Photos Vidéo MacBook Pro Air et Plus OG201",
       "old_price": 53.19,
       "new_price": 49.99,
@@ -8667,14 +8675,6 @@
       "discount": 5,
       "image": "https://m.media-amazon.com/images/I/71dLlfsHM+L._AC_SL1200_.jpg",
       "link": "https://www.amazon.fr/dp/B0DCW3P4FL?tag=pepius-21"
-    },
-    {
-      "title": "INIU Batterie Externe, 45W PD 10000mAh Power Bank avec USB C Câbles Intégrés, Batterie Portable USB C in&Out PD3.0 QC4.0 Charge Rapide Powerbank pour iPhone 16 15 14 13 12 Pro Max Mini Samsung etc",
-      "old_price": 28.99,
-      "new_price": 27.54,
-      "discount": 5,
-      "image": "https://m.media-amazon.com/images/I/61xwKLYolDL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DCJT1TPG?tag=pepius-21"
     },
     {
       "title": "Samsung SSD Externe T7 2 To, Gris titane, MU-PC2T0T/WW, Vitesse de lecture/écriture jusqu'à 1050 Mo/s, Sécurisation par mot de passe",
@@ -8741,17 +8741,17 @@
       "link": "https://www.amazon.fr/dp/B06XHCS75W?tag=pepius-21"
     },
     {
-      "title": "Samsung SSD Interne 990 EVO Plus, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 2 To, Vitesse de lecture jusqu'à 7250 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9S2T0BW",
+      "title": "Navimow i105E Robot Tondeuse sans Fil périphérique, Recommandé 500 m², Max. 600 m², RTK+Vision Tondeuse Robot Gazon, IA cartographie Automatique, Limite virtuelle, Gestion multizone",
       "old_price": null,
-      "new_price": 132.99,
+      "new_price": 899,
       "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/71OeLBt2mgL._AC_SL1500_.jpg",
-      "link": "https://www.amazon.fr/dp/B0DGHB9V34?tag=pepius-21"
+      "image": "https://m.media-amazon.com/images/I/61TiQ6wPvkL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0CXDNFZLL?tag=pepius-21"
     },
     {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
-      "new_price": 41.94,
+      "new_price": 42.46,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
@@ -8805,6 +8805,14 @@
       "link": "https://www.amazon.fr/dp/B08YZ38M9N?tag=pepius-21"
     },
     {
+      "title": "INIU Batterie Externe, 45W PD 10000mAh Power Bank avec USB C Câbles Intégrés, Batterie Portable USB C in&Out PD3.0 QC4.0 Charge Rapide Powerbank pour iPhone 16 15 14 13 12 Pro Max Mini Samsung etc",
+      "old_price": 28.99,
+      "new_price": 28.99,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61xwKLYolDL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DCJT1TPG?tag=pepius-21"
+    },
+    {
       "title": "adidas Homme Vs Pace 2.0 Shoes Chaussures",
       "old_price": null,
       "new_price": 33.25,
@@ -8815,7 +8823,7 @@
     {
       "title": "Logitech G G920 Driving Force Volant de Course avec Pédales, Retour de Force, Palettes Volant Acier Inoxydable, en Cuir, Rotation 900°, Prise EU, Xbox Series X-S, Xbox One, PC - Noir",
       "old_price": null,
-      "new_price": 249.94,
+      "new_price": 249.95,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61FXhka8F4L._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B011N78DMA?tag=pepius-21"
@@ -8909,7 +8917,7 @@
       "link": "https://www.amazon.fr/dp/B0CS2VXZ43?tag=pepius-21"
     },
     {
-      "title": "Tommy Hilfiger Femme Vulc Webbing Sneaker Fw0fw08903 Bas",
+      "title": "Tommy Hilfiger Femme Vulc Webbing Sneaker Fw0Fw08903 Bas, White (White), 38 EU",
       "old_price": null,
       "new_price": 98.91,
       "discount": 0,
@@ -8947,14 +8955,6 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/619brZNz0TL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0C69JR4HW?tag=pepius-21"
-    },
-    {
-      "title": "Amazon.fr : VALEO Silencio Balai d'essuie glace VF480 574680 Longueur avant: 750mm / 650mm Quantité Set 2 unités (pour véhicules d'entraînement à gauche et à droite)",
-      "old_price": 24.5,
-      "new_price": 24.5,
-      "discount": 0,
-      "image": "https://m.media-amazon.com/images/I/51fmtjOurpL._AC_SL1200_.jpg",
-      "link": "https://www.amazon.fr/dp/B004P1IJSU?tag=pepius-21"
     }
   ]
 }
