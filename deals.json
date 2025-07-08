@@ -8437,6 +8437,14 @@
       "link": "https://www.amazon.fr/dp/B0D1R9TMX7?tag=pepius-21"
     },
     {
+      "title": "AMD Ryzen 5 7600X Processeur (Integrated Radeon Graphique Intégré, 6 Coeurs/12 Threads, 105W TDP, Socket AM5, Cache 38MB, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+      "old_price": 189,
+      "new_price": 151.99,
+      "discount": 20,
+      "image": "https://m.media-amazon.com/images/I/51m7L9bQI8L._AC_SL1080_.jpg",
+      "link": "https://www.amazon.fr/dp/B0BBJDS62N?tag=pepius-21"
+    },
+    {
       "title": "Xiaomi TV F Pro 75, 190 cm (75 Pouces), 4K UHD QLED, Smart TV, Fire TV, Contrôle Vocal Alexa, HDR10+, Mode Game Boost 120Hz, MEMC, 2Go+32Go, Compatible avec AirPlay",
       "old_price": 749,
       "new_price": 599,
@@ -8507,6 +8515,14 @@
       "discount": 16,
       "image": "https://m.media-amazon.com/images/I/61SK7v-0XzL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B0DLBW9GNQ?tag=pepius-21"
+    },
+    {
+      "title": "ORICO SSD Industriel M.2 NVMe 2To, Jusqu'à 7450 Mo/s, PCIe 4.0 SSD M2 avec TLC 3D NAND et Dissipateur Thermique Innovant, pour Edge Computing, PC Industriel, Ordinateur Portable et PS5 - IG740PRO",
+      "old_price": 139.99,
+      "new_price": 116.99,
+      "discount": 16,
+      "image": "https://m.media-amazon.com/images/I/61F9Pl6d3qL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.fr/dp/B0DP643GFH?tag=pepius-21"
     },
     {
       "title": "Ninja Woodfire Barbecue électrique et fumoir Pro XL avec thermomètre, barbecue et Air fryer d'extérieur 4-en-1 avec système Smart Cook et granulés Woodfire, portatif, gris/noir, OG850EU",
@@ -8783,7 +8799,7 @@
     {
       "title": "Tefal Primary Poêle inox 28 cm, Garantie 10 ans, Acier inoxydable haute qualité, Induction, Pour cuisiner de délicieuses recettes et déglacer E3080604",
       "old_price": null,
-      "new_price": 44.02,
+      "new_price": 44.54,
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/61n6lZI53uL._AC_SL1500_.jpg",
       "link": "https://www.amazon.fr/dp/B08XXZQ7QC?tag=pepius-21"
@@ -8835,6 +8851,14 @@
       "discount": 0,
       "image": "https://m.media-amazon.com/images/I/51bYDv65UPL._AC_SL1000_.jpg",
       "link": "https://www.amazon.fr/dp/B06Y3M3FKR?tag=pepius-21"
+    },
+    {
+      "title": "Bundle of BULLDOG Gel Douche Original + BULLDOG Gel Douche Citron/Bergamote",
+      "old_price": null,
+      "new_price": 14.55,
+      "discount": 0,
+      "image": "https://m.media-amazon.com/images/I/61-nglffQWL._AC_SL1000_.jpg",
+      "link": "https://www.amazon.fr/dp/B0C59MMJFN?tag=pepius-21"
     },
     {
       "title": "Game of Thrones (Le Trône de Fer) - Intégrale Saisons 1 à 8 [Blu-Ray]: DVD et Blu-ray",
